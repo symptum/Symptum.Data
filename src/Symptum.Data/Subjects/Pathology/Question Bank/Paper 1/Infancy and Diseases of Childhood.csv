@@ -1,0 +1,8 @@
+﻿Id,Title,Descriptions,HasPreviouslyBeenAsked,Importance,YearsAsked,BookLocations,ProbableCases,ReferenceLinks
+S_PA_11.2,Childhood malignancies,"- Benign Tumors
+- Malignant Tumors",True,3,2019-02;2008-08;1993-11,n=PA-rbpbdsa&ed=10&vol=1#475,,
+S_PA_11.4,Wilms Tumor,- Asked in paper 2 as well,True,8,2008-08;2014-08;2010-08;1991-12;1999-10;2023-12;2004-08;2003-10,n=PA-rbpbdsa&ed=10&vol=1#480,"A 3 yr old child presented with a UNILATERAL, LARGE ABDOMINAL MASS which extend down the pelvis. Histology show SHEETS OF BLUE CELLS.",
+S_PA_11.5,Homer Wright Pseudo Rosettes(Neuroblastoma Histology),,True,1,2008-04,n=PA-rbpbdsa&ed=10&vol=1#478,A 2 yr old child presented with a LARGE ABDOMINAL MASS and WEIGHT LOSS.He has DEEP BLUISH DISCOLORATION OF SKIN (BLUEBERRY MUFFIN BABY). Blood - ELEVATED LEVELS OF VMA(vanillyl mandellic acid).,
+S_PA_11.6,Cystic Fibrosis,- Etiopathogenesis,True,1,2011-02,n=PA-rbpbdsa&ed=10&vol=1#467,A 10 yr old child is Hospitalized with PNEUMONIA and DIFFICULTY IN BREATHING. His stools are LARGE and Contains UNDIGESTED PARTICLES. His SWEAT CHLORIDE LEVEL- ELEVATED.,
+S_PA_11.7,Sudden infant death Syndrome(SIDS),,False,1,,n=PA-rbpbdsa&ed=10&vol=1#473,"A 6 month old baby dies SUDDENLY with UNEXPLAINED cause even after PROPER INVESTIGATION, AUTOPSY and CLINICAL HISTORY.",
+S_PA_11.8,Phenylketonuria,,False,1,,n=PA-rbpbdsa&ed=10&vol=1#465,A 6 month old baby has REDUCED INTELLECTUAL ABILITY. His blood sample shows ELEVATED levels of PHENYLALANINE.,

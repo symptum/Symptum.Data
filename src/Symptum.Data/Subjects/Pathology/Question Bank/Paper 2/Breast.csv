@@ -1,0 +1,18 @@
+﻿Id,Title,Descriptions,HasPreviouslyBeenAsked,Importance,YearsAsked,BookLocations,ProbableCases,ReferenceLinks
+S_PA_31.4,Gynecomastia,,True,2,2008-08;2009-08,n=PA-rbpbdsa&ed=10&vol=2#1044,"A 50 yr old male who is an alcoholic for the past 20 years was diagnosed to have Liver Cirrhosis. On examination, There is a sub-areolar enlargement of Breast.",
+S_PA_31.5.1,Phyllodes Tumor(Cystosarcoma Phylloides),,True,8,2009-08;2011-08;2012-08;2014-02;2019-08;2001-11;2005-01;2006-08,n=PA-rbpbdsa&ed=10&vol=2#1062,"A 60 yr old female presented with complaints of a Unilateral breast lump on Right side, which suddenly increased in size for the past few days. On histology, Leaf-like Architecture was seen.",
+S_PA_31.5,Stromal tumours of Breast,-Types,True,1,2011-08,n=PA-rbpbdsa&ed=10&vol=2#1062,,
+E_PA_31.2,Breast Carcinoma,"-pathogenesis
+-classification
+-morphology
+-prognostic and predictive factors
+-staging and spread",True,8,2012-02;2018-02;2023-07;1991-01;1995-04;2007-08;2022-03;2022-08,n=PA-rbpbdsa&ed=10&vol=2#1046,"A 44 year old nulliparous women presented with hard, fixed non tender mass of about 6x4x4 cm in the upper quadrant of right breast with axillary lymphadenopathy.FNAC revealed cluster of pleomorphic cells.",
+S_PA_31.2.4,Prognostic and Predictive factors of Breast Carcinoma,,True,3,2013-08;2016-08;2023-07,n=PA-rbpbdsa&ed=10&vol=2#1058,,
+S_PA_31.5.2,Fibroadenoma,,True,1,2013-08,n=PA-rbpbdsa&ed=10&vol=2#1062,"A 29 year old female, Multipara is under Cyclosporin treatment due to renal Transplantation.He presented  with a mobile well circumscribed mass;rubbery in consistency in both Breasts.",
+S_PA_31.2.2,Risk Factors and Types of Breast Carcinoma,,True,1,2017-02,n=PA-rbpbdsa&ed=10&vol=2#1047,,
+S_PA_31.6.1,Paget's Disease of Breast,,True,3,2021-09;1999-04;2002-03,n=PA-rbpbdsa&ed=10&vol=2#1053,,
+S_PA_31.6.2,Comedo carcinoma of Breast,,True,1,2023-02,n=PA-rbpbdsa&ed=10&vol=2#1053,,
+S_PA_31.2.1,Etiopathogenesis of Breast Carcinoma,,True,1,1996-04,n=PA-rbpbdsa&ed=10&vol=2#1047,,
+S_PA_31.7.1,Fibrocystic disease of Breast,,True,1,2005-08,n=PA-rbpbdsa&ed=10&vol=2#1042,,
+S_PA_31.7,Benign diseases of Breast,,True,1,2023-02,n=PA-rbpbdsa&ed=10&vol=2#1042,,
+S_PA_31.8,Acute Mastitis,,False,2,,n=PA-rbpbdsa&ed=10&vol=2#1040,A postnatal mother after few days of breastfeeding came with complaints of painful and erythematous breasts and fever.,
