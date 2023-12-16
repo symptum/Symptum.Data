@@ -1,0 +1,7 @@
+﻿Id,Title,Descriptions,HasPreviouslyBeenAsked,Importance,YearsAsked,BookLocations,ProbableCases,ReferenceLinks
+S_PA_PA34.2,Basal Cell Carcinoma,,True,5,2008-02;2012-02;2013-08;2018-02;2023-02,n=PA-rbpbdsa&ed=10&vol=2#1147,,
+S_PA_PA34.3.1,Premalignant Lesions,,True,1,2009-02,n=PA-rbpbdsa&ed=10&vol=2#1136,,
+S_PA_PA34.1,"Squamous Cell Carcinoma ",,True,1,2020-02,n=PA-rbpbdsa&ed=10&vol=2#1146,,
+S_PA_PA34.3,Malignant Melanoma,,True,3,2009-08;2020-11;2023-07,n=PA-rbpbdsa&ed=10&vol=2#1139,,
+S_PA_PA34.3.2,Intradermal Naevus,,True,1,2010-02,n=PA-rbpbdsa&ed=10&vol=2#1136,,
+S_PA_PA34.4,Granular Cell Tumour,,True,1,2014-08,n=&ed=0&vol=0#0,,
