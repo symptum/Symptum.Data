@@ -1,0 +1,63 @@
+Id,Title,Descriptions,HasPreviouslyBeenAsked,Importance,YearsAsked,BookLocations,ProbableCases,ReferenceLinks
+S_MI_,Granulomatous Amoebic Encephalitis,,True,1,2022-03,n=MI-apsemm&ed=3&vol=0#729,,
+S_MI_,Rabies,"- Vaccines Available
+- Laboratory Diagnosis;- Prophylactic Measures used against Dog Bite
+- Negri Bodies",True,10,2023-07;2022-08;2021-09;2020-02;2018-08;2018-02;2017-02;2016-08;2011-02;2008-02;2005-08;2005-02;2001-04;1998-04;1996-04,n=MI-apsemm&ed=3&vol=0#718,"A 25 year old Australian visited his local doctor complaining of difficulty in swallowing liquids, loss of appetite and restlessness. He had a travel history to India one month back and did mention being bitten by a street dog.;A 25 year old male visited the clinic of a local doctor with a history of dog bite.",
+E_MI_,Pyogenic Meningitis (or) Acute Bacterial Meningitis,"- List of organisms causing Pyogenic Meningitis
+- Clinical Manifestations
+- Laboratory Diagnosis
+- Treatment;- Enumerate the Probable Causative Agents
+- Note on Pneumococcal Vaccine;- List causes of Meningitis
+- Lab Diagnosis of Meningococcal Meningitis;- List Bacterial causes of Meningitis
+- Morphology
+- Cultural Characters of N. meningitidis
+- CSF Analysis",True,9,2023-07;2022-08;2012-02;2008-08;2006-08;1998-11;1995-04;1993-01;1990-10,n=MI-apsemm&ed=3&vol=0#692,"A 7 year old girl admitted with fever, headache, vomiting and neck rigidity. CSF showed elevated CSF pressure, Leukocytes predominantly neutrophils. Glucose < 40 mg/dl and protein > 45 mg/dl.",
+E_MI_,Poliomyelitis (or) Polio Virus,"- Enumerate the organisms causing myelitis
+- Clinical Manifestations
+- Lab Diagnosis
+- Prophylaxis;- Classify Picornaviruses
+- Pathogenesis
+- Clinical Features
+- Lab Diagnosis
+- Prophylaxis;- Classify Enteroviruses
+- Morphology
+- Pathogenesis
+- Lab Diagnosis
+- Prophylaxis",True,8,2023-03;2021-09;2017-02;2012-02;2010-02;2008-02;2002-03;2001-11,n=MI-apsemm&ed=3&vol=0#709,"A 5 year old male child admitted in ICU with c/o fever, headache and chills. His mother complained that child is not able to stand 5 days after the onset of fever. O/E there is flaccid paralysis of lower limbs and tripod sign is elucidated.  On CSF analysis glucose level and protein level is normal. Microscopic examination of CSF show 25-40 lymphocytes per microlitre and no bacteria seen. Ziehl – Neelsen staining of CSF is negative for Acid Fast bacilli.",
+S_MI_,Toxoplasmosis,"- Clinical Manifestations
+- Lab Diagnosis;- Congenital Toxoplasmosis",True,4,2023-07;2017-08;2014-08;2010-08,n=MI-apsemm&ed=3&vol=0#731,,
+S_MI_,Neurocysticercosis (or) Cysticercus Cellulosae,"- Clinical Manifestations
+- Lab Diagnosis",True,10,2023-07;2021-09;2016-02;2014-08;2011-08;2010-08;2005-08;2004-08;2002-03;1998-10;1997-04;1992-04,n=MI-apsemm&ed=3&vol=0#735,,
+S_MI_,Poliomyelitis (or) Polio Virus,- Prophylaxis;- Lab Diagnosis;- Sabin Vaccine,True,10,2022-08;2019-02;2018-08;2018-02;2015-08;2014-08;2012-08;2009-08;2008-08;2007-02;2005-02;2003-10;1997-10;1996-04;1995-11,n=MI-apsemm&ed=3&vol=0#709,,
+S_MI_,Subacute Sclerosing Panencephalitis,,True,2,2022-02;2019-02,n=MI-apsemm&ed=3&vol=0#724,,
+S_MI_,CSF Analysis,,True,1,2019-08,n=MI-apsemm&ed=3&vol=0#693,,
+S_MI_,Prion Disease,,True,5,2020-11;2020-02;2019-08;2012-02;2010-02,n=MI-apsemm&ed=3&vol=0#725,,
+S_MI_,Japanese B Encephalitis,,True,8,2020-02;2015-08;2009-02;2005-08;2004-08;1998-04;1993-01;1990-10,n=MI-apsemm&ed=3&vol=0#716,,
+S_MI_,Cryptococcal Meningitis (or) Cryptococcosis (or) Cryptococcus neoformans,,True,10,2023-07;2022-02;2018-02;2010-08;2008-08;2004-08;2003-10;1998-04;1997-04;1994-11;1992-04,n=MI-apsemm&ed=3&vol=0#739,,
+E_MI_,Rabies,"- Morphology
+- Pathogenesis
+- Clinical Manifestations
+- Lab Diagnosis
+- Prophylaxis;- Classify Rhabdovirus
+- Pathogenesis
+- Lab Diagnosis
+- Prophylaxis",True,5,2023-02;2009-02;2004-08;1999-04;1992-04,n=MI-apsemm&ed=3&vol=0#718,,
+E_MI_,Tetanus,"- Aetiology
+- Pathogenesis
+- Lab Diagnosis
+- Prophylaxis",True,1,2018-08,n=MI-apsemm&ed=3&vol=0#702,,
+S_MI_,Tetanus,- Prophylaxis;- Lab Diagnosis,True,7,2022-08;2015-02;2003-10;1998-11;1996-04;1994-11;1991-12,n=MI-apsemm&ed=3&vol=0#702,,
+S_MI_,Primary Amoebic Meningoencephalitis,,True,5,2011-08;2008-08;2007-02;2001-11;1998-10,n=MI-apsemm&ed=3&vol=0#728,,
+S_MI_,Pyogenic Meningitis (or) Acute Bacterial Meningitis,- Lab Diagnosis,True,3,2009-02;2005-08;1997-10,n=MI-apsemm&ed=3&vol=0#692,,
+S_MI_,Slow Viral Infections,,True,3,2013-02;2004-08;1998-11,n=MI-apsemm&ed=3&vol=0#724,,
+S_MI_,Aseptic Meningitis (or) Coxsackieviruses,,True,2,2003-10;1993-11,n=MI-apsemm&ed=3&vol=0#707,,
+E_MI_,Japanese (B) Encephalitis,"- Arboviruses in India
+- Aetiology of JE
+- Lab Diagnosis of JE",True,3,2006-02;2003-10;1993-11,n=MI-apsemm&ed=3&vol=0#716,,
+E_MI_,Toxoplasmosis,"- List Parasitic Zoonotic diseases
+- Life cycle
+- Pathogenesis
+- Lab Diagnosis of Toxoplasmosis",True,1,2006-02,n=MI-apsemm&ed=3&vol=0#731,,
+S_MI_,Tuberculous Meningitis,,False,1,,n=MI-apsemm&ed=3&vol=0#699,,
+S_MI_,Listerosis,,False,1,,n=MI-apsemm&ed=0&vol=0#698,,
+S_MI_,Free-Living Amoebae,,False,6,,n=MI-apsemm&ed=3&vol=0#727,,
