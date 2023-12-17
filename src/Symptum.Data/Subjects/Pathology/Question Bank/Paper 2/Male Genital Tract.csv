@@ -1,0 +1,13 @@
+﻿Id,Title,Descriptions,HasPreviouslyBeenAsked,Importance,YearsAsked,BookLocations,ProbableCases,ReferenceLinks
+E_PA_29.1,Testicular tumour,"- What is the diagnosis? 
+- Classify 
+- Etiopathogenesis. ",True,1,2013-02,n=&ed=10&vol=2#969,"50/ M, presented with painless testicular swelling with loss of testicular sensation. ",
+S_PA_29.1,Testicular Tumor,"- What are the differential diagnosis? 
+- Draw microscopic findings in this  condition. ",True,1,2022-03,n=&ed=10&vol=2#969,"40/M, presented with testicular mass. ",
+S_PA_29.3,BPH,- Morphological findings in BPH,True,1,2022-08,n=&ed=10&vol=2#976,"80/M, presented with history of dysuria & urgency of urine. USG Shows enlarged prostate with raised PSA level. ",
+S_PA_29.2,CA penis,"- What is the diagnosis? 
+- Microscopic features. 
+- Pre neoplastic conditions. ",True,1,2023-02,n=&ed=10&vol=2#964,"45/M, presented with cauliflower like growth in penis. Also had multiple inguinal nodes. ",
+S_PA_29.6,Cryptorchidism,,True,2,2020-02;2010-02,n=&ed=10&vol=2#966,,
+S_PA_29.1.1,Seminoma of testis,"- Define seminoma & it's types;- spermatocytic seminoma;- gross & microscopic picture of seminoma. ",True,4,2020-11;2023-01;2014-02;2009-02,n=&ed=10&vol=2#969,,
+S_PA_29.2.1,Bowen's disease of skin,,True,2,2013-02;2012-08,n=&ed=10&vol=2#965,,
