@@ -1,0 +1,96 @@
+﻿Id,Title,Descriptions,HasPreviouslyBeenAsked,Importance,YearsAsked,BookLocations,ProbableCases,ReferenceLinks
+E_PH_1.27.1,Anti-hypertensive drugs,"- Mechanism of Action of Captopril
+- Pharmacological Action of Captopril
+- Therapeutic Uses of Captopril
+- Adverse Effects of Captopril;- Mechanism of Action of Angiotensin Receptor Blockers
+- Therapeutic Uses of Angiotensin Receptor Blockers
+- Hypertensive Emergencies
+- Hypertensive Urgencies;- Classification of Anti-hypertensive Drugs
+- Therapeutic Uses of Beta Blockers
+- Adverse Effects of Beta Blockers
+- Anti-hypertensive Avoided in Pregnancy;- Classification of Anti-hypertensive Drugs
+- Management of Hypertensive Emergency
+- Management of Hypertensive Urgency
+- Anti-hypertensive Avoided in Pregnancy",True,10,2008-08;2011-02;2019-08;2020-02;1990-12;1993-11;1996-04;1997-10;2005-08;2007-08,n=PH-kdtemp&ed=8&vol=0#605,,
+E_PH_1.24.1,Diuretics,"- Classification of Diuretics
+- Mechanism of Action of Furosemide
+- Pharmacological Action of Furosemide
+- Therapeutic Uses of Furosemide
+- Adverse Effects of Furosemide;- Classification of Diuretics
+- Mechanism of Action of Furosemide
+- Therapeutic Uses of Furosemide
+- Complications of Furosemide;- Classification of Diuretics
+- Mechanism of Action of High Ceiling Diuretics
+- Uses of High Ceiling Diuretics
+- Adverse Effects of High Ceiling Diuretics
+- Rationality in Combining High Ceiling Diuretics with ACE Inhibitors",True,4,2009-02;2014-02;2022-03;2006-08,n=PH-kdtemp&ed=8&vol=0#625,,
+E_PH_1.28.1;1.28.3,Anti-anginal Drugs,"- Classification of Anti-anginal Drugs
+- Mechanism of Action of Nitrates
+- Uses of Nitrates
+- Adverse Effects of Nitrates;- Classification of Anti-anginal Drugs
+- Mechanism of Vascular Smooth Muscle Relaxant Effect of Nitrates
+- Therapeutic Uses of Nitrates
+- About Nicorandil;- Classification of Anti-anginal Drugs
+- Mechanism of Action of Glyceryl Trinitrate
+- Adverse Effects of Glyceryl Trinitrate
+- Drug Therapy in Myocardial Infarction;- Classification of Antianginal Drugs
+- Mechanism of Action of Glyceryl Trinitrate
+- Therapeutic Uses of Glyceryl Trinitrate;- Classification of Anti-anginal Drugs
+- Mechanism of Action of Nitrates
+- Uses of Nitrates
+- Adverse Effects of Nitrates",True,5,2014-02;2017-02;2022-02;2022-08;2023-02,n=PH-kdtemp&ed=8&vol=0#584,,
+E_PH_1.30,Anti-arrhythmic Drugs,"- Classification of Anti-arrhythmic Drugs
+- Mechanism of Action of Amiodarone
+- Pharmacokinetics of Amiodarone
+- Clinical Uses of Amiodarone
+- Adverse Effects of Amiodarone",True,2,2018-08;2001-11,n=PH-kdtemp&ed=8&vol=0#573,,
+S_PH_1.24.1.1,High Ceiling Diuretics,,True,7,2008-08;2013-02;2023-02;2009-08;2011-08;2018-08;1996-04,n=PH-kdtemp&ed=8&vol=0#625,,
+S_PH_1.30.3.1,Amiodarone,,True,3,2008-08;2011-02;2023-07,n=PH-kdtemp&ed=8&vol=0#578,,
+S_PH_1.28.1.1,Nitrates,,True,2,2008-08;2005-08,n=PH-kdtemp&ed=8&vol=0#585,,
+S_PH_1.24.1.5.1,Spironolactone,,True,7,2008-08;2012-08;2015-08;2018-02;2018-08;2020-02;2023-07,n=PH-kdtemp&ed=8&vol=0#634,,
+S_PH_1.28.1.2,Calcium Channel Blockers,,True,4,2009-02;2009-08;1994-11;2005-02,n=PH-kdtemp&ed=8&vol=0#591,,
+S_PH_1.29.1.1,Digoxin,,True,5,2009-02;2012-02;2012-08;2016-08;2020-11,n=PH-kdtemp&ed=8&vol=0#556,,
+S_PH_1.27.1.1,Beta Blockers a Anti-hypertensive,,True,1,2009-08,n=PH-kdtemp&ed=8&vol=0#609,,
+S_PH_1.29.1,Cardiac Glycosides,,True,2,2009-08;2019-08,n=PH-kdtemp&ed=8&vol=0#556,,
+S_PH_1.24.1.4,Osmotic Diuretics,,True,5,2010-02;2012-02;2014-02;2004-08;2008-02,n=PH-kdtemp&ed=8&vol=0#637,,
+S_PH_1.27.1.1.1,Carverdilol,,True,1,2010-02,n=PH-kdtemp&ed=8&vol=0#610,,
+S_PH_1.25.3,Anti-platlet Drugs,,True,5,2010-02;2015-02;2017-08;2023-02;2023-07,n=PH-kdtemp&ed=8&vol=0#676,,
+S_PH_1.31.2.1,Atarvostatin,,True,2,2010-02;2008-02,n=PH-kdtemp&ed=8&vol=0#685,,
+S_PH_1.24.1.2,Thiazide Diuretics,,True,6,2010-08;2011-08;2013-08;2017-02;2017-08;2003-10,n=PH-kdtemp&ed=8&vol=0#628,,
+S_PH_1.25.2.1,Heparin,- Heparin vs Warfarin;- Low Molecular Weight Heparin,True,10,2010-08;2011-02;2013-08;2014-08;2015-02;2019-08;2020-11;2022-03;1993-01;1998-04;2001-04;2004-08;2005-08,n=PH-kdtemp&ed=8&vol=0#663,,
+S_PH_1.28.3,Myocardial Infarction,,True,3,2010-08;2013-08;2014-02,n=PH-kdtemp&ed=8&vol=0#602,,
+S_PH_1.31.1,Statins,,True,4,2010-08;2016-08;2022-03;2002-03,n=PH-kdtemp&ed=8&vol=0#683,,
+S_PH_1.26.2,Angiotensin Receptor Blockers,,True,2,2010-08;2013-02,n=PH-kdtemp&ed=8&vol=0#535,,
+S_PH_1.24.1.1.1,Furosemide,,True,8,2011-02;2015-08;2016-02;2019-08;2020-11;1997-10;2001-04;2001-11,n=PH-kdtemp&ed=8&vol=0#626,,
+S_PH_1.25.3.1,Aspirin,,True,5,2011-02;2013-08;2016-02;2019-02;2023-07,n=PH-kdtemp&ed=8&vol=0#677,,
+S_PH_1.25.4.1.1,Epsilon Amino-caproic Acid,,True,1,2011-08,n=PH-kdtemp&ed=8&vol=0#676,,
+S_PH_1.28.1.1.1,Glyceryl Trinitrate,,True,1,2012-02,n=PH-kdtemp&ed=8&vol=0#588,,
+S_PH_1.25.2.1.2,Heparin Antagonist,,True,1,2012-08,n=PH-kdtemp&ed=8&vol=0#666,,
+S_PH_1.28.1.3,Potassium Channel Openers,,True,4,2013-02;2019-02;2020-11;2006-08,n=PH-kdtemp&ed=8&vol=0#598,,
+S_PH_1.27.1.3,Venodilators,,True,1,2013-02,n=PH-kdtemp&ed=8&vol=0#612,,
+S_PH_1.25.1.3,Erythropoietin,,True,1,2013-02,n=PH-kdtemp&ed=8&vol=0#657,,
+S_PH_1.26,Renin Angiotensin System,,True,2,2013-08;2023-07,n=PH-kdtemp&ed=8&vol=0#526,,
+S_PH_1.25.3.3,Glycoprotein IIb/IIIa Receptor Antagonist,,True,2,2013-08;2018-02,n=PH-kdtemp&ed=8&vol=0#679,,
+S_PH_1.30.5,Adenosine,,True,2,2013-08;2020-02,n=PH-kdtemp&ed=8&vol=0#581,,
+S_PH_1.24.1.3,Acetazolamide,,True,3,2014-02;2014-08;2022-08,n=PH-kdtemp&ed=8&vol=0#633,,
+S_PH_1.27.1.4,Anti-hypertensive in Pregnancy,,True,3,2014-08;2023-07;2005-02,n=PH-kdtemp&ed=8&vol=0#617,,
+S_PH_1.30.3,Class III Anti-arrhythmic Drugs,,True,1,2014-08,n=PH-kdtemp&ed=8&vol=0#578,,
+S_PH_1.26.2.1,Losartan,,True,2,2014-08;2007-02,n=PH-kdtemp&ed=8&vol=0#535,,
+S_PH_1.27.1.3.1,Sodium Nitroprusside,,True,1,2016-02,n=PH-kdtemp&ed=8&vol=0#613,,
+S_PH_1.24.1.5,Potassium Sparing Diuretics,,True,5,2016-08;1993-01;1995-11;2002-03;2005-02,n=PH-kdtemp&ed=8&vol=0#634,,
+S_PH_1.30.3.1,Amlodipine,,True,2,2018-02;2001-04,n=PH-kdtemp&ed=8&vol=0#595,,
+S_PH_1.29,Congestive Heart Failure,,True,5,2018-02;2020-02;2002-03;2006-08;2007-08,n=PH-kdtemp&ed=8&vol=0#561,,
+S_PH_1.28.1.4,Ranolazine,,True,1,2019-02,n=PH-kdtemp&ed=8&vol=0#600,,
+S_PH_1.26.1,Angiotensin Converting Enzyme Inhibitors,,True,4,2021-09;2022-08;2001-11;2003-10,n=PH-kdtemp&ed=8&vol=0#530,,
+S_PH_1.25.4,Fibrinolytics,,True,6,2021-09;2023-07;2022-08;2023-02;1999-04;2007-02,n=PH-kdtemp&ed=8&vol=0#673,,
+S_PH_1.25.2.2,Direct Oral Anti-coagulants,,True,3,2021-09;2022-08;2005-02,n=PH-kdtemp&ed=8&vol=0#667,,
+S_PH_1.25.1.2,Erythrocyte Maturation Factor,,True,1,2022-02,n=PH-kdtemp&ed=8&vol=0#652,,
+S_PH_1.26.2.3,Eprosartan,,True,1,2022-02,n=PH-kdtemp&ed=8&vol=0#537,,
+S_PH_1.26.3,Direct Renin Inhibitor,,True,1,2023-02,n=PH-kdtemp&ed=8&vol=0#538,,
+S_PH_1.27.1.5,Hypertensive Emergencies,,True,1,2022-03,n=PH-kdtemp&ed=8&vol=0#618,,
+E_PH_1.28.3,Myocardial Infarction,"- Drug Therapy in Myocardial Infarction
+- Classification of Hypolipidemic Drugs
+- Mechanism of Action of Statins
+- Uses of Statins
+- Adverse Effects of Statins",True,1,2023-07,n=PH-kdtemp&ed=8&vol=0#602,,
+S_PH_1.25.1.1.1,Parentral Iron Therapy,- Iron Preparations;- Uses,True,5,2011-08;2019-08;2022-08;2023-02;2004-08,n=PH-kdtemp&ed=8&vol=0#650,,
