@@ -1,0 +1,51 @@
+Id,Title,Descriptions,HasPreviouslyBeenAsked,Importance,YearsAsked,BookLocations,ProbableCases,ReferenceLinks
+E_MI_,COVID-19 Infection,"- List of other Organisms causing Interstitial Pneumonia
+- Structure of the Organism
+- COVID-19 Vaccine;- Transmission
+- Pathogenesis
+- Clinical Manifestations
+- Microbiological and Non-Microbiological Investigations
+- Prevention and Control",True,2,2022-08;2022-03,n=MI-apsemm&ed=3&vol=0#662,"A 55 years old male patient was admitted in ICU were with fever, cough with expectoration, fatigue and sore throat. There is H/O loss of smell and taste. The contact history with fever patient before 5 days is also elucidated.;A 65 year old male patient admitted in the hospital with history of fever, sore throat, head ache, body pain and loss of taste and smell. Symptomatic treatment was given. After 2 days, he developed difficulty in breathing, his oxygen saturation was <90 %. Blood investigations like CRP, D-dimer and IL-6 were elevated. CT Chest shows ground glass opacities. Patient was treated with high flow oxygen, steroid, antibiotics and antiviral agents.",
+S_MI_,Melioidosis,"- Clinical Features
+- Lab Diagnosis",True,2,2022-03;2013-02,n=MI-apsemm&ed=3&vol=0#644,,
+S_MI_,Aspergillosis (or) Aspergilloma,"- Pathogenesis
+- Clinical Features
+- Laboratory Diagnosis",True,4,2023-03;2022-08;2006-02;1992-04,n=MI-apsemm&ed=3&vol=0#681,,
+S_MI_,COVID-19,- Structure of SARS CoV-2,True,2,2023-03;2022-08,n=MI-apsemm&ed=3&vol=0#662,,
+S_MI_,Pertussis (or) Whooping Cough (or) Bordetella Pertussis,- Prophylaxis,True,2,2023-03;2018-02,n=MI-apsemm&ed=3&vol=0#638,,
+S_MI_,Diphtheria (or) Corynebacterium diphtheriae,"- Pathogenesis
+- Lab Diagnosis;- Elek's Gel Precipitation Test;- Test for Toxin produced by C. diphtheriae",True,9,2023-07;2022-02;2010-08;2009-08;2008-08;2005-08;2003-10;2000-04;1992-04,n=MI-apsemm&ed=3&vol=0#599,"A 5 year old child had High Grade Fever, Pain in the Throat with Difficulty in Swallowing. On examination the child was Toxic, White Patch was found on the Fauces which bleeds on touch. Immunization status not known.",
+S_MI_,Pulmonary Anthrax,,True,1,2023-07,n=MI-apsemm&ed=3&vol=0#616,,
+S_MI_,Zygomycosis (or) Mucormycosis,,True,2,2023-02;2017-08,n=MI-apsemm&ed=3&vol=0#680,,
+S_MI_,Influenza (or) Swine-Flu,"- Specimen Collection
+- Transport
+- Lab Diagnosis;- Diagnosis of H1N1
+- Prophylaxis against H1N1",True,4,2019-02;2014-08;2010-02;1998-11,n=MI-apsemm&ed=3&vol=0#648,,
+S_MI_,Infectious Mononucleosis,- Paul Bunnell Test,True,4,2023-07;2020-11;2009-08;2004-08,n=MI-apsemm&ed=3&vol=0#672,,
+S_MI_,Tuberculosis,"- NTEP
+- Culture Media for Tuberculosis
+- Mantoux test
+- BCG;- Lab Diagnosis;- RNTCP",True,8,2023-07;2022-08;2021-09;2018-02;2015-08;2013-08;2010-08;2009-02;2006-02;2004-08;2002-03,n=MI-apsemm&ed=3&vol=0#623,,
+S_MI_,Pneumocystis Pneumonia (or) Pneumocystis jirovecii,,True,2,2023-07;2013-02,n=MI-apsemm&ed=3&vol=0#679,,
+S_MI_,Pseudomonas Infection,,True,1,2020-02,n=MI-apsemm&ed=3&vol=0#642,,
+S_MI_,Atypical Mycobacteria (or) Non-Tuberculous Mycobacteria (NTM),,True,7,2021-09;2014-02;2010-02;2009-08;2008-08;2001-04;1999-04,n=MI-apsemm&ed=3&vol=0#636,,
+S_MI_,Mycoplasma,- Lab Diagnosis,True,1,2009-02,n=MI-apsemm&ed=3&vol=0#618,,
+E_MI_,Pertussis (or) Whooping Cough (or) Bordetella Pertussis,"- Etiology
+- Pathogenesis
+- Lab Diagnosis",True,1,2011-08,n=MI-apsemm&ed=3&vol=0#638,,
+S_MI_,Legionellosis,,True,1,2013-02,n=MI-apsemm&ed=3&vol=0#621,,
+E_MI_,Influenza (or) Swine Flu,"- Morphology
+- Pathogenesis
+- Lab Diagnosis",True,1,2010-02,n=MI-apsemm&ed=3&vol=0#648,,
+S_MI_,Rhino Virus Infection,,True,1,2015-02,n=MI-apsemm&ed=3&vol=0#675,,
+S_MI_,Oriental Lung Fluke (or) Paragonimus westermani,,True,2,2008-02;2005-08,n=MI-apsemm&ed=3&vol=0#676,,
+E_MI_,Tuberculosis,"- Classify Mycobacteria
+- Pathogenesis
+- Lab Diagnosis",True,5,2007-02;2005-08;2004-08;2001-11;1994-11,n=MI-apsemm&ed=3&vol=0#623,,
+S_MI_,Mumps,,True,1,2000-10,n=MI-apsemm&ed=3&vol=0#656,,
+E_AN_,Diphtheria (or) Corynebacterium diphtheriae,"- Morphology
+- Culture Characters
+- Lab Diagnosis",True,1,1993-11,n=MI-apsemm&ed=3&vol=0#599,,
+S_MI_,Antigenic Shift and Antigenic Drift,,False,5,,n=MI-apsemm&ed=3&vol=0#649,,
+S_MI_,Extra-Pulmonary Tuberculosis,,False,1,,n=MI-apsemm&ed=3&vol=0#625,,
+S_MI_,Quellung Reaction (or) Neufeld Reaction,,False,3,,n=MI-apsemm&ed=3&vol=0#608,,
