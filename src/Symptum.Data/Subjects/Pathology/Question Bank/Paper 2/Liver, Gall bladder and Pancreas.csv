@@ -1,4 +1,4 @@
-﻿Id,Title,Descriptions,HasPreviouslyBeenAsked,Importance,YearsAsked,BookLocations,ProbableCases,ReferenceLinks
+Id,Title,Descriptions,HasPreviouslyBeenAsked,Importance,YearsAsked,BookLocations,ProbableCases,ReferenceLinks
 S_PA_25.12,Cholelithiasis,- Risk Factors/- Pathogenesis/- Types of Gall Stones/- Morphology/- Clinical Features/- Complications;- Pathological Effects;- Risk Factors,True,10,2008-08;2009-02;2010-08;2011-08;2012-02;2013-08;2015-02;2016-02;2019-02;2021-09;2022-08;1992-04;2003-10;2004-08,n=PA-rbpbdsa&ed=10&vol=2#873,,
 S_PA_25.3;25.3.4,Hepatitis,- Laboratory Diagnosis;- Hepatitis B,True,5,2009-02;2023-02;1993-11;1997-10;1997-10,n=PA-rbpbdsa&ed=10&vol=2#831,30 years male presented with yellowish discolouration of conjunctiva.  He had history of blood transfusion (Multiple units) in the recent few months following RTA   as an emergency.  How will you investigate the patient?,
 S_PA_25.7.1,Haemochromatosis,,True,6,2009-02;2009-08;2023-07;2008-02;2002-03;2004-08,n=PA-rbpbdsa&ed=10&vol=2#848,,
@@ -31,3 +31,8 @@ S_PA_25.9,Autoimmune Cholangiopathies,- Primary Sclerosing Cholangitis;- Differe
 S_PA_25.14,Congenital Anomalies of Pancreas,,False,1,,n=PA-rbpbdsa&ed=10&vol=2#881,,
 S_PA_25.16.2,Pseudocyst,,False,1,,n=PA-rbpbdsa&ed=10&vol=2#888,,
 S_PA_25.17,Tumors of Pancreas,,False,1,,n=PA-rbpbdsa&ed=10&vol=2#888,,
+S_PA_,Mallory Bodies,,True,1,2012-02,,,
+S_PA_,Bridging Necrosis of Liver,,True,1,2013-02,,,
+S_PA_,Ground Glass Hepatocytes,,True,1,2013-08,,,
+S_PA_,Kernicterus,,True,1,2019-08,,,
+S_PA_,Kayser - Fleischer Ring,,True,1,2022-02,,,
