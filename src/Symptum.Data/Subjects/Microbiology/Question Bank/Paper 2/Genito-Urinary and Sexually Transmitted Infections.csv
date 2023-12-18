@@ -1,19 +1,27 @@
 Id,Title,Descriptions,HasPreviouslyBeenAsked,Importance,YearsAsked,BookLocations,ProbableCases,ReferenceLinks
-S_MI_MI7.2.4,Gonorrhoea,"- Laboratory Diagnosis ",True,3,2008-08;2017-08;1999-04,n=MI-apsemm&ed=3&vol=1#764,,
-S_MI_MI7.3,"Urinary Tract Infection ","- Laboratory Diagnosis ;- Etiology\- Laboratory Diagnosis ",True,5,2008-08;2011-02;2012-02;2022-08;1993-11,n=MI-apsemm&ed=3&vol=1#745,"A 28-year-old female was admitted with high grade fever, vomiting, flank pain with increased frequency of micturition for the past 3 days. ",
-S_MI_MI7.2.1,"Syphilis ","- Laboratory Diagnosis ;- Advice;- Laboratory Diagnosis of Secondary Syphilis ",True,8,2009-08;2014-08;2017-02;2022-08;1994-11;1997-04;2000-04;2002-03,n=MI-apsemm&ed=3&vol=1#756,A 35 year old male with C/O hard painless penile ulcer attends STD OP. Blood sample drawn and sent for VDRL test. The laboratory reports VDRL test as Reactive. How will you counsel & what advice you will give to the patient.,
-S_MI_MI7.1.1.1,"Chlamydia trachomatis ",,True,1,2023-07,n=MI-apsemm&ed=3&vol=1#766,"A 27-year-woman had developed mucopurulent discharge, followed by development of dysuria and urethral irritation. She had a history of multiple sexual partners. Microscopy of the urethral swab revealed sterile pyuria and presence of compact inclusion bodies which are later stained by Lugol's iodine",
-S_MI_MI7.1.2,Anaerobic Vaginosis,"- Gardnerella vaginalis ",True,3,2013-02;2000-04;2007-02,n=MI-apsemm&ed=3&vol=1#773,,
-S_MI_MI7.2.3,"Lymphogranuloma venereum ",,True,1,2019-02,n=MI-apsemm&ed=3&vol=1#763,,
-S_MI_MI7.2.2,Soft sore,,True,1,2019-08,n=MI-apsemm&ed=3&vol=1#762,,
-S_MI_MI7.1.1.2,"Trichomonas vaginalis ","- Life cycle ;- Other Causes of Vulvovaginitis ",True,6,2020-11;2023-07;1995-11;1997-04;2002-03;2003-10,n=MI-apsemm&ed=3&vol=1#771,,
-S_MI_MI7.3.2,"Significant Bacteriuria ",,True,3,1990-10;1995-04;2000-10,n=MI-apsemm&ed=3&vol=1#748,,
-S_MI_MI7.1.1,"Non-gonococcal Urethritis ",,True,4,1994-11;2002-03;2004-08;2005-08,n=MI-apsemm&ed=3&vol=1#766,,
-S_MI_MI7.2.3.1,"Frei Test ",,False,1,1996-04;2003-10,n=MI-apsemm&ed=3&vol=1#763,,
-E_MI_MI7.3,"Urinary Tract Infection ","- Etiology\- Laboratory Diagnosis ",True,1,2002-03,n=MI-apsemm&ed=3&vol=1#745,,
-E_MI_MI7.2.4,Gonorrhoea,"- Pathogenesis\- Clinical Features\- Other Bacteria causing STD ",True,1,2022-03,n=MI-apsemm&ed=3&vol=1#764,"A 45 years old female has attended the Gynaec OP with C/O Mucopurulent vaginal discharge for the past one week. In gram’s staining of cervical swab, Kidney shaped Gram negative cocci are seen.",
-E_MI_MI7.2.1,Syphilis,"- Laboratory Diagnosis\- Other Bacteria causing STD ;- Pathogenesis\- Laboratory Diagnosis\- Other Bacteria causing STD ;- Classify Medically Important Spirochetes\- Laboratory Diagnosis ",True,5,2009-02;2010-08;2013-02;1997-10;2005-08,n=MI-apsemm&ed=3&vol=1#756,,
-S_MI_MI7.3.4,Enterococci Causing UTI,,False,1,,n=MI-apsemm&ed=3&vol=1#750,,
-S_MI_MI7.3.3,Enterobacteriaceae Causing UTI,,False,1,,n=MI-apsemm&ed=3&vol=1#749,,
-S_MI_MI7.3.1,"Clean Catch Midstream Urine ",,False,1,,n=MI-apsemm&ed=3&vol=1#747,,
-S_MI_MI7.2.1.1,VDRL,,True,3,2009-08;1994-11;2000-04,n=MI-apsemm&ed=3&vol=1#760,,
+S_MI_7.2.4,Gonorrhoea,- Laboratory Diagnosis,True,3,2017-08;2008-08;1999-04,n=MI-apsemm&ed=3&vol=0#764,,
+S_MI_7.3,Urinary Tract Infection,"- Laboratory Diagnosis;- Etiology
+- Laboratory Diagnosis",True,5,2022-08;2012-02;2011-02;2008-08;1993-11,n=MI-apsemm&ed=3&vol=0#745,"A 28 year old female was admitted with high grade fever, vomiting, flank pain with increased frequency of micturition for the past 3 days.",
+S_MI_7.2.1,Syphilis,- Laboratory Diagnosis;- Advice;- Laboratory Diagnosis of Secondary Syphilis,True,8,2022-08;2017-02;2014-08;2009-08;2002-03;2000-04;1997-04;1994-11,n=MI-apsemm&ed=3&vol=0#756,A 35 year old male with c/o **hard painless penile ulcers** attends STD OP. Blood sample drawn and sent for VDRL test. The laboratory reports **VDRL test as Reactive**.,
+S_MI_7.1.1.1,Chlamydia trachomatis,,True,1,2023-07,n=MI-apsemm&ed=3&vol=0#766,"A 27 year old woman had developed **mucopurulent discharge**, followed by development of dysuria and urethral irritation. She had a history of **multiple sexual partners**. Microscopy of the urethral swab revealed sterile pyuria and presence of **compact inclusion bodies which are later stained by Lugol's iodine**.",
+S_MI_7.1.2,Anaerobic Vaginosis,- Gardnerella vaginalis,True,3,2013-02;2007-02;2000-04,n=MI-apsemm&ed=3&vol=0#773,,
+S_MI_7.2.3,Lymphogranuloma venereum,,True,1,2019-02,n=MI-apsemm&ed=3&vol=0#763,,
+S_MI_7.2.2,Chancroid (or) Soft Sore,,True,1,2019-08,n=MI-apsemm&ed=3&vol=0#762,,
+S_MI_7.1.1.2,Trichomonas vaginalis,- Life cycle;- Other causes of Vulvovaginitis,True,6,2023-07;2020-11;2003-10;2002-03;1997-04;1995-11,n=MI-apsemm&ed=3&vol=0#771,,
+S_MI_7.3.2,Significant Bacteriuria,,True,3,2000-10;1995-04;1990-10,n=MI-apsemm&ed=3&vol=0#748,,
+S_MI_7.1.1,Non-gonococcal Urethritis,,True,4,2005-08;2004-08;2002-03;1994-11,n=MI-apsemm&ed=3&vol=0#766,,
+S_MI_7.2.3.1,Frei Test,,True,2,2003-10;1996-04,n=MI-apsemm&ed=3&vol=0#763,,
+E_MI_7.3,Urinary Tract Infection,"- Etiology
+- Laboratory Diagnosis",True,1,2002-03,n=MI-apsemm&ed=3&vol=0#745,,
+E_MI_7.2.4,Gonorrhoea,"- Pathogenesis
+- Clinical Features
+- Other Bacteria causing STD",True,1,2022-03,n=MI-apsemm&ed=3&vol=0#764,"A 45 year old female has attended the Gynaec OP with c/o **mucopurulent vaginal discharge** for the past one week. In Gram staining of **cervical swab**, **kidney shaped Gram negative cocci** are seen.",
+E_MI_7.2.1,Syphilis,"- Laboratory Diagnosis
+- Other Bacteria causing STD;- Pathogenesis
+- Laboratory Diagnosis
+- Other Bacteria causing STD;- Classify Medically Important Spirochetes
+- Laboratory Diagnosis",True,5,2013-02;2010-08;2009-02;2005-08;1997-10,n=MI-apsemm&ed=3&vol=0#756,,
+S_MI_7.3.4,Enterococci Causing UTI,,False,1,,n=MI-apsemm&ed=3&vol=0#750,,
+S_MI_7.3.3,Enterobacteriaceae Causing UTI,,False,1,,n=MI-apsemm&ed=3&vol=0#749,,
+S_MI_7.3.1,Clean Catch Midstream Urine,,False,1,,n=MI-apsemm&ed=3&vol=0#747,,
+S_MI_7.2.1.1,VDRL,,True,3,2009-08;2000-04;1994-11,n=MI-apsemm&ed=3&vol=0#760,,
