@@ -42,7 +42,7 @@ E_PH_1.13.2,Adrenaline,"- Classify Sympathomimetics
 - Therapeutic uses of adrenaline
 - Adverse effects of Adrenaline;- Mechanism of action of Adrenaline;-Contraindications of Adrenaline",True,5,2013-02;2011-02;2009-02;2005-08;2005-02,,,
 S_PH_1.14.8,Therapeutic uses of Atropine,,True,1,2006-08,,,
-E_PH_1.14.3,Atropine,"- Classify Anti Cholinergic drugs
+E_PH_1.14.3,Atropine,"- Classify Anti-Cholinergic drugs
 - Therapeutic action of Atropine
 - Adverse effects of Atropine
 - Contraindications of Atropine
@@ -52,8 +52,8 @@ S_PH_1.13.9,Beta Blockers,"- Indications
 M_PH_1.13.3,Therapeutic uses of Alpha Blockers,,True,1,2009-02,,,
 M_PH_1.13.4,Two Adverse effects of Beta Blockers,,True,1,2009-02,,,
 S_PH_1.13.10,Dopamine in Cardiogenic Shock,,True,2,2010-02;2009-08,,,
-E_PH_1.14.4,Anti Cholinersterases,"- Mechanism of action
-- Indication of  Reversible Anti Cholinersterases
+E_PH_1.14.4,Anti-Cholinersterases,"- Mechanism of action
+- Indication of  Reversible Anti-Cholinersterases
 - Management of Acute Organophosphorous Poisoning
 ",True,1,2011-08,,,
 M_PH_1.13.5,Two Sympatholytic Agents and its Uses,,True,1,2012-02,,,
@@ -61,6 +61,6 @@ M_PH_1.13.6,4 Extravascular uses of Clonidine,,True,1,2012-08,,,
 M_PH_1.13.7,Contraindications of Beta Blockers,,True,1,2012-08,,,
 E_PH_1.13.3,Role of Sympathomimetics in the management of Bronchial Asthma,,True,1,2012-08,,,
 S_PH_1.13.11,Uroselective Alpha Adrenergic Blockers,,True,1,2012-08,,,
-E_PH_1.13.4,Drug therapy for Anti Cholinesterase poisoning,,True,1,2013-08,,,
+E_PH_1.13.4,Drug therapy for Anti-Cholinesterase Poisoning,,True,1,2013-08,,,
 M_PH_1.14.4,Cholinergic Crisis,,True,1,2014-08,,,
 M_AN_1.14.5,Cholinesterase reactivators in Organophosphorous poisoning,,True,1,2015-02,,,
