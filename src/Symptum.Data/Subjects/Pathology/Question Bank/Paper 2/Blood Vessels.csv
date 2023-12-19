@@ -1,0 +1,12 @@
+﻿Id,Title,Descriptions,HasPreviouslyBeenAsked,Importance,YearsAsked,BookLocations,ProbableCases,ReferenceLinks
+E_PA_27.1.2,Atherosclerosis,"- Define
+- risk factors
+- pathogenesis
+- Morphology
+-complication",True,8,2019-08;2014-02;2007-02;2005-02;2003-10;2002-03;1997-10;2023-04,n=PA-rbpbdsa&ed=10&vol=1#493,,
+S_PA_27.1.2,Atherosclerosis,,True,2,2018-08;2023-07,n=PA-rbpbdsa&ed=10&vol=1#493,,
+S_PA_27.1.2,Atherosclerotic plaque,,True,4,2021-09;2016-02;2010-08;2004-08,n=PA-rbpbdsa&ed=10&vol=1#493,,
+S_PA_27.1.2,Consequences of atherosclerosis,,True,1,2011-08,n=PA-rbpbdsa&ed=10&vol=1#493,,
+S_PA_27.2,Aneurysm,,True,4,2019-02;2017-08;2010-08;1998-04,n=PA-rbpbdsa&ed=10&vol=1#504,,
+S_PA_27.11,Pathogenesis of hypertension,,True,1,2015-02,n=PA-rbpbdsa&ed=10&vol=1#489,,
+S_PA_27.2,Dissecting aneurysm,,True,1,1995-02,n=PA-rbpbdsa&ed=10&vol=1#507,,
