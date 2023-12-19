@@ -1,0 +1,29 @@
+Id,Title,Descriptions,HasPreviouslyBeenAsked,Importance,YearsAsked,BookLocations,ProbableCases,ReferenceLinks
+E_PH_1.36.2.1,Anti Thyroid Drugs,"-Classification of Antithyroid Drugs-Mechanism of Action-Adverse Effects-Advantages-Contraindications-Management of Thyroid Storm;-Radioactive iodine",True,6,2000-04;2001-11;2010-08;2013-02;2020-11;1999-10,n=PH-tarav&ed=5&vol=1#324,"A 35 year old female presented with Fatigue, weakness, decreased appetite, puffy face and menorrhagia. Routine investigations, lipid profile and thyroid function tests were done; high TSH and low levels of T3 and T4 was found",
+E_PH_1.39.1,Oral contraceptives,"-Classification of anti fertility drugs-Methods of administration of oral contraceptives-Mechanism of action of oral contraceptives-Adverse effects of oral contraceptives;-Adverse effects and complications of hormonal contraceptives",True,3,2000-10;2002-03;2011-08,n=PH-tarav&ed=5&vol=1#339,,
+E_PH_1.38.1.1,Corticosteroids,"-Classification of glucocorticoids-Physiological and pharmacological actions-Adverse effects-Therapautic uses-Contraindications;-Write a note on acute adrenal insufficiency",True,3,2001-04;2005-08;2006-08,n=PH-tarav&ed=5&vol=1#346,,
+S_PH_1.36.2.1,Propylthiouracil,,True,3,2004-08;2011-08;2018-02,n=PH-tarav&ed=5&vol=1#325,,
+S_PH_1.39.1,Adverse effects of hormonal contraceptives,,True,1,2004-08,n=PH-tarav&ed=5&vol=1#343,,
+S_PH_1.38.1.1,Glucocorticoids,"-Uses-Adverse effects",True,6,2004-08;2007-02;2009-08;2011-02;2023-02;1995-11,n=PH-tarav&ed=5&vol=1#353,,
+E_PH_1.36.1.1,Anti diabetic drugs,"-Classify oral hypoglycaemic drugs-Mechanism of action of sulfonyl ureas-Adverse effects of sulfonyl ureas-Interaction of sulfonyl ureas with other drugs",True,6,2005-02;2007-02;2009-08;2021-09;1993-01;1996-10,n=PH-tarav&ed=5&vol=1#362,"48 year old obese male with sedentary lifestyle , presents with symptoms and blood sugar levels suggestive of diabetes mellitus , FBS 120 mg% , post prandial blood sugar 260 mg%",
+S_PH_1.41.2.1,Uterine stimulants,,True,1,2005-02,n=PH-tarav&ed=5&vol=1#375,,
+S_PH_1.36.3.1,Bisphosphonates,,True,1,2004-08,n=PH-tarav&ed=5&vol=1#374,,
+S_PH_1.36.1.2,Newer insulin,,True,5,2005-08;2010-08;2018-08;1997-04;1998-10,n=PH-tarav&ed=5&vol=1#358,,
+S_PH_1.39.1,Oral contraceptive pills,,True,8,2005-08;2007-02;2009-02;2009-08;2011-02;2012-08;2017-08;1991-12,n=PH-tarav&ed=5&vol=1#339,,
+E_PH_1.36.2.2,Thyroid inhibitors,"-Classify thyroid inhibitors-Mechanism of action-Adverse effects-Advantages -Contraindications-Role of radioactive iodine in thyroid inhibitors",True,1,2006-02,n=PH-tarav&ed=5&vol=1#325,,
+S_PH_1.37.1.1,Hormone replacement therapy,,True,2,2006-02;2010-02,n=PH-tarav&ed=5&vol=1#332,,
+S_PH_1.37.1.2,Selective estrogen receptor modulators,,True,4,2006-02;2010-08;2018-08;2022-03,n=PH-tarav&ed=5&vol=1#335,,
+S_PH_1.41.1.1,Tocolytics,,True,4,2006-02;2008-08;2022-08;2023-07,n=PH-tarav&ed=5&vol=1#378,,
+S_PH_1.39.1,Injectable contraceptives,,True,2,2006-08;2020-11,n=PH-tarav&ed=5&vol=1#342,,
+S_PH_1.36.2.1,Anti thyroid drugs,,True,2,2008-02;2009-08,n=PH-tarav&ed=5&vol=1#324,,
+S_PH_1.36.1.1,Sulfonyl ureas,"-Mechanism-Pharmacological actions",True,2,2009-02;1997-10,n=PH-tarav&ed=5&vol=1#362,,
+S_PH_1.37.1.3,Anabolic steroids,"-Uses-Adverse effects",True,2,2009-02;1999-04,n=PH-tarav&ed=5&vol=1#329,,
+S_PH_1.37.2.1,Ovulation inducing agents,,True,1,2009-02,n=PH-tarav&ed=5&vol=1#317,,
+S_PH_1.39.1,Combined pill,,True,1,2010-02,n=PH-tarav&ed=5&vol=1#339,,
+S_PH_1.36.2.1,Carbimazole,,True,2,2010-02;1990-12,n=PH-tarav&ed=5&vol=1#325,,
+S_PH_1.36.1.2,Management of diabetic ketoacidosis,,True,1,2010-08,n=PH-tarav&ed=5&vol=1#361,,
+S_PH_1.36.1.2,Insulin resistance,,True,2,2011-02;2011-08,n=PH-tarav&ed=5&vol=1#361,,
+E_PH_1.36.1.2,Antidiabetic drugs,"-Newer insulin analogues-Insulin resistance",True,1,2013-08,n=PH-tarav&ed=5&vol=1#358;n=PH-tarav&ed=5&vol=1#361,,
+S_PH_1.37.2.2,Clinical uses of somatostatin and octreotide,,True,1,2015-08,n=PH-tarav&ed=5&vol=1#316,,
+E_PH_1.36.1.3,Anti diabetic drugs,"-Classify oral hypoglycemic drugs-Mechanism of action and Adverse effects of metformin-Why metformin is used as first choice drug in type 2 DM patients ?",True,1,2018-02,n=&ed=0&vol=0#0,,
+S_PH_1.36.2.1,Radioactive iodine,,True,4,2023-02;2014-08;2019-02;1992-04,n=PH-tarav&ed=5&vol=1#326,,
