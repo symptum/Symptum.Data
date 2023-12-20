@@ -7,20 +7,20 @@ S_PH_1.47.1.6,Primaquine,,True,2,2010-08;2009-02,n=PH-kdtemp&ed=8&vol=0#885,,
 S_PH_1.44.2,Rifampicin,,True,4,2023-12;2009-02;1998-10;1991-12,n=PH-kdtemp&ed=8&vol=0#818,,
 S_PH_1.42.2.4.3,3rd Generation Cephalosporins,,True,7,2023-12;2020-11;2009-08;2008-02;2005-08;2000-10;1999-04,n=PH-kdtemp&ed=8&vol=0#777,,
 S_PH_1.47.1.2.1,Extramalarial uses of Chloroquine,,True,2,2011-02;2009-08,n=PH-kdtemp&ed=8&vol=0#879,,
-S_PH_1.44.10,Chemoprophylaxis,"- Definition
-- Examples with Rationale",True,2,2009-08;2000-04,n=PH-kdtemp&ed=8&vol=0#828,,
-S_PH_1.42.2.1,Repository Preparations of Penicillin,,True,1,2009-08,n=PH-kdtemp&ed=8&vol=0#766,,
+S_PH_1.44.10,Chemoprophylaxis of Latent Tubercular Infections,"- Definition
+- Examples with Rationale",True,3,2020-11;2009-08;2000-04,n=PH-kdtemp&ed=8&vol=0#828,,
+S_PH_1.42.2.1,Repository Preparations of Penicillin,,True,1,2009-08,n=PH-kdtemp&ed=8&vol=0#769,,
 S_PH_1.42.8.2,Amikacin,,True,1,2010-02,n=PH-kdtemp&ed=8&vol=0#799,,
 S_PH_1.42.7,Doxycycline,,True,1,2010-02,n=PH-kdtemp&ed=8&vol=0#787,,
 S_PH_1.47.1.2,Chloroquine,,True,4,2023-02;2010-02;2008-02;2004-08,n=PH-kdtemp&ed=8&vol=0#879,,
 S_PH_1.42.14.2,Fluconazole,- Uses;- Advantage over ketaconazole,True,1,2010-02,n=PH-kdtemp&ed=8&vol=0#844,,
-S_PH_1.47.1.12,Management of Cerebral Malaria,,True,1,2010-08,n=PH-kdtemp&ed=8&vol=0#843,,
+S_PH_1.47.1.12,Management of Cerebral Malaria,,True,1,2010-08,n=PH-kdtemp&ed=8&vol=0#883,,
 S_PH_1.47.9,Ivermectin,,True,2,2023-07;2011-02,n=PH-kdtemp&ed=8&vol=0#911,,
 S_PH_1.43.1,Bacterial Drug Resistance,,True,4,2011-02;2010-02;2006-02;2003-10,n=PH-kdtemp&ed=8&vol=0#742,,
 S_PH_1.44.3,Pyrazinamide,,True,1,2011-08,n=PH-kdtemp&ed=8&vol=0#819,,
 S_PH_1.43.4,Drugs in Typhoid fever,,True,1,2011-08,n=PH-kdtemp&ed=8&vol=0#762,,
 S_PH_1.47.8,Diethylcarbamazine Citrate (DEC),,True,1,2011-08,n=PH-kdtemp&ed=8&vol=0#910,,
-S_PH_1.42.9.2,Newer Macrolides,,True,1,2013-02,n=PH-kdtemp&ed=8&vol=0#806,,
+S_PH_1.42.9.2,Newer Macrolides,,True,1,2013-02,n=PH-kdtemp&ed=8&vol=0#803,,
 S_PH_1.47.1.2,Artemisinin Combination Therapy,"- Advantages
 - Pharmacological Basis of Artemesinin Aerivatives in Malaria",True,3,2015-08;2014-02;2005-08,n=PH-kdtemp&ed=8&vol=0#889,,
 S_PH_1.44.9,Role of Corticosteroids in Management of Tuberculosis,,True,1,2013-08,n=PH-kdtemp&ed=8&vol=0#828,,
@@ -37,12 +37,11 @@ S_PH_1.48.4.1,Nucleoside Revere Transcriptase Inhibitors,,True,3,2019-02;2007-02
 S_PH_1.48.5.3,Highly Active Anti-Retroviral Therapy (HAART),,True,2,2022-08;2019-08,n=PH-kdtemp&ed=8&vol=0#868,,
 S_PH_1.48.1.1,Acyclovir,,True,2,2023-02;2019-08,n=PH-kdtemp&ed=8&vol=0#850,,
 S_PH_1.46.2,Clofazamine,- Rationale in Lepra Reaction,True,2,2012-08;2010-08,n=PH-kdtemp&ed=8&vol=0#832,,
-S_PH_1.42.15,Anti-Pseudomonal Penicillins,,True,1,2014-08,n=PH-kdtemp&ed=8&vol=0#774,,
-S_PH_1.44.10,Chemoprophylaxis of Tuberculosis,,True,1,2020-11,n=PH-kdtemp&ed=8&vol=0#828,,
+S_PH_1.42.15,Anti-Pseudomonal Penicillins (or) Piperacillin,,True,1,2014-08,n=PH-kdtemp&ed=8&vol=0#774,,
 S_PH_1.48.4.3,Retroviral Protease Inhibitors and Combination Therapy,,True,1,2021-09,n=PH-kdtemp&ed=8&vol=0#864,,
 S_PH_1.42.13.1,Amphotericin B,- Therapeutic Uses;- New Formulations,True,5,2023-07;2022-03;2022-02;2014-08;1993-11,n=PH-kdtemp&ed=8&vol=0#839,,
 S_PH_1.42.2.7,Beta Lactamase Inhibitions,,True,2,2022-03;2022-02,n=PH-kdtemp&ed=8&vol=0#774,,
-S_PH_1.48.6,Treatment of Urinary Tract Infections (UTI),,True,2,2023-02;2008-02,n=PH-kdtemp&ed=8&vol=0#814,,
+S_PH_1.48.6,Treatment of Urinary Tract Infections (UTI),,True,2,2023-02;2008-02,n=PH-kdtemp&ed=8&vol=0#810,,
 S_PH_1.45.1,Multi-Drug-Resistant Tuberculosis (MDR-TB),,True,1,2022-03,n=PH-kdtemp&ed=8&vol=0#825,,
 S_PH_1.42.3.1,Ciprofloxacin,"- Mechanism of Action
 - Uses;- Why Ciprofloxacin is Contraindicated in Children less than 8 years of age",True,2,2022-03;2004-08,n=PH-kdtemp&ed=8&vol=0#760,,
@@ -55,15 +54,15 @@ S_PH_1.44.6,Short Course Chemotherapy in Treatment of Tuberculosis,,True,5,2020-
 S_PH_1.42.9.1,Erythromycin,,True,2,2020-02;2003-10,n=PH-kdtemp&ed=8&vol=0#801,,
 S_PH_1.44.1,Isoniazid,,True,2,2010-08;2005-08,n=PH-kdtemp&ed=8&vol=0#816,,
 S_PH_1.42.2.5.1,Meropenem,,True,1,2012-08,n=PH-kdtemp&ed=8&vol=0#782,,
-S_PH_1.47.1,Erythrocytic Schizonticidal Agents,,True,1,2012-08,n=PH-kdtemp&ed=8&vol=0#874,,
+S_PH_1.47.1,Erythrocytic Schizonticidal Agents,,True,1,2012-08,n=PH-kdtemp&ed=8&vol=0#876,,
 S_PH_1.42.8.1,Gentamicin,,True,3,2012-08;2005-02;2001-11,n=PH-kdtemp&ed=8&vol=0#797,,
 S_PH_1.48.4.4,Fusion Inhibitors in HIV infections,,True,1,2012-08,n=PH-kdtemp&ed=8&vol=0#867,,
 S_PH_1.47.1.3,Mefloquine,,True,2,2002-03;2000-10,n=PH-kdtemp&ed=8&vol=0#881,,
 S_PH_1.47.10,Praziquantel,,True,2,2006-08;2001-04,n=PH-kdtemp&ed=8&vol=0#912,,
 S_PH_1.47.7,Pyrantel Pamonate,,True,1,2001-11,n=PH-kdtemp&ed=8&vol=0#909,,
-S_PH_1.42.2.3,Semisynthetic Penicillin,,True,2,2013-02;2005-02,n=PH-kdtemp&ed=8&vol=0#770,,
+S_PH_1.42.2.3,Semisynthetic Penicillins,,True,2,2013-02;2005-02,n=PH-kdtemp&ed=8&vol=0#770,,
 S_PH_1.47.1.9,Management of Chloroquine Resistant Malaria,,True,1,2006-02,n=PH-kdtemp&ed=8&vol=0#877,,
-S_PH_1.42.5,Broad Spectrum Penicillins,,True,1,2006-08,n=PH-kdtemp&ed=8&vol=0#766,,
+S_PH_1.42.5,Broad Spectrum Penicillins,,True,1,2006-08,n=PH-kdtemp&ed=8&vol=0#772,,
 S_PH_1.42.15,Topical Anti-Fungal Agents,,True,2,2013-02;2007-08,n=PH-kdtemp&ed=8&vol=0#847,,
 S_PH_1.43.5,Drugs used in Syphilis,,True,1,2008-02,n=PH-kdtemp&ed=8&vol=0#766,,
 E_PH_1.47.1,Anti-Malarial drugs,"- Classification
@@ -78,7 +77,7 @@ E_PH_1.42.9,Macrolides,"- Classification
 - Erythromycin
 - Mechanism of Action
 - Adverse Drug Reactions
-- Uses",True,1,2008-08,n=PH-kdtemp&ed=8&vol=0#803,,
+- Uses",True,1,2008-08,n=PH-kdtemp&ed=8&vol=0#801,,
 E_PH_1.42.2.1,Penicillins,"- Classification
 - Penicillin G
 - Mechanism of Action
@@ -100,7 +99,7 @@ E_PH_1.42.2.1,Penicillins,"- Classification
 E_PH_1.47.3,Anti-Amoebic Drugs,"- Metronidazole
 - Mechanism of Action
 - Spectrum of Activity
-- Uses",True,7,2023-07;2013-08;2011-08;2009-02;2007-08;2004-08;1993-11,n=PH-kdtemp&ed=8&vol=0#894,,
+- Uses",True,7,2023-07;2013-08;2011-08;2009-02;2007-08;2004-08;1993-11,n=PH-kdtemp&ed=8&vol=0#893,,
 E_PH_1.42.8,Aminoglycosides,"- Classification
 - Mechanism of Action
 - Adverse Drug Reactions
@@ -145,7 +144,7 @@ E_PH_1.48,Antivirals,"- Classification
 - Acyclovir
 - Mechanism of Action
 - Adverse Drug Reactions
-- Uses",True,1,2008-02,n=PH-kdtemp&ed=8&vol=0#847,,
+- Uses",True,1,2008-02,n=PH-kdtemp&ed=8&vol=0#849,,
 E_PH_1.45.1,Multi-Drug-Resistant Tuberculosis (MDR-TB),"- Anti-Tubercular Therapy (ATT) in MDR TB
 - Mechanism of Action and Adverse Effects
 - Categories of Treatment in MDR TB
@@ -182,7 +181,7 @@ S_PH_1.42.9.3,Azithromycin,"- Antibacterial Spectrum
 - Adverse Drug Reactions
 - Uses",True,2,2017-08;2012-08,n=PH-kdtemp&ed=8&vol=0#804,,
 S_PH_1.47.1.4,Quinine,,True,1,2009-02,n=PH-kdtemp&ed=8&vol=0#882,,
-S_PH_1.42.1.1,Topical sulphonamides,,True,1,2009-08,n=PH-kdtemp&ed=8&vol=0#754,,
+S_PH_1.42.1.1,Topical Sulphonamides,,True,1,2009-08,n=PH-kdtemp&ed=8&vol=0#756,,
 S_PH_1.42.2.5.2,Imepenem,,True,2,2015-02;2013-02,n=PH-kdtemp&ed=8&vol=0#782,,
 S_PH_1.42.2.4,Cephalosporins,,True,1,1990-12,n=PH-kdtemp&ed=8&vol=0#775,,
 S_PH_1.42.2.3.2,Therapeutic Uses of Amoxycillin,,True,1,1998-04,n=PH-kdtemp&ed=8&vol=0#773,,

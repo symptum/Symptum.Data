@@ -1,48 +1,32 @@
 Id,Title,Descriptions,HasPreviouslyBeenAsked,Importance,YearsAsked,BookLocations,ProbableCases,ReferenceLinks
-S_PH_1.18.2,Ketamine,,True,5,2022-02;2019-02;2004-08;2000-04;1990-12,n=PH-kdtemp&ed=7&vol=0#383,,
-S_PH_1.18.1,Nitrous oxide,,True,1,1991-12,n=PH-kdtemp&ed=7&vol=0#378,,
-S_PH_1.18.1,Ether,,True,1,1992-04,n=PH-kdtemp&ed=7&vol=0#378,,
-S_PH_1.15.2,Succinyl Choline,,True,5,2022-08;2009-02;2002-03;1999-04;1993-11,n=PH-kdtemp&ed=7&vol=0#353,,
-S_PH_1.15.1,Pancuronium,,True,1,2000-04,n=PH-kdtemp&ed=7&vol=0#353,,
-S_PH_1.17,Lignocaine,Adverse effects,True,4,2012-02;2009-08;2009-02;2001-04,n=PH-kdtemp&ed=7&vol=0#366,,
-S_PH_1.17,Mechanism of Action of Local Anaesthetics,,True,3,2023-02;2020-02;2005-02,n=PH-kdtemp&ed=7&vol=0#361,,
-S_PH_1.18.3,Pre-Anaesthetic Medications,,True,9,2023-02;2022-08;2018-02;2014-02;2012-02;2010-08;2010-02;2008-02;2005-08,n=PH-kdtemp&ed=7&vol=0#385,,
-S_PH_1.15.1;1.15.2,Competitiive and Non competitive Neuromuscular Blockers,"- Difference
+S_PH_1.15.2,Succinyl Choline,,True,5,2022-08;2009-02;2002-03;1999-04;1993-11,n=PH-kdtemp&ed=8&vol=0#379,,
+S_PH_1.15.1,Pancuronium,,True,1,2000-04,n=PH-kdtemp&ed=8&vol=0#379,,
+S_PH_1.17,Lignocaine,Adverse effects,True,4,2012-02;2009-08;2009-02;2001-04,n=PH-kdtemp&ed=8&vol=0#392,,
+S_PH_1.17,Local Anaesthetics,- Mechanism of Action,True,3,2023-02;2020-02;2005-02,n=PH-kdtemp&ed=8&vol=0#387,,
+S_PH_1.15.1;1.15.2,Competitive and Non-competitive Neuromuscular Blockers,"- Difference
 - Therapeutic effects
-- Adverse effects",True,1,2008-08,n=PH-kdtemp&ed=7&vol=0#350,,
-S_PH_1.18.2,Intravenous General Anaesthesia,"- Classification
-- Mechanism of Action
-- Uses
-- Adverse Effects",True,1,2008-08,n=PH-kdtemp&ed=7&vol=0#381,,
-S_PH_1.17,Rationale of Giving Adrenaline with Local Anaesthetics,,True,3,2023-02;2009-02;2008-08,n=PH-kdtemp&ed=7&vol=0#363,,
-S_PH_1.15.3,Dantrolene,,True,1,2009-08,n=PH-kdtemp&ed=7&vol=0#356,,
-S_PH_1.18,Balance Anaesthesia,,True,1,2010-02,n=PH-kdtemp&ed=7&vol=0#373,,
-S_PH_1.18.2,Dissociative Anaesthesia,- Hint: Ketamine,True,2,2018-02;2010-02,n=PH-kdtemp&ed=7&vol=0#383,,
+- Adverse effects",True,1,2008-08,n=PH-kdtemp&ed=8&vol=0#374,,
+S_PH_1.17,Rationale of Giving Adrenaline with Local Anaesthetics,,True,3,2023-02;2009-02;2008-08,n=PH-kdtemp&ed=8&vol=0#389,,
+S_PH_1.15.3,Dantrolene,,True,1,2009-08,n=PH-kdtemp&ed=8&vol=0#382,,
 S_PH_1.15.4,Centrally Acting Skeletal Muscle Relaxants,"- Classification
 - Mechanism of Action
 - Uses
-- Adverse Effects",True,2,2023-07;2011-02,n=PH-kdtemp&ed=7&vol=0#356,,
-S_PH_1.17,Complications of Spinal Anaesthesia,,True,3,2022-08;2022-03;2011-02,n=PH-kdtemp&ed=7&vol=0#369,,
-S_PH_1.18.2,Thiopentone Sodium,,True,1,2011-08,n=PH-kdtemp&ed=7&vol=0#381,,
-S_PH_1.18.2,Propofol as Inducing Agent,,True,1,2012-08,n=PH-kdtemp&ed=7&vol=0#382,,
-S_PH_1.17,Bupivacaine,,True,1,2012-08,n=PH-kdtemp&ed=7&vol=0#367,,
-S_PH_1.17,Local Anaesthetics in Presence of Inflammation,,True,1,2013-08,n=PH-kdtemp&ed=7&vol=0#363,,
-S_PH_1.18.4,Complications of General Anaesthesia,,True,1,2014-02,n=PH-kdtemp&ed=7&vol=0#385,,
-S_PH_1.15.1,Mechanism of Action of d-Tubocurarine,,True,1,2015-02,n=PH-kdtemp&ed=7&vol=0#353,,
-S_PH_1.15.2,Succinyl choline apnea,"- Mechanism of Action
-- Treatment",True,1,2016-02,n=PH-kdtemp&ed=7&vol=0#353,,
-S_PH_1.18.1,Advantages of Using Nitrous Oxide for General Anaesthesia,,True,1,2019-08,n=PH-kdtemp&ed=7&vol=0#378,,
-S_PH_1.15.2,Depolarizing Neuromscular Blockers,"- Classification
+- Adverse Effects",True,2,2023-07;2011-02,n=PH-kdtemp&ed=8&vol=0#382,,
+S_PH_1.17,Complications of Spinal Anaesthesia,,True,3,2022-08;2022-03;2011-02,n=PH-kdtemp&ed=8&vol=0#396,,
+S_PH_1.17,Bupivacaine,,True,1,2012-08,n=PH-kdtemp&ed=8&vol=0#392,,
+S_PH_1.17,Local Anaesthetics in Presence of Inflammation,,True,1,2013-08,n=PH-kdtemp&ed=8&vol=0#389,,
+S_PH_1.15.1,d-Tubocurarine,- Mechanism of Action,True,1,2015-02,n=PH-kdtemp&ed=8&vol=0#374,,
+S_PH_1.15.2,Succinyl Choline Apnoea,"- Mechanism of Action
+- Treatment",True,1,2016-02,n=PH-kdtemp&ed=8&vol=0#376,,
+S_PH_1.15.2,Depolarizing Neuromuscular Blockers,"- Classification
 - Mechanism of Action
 - Uses
-- Adverse Effects",True,1,2020-11,n=PH-kdtemp&ed=7&vol=0#349,,
-S_PH_1.15.4,Baclofen,,True,1,2023-07,n=PH-kdtemp&ed=7&vol=0#358,,
-E_PH_1.18,General Anaesthesia,"- Merits and demerits of Ether, halothane and pentathol sodium;- Classification
-- Stages",True,2,2004-08;2003-10,n=PH-kdtemp&ed=7&vol=0#372,,
+- Adverse Effects",True,1,2020-11,n=PH-kdtemp&ed=8&vol=0#375,,
+S_PH_1.15.4,Baclofen,,True,1,2023-07,n=PH-kdtemp&ed=8&vol=0#384,,
 E_PH_1.15,Skeletal muscle relaxants,"- Uses of Succinyl Choline
 - Succinyl Choline apnea and treatment;- Classification
 - MOA and Uses of Succinyl Choline
 - Succinyl Choline apnea and treatment
 - d-Tubocurarine, actions and toxicity
 - Dantrolene sodium
-- Malignant hyperthermia",True,2,2006-08;2003-10,n=PH-kdtemp&ed=7&vol=0#347,,
+- Malignant hyperthermia",True,2,2006-08;2003-10,n=PH-kdtemp&ed=8&vol=0#373,,

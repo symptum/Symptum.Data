@@ -1,5 +1,5 @@
 Id,Title,Descriptions,HasPreviouslyBeenAsked,Importance,YearsAsked,BookLocations,ProbableCases,ReferenceLinks
-S_PA_22.4,Reticulocyte,,True,2,2017-08;2005-08,n=PA-ramd&ed=4&vol=0#385,,
+S_PA_22.4,Reticulocyte,,True,2,2017-08;2005-08,n=PA-rbpbdsa&ed=10&vol=1#637;n=PA-ramd&ed=4&vol=0#385,,
 E_PA_16.1;16.3.1,Sickle Cell Anaemia,"- Define Anaemia
 - Classify Hemolytic Anaemia
 - Pathogenesis
@@ -29,7 +29,6 @@ E_PA_16.3.2,Thalassemia,"- Etiopathogenesis
 - Pathogenesis
 - Blood Picture
 - Clinical Features of Beta Thalassemia Major",True,1,2023-02,n=PA-rbpbdsa&ed=10&vol=1#644,A 8 year old girl presented with malaise and fatigue. On examination yellowish sclera with hepatosplenomegaly noted. Family history revealed similar complaints in her sibling also. Her Hemoglobin level is 7.8 g/dl. X-Ray skull showed “crewcut” appearance.,
-S_PA_11.4,Hemolytic Disease of Newborn (Fetal Hydrops),,True,2,2009-08;1996-04,n=PA-rbpbdsa&ed=10&vol=1#462,,
 S_PA_19.9,Polycythaemia Vera,"- Pathogenesis
 - Morphology
 - Clinical Features",True,2,2012-08,n=PA-rbpbdsa&ed=10&vol=1#624,,
