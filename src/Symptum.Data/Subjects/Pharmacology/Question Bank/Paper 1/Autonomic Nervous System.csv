@@ -1,18 +1,20 @@
 Id,Title,Descriptions,HasPreviouslyBeenAsked,Importance,YearsAsked,BookLocations,ProbableCases,ReferenceLinks
-S_PH_1.14.1,Management of Organo Phosphorus Poisoning,,True,5,2023-02;2019-12;2017-02;2010-08;2008-08,,,
-S_PH_1.13.1,Adrenaline,,True,1,2017-08,,,
-S_PH_1.13.2,Therapeutic uses of adrenergic drugs,,True,2,2022-03;2014-02,,,
-M_PH_1.14.1,Rationale for using Timolol in the treatment of Glaucoma,,True,2,2018-02;2009-08,,,
-S_PH_1.13.3,Alpha blockers,,True,4,2018-08;2016-08;2010-08;2002-10,,,
-M_PH_1.14.2,Name any two drugs used for glaucoma,,True,5,2018-08;2016-08;2013-08;2011-02;2009-02,,,
-M_PH_1.13.1,Write any one use and one adverse effect  of labetalol,,True,1,2019-02,,,
-M_PH_1.14.3,Name two groups of drugs used in the treatment of open angle glaucoma,,True,1,2019-08,,,
-M_PH_1.13.2,Adenosine,,True,1,2020-02,,,
+S_PH_1.14.1,Management of Organo Phosphorus Poisoning,- Cholinesterase Reactivators,True,5,2023-02;2019-12;2017-02;2015-02;2010-08;2008-08,n=PH-kdtemp&ed=8&vol=0#122,,
+S_PH_1.13.1,Adrenaline,,True,1,2017-08,n=PH-kdtemp&ed=8&vol=0#136,,
+S_PH_1.13.2,Therapeutic uses of Adrenergic Drugs,,True,2,2022-03;2014-02,n=PH-kdtemp&ed=8&vol=0#150,,
+S_PH_1.14.1,Timolol,- Rationale for use in the treatment of Glaucoma,True,3,2018-02;2009-08;1990-12,n=PH-kdtemp&ed=8&vol=0#167,,
+S_PH_1.13.3,Alpha Adrenergic Blockers,- Therapeutic Uses,True,4,2018-08;2016-08;2012-02;2010-08;2009-02;2002-10,n=PH-kdtemp&ed=8&vol=0#153,,
+S_PH_1.14.2,Anti-Glaucoma Drugs,,True,5,2018-08;2016-08;2013-08;2011-02;2009-02,n=PH-kdtemp&ed=8&vol=0#153,,
+S_PH_1.13.1,Labetalol,"- Uses 
+- Adverse Effects",True,1,2019-02,n=PH-kdtemp&ed=8&vol=0#165,,
 E_PH_1.14.1,Organo Phosphorous Compound poisoning,"- Antidote
 - Receptor antagonism with suitable diagrams
-- Cholinergic crisis in Myasthenia Gravis",True,1,2021-02,,,
-S_PH_1.13.4,Therapeutic uses of Beta Blockers,- Contraindications,True,4,2022-08;2021-09;2002-03;1993-01,,,
-E_PH_1.13.1,Beta Blockers,"- Classification
+- Cholinergic crisis in Myasthenia Gravis",True,1,2021-02,n=PH-kdtemp&ed=8&vol=0#122,,
+S_PH_1.13.4,Beta-Blockers,"- Therapeutic uses
+- Contraindications;- Indications 
+- Contraindications
+- Extra-Cardiac Uses;- Adverse Effects",True,6,2022-08;2021-09;2012-08;2009-08;2009-02;2008-08;2002-03;1993-01,n=PH-kdtemp&ed=8&vol=0#160,,
+E_PH_1.13.1,Beta-Blockers,"- Classification
 - Pharmacological Effects
 - Uses
 - Adverse Effects;- Drug receptor
@@ -20,47 +22,35 @@ E_PH_1.13.1,Beta Blockers,"- Classification
 - Adverse effects and Contraindications of Non Cardio Selective Beta Blockers;- Mechanism of action of Proponalol
 - Pharmacological Action of Proponalol
 - Therapeutic uses of Proponalol;- Therapeutic uses
-- Advantages of cardio Selective Beta Blockers;- Role of Beta Blockers in Thyrotoxicosis",True,7,2023-02;2016-08;2012-02;2007-02;2004-08;2002-03;2000-10,,,
+- Advantages of cardio Selective Beta Blockers;- Role of Beta Blockers in Thyrotoxicosis",True,7,2023-02;2016-08;2012-02;2007-02;2004-08;2002-03;2000-10,n=PH-kdtemp&ed=8&vol=0#157,,
 S_PH_1.14.2,Atropine,"- Pharmacological action
 - Uses
-- Substitutes",True,2,2023-07;2014-02,,,
-S_PH_1.14.3,Drugs used in Open Angle Glaucoma,,True,1,2022-08,,,
+- Substitutes",True,2,2023-07;2014-02,n=PH-kdtemp&ed=8&vol=0#124,,
+S_PH_1.14.3,Drugs used in Open Angle Glaucoma,,True,2,2022-08;2019-08,n=PH-kdtemp&ed=8&vol=0#166,,
 S_PH_1.13.5,Treatment for Benign Prostatic Hypertrophy (BPH),"- Preferred drugs
-- Rational in using them",True,1,2023-07,,,
-S_PH_1.14.4,Cyclophosphamide,,True,1,1990-12,,,
-S_PH_1.14.5,Timolol,,True,1,1990-12,,,
-S_PH_1.13.6,Beta Stimulants,,True,1,1995-11,,,
-S_PH_1.14.6,Drugs for Glaucoma,,True,4,2010-02;2005-02;2002-10;1996-10,,,
-E_PH_1.14.2,Muscarinic Receptor Blockers,"- Enumerate the different natural and synthetic drugs
-- Action of one drug from this group on eye and smooth muscle with two clinical indications
-- Systemic adverse effects of one of them",True,1,2000-10,,,
-S_PH_1.13.7,Proponalol,,True,1,2004-08,,,
-S_PH_1.14.7,Pharmacotherapy of Myasthenia Gravis,,True,1,2003-10,,,
-S_PH_1.13.8,Clonidine,,True,1,2004-08,,,
-E_PH_1.13.2,Adrenaline,"- Classify Sympathomimetics
-- Cardiovascular action of Adrenaline
-- Therapeutic uses of adrenaline
-- Adverse effects of Adrenaline;- Mechanism of action of Adrenaline;-Contraindications of Adrenaline",True,5,2013-02;2011-02;2009-02;2005-08;2005-02,,,
-S_PH_1.14.8,Therapeutic uses of Atropine,,True,1,2006-08,,,
-E_PH_1.14.3,Atropine,"- Classify Anti-Cholinergic drugs
-- Therapeutic action of Atropine
-- Adverse effects of Atropine
-- Contraindications of Atropine
-- Managements of Atropine Poisoning;- Enumerate Atropine derivatives and its uses",True,2,2009-08;2007-08,,,
-S_PH_1.13.9,Beta Blockers,"- Indications
-- Contraindications;- Extra Cardiac uses",True,2,2009-08;2008-08,,,
-M_PH_1.13.3,Therapeutic uses of Alpha Blockers,,True,1,2009-02,,,
-M_PH_1.13.4,Two Adverse effects of Beta Blockers,,True,1,2009-02,,,
-S_PH_1.13.10,Dopamine in Cardiogenic Shock,,True,2,2010-02;2009-08,,,
-E_PH_1.14.4,Anti-Cholinersterases,"- Mechanism of action
-- Indication of  Reversible Anti-Cholinersterases
-- Management of Acute Organophosphorous Poisoning
-",True,1,2011-08,,,
-M_PH_1.13.5,Two Sympatholytic Agents and its Uses,,True,1,2012-02,,,
-M_PH_1.13.6,4 Extravascular uses of Clonidine,,True,1,2012-08,,,
-M_PH_1.13.7,Contraindications of Beta Blockers,,True,1,2012-08,,,
-E_PH_1.13.3,Role of Sympathomimetics in the management of Bronchial Asthma,,True,1,2012-08,,,
-S_PH_1.13.11,Uroselective Alpha Adrenergic Blockers,,True,1,2012-08,,,
-E_PH_1.13.4,Drug therapy for Anti-Cholinesterase Poisoning,,True,1,2013-08,,,
-M_PH_1.14.4,Cholinergic Crisis,,True,1,2014-08,,,
-M_AN_1.14.5,Cholinesterase reactivators in Organophosphorous poisoning,,True,1,2015-02,,,
+- Rational in using them",True,1,2023-07,n=PH-kdtemp&ed=8&vol=0#157,,
+S_PH_1.13.6,Beta Stimulants,,True,1,1995-11,n=PH-kdtemp&ed=8&vol=0#149,,
+S_PH_1.14.6,Drugs for Glaucoma,,True,4,2010-02;2005-02;2002-10;1996-10,n=PH-kdtemp&ed=8&vol=0#165,,
+E_PH_1.14.2,Muscarinic Receptor Blockers,"- Natural and Synthetic drugs
+- Action on Eye and Smooth Muscles with Indications
+- Systemic Adverse Effects",True,1,2000-10,n=PH-kdtemp&ed=8&vol=0#124,,
+S_PH_1.13.7,Proponalol,,True,1,2004-08,n=PH-kdtemp&ed=8&vol=0#157,,
+S_PH_1.14.7,Treatment of Myasthenia Gravis,,True,1,2003-10,n=PH-kdtemp&ed=8&vol=0#120,,
+S_PH_1.13.8,Clonidine,- Extravascular Uses,True,1,2012-08;2004-08,n=PH-kdtemp&ed=8&vol=0#611,,
+E_PH_1.13.2,Adrenaline,"- Classification of Sympathomimetics
+- Cardiovascular Action
+- Therapeutic Uses
+- Adverse Effects;- Mechanism of Action
+- Contraindications",True,5,2013-02;2011-02;2009-02;2005-08;2005-02,n=PH-kdtemp&ed=8&vol=0#136,,
+S_PH_1.14.8,Therapeutic Uses of Atropine,,True,1,2006-08,n=PH-kdtemp&ed=8&vol=0#130,,
+E_PH_1.14.3,Atropine,"- Classification of Anti-Cholinergic drugs
+- Therapeutic Action
+- Adverse Effects
+- Contraindications
+- Managements of Atropine Poisoning;- Atropine Derivatives and Their Uses",True,2,2009-08;2007-08,n=PH-kdtemp&ed=8&vol=0#124,,
+S_PH_1.13.10,Dopamine in Cardiogenic Shock,,True,2,2010-02;2009-08,n=PH-kdtemp&ed=8&vol=0#146,,
+E_PH_1.14.4,Anti-Cholinersterases,"- Mechanism of Action
+- Indication of Reversible Anti-Cholinersterases
+- Management of Acute Organophosphorous Poisoning",True,1,2013-08;2011-08,n=PH-kdtemp&ed=8&vol=0#116,,
+S_PH_1.13.11,Uroselective Alpha Adrenergic Blockers,,True,1,2012-08,n=PH-kdtemp&ed=8&vol=0#156,,
+S_PH_1.14.4,Cholinergic Crisis,,True,1,2014-08,n=PH-kdtemp&ed=8&vol=0#121,,

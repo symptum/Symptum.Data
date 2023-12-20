@@ -2,7 +2,7 @@ Id,Title,Descriptions,HasPreviouslyBeenAsked,Importance,YearsAsked,BookLocations
 E_PH_1.4.1,Biotransformation,"- Biotransformation Reactions
 - Phase I and Phase II reaction with suitable examples
 - Importance of Enzyme Induction and Enzyme Inhibition;- Microsomal Enzyme Induction and Inhibition with examples",True,2,2014-08;2010-02,n=PH-kdtemp&ed=8&vol=0#28,"A 35 year old woman taking combined oral contraceptive pills. She was a diagnosed as a case of tuberculosis and put on isoniazid, rifampicin, pyrazinamide, and ethambutol combination therapy for 2 months followed by isoniazid and rifampicin thrice weekly for 4 months. In the 3rd month of treatement, she failed to have withdrawal bleeding during the gap period of contraceptive cycle. One week later her urinary pregnancy test was found to be positive.",
-S_PH_1.1.1,Pharmacogentics,- Two Examples,True,6,2023-02;2021-09;2017-08;2009-02;2008-02;2001-04,n=PH-kdtemp&ed=8&vol=0#75,,
+S_PH_1.1.1,Pharmacogenetics,- Two Examples,True,6,2023-02;2021-09;2017-08;2009-02;2008-02;2001-04,n=PH-kdtemp&ed=8&vol=0#75,,
 S_PH_1.11.2.1,Sublingual Route of Drug Administration,,True,3,2011-08;2008-08;1997-10,n=PH-kdtemp&ed=8&vol=0#12,,
 E_PH_1.11,Routes of Drug Administration,"- Explanation of Each Route
 - Examples
@@ -10,9 +10,9 @@ E_PH_1.11,Routes of Drug Administration,"- Explanation of Each Route
 - Disadvantages",True,1,2001-04,n=PH-kdtemp&ed=8&vol=0#9,,
 S_PH_1.4.2,Bioavailability,,True,4,2020-02;2009-08;2004-08;2001-04,n=PH-kdtemp&ed=8&vol=0#22,,
 S_PH_1.11.1,Local Routes Of Drug Administration,,True,1,2010-02,n=PH-kdtemp&ed=8&vol=0#10,,
-S_PH_1.3.1,Newer Drug Delivery System,,True,5,2023-02;2013-02;2011-02;2008-02;1994-11,n=PH-tarav&ed=4&vol=0#8,,
-S_PH_1.4.3,First Pass Metabolism[Presystemic Elimination],,True,4,2016-08;2007-02;1998-10;1993-01,n=PH-kdtemp&ed=8&vol=0#34,,
-S_PH_1.4.4,Biological Half-life[Plasma Half Life],"- Drugs with short half life
+S_PH_1.3.1,Newer Drug Delivery System,,True,5,2023-02;2013-02;2011-02;2008-02;1994-11,n=PH-kdtemp&ed=8&vol=0#42;n=PH-tarav&ed=4&vol=0#8,,
+S_PH_1.4.3,First Pass Metabolism (Pre-Systemic Elimination),,True,4,2016-08;2007-02;1998-10;1993-01,n=PH-kdtemp&ed=8&vol=0#34,,
+S_PH_1.4.4,Biological Half Life (or) Plasma Half Life,"- Drugs with short half life
 - Drugs with long and very short half life",True,6,2023-07;2018-08;2017-02;2005-08;2002-03;1995-11,n=PH-kdtemp&ed=8&vol=0#39,,
 S_PH_1.5.2.1,Intracellular Receptors,,True,1,2020-11,n=PH-kdtemp&ed=8&vol=0#60,,
 S_PH_1.4.5,Prolongation Of Drug Action,,True,2,2023-07;1996-04,n=PH-kdtemp&ed=8&vol=0#42,,
@@ -33,7 +33,7 @@ S_PH_1.6.1,Pharmacovigilance,,True,6,2022-08;2022-03;2021-09;2018-02;2016-02;201
 S_PH_1.11.2.3,Parenteral Route of Drug Administration,,True,1,2019-08,n=PH-kdtemp&ed=8&vol=0#13,,
 S_PH_1.7.2,Drugs in Anaphylactic Shock,,True,1,,n=PH-kdtemp&ed=8&vol=0#97,,
 S_PH_1.4.1.4,Phase 2 Biotransformation Reactions with Suitable Examples,,True,2,2022-03;2020-02,n=PH-kdtemp&ed=8&vol=0#31,,
-S_PH_1.5.4.1,Receptor antagonism drugs,,True,1,2011-08,n=PH-kdtemp&ed=8&vol=0#68,,
+S_PH_1.5.4.1,Receptor Antagonism,,True,1,2011-08,n=PH-kdtemp&ed=8&vol=0#68,,
 S_PH_1.5.1.2,Drug Responses in Elderly,,True,1,2012-08,n=PH-kdtemp&ed=8&vol=0#74,,
 E_PH_1.5.1,Factors Modifying Drug Action,"- Definition Drug and Dose
 - Various Factors Modifying a Drug's Actions
@@ -42,7 +42,7 @@ S_PH_1.4.1,Biotransformation,,True,2,2008-08;1999-04,n=PH-kdtemp&ed=8&vol=0#28,,
 S_PH_1.64.1,Post Marketing Surveillance During Newer Drug Development (Phase IV Clinical Trial),,True,2,2017-02;1995-11,n=PH-kdtemp&ed=8&vol=0#91,,
 S_PH_1.7.3,Iatrogenicity,,True,1,2000-10,n=PH-kdtemp&ed=8&vol=0#101,,
 S_PH_1.4.9,Protein Binding of Drugs,- Clinical significance with Examples,True,2,2021-09;2003-10,n=PH-kdtemp&ed=8&vol=0#25,,
-S_PH_1.4.1.3,Phase 1 biotransformation reaction with examples,,True,1,2006-08,n=PH-kdtemp&ed=8&vol=0#29,,
+S_PH_1.4.1.3,Phase 1 Biotransformation Reaction with Examples,,True,1,2006-08,n=PH-kdtemp&ed=8&vol=0#29,,
 S_PH_1.5.3,Drug Synergism,,True,1,2016-02,n=PH-kdtemp&ed=8&vol=0#66,,
 S_PH_1.11.2.4,Rectal Route of Administration,- Merits and Demerits,True,1,2023-12,n=PH-kdtemp&ed=8&vol=0#12,,
 S_PH_1.1.3,Orphan Drugs,,True,1,2018-08,n=PH-kdtemp&ed=8&vol=0#7,,

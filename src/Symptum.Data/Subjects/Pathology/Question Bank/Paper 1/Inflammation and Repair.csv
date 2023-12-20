@@ -1,12 +1,13 @@
 Id,Title,Descriptions,HasPreviouslyBeenAsked,Importance,YearsAsked,BookLocations,ProbableCases,ReferenceLinks
 S_PA_4.3.1,Granuloma (or) Granulomatous Inflammation,- Immune Granuloma;- Tubercle,True,9,2023-07;2013-08;2013-02;2008-02;2006-02;2005-02;2000-04;1998-11;1998-04,n=PA-rbpbdsa&ed=10&vol=1#100,,
 S_PA_5.1.3,Wound Healing,- Factors Affecting Wound Healing;- Steps;- Types,True,8,2023-02;2018-08;2014-02;2013-08;2013-02;2008-08;2006-08;2005-02,n=PA-rbpbdsa&ed=10&vol=1#108,,
-S_PA_4.2,Chemical Mediators of Acute Inflammation,"- Chemokines;- Tumor Necrosis Factor (TNF)- Interleukin-1 (IL-1);- Arachidonic Acid Metabolites",True,10,2023-07;2021-02;2019-08;2016-08;2014-02;2011-02;2009-08;2009-02;2000-10;1990-12,n=PA-rbpbdsa&ed=10&vol=1#0,,
-S_PA_4.1.1.2,Exudate and Transudate,,True,5,2011-02;2009-02;2004-08;2000-04;1992-04,n=PA-rbpbdsa&ed=10&vol=1#0,,
+S_PA_4.2,Chemical Mediators of Acute Inflammation,"- Chemokines;- Tumor Necrosis Factor (TNF)- Interleukin-1 (IL-1);- Arachidonic Acid Metabolites",True,10,2023-07;2021-02;2019-08;2016-08;2014-02;2011-02;2009-08;2009-02;2000-10;1990-12,n=PA-rbpbdsa&ed=10&vol=1#85,,
+S_PA_4.1.1.2,Exudate and Transudate,,True,5,2011-02;2009-02;2004-08;2000-04;1992-04,n=PA-rbpbdsa&ed=10&vol=1#75,,
 S_PA_4.1.1,Acute Inflammation,"- Morphologic Patterns- Chemotaxis;- Systemic Effects",True,5,2022-02;2014-02;2011-08;2003-10;1993-01,n=PA-rbpbdsa&ed=10&vol=1#75,,
 S_PA_5.1.1,Tissue Repair,- Exuberant Granulation Tissue,True,2,2022-02;1996-04,n=PA-rbpbdsa&ed=10&vol=1#111,,
 E_PA_4.1.1,Acute Inflammation,"- Define Inflammation- Cellular Events- Chemotaxis- Phagocytosis- Defects in Leukocyte Functions;- Definition- Signs of Inflammation- Mediators;- Definition- Chemical Mediators",True,8,2020-11;2019-02;2011-08;2010-08;2007-02;2005-02;1995-11;1992-04,n=PA-rbpbdsa&ed=10&vol=1#75;n=PA-rbpbdsa&ed=10&vol=1#85,,
-E_PA_5.1,Repair and Healing,,True,1,2006-02,n=PA-rbpbdsa&ed=10&vol=1#105,,
-E_PA_,Cytokines,,True,1,1994-11,,,
-S_PA_,Healing by Second Intention,,True,1,1995-11,,,
-E_PA_5.1.3,Wound Healing,"- Healing by Second Intention- Difference between First and Second Intention Healing- Factors Affecting Healing",True,1,1997-10,,,
+E_PA_5.1,Repair and Healing,,True,1,2006-02,n=PA-rbpbdsa&ed=10&vol=1#103,,
+E_PA_,Cytokines,,True,3,2020-02;2001-04;1994-11,n=PA-rbpbdsa&ed=10&vol=1#88,,
+S_PA_,Healing by Second Intention,,True,1,1995-11,n=PA-rbpbdsa&ed=10&vol=1#110,,
+E_PA_5.1.3,Wound Healing,"- Healing by Second Intention- Difference between First and Second Intention Healing- Factors Affecting Healing",True,1,1997-10,n=PA-rbpbdsa&ed=10&vol=1#108,,
+S_PA_,Phagocytosis,,True,5,2014-02;2010-02;2005-08;1999-04;1992-04,n=PA-rbpbdsa&ed=10&vol=1#80,,
