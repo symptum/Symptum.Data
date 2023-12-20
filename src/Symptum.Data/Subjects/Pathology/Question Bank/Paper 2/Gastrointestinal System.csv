@@ -1,6 +1,6 @@
 Id,Title,Descriptions,HasPreviouslyBeenAsked,Importance,YearsAsked,BookLocations,ProbableCases,ReferenceLinks
 S_PA_,Gastric Adenocarcinoma (or) Gastric Cancer,"- Morphological Classification
-- Microscopic Finidings
+- Microscopic Findings
 - Linitis Plastica;- Pathogenesis
 - Morphology",True,6,2022-03;2019-08;2016-02;2011-08;2006-02;1997-04,n=PA-rbpbdsa&ed=10&vol=2#774,"A **55 year old** male, with C/O **weight loss** and **dyspepsia.** Endoscopy revealed an **ulcerative lesion in antrum.**",
 S_PA_,Crohn's Disease (or) Regional Ileitis,"- Etiopathogenesis

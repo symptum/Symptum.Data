@@ -17,7 +17,7 @@ E_MI_3.2.1.3,Hepatitis B Virus,"- Morphology
 - Morphology
 - Pathogenesis
 - Lab diagnosis
-- Prophylaxis;- Name the hepatotrophic viruses
+- Prophylaxis;- Name the hepatotropic viruses
 - Pathogenesis
 - Laboratory diagnosis;- Enumerate the viruses transmitted by blood transfusion
 - Hepatitis B virus
@@ -42,7 +42,7 @@ S_MI_3.2.1.3.3,Prevention of Hepatitis B Virus Infection,- Detail about Preventi
 S_MI_3.2.1.3,Hepatitis B Virus,"- Various viral markers
 - Laboratory diagnosis
 - Prophylaxis;- Detail about Hepatitis B Virus",True,2,2022-08;2022-02,n=MI-apsemm&ed=4&vol=0#397;n=MI-apsemm&ed=3&vol=0#478,"A 40-year-old male presented with history of **loss of appetite, malaise and jaundice** of 2 months duration. On examination, there was **icterus, hepatomegaly and tenderness in the right hypochondriac region.** He gave a history of **blood transfusion** in the past. On laboratory examination, he was found to be positive for HBsAg.",
-S_MI_3.2.2.2,Echinococcus granulosus,- Life cycle;- Hydatid disease;- Cyctic Echinococcus;- Dog Tapeworm,True,3,2023-02;2020-02;2009-02,n=MI-apsemm&ed=4&vol=0#410;n=MI-apsemm&ed=3&vol=0#493,,
+S_MI_3.2.2.2,Echinococcus granulosus,- Life cycle;- Hydatid disease;- Cystic Echinococcus;- Dog Tapeworm,True,3,2023-02;2020-02;2009-02,n=MI-apsemm&ed=4&vol=0#410;n=MI-apsemm&ed=3&vol=0#493,,
 E_MI_3.2.2.1,Extra Intestinal Amoebiasis (or) Amoebic Liver Abscess,"- Pathogenesis
 - Clinical features
 - Complication

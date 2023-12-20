@@ -54,8 +54,8 @@ S_PH_1.27.1.1,Beta Blockers as Anti-hypertensives,,True,1,2009-08,n=PH-kdtemp&ed
 S_PH_1.29.1,Cardiac Glycosides,,True,2,2019-08;2009-08,n=PH-kdtemp&ed=8&vol=0#556,,
 S_PH_1.24.1.4,Osmotic Diuretics,,True,5,2014-02;2012-02;2010-02;2008-02;2004-08,n=PH-kdtemp&ed=8&vol=0#637,,
 S_PH_1.27.1.1.1,Carvedilol,,True,1,2010-02,n=PH-kdtemp&ed=8&vol=0#610,,
-S_PH_1.25.3,Anti-platlet Drugs,,True,5,2023-07;2023-02;2017-08;2015-02;2010-02,n=PH-kdtemp&ed=8&vol=0#676,,
-S_PH_1.31.2.1,Atarvostatin,,True,2,2010-02;2008-02,n=PH-kdtemp&ed=8&vol=0#685,,
+S_PH_1.25.3,Anti-platelet Drugs,,True,5,2023-07;2023-02;2017-08;2015-02;2010-02,n=PH-kdtemp&ed=8&vol=0#676,,
+S_PH_1.31.2.1,Atorvastatin,,True,2,2010-02;2008-02,n=PH-kdtemp&ed=8&vol=0#685,,
 S_PH_1.24.1.2,Thiazide Diuretics,,True,6,2017-08;2017-02;2013-08;2011-08;2010-08;2003-10,n=PH-kdtemp&ed=8&vol=0#628,,
 S_PH_1.25.2.1,Heparin,- Heparin vs Warfarin;- Low Molecular Weight Heparin,True,10,2022-03;2020-11;2019-08;2015-02;2014-08;2013-08;2011-02;2010-08;2005-08;2004-08;2001-04;1998-04;1993-01,n=PH-kdtemp&ed=8&vol=0#663,,
 S_PH_1.28.3,Myocardial Infarction,,True,3,2014-02;2013-08;2010-08,n=PH-kdtemp&ed=8&vol=0#602,,
@@ -93,4 +93,4 @@ E_PH_1.28.3,Myocardial Infarction,"- Drug Therapy in Myocardial Infarction
 - Mechanism of Action of Statins
 - Uses of Statins
 - Adverse Effects of Statins",True,1,2023-07,n=PH-kdtemp&ed=8&vol=0#602,,
-S_PH_1.25.1.1.1,Parentral Iron Therapy,- Iron Preparations;- Uses,True,5,2023-02;2022-08;2019-08;2011-08;2004-08,n=PH-kdtemp&ed=8&vol=0#649,,
+S_PH_1.25.1.1.1,Parenteral Iron Therapy,- Iron Preparations;- Uses,True,5,2023-02;2022-08;2019-08;2011-08;2004-08,n=PH-kdtemp&ed=8&vol=0#649,,

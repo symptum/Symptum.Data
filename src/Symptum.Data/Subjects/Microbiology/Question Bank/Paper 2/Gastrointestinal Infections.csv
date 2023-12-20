@@ -12,7 +12,7 @@ E_MI_3.1.3.1,Cholera,"- Enumerate Bacteria causing Diarrhea
 - Prevention;- Morphology
 - Pathogenesis
 - Laboratory diagnosis
-- Treatment",True,8,2022-08;2015-08;2011-02;2010-02;2008-02;2003-10;2001-04;1996-04,n=MI-apsemm&ed=4&vol=0#346;n=MI-apsemm&ed=3&vol=0#410,A 25 year old female admitted with history of **watery diarrhea resembling rice water** of 24 hrs duration along with **copious vomitting**.,
+- Treatment",True,8,2022-08;2015-08;2011-02;2010-02;2008-02;2003-10;2001-04;1996-04,n=MI-apsemm&ed=4&vol=0#346;n=MI-apsemm&ed=3&vol=0#410,A 25 year old female admitted with history of **watery diarrhea resembling rice water** of 24 hrs duration along with **copious vomiting**.,
 S_MI_3.1.3.2,Halophilic Vibrios,- Detail about Halophilic Vibrios;- Non Cholera Vibrios;- Non agglutinating Vibrios,True,5,2013-02;2012-08;2010-02;2001-11;1994-11,n=MI-apsemm&ed=4&vol=0#352;n=MI-apsemm&ed=3&vol=0#417,,
 S_MI_3.1.1,Bacteria Causing Food Poison,- Laboratory diagnosis;- Note on bacterial food poisoning,True,4,2014-08;2010-08;2007-02;2000-10,n=MI-apsemm&ed=4&vol=0#332;n=MI-apsemm&ed=3&vol=0#394,,
 S_MI_3.1.3.1.4,Lab Diagnosis of Cholera,,True,2,2021-09;2018-08,n=MI-apsemm&ed=4&vol=0#349;n=MI-apsemm&ed=3&vol=0#414,,
@@ -80,7 +80,7 @@ S_MI_3.1.1.2,Clostridium botulinum,- Botulism;- Detail about Clostridium botulin
 S_MI_3.1.4.3,Clostridium difficile,,True,2,2018-02;1997-04,n=MI-apsemm&ed=4&vol=0#357;n=MI-apsemm&ed=3&vol=0#422,,
 S_MI_3.1.2.1,General Characteristics of Enterobacteriaceae,,False,1,,n=MI-apsemm&ed=4&vol=0#337;n=MI-apsemm&ed=3&vol=0#400,,
 S_MI_3.1.3.1.5,Prophylaxis and Epidemiology of Cholera,,True,1,2002-03,n=MI-apsemm&ed=4&vol=0#348;n=MI-apsemm&ed=3&vol=0#412,,
-S_MI_3.1.4.1,Campylobactor,,True,2,1993-01;1990-08,n=MI-apsemm&ed=4&vol=0#354;n=MI-apsemm&ed=3&vol=0#419,,
+S_MI_3.1.4.1,Campylobacter,,True,2,1993-01;1990-08,n=MI-apsemm&ed=4&vol=0#354;n=MI-apsemm&ed=3&vol=0#419,,
 S_MI_3.1.1.3,Mycotoxicosis (or) Mycotoxins,,True,7,2023-06;2013-02;2006-08;2004-08;2001-11;1998-11;1995-04,n=MI-apsemm&ed=4&vol=0#335;n=MI-apsemm&ed=3&vol=0#398,,
 S_MI_3.1.7.5.1.2,Larval Forms of Cestodes,,False,1,,n=MI-apsemm&ed=4&vol=0#375;n=MI-apsemm&ed=3&vol=0#447,,
 S_MI_3.1.5.1.2,Hymenolepis nana (or) Dwarf Tapeworm,,False,1,,n=MI-apsemm&ed=4&vol=0#377;n=MI-apsemm&ed=3&vol=0#450,,
@@ -91,6 +91,6 @@ S_MI_3.1.1.1,Listeria monocytogenes,,True,2,2022-02;2011-02,n=MI-apsemm&ed=4&vol
 S_MI_3.1.6.1.1.2,Life Cycle of Entamoeba histolytica,,True,2,2010-08;2000-04,n=MI-apsemm&ed=4&vol=0#362;n=MI-apsemm&ed=3&vol=0#428,,
 E_MI_3.1.7.7.2,Enterobiasis,"- Enumerate Intestinal Parasites
 - Laboratory diagnosis",True,1,1992-04,n=MI-apsemm&ed=4&vol=0#383;n=MI-apsemm&ed=3&vol=0#459,,
-S_MI_3.1.4.4,Bacterioids,,True,1,1995-11,n=MI-apsemm&ed=4&vol=0#327,,
+S_MI_3.1.4.4,Bacterioides,,True,1,1995-11,n=MI-apsemm&ed=4&vol=0#327,,
 S_MI_3.1.7.5.4,Redia and cercaria,,True,2,2002-03;2001-11,n=MI-apsemm&ed=4&vol=0#379,,
 S_MI_3.1.7.5.5,Cyclops,,True,3,2002-03;2001-11;1995-11,n=MI-apsemm&ed=4&vol=0#377,,
