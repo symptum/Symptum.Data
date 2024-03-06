@@ -1,118 +1,118 @@
-Id,Title,Descriptions,HasPreviouslyBeenAsked,Importance,YearsAsked,BookLocations,ProbableCases,ReferenceLinks
+Id,Title,Descriptions,HasPreviouslyBeenAsked,Importance,YearsAsked,ProbableCases,BookReferences,LinkReferences
 E_MI_2.5.1,Kala-azar (or) Visceral Leishmaniasis,"- Morphology
 - Life Cycle
 - Clinical Features
-- Laboratory Diagnosis",True,5,2014-08;2013-02;2011-02;2009-08;2007-08,n=MI-apsemm&ed=4&vol=0#312;n=MI-apsemm&ed=3&vol=0#361,"A 31 year old man from Bihar presented with **Splenomegaly**, anemia, and Fever. The bone marrow aspirate collected was subjected to **Giemsa staining** which revealed **amastigotes filled within a macrophage**.",
+- Laboratory Diagnosis",True,5,2014-08;2013-02;2011-02;2009-08;2007-08,"A 31 year old man from Bihar presented with **Splenomegaly**, anemia, and Fever. The bone marrow aspirate collected was subjected to **Giemsa staining** which revealed **amastigotes filled within a macrophage**.",n=MI-apsemm&ed=4&vol=0#312;n=MI-apsemm&ed=3&vol=0#361,
 S_MI_2.5.1,Kala-azar (or) Visceral Leishmaniasis,"- Morphology
-- Laboratory Diagnosis",True,3,2008-08;2005-02;2003-10,n=MI-apsemm&ed=4&vol=0#312;n=MI-apsemm&ed=3&vol=0#361,,
-S_MI_2.5.2,Post Kala-azar Dermal Leishmaniasis,,True,1,2019-08,n=MI-apsemm&ed=4&vol=0#313;n=MI-apsemm&ed=3&vol=0#362,,
+- Laboratory Diagnosis",True,3,2008-08;2005-02;2003-10,,n=MI-apsemm&ed=4&vol=0#312;n=MI-apsemm&ed=3&vol=0#361,
+S_MI_2.5.2,Post Kala-azar Dermal Leishmaniasis,,True,1,2019-08,,n=MI-apsemm&ed=4&vol=0#313;n=MI-apsemm&ed=3&vol=0#362,
 E_MI_2.7.1,HIV (or) AIDS,"- Pathogenesis
 - Clinical Features
 - Laboratory Diagnosis
-- Post Exposure Prophylaxis",True,6,2020-02;2018-08;2016-02;2005-02;1993-01;1990-10,n=MI-apsemm&ed=4&vol=0#283;n=MI-apsemm&ed=3&vol=0#325,"A 25 year old male with history of **multiple sex partners** is admitted with complaints of **unexplained fever, progressive loss of weight, persistent diarrhea and generalized lymphadenopathy** for the past 6 months",
-S_MI_2.7.1,Modes of Transmission of HIV,,True,2,2016-08;2009-02,n=MI-apsemm&ed=4&vol=0#284;n=MI-apsemm&ed=3&vol=0#326,,
-S_MI_2.7.2,Morphology of HIV,,True,3,2023-02;2009-08;2007-08,n=MI-apsemm&ed=4&vol=0#283;n=MI-apsemm&ed=3&vol=0#325,,
-S_MI_2.7.3,Laboratory Diagnosis of HIV,,True,4,2022-08;2021-09;2011-08;2004-08,n=MI-apsemm&ed=4&vol=0#288;n=MI-apsemm&ed=3&vol=0#330,,
-S_MI_2.7.4,Opportunistic Infections in HIV,,True,3,2013-08;2011-08;2009-08,n=MI-apsemm&ed=4&vol=0#288;n=MI-apsemm&ed=3&vol=0#330,,
-E_MI_2.7.5,Post Exposure Prophylaxis in HIV,,True,2,2022-02;2017-08,n=MI-apsemm&ed=4&vol=0#238;n=MI-apsemm&ed=4&vol=0#292;n=MI-apsemm&ed=3&vol=0#335,,
+- Post Exposure Prophylaxis",True,6,2020-02;2018-08;2016-02;2005-02;1993-01;1990-10,"A 25 year old male with history of **multiple sex partners** is admitted with complaints of **unexplained fever, progressive loss of weight, persistent diarrhea and generalized lymphadenopathy** for the past 6 months",n=MI-apsemm&ed=4&vol=0#283;n=MI-apsemm&ed=3&vol=0#325,
+S_MI_2.7.1,Modes of Transmission of HIV,,True,2,2016-08;2009-02,,n=MI-apsemm&ed=4&vol=0#284;n=MI-apsemm&ed=3&vol=0#326,
+S_MI_2.7.2,Morphology of HIV,,True,3,2023-02;2009-08;2007-08,,n=MI-apsemm&ed=4&vol=0#283;n=MI-apsemm&ed=3&vol=0#325,
+S_MI_2.7.3,Laboratory Diagnosis of HIV,,True,4,2022-08;2021-09;2011-08;2004-08,,n=MI-apsemm&ed=4&vol=0#288;n=MI-apsemm&ed=3&vol=0#330,
+S_MI_2.7.4,Opportunistic Infections in HIV,,True,3,2013-08;2011-08;2009-08,,n=MI-apsemm&ed=4&vol=0#288;n=MI-apsemm&ed=3&vol=0#330,
+E_MI_2.7.5,Post Exposure Prophylaxis in HIV,,True,2,2022-02;2017-08,,n=MI-apsemm&ed=4&vol=0#238;n=MI-apsemm&ed=4&vol=0#292;n=MI-apsemm&ed=3&vol=0#335,
 E_MI_2.8.1,Enteric Fever (or) Typhoid Fever,"- Classification of Enterobacteriaceae
 - Pathogenesis
 - Clinical Features
 - Laboratory Diagnosis
-- Management",True,8,2019-02;2014-02;2012-08;2009-08;1998-11;1998-04;1997-10;1992-04,n=MI-apsemm&ed=4&vol=0#262;n=MI-apsemm&ed=3&vol=0#302,"A 12 year old female was admitted to the hospital with intense headache, abdominal discomfort for the past 5 days. She had also developed fever which is of **remittent type** with gradual rise in a **step ladder fashion**, On examination, she was toxic with temperature of 101°F, tongue was coated and mild splenomegaly was present.",
-S_MI_2.8.1,Widal Test,,True,4,2018-02;2010-02;2008-08;1993-11,n=MI-apsemm&ed=4&vol=0#265;n=MI-apsemm&ed=3&vol=0#306,,
-S_MI_2.8.2,Laboratory Diagnosis of Typhoid/Enteric Fever,,True,3,2022-07;1995-11;1995-04,n=MI-apsemm&ed=4&vol=0#264;n=MI-apsemm&ed=3&vol=0#305,,
-S_MI_2.8.3,Drug Resistance in Salmonella typhi,,True,2,2023-02;1996-04,n=MI-apsemm&ed=4&vol=0#266;n=MI-apsemm&ed=3&vol=0#308,,
-S_MI_2.8.4,Carriers of Typhoid Infection,,True,1,2022-03,n=MI-apsemm&ed=4&vol=0#266;n=MI-apsemm&ed=3&vol=0#304,,
+- Management",True,8,2019-02;2014-02;2012-08;2009-08;1998-11;1998-04;1997-10;1992-04,"A 12 year old female was admitted to the hospital with intense headache, abdominal discomfort for the past 5 days. She had also developed fever which is of **remittent type** with gradual rise in a **step ladder fashion**, On examination, she was toxic with temperature of 101°F, tongue was coated and mild splenomegaly was present.",n=MI-apsemm&ed=4&vol=0#262;n=MI-apsemm&ed=3&vol=0#302,
+S_MI_2.8.1,Widal Test,,True,4,2018-02;2010-02;2008-08;1993-11,,n=MI-apsemm&ed=4&vol=0#265;n=MI-apsemm&ed=3&vol=0#306,
+S_MI_2.8.2,Laboratory Diagnosis of Typhoid/Enteric Fever,,True,3,2022-07;1995-11;1995-04,,n=MI-apsemm&ed=4&vol=0#264;n=MI-apsemm&ed=3&vol=0#305,
+S_MI_2.8.3,Drug Resistance in Salmonella typhi,,True,2,2023-02;1996-04,,n=MI-apsemm&ed=4&vol=0#266;n=MI-apsemm&ed=3&vol=0#308,
+S_MI_2.8.4,Carriers of Typhoid Infection,,True,1,2022-03,,n=MI-apsemm&ed=4&vol=0#266;n=MI-apsemm&ed=3&vol=0#304,
 E_MI_2.6.1,Malaria,"- Life Cycle
 - Pathogenesis
 - Clinical Features
 - Laboratory Diagnosis
-- Management",True,5,2019-02;2014-02;2008-02;2006-08;2004-08,n=MI-apsemm&ed=4&vol=0#303;n=MI-apsemm&ed=3&vol=0#346,"A 54 year old male from Chhattisgarh presented with fever, chills and rigor for 4 days. The patient developed convulsions prior to admission. On physical examination, muscle tone and tendon reflexes were reduced. Anemia and splenomegaly were present. The blood sample was collected for peripheral blood smear examination which accole form, multiple ring forms and crescent shaped gametocytes inside RBCs.",
-S_MI_2.6.1,Erythrocytic Schizogony,,True,1,2008-08,n=MI-apsemm&ed=4&vol=0#303;n=MI-apsemm&ed=3&vol=0#347,,
-S_MI_2.6.2,Complications of Falciparum Malaria,,True,2,2018-02;2010-02,n=MI-apsemm&ed=4&vol=0#305;n=MI-apsemm&ed=3&vol=0#350,,
-S_MI_2.6.3,Laboratory Diagnosis of Malaria,,True,7,2022-08;2022-02;2019-08;2017-08;2015-08;2010-08;2004-08,n=MI-apsemm&ed=4&vol=0#306;n=MI-apsemm&ed=3&vol=0#352,,
+- Management",True,5,2019-02;2014-02;2008-02;2006-08;2004-08,"A 54 year old male from Chhattisgarh presented with fever, chills and rigor for 4 days. The patient developed convulsions prior to admission. On physical examination, muscle tone and tendon reflexes were reduced. Anemia and splenomegaly were present. The blood sample was collected for peripheral blood smear examination which accole form, multiple ring forms and crescent shaped gametocytes inside RBCs.",n=MI-apsemm&ed=4&vol=0#303;n=MI-apsemm&ed=3&vol=0#346,
+S_MI_2.6.1,Erythrocytic Schizogony,,True,1,2008-08,,n=MI-apsemm&ed=4&vol=0#303;n=MI-apsemm&ed=3&vol=0#347,
+S_MI_2.6.2,Complications of Falciparum Malaria,,True,2,2018-02;2010-02,,n=MI-apsemm&ed=4&vol=0#305;n=MI-apsemm&ed=3&vol=0#350,
+S_MI_2.6.3,Laboratory Diagnosis of Malaria,,True,7,2022-08;2022-02;2019-08;2017-08;2015-08;2010-08;2004-08,,n=MI-apsemm&ed=4&vol=0#306;n=MI-apsemm&ed=3&vol=0#352,
 S_MI_2.6.4,Plasmodium Vivax (or) Benign Tertian Malaria,"- Life Cycle
 - Laboratory Diagnosis
-- Treatment",True,5,2023-02;2018-08;2016-02;2014-08;2003-10,n=MI-apsemm&ed=4&vol=0#305;n=MI-apsemm&ed=3&vol=0#349,,
+- Treatment",True,5,2023-02;2018-08;2016-02;2014-08;2003-10,,n=MI-apsemm&ed=4&vol=0#305;n=MI-apsemm&ed=3&vol=0#349,
 S_MI_2.6.5,Plasmodium ovale,"- Life Cycle
 - Laboratory Diagnosis
-- Treatment",True,1,2020-11,n=MI-apsemm&ed=4&vol=0#305;n=MI-apsemm&ed=3&vol=0#348,,
+- Treatment",True,1,2020-11,,n=MI-apsemm&ed=4&vol=0#305;n=MI-apsemm&ed=3&vol=0#348,
 E_MI_2.4.1,Dengue Virus,"- Classification of Arboviruses
 - Pathogenesis
 - Clinical Features
 - Laboratory Diagnosis
 - Complications
-- Management",True,4,2022-08;2017-08;2013-02;1991-12,n=MI-apsemm&ed=4&vol=0#295;n=MI-apsemm&ed=3&vol=0#338,"A 30 year old female came to casualty with complaints of high grade fever, severe joint pain, back pain, myalgia. Gradually, she developed **Petechial rashes** over the body. On examination, she was found to have Jaundice, hepatomegaly and **low platelet count** (30,000/cu.mm). A tourniquet test was done over the cubital fossa demonstrated 25 petechial spots per square inch area. On inquiry, she told she had been **bitten by the mosquito**.",
+- Management",True,4,2022-08;2017-08;2013-02;1991-12,"A 30 year old female came to casualty with complaints of high grade fever, severe joint pain, back pain, myalgia. Gradually, she developed **Petechial rashes** over the body. On examination, she was found to have Jaundice, hepatomegaly and **low platelet count** (30,000/cu.mm). A tourniquet test was done over the cubital fossa demonstrated 25 petechial spots per square inch area. On inquiry, she told she had been **bitten by the mosquito**.",n=MI-apsemm&ed=4&vol=0#295;n=MI-apsemm&ed=3&vol=0#338,
 S_MI_2.4.1,Chikungunya Virus,"- Pathogenesis
 - Clinical Features
 - Laboratory Diagnosis
-- Management",True,3,2016-08;2009-08;2006-08,n=MI-apsemm&ed=4&vol=0#298;n=MI-apsemm&ed=3&vol=0#341,,
+- Management",True,3,2016-08;2009-08;2006-08,,n=MI-apsemm&ed=4&vol=0#298;n=MI-apsemm&ed=3&vol=0#341,
 S_MI_2.4.2,Dengue Virus,"- Pathogenesis
 - Transmission
 - Clinical Features
-- Treatment",True,10,2023-07;2023-02;2022-08;2016-02;2014-02;2013-08;2012-02;2010-08;2005-02;2003-10;1999-04,n=MI-apsemm&ed=4&vol=0#295;n=MI-apsemm&ed=3&vol=0#338,,
-S_MI_2.4.3,Complications of Dengue Virus,,True,1,2009-08,n=MI-apsemm&ed=4&vol=0#296;n=MI-apsemm&ed=3&vol=0#339,,
+- Treatment",True,10,2023-07;2023-02;2022-08;2016-02;2014-02;2013-08;2012-02;2010-08;2005-02;2003-10;1999-04,,n=MI-apsemm&ed=4&vol=0#295;n=MI-apsemm&ed=3&vol=0#338,
+S_MI_2.4.3,Complications of Dengue Virus,,True,1,2009-08,,n=MI-apsemm&ed=4&vol=0#296;n=MI-apsemm&ed=3&vol=0#339,
 E_MI_2.2.1,Rickettsial Infections,"- Classification of Rickettsiae
 - Morphology
 - Cultivation
 - Antigenic Structure
 - Pathogenesis
 - Laboratory Diagnosis of Typhus fever
-- Note about Brill Zinser Disease",True,2,2020-02;2016-08,n=MI-apsemm&ed=4&vol=0#269;n=MI-apsemm&ed=3&vol=0#310,,
-S_MI_2.2.1,Weil Felix Test,,True,5,2022-03;2014-02;2009-08;2000-10;1991-12,n=MI-apsemm&ed=4&vol=0#271;n=MI-apsemm&ed=3&vol=0#312,,
-S_MI_2.2.2,Rickettsial Infections,,True,1,2012-02,n=MI-apsemm&ed=4&vol=0#269;n=MI-apsemm&ed=3&vol=0#310,,
+- Note about Brill Zinser Disease",True,2,2020-02;2016-08,,n=MI-apsemm&ed=4&vol=0#269;n=MI-apsemm&ed=3&vol=0#310,
+S_MI_2.2.1,Weil Felix Test,,True,5,2022-03;2014-02;2009-08;2000-10;1991-12,,n=MI-apsemm&ed=4&vol=0#271;n=MI-apsemm&ed=3&vol=0#312,
+S_MI_2.2.2,Rickettsial Infections,,True,1,2012-02,,n=MI-apsemm&ed=4&vol=0#269;n=MI-apsemm&ed=3&vol=0#310,
 S_MI_2.2.3,Scrub Typhus (Orientia),"- Etiology
 - Pathogenesis
 - Clinical Features
 - Laboratory Diagnosis
-- Treatment",True,3,2023-02;2011-08;2001-04,n=MI-apsemm&ed=4&vol=0#272;n=MI-apsemm&ed=3&vol=0#313,"A 39 year old farmer presented to the emergency department with a 4 day history of fever, headache, and non-pruritic rashes on his face, extremities with eschar on left lower leg.",
+- Treatment",True,3,2023-02;2011-08;2001-04,"A 39 year old farmer presented to the emergency department with a 4 day history of fever, headache, and non-pruritic rashes on his face, extremities with eschar on left lower leg.",n=MI-apsemm&ed=4&vol=0#272;n=MI-apsemm&ed=3&vol=0#313,
 E_MI_2.3.1,Leptospirosis,"- Classification of Spirochetes
 - Etiology
 - Pathogenesis
 - Epidemiology
 - Clinical Features
 - Laboratory Diagnosis
-- Management",True,3,2023-07;2023-02;2015-02,n=MI-apsemm&ed=4&vol=0#278;n=MI-apsemm&ed=3&vol=0#319,"A 45 year old male patient attend OP with history of fever with chills, headache, abdominal pain with vomiting. History was elicited, that he went to Andaman and has taken a drinking water from a lake. On examination, there is **jaundice with hepatosplenomegaly**. On dark ground microscopic examination of blood shows **spirally coiled bacilli**.",
-S_MI_2.3.1,Laboratory Diagnosis of Leptospirosis,,True,4,2022-02;2017-08;2015-08;1996-04,n=MI-apsemm&ed=4&vol=0#279;n=MI-apsemm&ed=3&vol=0#319,,
-S_MI_2.3.2,Borreliosis (or) Relapsing Fever,,True,4,2014-08;2011-08;2003-10;1993-11,n=MI-apsemm&ed=4&vol=0#281;n=MI-apsemm&ed=3&vol=0#322,,
+- Management",True,3,2023-07;2023-02;2015-02,"A 45 year old male patient attend OP with history of fever with chills, headache, abdominal pain with vomiting. History was elicited, that he went to Andaman and has taken a drinking water from a lake. On examination, there is **jaundice with hepatosplenomegaly**. On dark ground microscopic examination of blood shows **spirally coiled bacilli**.",n=MI-apsemm&ed=4&vol=0#278;n=MI-apsemm&ed=3&vol=0#319,
+S_MI_2.3.1,Laboratory Diagnosis of Leptospirosis,,True,4,2022-02;2017-08;2015-08;1996-04,,n=MI-apsemm&ed=4&vol=0#279;n=MI-apsemm&ed=3&vol=0#319,
+S_MI_2.3.2,Borreliosis (or) Relapsing Fever,,True,4,2014-08;2011-08;2003-10;1993-11,,n=MI-apsemm&ed=4&vol=0#281;n=MI-apsemm&ed=3&vol=0#322,
 E_MI_2.5.2,Trypanosomiasis (or) Chaga's Disease,"- Enlist common blood flagellates
 - Pathogenesis
 - Clinical Features
 - Laboratory Diagnosis
-- Prophylaxis",True,1,2016-08,n=MI-apsemm&ed=4&vol=0#314;n=MI-apsemm&ed=3&vol=0#366,,
+- Prophylaxis",True,1,2016-08,,n=MI-apsemm&ed=4&vol=0#314;n=MI-apsemm&ed=3&vol=0#366,
 E_MI_2.5.3,Lymphatic Filariasis,"- Classification of Filarial Nematodes
 - Lifecycle
 - Pathogenesis
 - Laboratory Diagnosis
-- Management",True,5,2012-08;2007-02;2004-08;2001-04;1997-10,n=MI-apsemm&ed=4&vol=0#316;n=MI-apsemm&ed=3&vol=0#370,"A 35 year old female from a village of Bihar came to the hospital with history of fever on and off for the past one year and recently developed unilateral **swelling of the left lower limb**. Her blood sample was sent for peripheral blood smear examination which revealed **microfilariae**, 240 um in length, tail tip pointed free nuclei ",
-S_MI_2.5.3,Laboratory Diagnosis of Filariasis,,True,2,2016-08;2013-02,n=MI-apsemm&ed=4&vol=0#318;n=MI-apsemm&ed=3&vol=0#373,,
-S_MI_2.5.4,Life Cycle of Wucheria bancrofti,,True,2,2023-02;2021-09,n=MI-apsemm&ed=4&vol=0#317;n=MI-apsemm&ed=3&vol=0#371,,
-S_MI_2.5.5,Brugian Filariasis,,True,1,2022-03,n=MI-apsemm&ed=4&vol=0#319;n=MI-apsemm&ed=3&vol=0#375,,
+- Management",True,5,2012-08;2007-02;2004-08;2001-04;1997-10,"A 35 year old female from a village of Bihar came to the hospital with history of fever on and off for the past one year and recently developed unilateral **swelling of the left lower limb**. Her blood sample was sent for peripheral blood smear examination which revealed **microfilariae**, 240 um in length, tail tip pointed free nuclei ",n=MI-apsemm&ed=4&vol=0#316;n=MI-apsemm&ed=3&vol=0#370,
+S_MI_2.5.3,Laboratory Diagnosis of Filariasis,,True,2,2016-08;2013-02,,n=MI-apsemm&ed=4&vol=0#318;n=MI-apsemm&ed=3&vol=0#373,
+S_MI_2.5.4,Life Cycle of Wucheria bancrofti,,True,2,2023-02;2021-09,,n=MI-apsemm&ed=4&vol=0#317;n=MI-apsemm&ed=3&vol=0#371,
+S_MI_2.5.5,Brugian Filariasis,,True,1,2022-03,,n=MI-apsemm&ed=4&vol=0#319;n=MI-apsemm&ed=3&vol=0#375,
 E_MI_2.1.1,Infective Endocarditis,"- Etiology
 - Risk Factors
 - Pathogenesis
 - Clinical Features
 - Diagnostic Criteria
-- Management",True,1,2023-07,n=MI-apsemm&ed=4&vol=0#251;n=MI-apsemm&ed=3&vol=0#287,"A 70 year old man was hospitalized with fever, weakness in lower limbs. Echocardiogram showed **vascular vegetations** on the mitral valve. He also had elevated CRP and ESR.",
+- Management",True,1,2023-07,"A 70 year old man was hospitalized with fever, weakness in lower limbs. Echocardiogram showed **vascular vegetations** on the mitral valve. He also had elevated CRP and ESR.",n=MI-apsemm&ed=4&vol=0#251;n=MI-apsemm&ed=3&vol=0#287,
 E_MI_2.1.2,Rheumatic Fever,"- Etiology
 - Pathogenesis
 - Clinical Features
 - Diagnostic Criteria
-- Management",True,3,2022-02;2017-02;1997-04,n=MI-apsemm&ed=4&vol=0#255;n=MI-apsemm&ed=3&vol=0#293,"A 7 year old female child presented to the cardiology OPD with swollen, red, and/or **tender joints, which migrates from one joint to another** (knees, ankles, hips and elbows) over a period of hours. The child was having an **abnormal gait**. She also complained of painless, small, mobile **lumps beneath the skin** overlying bony prominences, particularly of the hands, feet and elbows. On auscultation, murmur was heard over the mitral valve area. ECG showed **prolongation of PR interval**. On inquiry, the it was found that the child had an episode of **sore throat** 3 weeks back.",
-S_MI_2.1.1,Fever (or) Pyrexia of Unknown Origin,,True,4,2023-02;2022-02;2018-08;2009-08,n=MI-apsemm&ed=4&vol=0#259;n=MI-apsemm&ed=3&vol=0#299,,
-S_MI_2.1.2,Blood Culture in Infective Endocarditis,,True,1,2023-02,n=MI-apsemm&ed=4&vol=0#252;n=MI-apsemm&ed=3&vol=0#288,,
+- Management",True,3,2022-02;2017-02;1997-04,"A 7 year old female child presented to the cardiology OPD with swollen, red, and/or **tender joints, which migrates from one joint to another** (knees, ankles, hips and elbows) over a period of hours. The child was having an **abnormal gait**. She also complained of painless, small, mobile **lumps beneath the skin** overlying bony prominences, particularly of the hands, feet and elbows. On auscultation, murmur was heard over the mitral valve area. ECG showed **prolongation of PR interval**. On inquiry, the it was found that the child had an episode of **sore throat** 3 weeks back.",n=MI-apsemm&ed=4&vol=0#255;n=MI-apsemm&ed=3&vol=0#293,
+S_MI_2.1.1,Fever (or) Pyrexia of Unknown Origin,,True,4,2023-02;2022-02;2018-08;2009-08,,n=MI-apsemm&ed=4&vol=0#259;n=MI-apsemm&ed=3&vol=0#299,
+S_MI_2.1.2,Blood Culture in Infective Endocarditis,,True,1,2023-02,,n=MI-apsemm&ed=4&vol=0#252;n=MI-apsemm&ed=3&vol=0#288,
 S_MI_2.9.1,Dimorphic Fungi,"- Histoplasmosis
 - Blastomycosis
 - Coccidiomycosis
-- Paracoccidiomycosis",True,7,2023-07;2017-08;2014-02;2012-02;2011-02;2010-02;1993-11,n=MI-apsemm&ed=4&vol=0#323;n=MI-apsemm&ed=3&vol=0#379,,
-S_MI_2.1.3,Laboratory Diagnosis of Bloodstream Infections,,True,1,2020-02,n=MI-apsemm&ed=4&vol=0#258;n=MI-apsemm&ed=3&vol=0#297,,
-S_MI_2.9.2,Candidiasis,,True,10,2022-02;2018-02;2016-02;2009-08;2005-02;2003-10;2000-10;1996-04;1993-01;1990-10,n=MI-apsemm&ed=4&vol=0#321;n=MI-apsemm&ed=3&vol=0#377,,
-S_MI_2.9.3,Histoplasmosis (or) Darling's Disease,,True,4,2020-02;2019-08;2016-08;2008-02,n=MI-apsemm&ed=4&vol=0#323;n=MI-apsemm&ed=3&vol=0#377,,
-S_MI_2.2.4,Epidemic Typhus,,True,1,1998-11,n=MI-apsemm&ed=4&vol=0#270;n=MI-apsemm&ed=3&vol=0#311,,
-S_MI_2.4.4,Kyasanur Forest Disease,,True,2,2006-02;2001-11,n=MI-apsemm&ed=4&vol=0#299;n=MI-apsemm&ed=3&vol=0#342,,
-S_MI_2.5.6,Microfilaria,,True,4,2003-10;1998-10;1996-04;1991-12,n=MI-apsemm&ed=4&vol=0#317;n=MI-apsemm&ed=3&vol=0#374,,
+- Paracoccidiomycosis",True,7,2023-07;2017-08;2014-02;2012-02;2011-02;2010-02;1993-11,,n=MI-apsemm&ed=4&vol=0#323;n=MI-apsemm&ed=3&vol=0#379,
+S_MI_2.1.3,Laboratory Diagnosis of Bloodstream Infections,,True,1,2020-02,,n=MI-apsemm&ed=4&vol=0#258;n=MI-apsemm&ed=3&vol=0#297,
+S_MI_2.9.2,Candidiasis,,True,10,2022-02;2018-02;2016-02;2009-08;2005-02;2003-10;2000-10;1996-04;1993-01;1990-10,,n=MI-apsemm&ed=4&vol=0#321;n=MI-apsemm&ed=3&vol=0#377,
+S_MI_2.9.3,Histoplasmosis (or) Darling's Disease,,True,4,2020-02;2019-08;2016-08;2008-02,,n=MI-apsemm&ed=4&vol=0#323;n=MI-apsemm&ed=3&vol=0#377,
+S_MI_2.2.4,Epidemic Typhus,,True,1,1998-11,,n=MI-apsemm&ed=4&vol=0#270;n=MI-apsemm&ed=3&vol=0#311,
+S_MI_2.4.4,Kyasanur Forest Disease,,True,2,2006-02;2001-11,,n=MI-apsemm&ed=4&vol=0#299;n=MI-apsemm&ed=3&vol=0#342,
+S_MI_2.5.6,Microfilaria,,True,4,2003-10;1998-10;1996-04;1991-12,,n=MI-apsemm&ed=4&vol=0#317;n=MI-apsemm&ed=3&vol=0#374,
 E_MI_2.3.2,Brucellosis,"- Pathogenesis
 - Clinical Features
 - Laboratory Diagnosis
-- Prophylaxis",True,1,2000-04,n=MI-apsemm&ed=4&vol=0#275;n=MI-apsemm&ed=3&vol=0#316,,
+- Prophylaxis",True,1,2000-04,,n=MI-apsemm&ed=4&vol=0#275;n=MI-apsemm&ed=3&vol=0#316,

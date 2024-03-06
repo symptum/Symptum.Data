@@ -1,26 +1,26 @@
-Id,Title,Descriptions,HasPreviouslyBeenAsked,Importance,YearsAsked,BookLocations,ProbableCases,ReferenceLinks
+Id,Title,Descriptions,HasPreviouslyBeenAsked,Importance,YearsAsked,ProbableCases,BookReferences,LinkReferences
 S_PH_1.49.4.1,Methotrexate,"- Mechanism of Action
 - Uses
-- Adverse Effects",True,9,2023-07;2022-08;2017-02;2015-08;2013-02;2011-08;2001-11;1998-10;1991-12,n=PH-kdtemp&ed=8&vol=0#921,,
-S_PH_1.49.9,Toxicities of Cytotoxic Drugs,,True,1,2017-02,n=PH-kdtemp&ed=8&vol=0#916,,
+- Adverse Effects",True,9,2023-07;2022-08;2017-02;2015-08;2013-02;2011-08;2001-11;1998-10;1991-12,,n=PH-kdtemp&ed=8&vol=0#921,
+S_PH_1.49.9,Toxicities of Cytotoxic Drugs,,True,1,2017-02,,n=PH-kdtemp&ed=8&vol=0#916,
 S_PH_1.49.2.1,Cyclophosphamide,"- Mechanism of Action
-- Adverse Effects",True,3,2023-02;2018-08;1990-12,n=PH-kdtemp&ed=8&vol=0#918,,
-S_PH_1.49.6.1,Paclitaxel,- Mechanism of Action,True,3,2020-11;2016-02;2012-08,n=PH-kdtemp&ed=8&vol=0#924,,
-S_PH_1.49.5,Vinca Alkaloids,,True,7,2021-09;2016-08;2011-08;2010-02;2001-04;1998-04;1996-04,n=PH-kdtemp&ed=8&vol=0#924,,
-S_PH_1.49.7,Anti-Cancer Antibiotics,,True,6,2021-09;2011-02;2009-09;2009-02;2008-08;1997-04,n=PH-kdtemp&ed=8&vol=0#926,,
-S_PH_1.49.3,Platinum Compounds,,True,2,2022-02;2004-08,n=PH-kdtemp&ed=8&vol=0#920,,
-S_PH_1.49.3.1,Cisplatin,,True,4,2022-03;2011-08;2010-08;1995-11,n=PH-kdtemp&ed=8&vol=0#920,,
-S_PH_1.49.5.1,Vincristine,,True,2,2023-02;2000-10,n=PH-kdtemp&ed=8&vol=0#924,,
+- Adverse Effects",True,3,2023-02;2018-08;1990-12,,n=PH-kdtemp&ed=8&vol=0#918,
+S_PH_1.49.6.1,Paclitaxel,- Mechanism of Action,True,3,2020-11;2016-02;2012-08,,n=PH-kdtemp&ed=8&vol=0#924,
+S_PH_1.49.5,Vinca Alkaloids,,True,7,2021-09;2016-08;2011-08;2010-02;2001-04;1998-04;1996-04,,n=PH-kdtemp&ed=8&vol=0#924,
+S_PH_1.49.7,Anti-Cancer Antibiotics,,True,6,2021-09;2011-02;2009-09;2009-02;2008-08;1997-04,,n=PH-kdtemp&ed=8&vol=0#926,
+S_PH_1.49.3,Platinum Compounds,,True,2,2022-02;2004-08,,n=PH-kdtemp&ed=8&vol=0#920,
+S_PH_1.49.3.1,Cisplatin,,True,4,2022-03;2011-08;2010-08;1995-11,,n=PH-kdtemp&ed=8&vol=0#920,
+S_PH_1.49.5.1,Vincristine,,True,2,2023-02;2000-10,,n=PH-kdtemp&ed=8&vol=0#924,
 S_PH_1.49.2,"Alkylating Agents ","- Types
-- Therapeutic Uses",True,1,2008-08,n=PH-kdtemp&ed=8&vol=0#918,,
-S_PH_1.49.8,L-Asparaginase,,True,1,2009-08,n=PH-kdtemp&ed=8&vol=0#928,,
-S_PH_1.49.4.1.1,Folinic Acid,- Citrovorum Factor Rescue;- Leucovorin Rescue,True,2,2014-08;2010-02,n=PH-kdtemp&ed=8&vol=0#921,,
+- Therapeutic Uses",True,1,2008-08,,n=PH-kdtemp&ed=8&vol=0#918,
+S_PH_1.49.8,L-Asparaginase,,True,1,2009-08,,n=PH-kdtemp&ed=8&vol=0#928,
+S_PH_1.49.4.1.1,Folinic Acid,- Citrovorum Factor Rescue;- Leucovorin Rescue,True,2,2014-08;2010-02,,n=PH-kdtemp&ed=8&vol=0#921,
 E_PH_1.49.1;1.49.4,"Classification of Anti-Cancer Drugs, Anti-Metabolites","- Name Antimetabolites
 - Mechanism of Action of Methotrexate
 - Therapeutic Uses of Methotrexate
-- Treatment of Methotrexate Toxicity",True,1,2010-08,n=PH-kdtemp&ed=8&vol=0#916;n=PH-kdtemp&ed=8&vol=0#921,,
-S_PH_1.49.7.1,Bleomycin,,True,1,2013-08,n=PH-kdtemp&ed=8&vol=0#927,,
-S_PH_1.49.1,Classification of Anticancer Drugs,,True,1,2014-02,n=PH-kdtemp&ed=8&vol=0#916,,
+- Treatment of Methotrexate Toxicity",True,1,2010-08,,n=PH-kdtemp&ed=8&vol=0#916;n=PH-kdtemp&ed=8&vol=0#921,
+S_PH_1.49.7.1,Bleomycin,,True,1,2013-08,,n=PH-kdtemp&ed=8&vol=0#927,
+S_PH_1.49.1,Classification of Anticancer Drugs,,True,1,2014-02,,n=PH-kdtemp&ed=8&vol=0#916,
 S_PH_1.49.5;1.49.6,Microtubule Damaging Agents,"- Vinca Alkaloids
-- Taxanes",True,1,2015-08,n=PH-kdtemp&ed=8&vol=0#924,,
-S_PH_1.49.5;1.49.6;1.49.9;1.49.10,Plant Alkaloids Used in Cancer Chemotherapy,"- Vinca alkaloids: Vincristine, Vinblastine and Vinorelbine;- Taxanes: Paclitaxel and Docetaxel;- Podophyllotoxins: Etoposide and Tenisopide;- Camptothecan analogues: Irinotecan and Topotecan",True,1,2008-02,n=PH-kdtemp&ed=8&vol=0#924,,
+- Taxanes",True,1,2015-08,,n=PH-kdtemp&ed=8&vol=0#924,
+S_PH_1.49.5;1.49.6;1.49.9;1.49.10,Plant Alkaloids Used in Cancer Chemotherapy,"- Vinca alkaloids: Vincristine, Vinblastine and Vinorelbine;- Taxanes: Paclitaxel and Docetaxel;- Podophyllotoxins: Etoposide and Tenisopide;- Camptothecan analogues: Irinotecan and Topotecan",True,1,2008-02,,n=PH-kdtemp&ed=8&vol=0#924,

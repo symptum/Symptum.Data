@@ -1,18 +1,18 @@
-Id,Title,Descriptions,HasPreviouslyBeenAsked,Importance,YearsAsked,BookLocations,ProbableCases,ReferenceLinks
+Id,Title,Descriptions,HasPreviouslyBeenAsked,Importance,YearsAsked,ProbableCases,BookReferences,LinkReferences
 S_PA_25.12,Cholelithiasis,"- Risk Factors
 - Pathogenesis
 - Types of Gall Stones
 - Morphology
 - Clinical Features
-- Complications;- Pathological Effects;- Risk Factors",True,10,2022-08;2021-09;2019-02;2016-02;2015-02;2013-08;2012-02;2011-08;2010-08;2009-02;2008-08;2004-08;2003-10;1992-04,n=PA-rbpbdsa&ed=10&vol=2#873,,
-S_PA_25.3;25.3.4,Hepatitis,- Laboratory Diagnosis;- Hepatitis B,True,5,2023-02;2009-02;1997-10;1997-10;1993-11,n=PA-rbpbdsa&ed=10&vol=2#831,A 30 year male presented with **yellowish discolouration of conjunctiva**. He had history of **blood transfusion** (multiple units) in the recent few months following RTA as an emergency.,
-S_PA_25.7.1,Haemochromatosis,,True,6,2023-07;2009-08;2009-02;2008-02;2004-08;2002-03,n=PA-rbpbdsa&ed=10&vol=2#848,,
+- Complications;- Pathological Effects;- Risk Factors",True,10,2022-08;2021-09;2019-02;2016-02;2015-02;2013-08;2012-02;2011-08;2010-08;2009-02;2008-08;2004-08;2003-10;1992-04,,n=PA-rbpbdsa&ed=10&vol=2#873,
+S_PA_25.3;25.3.4,Hepatitis,- Laboratory Diagnosis;- Hepatitis B,True,5,2023-02;2009-02;1997-10;1997-10;1993-11,A 30 year male presented with **yellowish discolouration of conjunctiva**. He had history of **blood transfusion** (multiple units) in the recent few months following RTA as an emergency.,n=PA-rbpbdsa&ed=10&vol=2#831,
+S_PA_25.7.1,Haemochromatosis,,True,6,2023-07;2009-08;2009-02;2008-02;2004-08;2002-03,,n=PA-rbpbdsa&ed=10&vol=2#848,
 S_PA_25.10.3.2.1;25.10.3.2.3,Hepatocellular Carcinoma,"- Etiology;- Gross Features
-- Microscopic Features",True,4,2022-08;2010-08;2009-08;2007-08,n=PA-rbpbdsa&ed=10&vol=2#868,,
+- Microscopic Features",True,4,2022-08;2010-08;2009-08;2007-08,,n=PA-rbpbdsa&ed=10&vol=2#868,
 S_PA_25.2.3,Liver Cirrhosis,"- Pathogenesis
 - Classification
 - Morphology
-- Complications;- Complications;- Etiological Classification",True,3,2022-08;2010-02;1998-04,n=PA-rbpbdsa&ed=10&vol=2#828,,
+- Complications;- Complications;- Etiological Classification",True,3,2022-08;2010-02;1998-04,,n=PA-rbpbdsa&ed=10&vol=2#828,
 E_PA_25.2.3;25.4.1.4,Liver Cirrhosis,"- Definition
 - Classification
 - Morphological Features of Most Common Type;- Classification of Cirrhosis
@@ -24,44 +24,44 @@ E_PA_25.2.3;25.4.1.4,Liver Cirrhosis,"- Definition
 - Complications;- Postmortem Appearances of Liver Cirrhosis;- Definition
 - Classification
 - Pathology and Pathogenesis of any one type;- Etiological Classification
-- Gross Features and Microscopic Features of Alcoholic Cirrhosis",True,8,2010-08;2008-02;2006-08;2003-10;1999-10;1995-11;1994-11;1991-12,n=PA-rbpbdsa&ed=10&vol=2#828,,
-S_PA_25.7,Metabolic Cirrhosis,,True,1,2011-02,n=PA-rbpbdsa&ed=10&vol=2#848,,
-S_PA_25.10.2,Benign Neoplasms of Liver,,True,1,2011-08,n=PA-rbpbdsa&ed=10&vol=2#866,,
+- Gross Features and Microscopic Features of Alcoholic Cirrhosis",True,8,2010-08;2008-02;2006-08;2003-10;1999-10;1995-11;1994-11;1991-12,,n=PA-rbpbdsa&ed=10&vol=2#828,
+S_PA_25.7,Metabolic Cirrhosis,,True,1,2011-02,,n=PA-rbpbdsa&ed=10&vol=2#848,
+S_PA_25.10.2,Benign Neoplasms of Liver,,True,1,2011-08,,n=PA-rbpbdsa&ed=10&vol=2#866,
 S_PA_25.15.1,Acute Pancreatitis,"- Morphology;- Causes;- Etiological Factors;- Aetiology
-- Pathology",True,5,2020-11;2017-08;2013-08;2012-02;2003-10,n=PA-rbpbdsa&ed=10&vol=2#882,,
-S_PA_25.3.6.4,Chronic Hepatitis,- Chronic Active Viral Hepatitis,True,8,2012-08;2005-02;2004-08;2003-10;2002-03;2001-11;1999-04;1996-04,n=PA-rbpbdsa&ed=10&vol=2#837,,
-E_PA_25.10,Tumors of Liver,,True,1,2013-02,n=PA-rbpbdsa&ed=10&vol=2#865,,
-S_PA_25.4.1.4,Laennec Cirrhosis,- Morphology,True,1,2013-02,n=PA-rbpbdsa&ed=10&vol=2#843,,
-S_PA_25.8.1,Hereditary Unconjugated Hyperbilirubinemia,,True,1,2013-08,n=PA-rbpbdsa&ed=10&vol=2#853;n=PA-ramd&ed=2&vol=1#526,,
+- Pathology",True,5,2020-11;2017-08;2013-08;2012-02;2003-10,,n=PA-rbpbdsa&ed=10&vol=2#882,
+S_PA_25.3.6.4,Chronic Hepatitis,- Chronic Active Viral Hepatitis,True,8,2012-08;2005-02;2004-08;2003-10;2002-03;2001-11;1999-04;1996-04,,n=PA-rbpbdsa&ed=10&vol=2#837,
+E_PA_25.10,Tumors of Liver,,True,1,2013-02,,n=PA-rbpbdsa&ed=10&vol=2#865,
+S_PA_25.4.1.4,Laennec Cirrhosis,- Morphology,True,1,2013-02,,n=PA-rbpbdsa&ed=10&vol=2#843,
+S_PA_25.8.1,Hereditary Unconjugated Hyperbilirubinemia,,True,1,2013-08,,n=PA-rbpbdsa&ed=10&vol=2#853;n=PA-ramd&ed=2&vol=1#526,
 S_PA_25.4.1,Alcoholic Liver Disease,"- Pathogenesis
 - Stages
 - Morphology
-- Clinical Features;- Morphology",True,8,2023-02;2018-08;2017-02;2014-02;2007-02;2004-08;1998-10;1995-11,n=PA-rbpbdsa&ed=10&vol=2#842,,
+- Clinical Features;- Morphology",True,8,2023-02;2018-08;2017-02;2014-02;2007-02;2004-08;1998-10;1995-11,,n=PA-rbpbdsa&ed=10&vol=2#842,
 E_PA_25.3,Viral Hepatitis,"- Etiopathogenesis
-- Serological Evaluation",True,1,2014-08,n=PA-rbpbdsa&ed=10&vol=2#831,,
-S_PA_25.11.1,Cholangiocarcinoma,,True,1,2014-08,n=PA-rbpbdsa&ed=10&vol=2#871,,
-S_PA_25.9.1,Biliary Cirrhosis,,True,1,2015-02,n=PA-rbpbdsa&ed=10&vol=2#857,,
-S_PA_25.7.2,Wilson Disease,,True,2,2022-08;2018-02,n=PA-rbpbdsa&ed=10&vol=2#850,,
-S_PA_25.15.2,Chronic Pancreatitis,,True,2,2019-08;2006-02,n=PA-rbpbdsa&ed=10&vol=2#886,,
-S_PA_25.4.1.4,Alcoholic Cirrhosis,- Pathology,True,2,2020-11;2005-08,n=PA-rbpbdsa&ed=10&vol=2#842,,
+- Serological Evaluation",True,1,2014-08,,n=PA-rbpbdsa&ed=10&vol=2#831,
+S_PA_25.11.1,Cholangiocarcinoma,,True,1,2014-08,,n=PA-rbpbdsa&ed=10&vol=2#871,
+S_PA_25.9.1,Biliary Cirrhosis,,True,1,2015-02,,n=PA-rbpbdsa&ed=10&vol=2#857,
+S_PA_25.7.2,Wilson Disease,,True,2,2022-08;2018-02,,n=PA-rbpbdsa&ed=10&vol=2#850,
+S_PA_25.15.2,Chronic Pancreatitis,,True,2,2019-08;2006-02,,n=PA-rbpbdsa&ed=10&vol=2#886,
+S_PA_25.4.1.4,Alcoholic Cirrhosis,- Pathology,True,2,2020-11;2005-08,,n=PA-rbpbdsa&ed=10&vol=2#842,
 E_PA_25.4.1,Alcoholic Liver Disease,"- Investigation
 - Effect of Alcohol on Liver
 - Morphology
 - Clinical Features
-- Complications",True,1,2022-03,n=PA-rbpbdsa&ed=10&vol=2#842,A 50 year male alcoholic presented with jaundice.,
-S_PA_25.13.1,Acute Cholecystitis,,True,1,2022-08,n=PA-rbpbdsa&ed=10&vol=2#875,A 40 year old obese female with complaints of severe abdominal pain radiating to the right shoulder. Ultrasound was done and she was advised Cholecystectomy by the surgeon.,
-S_PA_25.5.3.2,Ascitic Fluid Cytology,,True,1,2023-02,n=PA-rbpbdsa&ed=10&vol=2#829;n=PA-prtpat&ed=3&vol=1#157,,
-E_PA_25.10.3,Hepatocellular Carcinoma,,True,1,2007-08,n=PA-rbpbdsa&ed=10&vol=2#868,"52 year male was admitted with persistent abdominal pain, gastric distention and vomiting. He had history of loss of appetite, loss of weight and haematemesis. What is the most probable diagnosis?",
-S_PA_25.4,Fatty Liver,- Pathology,True,2,2005-08;1991-12,n=PA-rbpbdsa&ed=10&vol=2#842,,
-S_PA_25.2,Hepatic Failure,,False,1,,n=PA-rbpbdsa&ed=10&vol=2#826,,
-S_PA_25.5,Portal Hypertension,,False,1,,n=PA-rbpbdsa&ed=10&vol=2#828,,
-S_PA_25.4.2,Non Alcoholic Fatty Liver Disease,,False,1,,n=PA-rbpbdsa&ed=10&vol=2#846,,
-S_PA_25.9,Autoimmune Cholangiopathies,- Primary Sclerosing Cholangitis;- Differentiate Primary Biliary Cirrhosis and Primary Sclerosing Cholangitis,False,1,,n=PA-rbpbdsa&ed=10&vol=2#857,,
-S_PA_25.14,Congenital Anomalies of Pancreas,,False,1,,n=PA-rbpbdsa&ed=10&vol=2#881,,
-S_PA_25.16.2,Pseudocyst (Non-neoplastic Cysts of Pancreas),,False,1,,n=PA-rbpbdsa&ed=10&vol=2#888,,
-S_PA_25.17,Tumors of Pancreas,,False,1,,n=PA-rbpbdsa&ed=10&vol=2#888,,
-S_PA_,Mallory Bodies,,True,1,2012-02,n=PA-rbpbdsa&ed=10&vol=1#843,,
-S_PA_,Bridging Necrosis of Liver,,True,1,2013-02,n=PA-rbpbdsa&ed=10&vol=1#844,,
-S_PA_,Ground Glass Hepatocytes,,True,1,2013-08,n=PA-rbpbdsa&ed=10&vol=1#837,,
+- Complications",True,1,2022-03,A 50 year male alcoholic presented with jaundice.,n=PA-rbpbdsa&ed=10&vol=2#842,
+S_PA_25.13.1,Acute Cholecystitis,,True,1,2022-08,A 40 year old obese female with complaints of severe abdominal pain radiating to the right shoulder. Ultrasound was done and she was advised Cholecystectomy by the surgeon.,n=PA-rbpbdsa&ed=10&vol=2#875,
+S_PA_25.5.3.2,Ascitic Fluid Cytology,,True,1,2023-02,,n=PA-rbpbdsa&ed=10&vol=2#829;n=PA-prtpat&ed=3&vol=1#157,
+E_PA_25.10.3,Hepatocellular Carcinoma,,True,1,2007-08,"52 year male was admitted with persistent abdominal pain, gastric distention and vomiting. He had history of loss of appetite, loss of weight and haematemesis. What is the most probable diagnosis?",n=PA-rbpbdsa&ed=10&vol=2#868,
+S_PA_25.4,Fatty Liver,- Pathology,True,2,2005-08;1991-12,,n=PA-rbpbdsa&ed=10&vol=2#842,
+S_PA_25.2,Hepatic Failure,,False,1,,,n=PA-rbpbdsa&ed=10&vol=2#826,
+S_PA_25.5,Portal Hypertension,,False,1,,,n=PA-rbpbdsa&ed=10&vol=2#828,
+S_PA_25.4.2,Non Alcoholic Fatty Liver Disease,,False,1,,,n=PA-rbpbdsa&ed=10&vol=2#846,
+S_PA_25.9,Autoimmune Cholangiopathies,- Primary Sclerosing Cholangitis;- Differentiate Primary Biliary Cirrhosis and Primary Sclerosing Cholangitis,False,1,,,n=PA-rbpbdsa&ed=10&vol=2#857,
+S_PA_25.14,Congenital Anomalies of Pancreas,,False,1,,,n=PA-rbpbdsa&ed=10&vol=2#881,
+S_PA_25.16.2,Pseudocyst (Non-neoplastic Cysts of Pancreas),,False,1,,,n=PA-rbpbdsa&ed=10&vol=2#888,
+S_PA_25.17,Tumors of Pancreas,,False,1,,,n=PA-rbpbdsa&ed=10&vol=2#888,
+S_PA_,Mallory Bodies,,True,1,2012-02,,n=PA-rbpbdsa&ed=10&vol=1#843,
+S_PA_,Bridging Necrosis of Liver,,True,1,2013-02,,n=PA-rbpbdsa&ed=10&vol=1#844,
+S_PA_,Ground Glass Hepatocytes,,True,1,2013-08,,n=PA-rbpbdsa&ed=10&vol=1#837,
 S_PA_,Kernicterus,,True,1,2019-08,,,
-S_PA_,Kayser-Fleischer Ring,,True,1,2022-02,n=PA-rbpbdsa&ed=10&vol=1#850,,
+S_PA_,Kayser-Fleischer Ring,,True,1,2022-02,,n=PA-rbpbdsa&ed=10&vol=1#850,

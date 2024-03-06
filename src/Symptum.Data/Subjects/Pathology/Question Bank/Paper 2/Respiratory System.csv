@@ -1,25 +1,25 @@
-Id,Title,Descriptions,HasPreviouslyBeenAsked,Importance,YearsAsked,BookLocations,ProbableCases,ReferenceLinks
-S_PA_26.8,Acute Respiratory Distress Syndrome (ARDS),,True,2,2022-02;2008-02,n=PA-rbpbdsa&ed=10&vol=2#676,,
-S_PA_26.9,Asthma,- Pathogenesis,True,3,2022-08;2021-09;2008-08,n=PA-rbpbdsa&ed=10&vol=2#683,,
-S_PA_26.1,Pneumonia,- Viral Pneumonia;- Bronchopneumonia;- Lobar Pneumonia;- Stages Of Consolidation Lung,True,7,2023-07;2017-08;2014-08;2013-02;2011-08;2010-08;2008-08,n=PA-rbpbdsa&ed=10&vol=2#706,,
-S_PA_26.5,Pneumoconiosis,,True,3,2017-08;2016-08;2009-02,n=PA-rbpbdsa&ed=10&vol=2#691,,
+Id,Title,Descriptions,HasPreviouslyBeenAsked,Importance,YearsAsked,ProbableCases,BookReferences,LinkReferences
+S_PA_26.8,Acute Respiratory Distress Syndrome (ARDS),,True,2,2022-02;2008-02,,n=PA-rbpbdsa&ed=10&vol=2#676,
+S_PA_26.9,Asthma,- Pathogenesis,True,3,2022-08;2021-09;2008-08,,n=PA-rbpbdsa&ed=10&vol=2#683,
+S_PA_26.1,Pneumonia,- Viral Pneumonia;- Bronchopneumonia;- Lobar Pneumonia;- Stages Of Consolidation Lung,True,7,2023-07;2017-08;2014-08;2013-02;2011-08;2010-08;2008-08,,n=PA-rbpbdsa&ed=10&vol=2#706,
+S_PA_26.5,Pneumoconiosis,,True,3,2017-08;2016-08;2009-02,,n=PA-rbpbdsa&ed=10&vol=2#691,
 E_PA_26.6,Lung Carcinoma,"- Diagnosis
 - Classification
 - Morphology
-- Paraneoplastic Syndrome",True,4,2018-08;2010-02;1993-11;1992-04,n=PA-rbpbdsa&ed=10&vol=2#715,,
-S_PA_26.4,Ghon's Complex,,True,3,2020-02;2012-08;2010-02,n=PA-rbpbdsa&ed=10&vol=2#371,,
+- Paraneoplastic Syndrome",True,4,2018-08;2010-02;1993-11;1992-04,,n=PA-rbpbdsa&ed=10&vol=2#715,
+S_PA_26.4,Ghon's Complex,,True,3,2020-02;2012-08;2010-02,,n=PA-rbpbdsa&ed=10&vol=2#371,
 S_PA_26.5.1,Silicosis,"- Pathogenesis
-- Morphology",True,4,2019-08;2017-02;2010-08;1999-10,n=PA-rbpbdsa&ed=10&vol=2#693,,
+- Morphology",True,4,2019-08;2017-02;2010-08;1999-10,,n=PA-rbpbdsa&ed=10&vol=2#693,
 S_PA_26.3.1,Emphysema,"- Types;- Etiology
-- Pathogenesis",True,5,2022-03;2020-11;2014-02;2011-02;1999-04,n=PA-rbpbdsa&ed=10&vol=2#679,,
-S_PA_26.5.2,Asbestosis,,True,4,2023-02;2019-02;2012-02;2011-08,n=PA-rbpbdsa&ed=10&vol=2#694,,
-S_PA_26.6.1,Oat Cell (or) Small Cell Carcinoma,,True,1,2012-08,n=PA-rbpbdsa&ed=10&vol=2#718,,
-S_PA_26.3.3,Bronchiectasis,- Morphology;- Pathology,True,8,2022-08;2018-02;2016-02;2013-08;2000-10;1999-10;1998-04;1994-11,n=PA-rbpbdsa&ed=10&vol=2#687,,
-S_PA_26.7,Mesothelioma,,True,3,2020-02;2014-08;2000-04,n=PA-rbpbdsa&ed=10&vol=2#726,,
-S_PA_26.13,Good Pasture Syndrome,,True,1,2015-02,n=PA-rbpbdsa&ed=10&vol=2#704,,
-S_PA_26.10,Sarcoidosis,,True,1,2019-02,n=PA-rbpbdsa&ed=10&vol=2#696,,
-S_PA_26.2,Lung Abscess,,True,1,2023-07,n=PA-rbpbdsa&ed=10&vol=2#711,,
+- Pathogenesis",True,5,2022-03;2020-11;2014-02;2011-02;1999-04,,n=PA-rbpbdsa&ed=10&vol=2#679,
+S_PA_26.5.2,Asbestosis,,True,4,2023-02;2019-02;2012-02;2011-08,,n=PA-rbpbdsa&ed=10&vol=2#694,
+S_PA_26.6.1,Oat Cell (or) Small Cell Carcinoma,,True,1,2012-08,,n=PA-rbpbdsa&ed=10&vol=2#718,
+S_PA_26.3.3,Bronchiectasis,- Morphology;- Pathology,True,8,2022-08;2018-02;2016-02;2013-08;2000-10;1999-10;1998-04;1994-11,,n=PA-rbpbdsa&ed=10&vol=2#687,
+S_PA_26.7,Mesothelioma,,True,3,2020-02;2014-08;2000-04,,n=PA-rbpbdsa&ed=10&vol=2#726,
+S_PA_26.13,Good Pasture Syndrome,,True,1,2015-02,,n=PA-rbpbdsa&ed=10&vol=2#704,
+S_PA_26.10,Sarcoidosis,,True,1,2019-02,,n=PA-rbpbdsa&ed=10&vol=2#696,
+S_PA_26.2,Lung Abscess,,True,1,2023-07,,n=PA-rbpbdsa&ed=10&vol=2#711,
 S_PA_26.3.2,Chronic Bronchitis,"- Pathogenesis
-- Morphology",True,1,2023-02,n=PA-rbpbdsa&ed=10&vol=2#681,,
-E_PA_26.9,Bronchial Asthma,,True,1,1995-11,n=PA-rbpbdsa&ed=10&vol=2#683,,
-S_PA_26.1,Primary Atypical Pneumonia,,True,1,1997-10,n=PA-rbpbdsa&ed=10&vol=2#707,,
+- Morphology",True,1,2023-02,,n=PA-rbpbdsa&ed=10&vol=2#681,
+E_PA_26.9,Bronchial Asthma,,True,1,1995-11,,n=PA-rbpbdsa&ed=10&vol=2#683,
+S_PA_26.1,Primary Atypical Pneumonia,,True,1,1997-10,,n=PA-rbpbdsa&ed=10&vol=2#707,

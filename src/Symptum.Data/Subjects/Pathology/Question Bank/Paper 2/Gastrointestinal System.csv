@@ -1,50 +1,50 @@
-Id,Title,Descriptions,HasPreviouslyBeenAsked,Importance,YearsAsked,BookLocations,ProbableCases,ReferenceLinks
+Id,Title,Descriptions,HasPreviouslyBeenAsked,Importance,YearsAsked,ProbableCases,BookReferences,LinkReferences
 S_PA_,Gastric Adenocarcinoma (or) Gastric Cancer,"- Morphological Classification
 - Microscopic Findings
 - Linitis Plastica;- Pathogenesis
-- Morphology",True,6,2022-03;2019-08;2016-02;2011-08;2006-02;1997-04,n=PA-rbpbdsa&ed=10&vol=2#774,"A **55 year old** male, with C/O **weight loss** and **dyspepsia.** Endoscopy revealed an **ulcerative lesion in antrum.**",
+- Morphology",True,6,2022-03;2019-08;2016-02;2011-08;2006-02;1997-04,"A **55 year old** male, with C/O **weight loss** and **dyspepsia.** Endoscopy revealed an **ulcerative lesion in antrum.**",n=PA-rbpbdsa&ed=10&vol=2#774,
 S_PA_,Crohn's Disease (or) Regional Ileitis,"- Etiopathogenesis
-- Morphological Features",True,9,2022-08;2022-02;2013-02;2009-08;2008-08;2003-10;1999-04;1997-10;1991-12,n=PA-rbpbdsa&ed=10&vol=2#800,,
+- Morphological Features",True,9,2022-08;2022-02;2013-02;2009-08;2008-08;2003-10;1999-04;1997-10;1991-12,,n=PA-rbpbdsa&ed=10&vol=2#800,
 S_PA_,Peptic Ulcer Disease,"- Pathomorphology;- Morphology 
-- Complications",True,4,2023-02;2022-08;2019-02;1996-04,n=PA-rbpbdsa&ed=10&vol=2#770,"A 30 year old male, presented with **heart burns** and **dyspepsia.** A **breath test** and biopsy were ordered to confirm the diagnosis.",
+- Complications",True,4,2023-02;2022-08;2019-02;1996-04,"A 30 year old male, presented with **heart burns** and **dyspepsia.** A **breath test** and biopsy were ordered to confirm the diagnosis.",n=PA-rbpbdsa&ed=10&vol=2#770,
 E_PA_,Colorectal Cancer,"- Etiopathogenesis 
 - Morphology;- Discuss various Neoplasms arising in Rectosigmoid
 - Morphological Types
-- Staging System",True,3,2023-07;2014-08;2008-02,n=PA-rbpbdsa&ed=10&vol=2#813,"A *60 year old* male, *smoker*, presented to OPD with complaints of altered bowel habits with *bleeding per rectum* and **abdominal pain.** Patient was referred to **surgical oncologist** and he suggested an endoscopic Biopsy.;A **65 year old** male, presented with **bleeding per Rectum.** Colonoscopy revealed a **hard mass in rectosigmoid**;A **74 year old** male, presented with **altered bowel habits**, **tarry stool**, **loss of weight**, **fatigue** and **weakness** for 6 months duration. After an endoscopic biopsy of colon, left sided **hemicolectomy** was done.",
+- Staging System",True,3,2023-07;2014-08;2008-02,"A *60 year old* male, *smoker*, presented to OPD with complaints of altered bowel habits with *bleeding per rectum* and **abdominal pain.** Patient was referred to **surgical oncologist** and he suggested an endoscopic Biopsy.;A **65 year old** male, presented with **bleeding per Rectum.** Colonoscopy revealed a **hard mass in rectosigmoid**;A **74 year old** male, presented with **altered bowel habits**, **tarry stool**, **loss of weight**, **fatigue** and **weakness** for 6 months duration. After an endoscopic biopsy of colon, left sided **hemicolectomy** was done.",n=PA-rbpbdsa&ed=10&vol=2#813,
 S_PA_,Hirschsprung’s Disease (or) Congenital Megacolon,"- Pathology
 - Morphology
-- Clinical Features",True,2,2017-02;2003-10,n=PA-rbpbdsa&ed=10&vol=2#755,,
-S_PA_,Zollinger-Ellison Syndrome,,True,2,2018-02;2015-08,n=PA-rbpbdsa&ed=10&vol=2#773,,
-S_PA_,Barett's Esophagus,,True,4,2018-02;2012-08;2008-08;2007-02,n=PA-rbpbdsa&ed=10&vol=2#761,,
-S_PA_,Benign and Malignant Gastric Ulcer,,True,2,2020-02;2008-08,n=PA-rbpbdsa&ed=10&vol=2#0,,
-S_PA_,Chronic Gastritis (or) Chronic Gastric Ulcer (Helicobacter pylori Gastritis),,True,7,2022-08;2021-09;2019-08;2015-08;2014-08;2010-02;1992-04,n=PA-rbpbdsa&ed=10&vol=2#766,,
-S_PA_,Juvenile Polyps,,True,1,2021-09,n=PA-rbpbdsa&ed=10&vol=2#808,,
-S_PA_,Ulcerative Colitis,,True,8,2013-08;2012-08;2012-02;2008-08;2005-02;2000-04;1999-10;1998-10,n=PA-rbpbdsa&ed=10&vol=2#801,,
+- Clinical Features",True,2,2017-02;2003-10,,n=PA-rbpbdsa&ed=10&vol=2#755,
+S_PA_,Zollinger-Ellison Syndrome,,True,2,2018-02;2015-08,,n=PA-rbpbdsa&ed=10&vol=2#773,
+S_PA_,Barett's Esophagus,,True,4,2018-02;2012-08;2008-08;2007-02,,n=PA-rbpbdsa&ed=10&vol=2#761,
+S_PA_,Benign and Malignant Gastric Ulcer,,True,2,2020-02;2008-08,,n=PA-rbpbdsa&ed=10&vol=2#0,
+S_PA_,Chronic Gastritis (or) Chronic Gastric Ulcer (Helicobacter pylori Gastritis),,True,7,2022-08;2021-09;2019-08;2015-08;2014-08;2010-02;1992-04,,n=PA-rbpbdsa&ed=10&vol=2#766,
+S_PA_,Juvenile Polyps,,True,1,2021-09,,n=PA-rbpbdsa&ed=10&vol=2#808,
+S_PA_,Ulcerative Colitis,,True,8,2013-08;2012-08;2012-02;2008-08;2005-02;2000-04;1999-10;1998-10,,n=PA-rbpbdsa&ed=10&vol=2#801,
 S_PA_,Amoebic Dysentery Colon,"- Gross Features
-- Microscopic Features",True,1,2009-02,n=PA-rbpbdsa&ed=10&vol=2#797,,
-S_PA_,Peutz-Jeghers Syndrome,,True,1,2009-08,n=PA-rbpbdsa&ed=10&vol=2#809,,
-S_PA_,Familial Adenomatous Polyposis Syndrome,,True,1,2015-08,n=PA-rbpbdsa&ed=10&vol=2#812,,
-S_PA_,Neoplastic Polyps of Large Intestine,,True,1,1996-04,n=PA-rbpbdsa&ed=10&vol=2#810,,
-S_PA_,Carcinoid Syndrome,,True,3,2014-08;2010-02;1999-04,n=PA-rbpbdsa&ed=10&vol=2#778,,
+- Microscopic Features",True,1,2009-02,,n=PA-rbpbdsa&ed=10&vol=2#797,
+S_PA_,Peutz-Jeghers Syndrome,,True,1,2009-08,,n=PA-rbpbdsa&ed=10&vol=2#809,
+S_PA_,Familial Adenomatous Polyposis Syndrome,,True,1,2015-08,,n=PA-rbpbdsa&ed=10&vol=2#812,
+S_PA_,Neoplastic Polyps of Large Intestine,,True,1,1996-04,,n=PA-rbpbdsa&ed=10&vol=2#810,
+S_PA_,Carcinoid Syndrome,,True,3,2014-08;2010-02;1999-04,,n=PA-rbpbdsa&ed=10&vol=2#778,
 E_PA_,Inflammatory Bowel Disease (IBD),"- Etiopathogenesis
 - Gross and Microscopic Features
 - Complications of Crohn's Disease
 - Difference between Crohn's Disease and Ulcerative Colitis;- Macroscopic Features
 - Microscopic Features 
 - Complications & Pathogenesis of Ulcerative Colitis;- Classification of IBD
-- Pathology of Crohn's Disease",True,7,2011-02;2006-02;2004-08;2001-11;2001-04;1998-04;1991-01,n=PA-rbpbdsa&ed=10&vol=2#798,,
-S_PA_,Whipple's Disease,,True,1,2012-02,n=PA-rbpbdsa&ed=10&vol=2#794,,
+- Pathology of Crohn's Disease",True,7,2011-02;2006-02;2004-08;2001-11;2001-04;1998-04;1991-01,,n=PA-rbpbdsa&ed=10&vol=2#798,
+S_PA_,Whipple's Disease,,True,1,2012-02,,n=PA-rbpbdsa&ed=10&vol=2#794,
 E_PA_,Gastric Adenocarcinoma,"- Etiology
-- Pathological Changes",True,2,2014-02;2007-08,n=PA-rbpbdsa&ed=10&vol=2#774,"A **60 year old** male presented with **anaemia**, **loss of weight**, **persistent abdominal pain**, **abdominal distension** and **vomiting**. Upper GI endoscopy and biopsy done.;A **52 year old** male was admitted with **persistent abdominal pain**, **gastric distension** and **vomiting**. He had a history of **loss of appetite**, **loss of weight** and **hematemesis**.",
+- Pathological Changes",True,2,2014-02;2007-08,"A **60 year old** male presented with **anaemia**, **loss of weight**, **persistent abdominal pain**, **abdominal distension** and **vomiting**. Upper GI endoscopy and biopsy done.;A **52 year old** male was admitted with **persistent abdominal pain**, **gastric distension** and **vomiting**. He had a history of **loss of appetite**, **loss of weight** and **hematemesis**.",n=PA-rbpbdsa&ed=10&vol=2#774,
 E_PA_,Chronic Gastritis (or) Chronic Gastric Ulcer (Peptic Ulcer Disease),"- Definition of Peptic Ulcer
 - Sites of Occurrence of Peptic Ulcer
 - Etiopathogenesis
 - Pathology
 - Complications of Chronic Gastric Ulcer;- Etiopathogenesis
 - Gross and Microscopic Features
-- Complications of Peptic Ulcer Disease",True,2,2005-08;1993-11,n=PA-rbpbdsa&ed=10&vol=2#766,,
-S_PA_,Inflammatory Bowel Disease (IBD),,True,1,2007-08,n=PA-rbpbdsa&ed=10&vol=2#798,,
+- Complications of Peptic Ulcer Disease",True,2,2005-08;1993-11,,n=PA-rbpbdsa&ed=10&vol=2#766,
+S_PA_,Inflammatory Bowel Disease (IBD),,True,1,2007-08,,n=PA-rbpbdsa&ed=10&vol=2#798,
 E_PA_,Typhoid Ulcer,"- Etiopathogenesis
 - Pathology
-- Complications",True,1,1995-04,n=PA-rbpbdsa&ed=10&vol=2#791,,
-S_PA_,Celiac Disease (or) Celiac Sprue,,True,1,2000-04,n=PA-rbpbdsa&ed=10&vol=2#784,,
+- Complications",True,1,1995-04,,n=PA-rbpbdsa&ed=10&vol=2#791,
+S_PA_,Celiac Disease (or) Celiac Sprue,,True,1,2000-04,,n=PA-rbpbdsa&ed=10&vol=2#784,

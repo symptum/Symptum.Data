@@ -1,23 +1,23 @@
-Id,Title,Descriptions,HasPreviouslyBeenAsked,Importance,YearsAsked,BookLocations,ProbableCases,ReferenceLinks
-S_PA_28.14,Nephroma (or) Renal Cell Carcinoma,- Morphology;- Clear Cell Carcinoma of Kidney,True,4,2012-02;2008-08;2004-08;1991-01,n=PA-rbpbdsa&ed=10&vol=2#948,,
-S_PA_28.12,Contracted Granular Kidney,,True,3,2015-02;2001-04;1993-11,n=PA-rbpbdsa&ed=10&vol=2#941,,
-S_PA_28.5.2,Acute Proliferative Glomerulonephritis,- Urinary Findings,True,1,1994-11,n=PA-rbpbdsa&ed=10&vol=2#906,,
-S_PA_28.5.2.1,Crescentic Glomerulonephritis,- Goodpasture Syndrome,True,5,2014-08;2013-08;2009-02;2008-02;1994-04,n=PA-rbpbdsa&ed=10&vol=2#909,,
+Id,Title,Descriptions,HasPreviouslyBeenAsked,Importance,YearsAsked,ProbableCases,BookReferences,LinkReferences
+S_PA_28.14,Nephroma (or) Renal Cell Carcinoma,- Morphology;- Clear Cell Carcinoma of Kidney,True,4,2012-02;2008-08;2004-08;1991-01,,n=PA-rbpbdsa&ed=10&vol=2#948,
+S_PA_28.12,Contracted Granular Kidney,,True,3,2015-02;2001-04;1993-11,,n=PA-rbpbdsa&ed=10&vol=2#941,
+S_PA_28.5.2,Acute Proliferative Glomerulonephritis,- Urinary Findings,True,1,1994-11,,n=PA-rbpbdsa&ed=10&vol=2#906,
+S_PA_28.5.2.1,Crescentic Glomerulonephritis,- Goodpasture Syndrome,True,5,2014-08;2013-08;2009-02;2008-02;1994-04,,n=PA-rbpbdsa&ed=10&vol=2#909,
 E_PA_28.5.1.1,Acute Proliferative Nephritis,"- Etiopathogenesis
 - Pathology
 - Morphology
 - Clinical Features
-- Lab Diagnosis;- Mechanisms of Glomerular Injury;- Classifications of Nephritis",True,7,2019-02;2012-08;2010-08;2006-08;2005-02;2000-10;1996-04,n=PA-rbpbdsa&ed=10&vol=2#906,"A 10 year old child is admitted with puffiness of face, oliguria and smoky urine.;A 12 year old boy presented with fever, oliguria and high coloured urine. He had sore throat three weeks back.;A 8 year old boy with old scar of scabies skin lesion, with history of Haematuria, Oliguria and Puffiness of face.;A 3 year old child was hospitalized for the complaints of fever and passing smoky urine. The child had recovered from sore throat a week ago.",
-S_PA_28.10.1,Acute Pyelonephritis,- Morphology;- Drug Induced Nephropathy,True,4,2021-09;2014-08;2009-02;1997-04,n=PA-rbpbdsa&ed=10&vol=2#928,,
-S_PA_28.1,Urinary Casts,,True,1,1998-04,n=PA-rbpbdsa&ed=10&vol=2#900,,
+- Lab Diagnosis;- Mechanisms of Glomerular Injury;- Classifications of Nephritis",True,7,2019-02;2012-08;2010-08;2006-08;2005-02;2000-10;1996-04,"A 10 year old child is admitted with puffiness of face, oliguria and smoky urine.;A 12 year old boy presented with fever, oliguria and high coloured urine. He had sore throat three weeks back.;A 8 year old boy with old scar of scabies skin lesion, with history of Haematuria, Oliguria and Puffiness of face.;A 3 year old child was hospitalized for the complaints of fever and passing smoky urine. The child had recovered from sore throat a week ago.",n=PA-rbpbdsa&ed=10&vol=2#906,
+S_PA_28.10.1,Acute Pyelonephritis,- Morphology;- Drug Induced Nephropathy,True,4,2021-09;2014-08;2009-02;1997-04,,n=PA-rbpbdsa&ed=10&vol=2#928,
+S_PA_28.1,Urinary Casts,,True,1,1998-04,,n=PA-rbpbdsa&ed=10&vol=2#900,
 E_PA_28.5.2,Nephrotic Syndrome,"- Etiopathogenesis
 - Pathogenesis
-- Complications;- Minimal change disease",True,2,2011-08;2001-04,n=PA-rbpbdsa&ed=10&vol=2#911,A 13 year old female child had massive edema with puffiness of face with decreased urine output.,
-S_PA_28.7,Diabetic Nephropathy,,True,3,2023-07;2011-02;2001-11,n=PA-rbpbdsa&ed=10&vol=2#923,,
-S_PA_28.9,Acute Tubular Injury,,True,1,2002-03,n=PA-rbpbdsa&ed=10&vol=2#924,,
+- Complications;- Minimal change disease",True,2,2011-08;2001-04,A 13 year old female child had massive edema with puffiness of face with decreased urine output.,n=PA-rbpbdsa&ed=10&vol=2#911,
+S_PA_28.7,Diabetic Nephropathy,,True,3,2023-07;2011-02;2001-11,,n=PA-rbpbdsa&ed=10&vol=2#923,
+S_PA_28.9,Acute Tubular Injury,,True,1,2002-03,,n=PA-rbpbdsa&ed=10&vol=2#924,
 S_PA_28.13,Renal Calculi,"- Classification
-- Features",True,2,2008-08;2007-02,n=PA-rbpbdsa&ed=10&vol=2#947,,
-E_PA_28.10.2,Chronic Pyelonephritis,,True,1,2009-08,n=PA-rbpbdsa&ed=10&vol=2#930,,
-S_PA_28.10.2,Chronic Pyelonephritis,,True,1,2010-02,n=PA-rbpbdsa&ed=10&vol=2#930,,
-S_PA_28.12,Cystic Kidney Diseases,,True,2,2018-08;2016-08,n=PA-rbpbdsa&ed=10&vol=2#941,,
-S_PA_28.6,IgA Nephropathy (or) Berger Disease,,True,1,2022-08,n=PA-rbpbdsa&ed=10&vol=2#920,,
+- Features",True,2,2008-08;2007-02,,n=PA-rbpbdsa&ed=10&vol=2#947,
+E_PA_28.10.2,Chronic Pyelonephritis,,True,1,2009-08,,n=PA-rbpbdsa&ed=10&vol=2#930,
+S_PA_28.10.2,Chronic Pyelonephritis,,True,1,2010-02,,n=PA-rbpbdsa&ed=10&vol=2#930,
+S_PA_28.12,Cystic Kidney Diseases,,True,2,2018-08;2016-08,,n=PA-rbpbdsa&ed=10&vol=2#941,
+S_PA_28.6,IgA Nephropathy (or) Berger Disease,,True,1,2022-08,,n=PA-rbpbdsa&ed=10&vol=2#920,
