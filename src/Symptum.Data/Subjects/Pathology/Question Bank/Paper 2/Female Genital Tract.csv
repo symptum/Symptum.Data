@@ -1,30 +1,30 @@
-Id,Title,Descriptions,HasPreviouslyBeenAsked,Importance,YearsAsked,BookLocations,ProbableCases,ReferenceLinks
+Id,Title,Descriptions,HasPreviouslyBeenAsked,Importance,YearsAsked,ProbableCases,BookReferences,LinkReferences
 E_PA_30.1,Carcinoma of Cervix,"- Probable diagnosis
 - Etiopathogenesis
 - Clinical features
 - Investigation done to confirm diagnosis;- Probable diagnosis
 - Etiopathogenesis
-- Clinical features",True,2,2020-02;2008-02,n=PA-rbpbdsa&ed=10&vol=2#998,"A 60 year old female, postmenopausal, anorexic, cachectic women has ulcerated & friable cervix that bleeds on touch. Features accompanied by foul smelling vaginal discharge.",
-S_PA_30.1,Carcinoma of Cervix,- Etiology,True,3,2023-07;2011-02;2009-08,n=PA-rbpbdsa&ed=10&vol=2#996,,
-S_PA_30.1,Role of Pap Smear in Cancer Screening,,True,1,2022-03,n=PA-rbpbdsa&ed=10&vol=2#1000,,
+- Clinical features",True,2,2020-02;2008-02,"A 60 year old female, postmenopausal, anorexic, cachectic women has ulcerated & friable cervix that bleeds on touch. Features accompanied by foul smelling vaginal discharge.",n=PA-rbpbdsa&ed=10&vol=2#998,
+S_PA_30.1,Carcinoma of Cervix,- Etiology,True,3,2023-07;2011-02;2009-08,,n=PA-rbpbdsa&ed=10&vol=2#996,
+S_PA_30.1,Role of Pap Smear in Cancer Screening,,True,1,2022-03,,n=PA-rbpbdsa&ed=10&vol=2#1000,
 S_PA_30.4.3,Teratoma of Ovary,"- What is Teratoma?
 - Common sites involved;- Classification
 - Pathomorphology of Teratoma of Ovary;- Gross features of Mature Cystic Teratoma;- Morphology
 - Belongs to which group of Ovarian lesions
-- Enumerate other lesions",True,4,2023-02;2022-08;2020-11;2012-02,n=PA-rbpbdsa&ed=10&vol=2#1023,"A 15 year old female, presented with unilateral **Ovarian Mass**. Gross examination revealed **hair** in it. ",
-S_PA_,Krukenberg Tumor,,True,2,2023-07;2013-02,n=PA-rbpbdsa&ed=10&vol=1#1028,,
-S_PA_30.9,Endometrial Hyperplasia,,True,1,2023-02,n=PA-rbpbdsa&ed=10&vol=2#1006,,
-S_PA_30.4.3.3,Struma Ovarii,,True,2,2022-08;2013-08,n=PA-rbpbdsa&ed=10&vol=1#1024,,
-S_PA_30.5,Hydatidiform Mole,- Sites of Ectopic Gestation,True,4,2022-02;2014-08;2014-02;2010-02,n=PA-rbpbdsa&ed=10&vol=1#1033,,
-S_PA_30.4.3,Germ Cell Tumours of Ovary,,True,2,2020-02;2016-02,n=PA-rbpbdsa&ed=10&vol=1#1023,,
-S_PA_30.4.3.4,Dysgerminoma,- Microscopic features,True,3,2019-08;2011-02;2010-02,n=PA-rbpbdsa&ed=10&vol=1#1024,,
-S_PA_30.1,Cervical Intraepithelial Neoplasia,,True,4,2018-02;2015-02;2014-02;2010-02,n=PA-rbpbdsa&ed=10&vol=2#997,,
+- Enumerate other lesions",True,4,2023-02;2022-08;2020-11;2012-02,"A 15 year old female, presented with unilateral **Ovarian Mass**. Gross examination revealed **hair** in it. ",n=PA-rbpbdsa&ed=10&vol=2#1023,
+S_PA_,Krukenberg Tumor,,True,2,2023-07;2013-02,,n=PA-rbpbdsa&ed=10&vol=1#1028,
+S_PA_30.9,Endometrial Hyperplasia,,True,1,2023-02,,n=PA-rbpbdsa&ed=10&vol=2#1006,
+S_PA_30.4.3.3,Struma Ovarii,,True,2,2022-08;2013-08,,n=PA-rbpbdsa&ed=10&vol=1#1024,
+S_PA_30.5,Hydatidiform Mole,- Sites of Ectopic Gestation,True,4,2022-02;2014-08;2014-02;2010-02,,n=PA-rbpbdsa&ed=10&vol=1#1033,
+S_PA_30.4.3,Germ Cell Tumours of Ovary,,True,2,2020-02;2016-02,,n=PA-rbpbdsa&ed=10&vol=1#1023,
+S_PA_30.4.3.4,Dysgerminoma,- Microscopic features,True,3,2019-08;2011-02;2010-02,,n=PA-rbpbdsa&ed=10&vol=1#1024,
+S_PA_30.1,Cervical Intraepithelial Neoplasia,,True,4,2018-02;2015-02;2014-02;2010-02,,n=PA-rbpbdsa&ed=10&vol=2#997,
 S_PA_30.7,Endometriosis,"- Definition
-- 4 Sites involved",True,5,2021-09;2018-08;2017-02;2013-08;2009-08,n=PA-rbpbdsa&ed=10&vol=1#1004,,
-S_PA_30.4.3.2,Dermoid Cyst (or) Mature (Benign) Teratoma of Ovary,,True,1,2011-08,n=PA-rbpbdsa&ed=10&vol=1#1023,,
-S_PA_30.2,Malignant Tumors of Endometrium,- Types of Endometrial tumors,True,1,2011-08,n=PA-rbpbdsa&ed=10&vol=1#1008,,
-S_PA_30.4.2,Sex Cord Stromal Tumors of Ovary,,True,1,2015-08,n=PA-rbpbdsa&ed=10&vol=1#1026,,
+- 4 Sites involved",True,5,2021-09;2018-08;2017-02;2013-08;2009-08,,n=PA-rbpbdsa&ed=10&vol=1#1004,
+S_PA_30.4.3.2,Dermoid Cyst (or) Mature (Benign) Teratoma of Ovary,,True,1,2011-08,,n=PA-rbpbdsa&ed=10&vol=1#1023,
+S_PA_30.2,Malignant Tumors of Endometrium,- Types of Endometrial tumors,True,1,2011-08,,n=PA-rbpbdsa&ed=10&vol=1#1008,
+S_PA_30.4.2,Sex Cord Stromal Tumors of Ovary,,True,1,2015-08,,n=PA-rbpbdsa&ed=10&vol=1#1026,
 E_PA_30.4;30.4.3;30.4.1.1,Ovarian Neoplasms,"- Classification
 - Note on Germ Cell Tumors;- Classification
-- Molecular Pathogenesis & Morphology of Serous tumors",True,4,2023-12;2017-08;2013-08;2012-02,n=PA-rbpbdsa&ed=10&vol=2#1016,,
-S_PA_30.4.1,Ovarian Tumors,- Surface epithelial Tumors,True,3,2017-08;2016-02;2010-07,n=PA-rbpbdsa&ed=10&vol=2#1017,,
+- Molecular Pathogenesis & Morphology of Serous tumors",True,4,2023-12;2017-08;2013-08;2012-02,,n=PA-rbpbdsa&ed=10&vol=2#1016,
+S_PA_30.4.1,Ovarian Tumors,- Surface epithelial Tumors,True,3,2017-08;2016-02;2010-07,,n=PA-rbpbdsa&ed=10&vol=2#1017,

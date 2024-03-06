@@ -1,35 +1,35 @@
-Id,Title,Descriptions,HasPreviouslyBeenAsked,Importance,YearsAsked,BookLocations,ProbableCases,ReferenceLinks
-S_PA_22.4,Reticulocyte,,True,2,2017-08;2005-08,n=PA-rbpbdsa&ed=10&vol=1#637;n=PA-ramd&ed=4&vol=0#385,,
+Id,Title,Descriptions,HasPreviouslyBeenAsked,Importance,YearsAsked,ProbableCases,BookReferences,LinkReferences
+S_PA_22.4,Reticulocyte,,True,2,2017-08;2005-08,,n=PA-rbpbdsa&ed=10&vol=1#637;n=PA-ramd&ed=4&vol=0#385,
 E_PA_16.1;16.3.1,Sickle Cell Anaemia,"- Define Anaemia
 - Classify Hemolytic Anaemia
 - Pathogenesis
 - Clinical Features
-- Laboratory Diagnosis",True,5,2018-08;2007-02;2007-02;1997-04;1991-12,n=PA-rbpbdsa&ed=10&vol=1#641,"A 20 year old female had hematocrit of 20%, reticulocytosis, hyperbilirubinemia, peripheral smear revealed anisopoikilocytosis and target cells.",
-S_PA_15.3.1;15.1.2.1,Megaloblastic Anemia,- Bone Marrow Picture of Vit B12 Deficiency;- Pathophysiology,True,10,2023-12;2015-08;2009-02;2008-08;2006-08;2006-02;2004-08;1999-04;1998-11;1996-04,n=PA-rbpbdsa&ed=10&vol=1#651,"A 20 year old female had hematocrit of 20%, reticulocytosis, hyperbilirubinemia, peripheral smear revealed anisopoikilocytosis and target cells.",
+- Laboratory Diagnosis",True,5,2018-08;2007-02;2007-02;1997-04;1991-12,"A 20 year old female had hematocrit of 20%, reticulocytosis, hyperbilirubinemia, peripheral smear revealed anisopoikilocytosis and target cells.",n=PA-rbpbdsa&ed=10&vol=1#641,
+S_PA_15.3.1;15.1.2.1,Megaloblastic Anemia,- Bone Marrow Picture of Vit B12 Deficiency;- Pathophysiology,True,10,2023-12;2015-08;2009-02;2008-08;2006-08;2006-02;2004-08;1999-04;1998-11;1996-04,"A 20 year old female had hematocrit of 20%, reticulocytosis, hyperbilirubinemia, peripheral smear revealed anisopoikilocytosis and target cells.",n=PA-rbpbdsa&ed=10&vol=1#651,
 E_PA_15.1.1;15.1.2;15.2;15.3,Megaloblastic Anaemia,"- Causes
 - Pathogenesis
 - Morphology
 - Bone Marrow Picture;- Lab Investigation and Diagnosis of Pernicious Anaemia;- Definition of anaemia
-- Classification of anaemia",True,4,2022-03;2017-08;2005-08;2005-03,n=PA-rbpbdsa&ed=10&vol=1#651,"A 50 year old male vegetarian, presented with pallor, paresthesia of extremities. O/E he had beefy tongue.",
-S_PA_16.3.1.1;16.3.1.3;16.3.1.2,Sickle Cell Anaemia,- Sickle Cell;- Pathophysiology,True,2,2022-08;2010-02,n=PA-rbpbdsa&ed=10&vol=1#641,"A 20 year old female had hematocrit of 20%, reticulocytosis, hyperbilirubinemia, peripheral smear revealed anisopoikilocytosis and target cells.",
-S_PA_17.3,Pancytopenia,- Causes,True,2,2018-08;2000-10,n=PA-ramd&ed=4&vol=0#305,,
-S_PA_16.2.3,Auto Immune Hemolytic Anaemia,- Laboratory Investigation;- Classification of Immunohemolytic Anemia,True,1,2020-02,n=PA-rbpbdsa&ed=10&vol=1#649,,
+- Classification of anaemia",True,4,2022-03;2017-08;2005-08;2005-03,"A 50 year old male vegetarian, presented with pallor, paresthesia of extremities. O/E he had beefy tongue.",n=PA-rbpbdsa&ed=10&vol=1#651,
+S_PA_16.3.1.1;16.3.1.3;16.3.1.2,Sickle Cell Anaemia,- Sickle Cell;- Pathophysiology,True,2,2022-08;2010-02,"A 20 year old female had hematocrit of 20%, reticulocytosis, hyperbilirubinemia, peripheral smear revealed anisopoikilocytosis and target cells.",n=PA-rbpbdsa&ed=10&vol=1#641,
+S_PA_17.3,Pancytopenia,- Causes,True,2,2018-08;2000-10,,n=PA-ramd&ed=4&vol=0#305,
+S_PA_16.2.3,Auto Immune Hemolytic Anaemia,- Laboratory Investigation;- Classification of Immunohemolytic Anemia,True,1,2020-02,,n=PA-rbpbdsa&ed=10&vol=1#649,
 S_PA_16.2.1,Hereditary Spherocytosis,"- Pathogenesis
 - Morphology and Blood Picture
-- Clinical Features",True,1,2022-02;2007-08,n=PA-rbpbdsa&ed=10&vol=1#638,,
-S_PA_14.2.2.1;14.3.1,Iron Deficiency Anaemia (or) Microcytic Hypochromic Anaemia," - Laboratory Investigations and Diagnosis;- Hematological Findings",True,2,2023-08;2022-08,n=PA-rbpbdsa&ed=10&vol=1#655,"A 30 year old female presented with menorrhagia. She has pallor, koilonychia.",
+- Clinical Features",True,1,2022-02;2007-08,,n=PA-rbpbdsa&ed=10&vol=1#638,
+S_PA_14.2.2.1;14.3.1,Iron Deficiency Anaemia (or) Microcytic Hypochromic Anaemia," - Laboratory Investigations and Diagnosis;- Hematological Findings",True,2,2023-08;2022-08,"A 30 year old female presented with menorrhagia. She has pallor, koilonychia.",n=PA-rbpbdsa&ed=10&vol=1#655,
 E_PA_14.2.1;14.2.2;14.3,Iron Deficiency Anaemia (or) Microcytic Hypochromic Anaemia,"- Etiopathogenesis
 - Peripheral Smear
-- Bone Marrow Picture",True,3,2013-02;2008-08;2001-04,n=PA-rbpbdsa&ed=10&vol=1#655,"A 30 year old female presented with menorrhagia. She has pallor, koilonychia.",
+- Bone Marrow Picture",True,3,2013-02;2008-08;2001-04,"A 30 year old female presented with menorrhagia. She has pallor, koilonychia.",n=PA-rbpbdsa&ed=10&vol=1#655,
 S_PA_17.1,Aplastic Anaemia,"- Etiology
-- Morphology of Bone Marrow",True,6,2023-07;2023-02;2013-08;2005-08;2005-02;1997-10,n=PA-rbpbdsa&ed=10&vol=1#659,,
+- Morphology of Bone Marrow",True,6,2023-07;2023-02;2013-08;2005-08;2005-02;1997-10,,n=PA-rbpbdsa&ed=10&vol=1#659,
 E_PA_16.3.2,Thalassemia,"- Etiopathogenesis
 - Morphology
 - Lab Investigation;- Classify Hemolytic Anaemia
 - Pathogenesis
 - Blood Picture
-- Clinical Features of Beta Thalassemia Major",True,1,2023-02,n=PA-rbpbdsa&ed=10&vol=1#644,A 8 year old girl presented with malaise and fatigue. On examination yellowish sclera with hepatosplenomegaly noted. Family history revealed similar complaints in her sibling also. Her Hemoglobin level is 7.8 g/dl. X-Ray skull showed “crewcut” appearance.,
+- Clinical Features of Beta Thalassemia Major",True,1,2023-02,A 8 year old girl presented with malaise and fatigue. On examination yellowish sclera with hepatosplenomegaly noted. Family history revealed similar complaints in her sibling also. Her Hemoglobin level is 7.8 g/dl. X-Ray skull showed “crewcut” appearance.,n=PA-rbpbdsa&ed=10&vol=1#644,
 S_PA_19.9,Polycythaemia Vera,"- Pathogenesis
 - Morphology
-- Clinical Features",True,2,2012-08,n=PA-rbpbdsa&ed=10&vol=1#624,,
-S_PA_16.2.2,G-6-PD Deficiency Anaemia,,True,1,2002-03,n=PA-rbpbdsa&ed=10&vol=1#640,,
+- Clinical Features",True,2,2012-08,,n=PA-rbpbdsa&ed=10&vol=1#624,
+S_PA_16.2.2,G-6-PD Deficiency Anaemia,,True,1,2002-03,,n=PA-rbpbdsa&ed=10&vol=1#640,

@@ -1,6 +1,6 @@
-Id,Title,Descriptions,HasPreviouslyBeenAsked,Importance,YearsAsked,BookLocations,ProbableCases,ReferenceLinks
-S_PA_,Mixed Parotid Tumor,,True,1,2023-07,n=PA-rbpbdsa&ed=10&vol=2#269,,
-S_PA_,Squamous Cell Carcinoma of Oral Cavity,- Etiological Agents,True,1,2017-08,n=PA-rbpbdsa&ed=10&vol=2#735,,
-S_PA_,Pleomorphic Adenoma,,True,6,2020-02;2014-02;2005-02;2002-03;2001-04;2000-10,n=PA-rbpbdsa&ed=10&vol=2#748,,
-S_PA_,Salivary Gland Tumors,,True,3,2014-08;2012-08;2011-02,n=PA-rbpbdsa&ed=10&vol=2#747,,
-S_PA_,Warthin Tumor,,True,1,2008-02,n=PA-rbpbdsa&ed=10&vol=2#749,,
+Id,Title,Descriptions,HasPreviouslyBeenAsked,Importance,YearsAsked,ProbableCases,BookReferences,LinkReferences
+S_PA_,Mixed Parotid Tumor,,True,1,2023-07,,n=PA-rbpbdsa&ed=10&vol=2#269,
+S_PA_,Squamous Cell Carcinoma of Oral Cavity,- Etiological Agents,True,1,2017-08,,n=PA-rbpbdsa&ed=10&vol=2#735,
+S_PA_,Pleomorphic Adenoma,,True,6,2020-02;2014-02;2005-02;2002-03;2001-04;2000-10,,n=PA-rbpbdsa&ed=10&vol=2#748,
+S_PA_,Salivary Gland Tumors,,True,3,2014-08;2012-08;2011-02,,n=PA-rbpbdsa&ed=10&vol=2#747,
+S_PA_,Warthin Tumor,,True,1,2008-02,,n=PA-rbpbdsa&ed=10&vol=2#749,

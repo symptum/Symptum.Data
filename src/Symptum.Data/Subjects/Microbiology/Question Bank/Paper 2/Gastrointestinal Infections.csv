@@ -1,5 +1,5 @@
-Id,Title,Descriptions,HasPreviouslyBeenAsked,Importance,YearsAsked,BookLocations,ProbableCases,ReferenceLinks
-S_MI_3.1.4.2,Helicobacter pylori,,True,5,2012-02;2009-02;2008-02;2002-03;2001-11,n=MI-apsemm&ed=4&vol=0#355;n=MI-apsemm&ed=3&vol=0#421,,
+Id,Title,Descriptions,HasPreviouslyBeenAsked,Importance,YearsAsked,ProbableCases,BookReferences,LinkReferences
+S_MI_3.1.4.2,Helicobacter pylori,,True,5,2012-02;2009-02;2008-02;2002-03;2001-11,,n=MI-apsemm&ed=4&vol=0#355;n=MI-apsemm&ed=3&vol=0#421,
 E_MI_3.1.3.1,Cholera,"- Enumerate Bacteria causing Diarrhea
 - Morphology
 - Pathogenesis
@@ -12,18 +12,18 @@ E_MI_3.1.3.1,Cholera,"- Enumerate Bacteria causing Diarrhea
 - Prevention;- Morphology
 - Pathogenesis
 - Laboratory diagnosis
-- Treatment",True,8,2022-08;2015-08;2011-02;2010-02;2008-02;2003-10;2001-04;1996-04,n=MI-apsemm&ed=4&vol=0#346;n=MI-apsemm&ed=3&vol=0#410,A 25 year old female admitted with history of **watery diarrhea resembling rice water** of 24 hrs duration along with **copious vomiting**.,
-S_MI_3.1.3.2,Halophilic Vibrios,- Detail about Halophilic Vibrios;- Non Cholera Vibrios;- Non agglutinating Vibrios,True,5,2013-02;2012-08;2010-02;2001-11;1994-11,n=MI-apsemm&ed=4&vol=0#352;n=MI-apsemm&ed=3&vol=0#417,,
-S_MI_3.1.1,Bacteria Causing Food Poison,- Laboratory diagnosis;- Note on bacterial food poisoning,True,4,2014-08;2010-08;2007-02;2000-10,n=MI-apsemm&ed=4&vol=0#332;n=MI-apsemm&ed=3&vol=0#394,,
-S_MI_3.1.3.1.4,Lab Diagnosis of Cholera,,True,2,2021-09;2018-08,n=MI-apsemm&ed=4&vol=0#349;n=MI-apsemm&ed=3&vol=0#414,,
-S_MI_3.1.3.1.2,El Tor Vibrio,,True,7,2021-09;2019-02;2012-02;2009-02;2007-08;2005-08;2001-04,n=MI-apsemm&ed=4&vol=0#347;n=MI-apsemm&ed=3&vol=0#411,,
-S_MI_3.1.2.2.1,Escherichia coli - Virulence Factors,,True,1,2020-11,n=MI-apsemm&ed=4&vol=0#338;n=MI-apsemm&ed=3&vol=0#401,,
-S_MI_3.1.3.1.1,Serotyping of Vibrio cholerae,,True,1,2023-12,n=MI-apsemm&ed=4&vol=0#347;n=MI-apsemm&ed=3&vol=0#411,,
-S_MI_3.1.2.2.3,Enterotoxigenic Escherichia coli (ETEC),- Travelers Diarrhea;- Details about Enterotoxigenic Escherichia coli,True,1,2011-02,n=MI-apsemm&ed=4&vol=0#340;n=MI-apsemm&ed=3&vol=0#403,,
-S_MI_3.1.2.2,Different Types of Diarrheagenic Escherichia coli,,True,5,2021-08;2015-08;2006-02;2005-08;1997-10,n=MI-apsemm&ed=4&vol=0#340;n=MI-apsemm&ed=3&vol=0#403,,
-S_MI_3.1.3.1.3,Differences Between Classical and El Tor Vibrio,,True,1,2013-08,n=MI-apsemm&ed=4&vol=0#347;n=MI-apsemm&ed=3&vol=0#411,,
-S_MI_3.1.2.3,Shigella,- Detail about Shigella;- Exotoxin produced by Shigella species;- Bacillary Dysentery,True,3,2014-08;2014-02;2000-10,n=MI-apsemm&ed=4&vol=0#341;n=MI-apsemm&ed=3&vol=0#404,,
-S_MI_3.1.7.7.2,Enterobius vermicularis,- Pinworm;- Thread worm;- Enterobiasis,True,5,2018-02;2014-02;2008-08;2001-04;1994-11,n=MI-apsemm&ed=4&vol=0#383;n=MI-apsemm&ed=3&vol=0#459,,
+- Treatment",True,8,2022-08;2015-08;2011-02;2010-02;2008-02;2003-10;2001-04;1996-04,A 25 year old female admitted with history of **watery diarrhea resembling rice water** of 24 hrs duration along with **copious vomiting**.,n=MI-apsemm&ed=4&vol=0#346;n=MI-apsemm&ed=3&vol=0#410,
+S_MI_3.1.3.2,Halophilic Vibrios,- Detail about Halophilic Vibrios;- Non Cholera Vibrios;- Non agglutinating Vibrios,True,5,2013-02;2012-08;2010-02;2001-11;1994-11,,n=MI-apsemm&ed=4&vol=0#352;n=MI-apsemm&ed=3&vol=0#417,
+S_MI_3.1.1,Bacteria Causing Food Poison,- Laboratory diagnosis;- Note on bacterial food poisoning,True,4,2014-08;2010-08;2007-02;2000-10,,n=MI-apsemm&ed=4&vol=0#332;n=MI-apsemm&ed=3&vol=0#394,
+S_MI_3.1.3.1.4,Lab Diagnosis of Cholera,,True,2,2021-09;2018-08,,n=MI-apsemm&ed=4&vol=0#349;n=MI-apsemm&ed=3&vol=0#414,
+S_MI_3.1.3.1.2,El Tor Vibrio,,True,7,2021-09;2019-02;2012-02;2009-02;2007-08;2005-08;2001-04,,n=MI-apsemm&ed=4&vol=0#347;n=MI-apsemm&ed=3&vol=0#411,
+S_MI_3.1.2.2.1,Escherichia coli - Virulence Factors,,True,1,2020-11,,n=MI-apsemm&ed=4&vol=0#338;n=MI-apsemm&ed=3&vol=0#401,
+S_MI_3.1.3.1.1,Serotyping of Vibrio cholerae,,True,1,2023-12,,n=MI-apsemm&ed=4&vol=0#347;n=MI-apsemm&ed=3&vol=0#411,
+S_MI_3.1.2.2.3,Enterotoxigenic Escherichia coli (ETEC),- Travelers Diarrhea;- Details about Enterotoxigenic Escherichia coli,True,1,2011-02,,n=MI-apsemm&ed=4&vol=0#340;n=MI-apsemm&ed=3&vol=0#403,
+S_MI_3.1.2.2,Different Types of Diarrheagenic Escherichia coli,,True,5,2021-08;2015-08;2006-02;2005-08;1997-10,,n=MI-apsemm&ed=4&vol=0#340;n=MI-apsemm&ed=3&vol=0#403,
+S_MI_3.1.3.1.3,Differences Between Classical and El Tor Vibrio,,True,1,2013-08,,n=MI-apsemm&ed=4&vol=0#347;n=MI-apsemm&ed=3&vol=0#411,
+S_MI_3.1.2.3,Shigella,- Detail about Shigella;- Exotoxin produced by Shigella species;- Bacillary Dysentery,True,3,2014-08;2014-02;2000-10,,n=MI-apsemm&ed=4&vol=0#341;n=MI-apsemm&ed=3&vol=0#404,
+S_MI_3.1.7.7.2,Enterobius vermicularis,- Pinworm;- Thread worm;- Enterobiasis,True,5,2018-02;2014-02;2008-08;2001-04;1994-11,,n=MI-apsemm&ed=4&vol=0#383;n=MI-apsemm&ed=3&vol=0#459,
 E_MI_3.1.7.7.4,Ancylostoma duodenale (or) Hookworm,"- Enumerate parasites causing anemia
 - Morphology
 - Life cycle
@@ -32,65 +32,65 @@ E_MI_3.1.7.7.4,Ancylostoma duodenale (or) Hookworm,"- Enumerate parasites causin
 - Laboratory diagnosis;- Life cycle
 - Pathogenesis
 - Lab diagnosis
-- Management",True,6,2022-02;2012-02;2010-08;2009-02;2005-02;1995-11,n=MI-apsemm&ed=4&vol=0#386;n=MI-apsemm&ed=3&vol=0#463,,
-S_MI_3.1.7.7.3,Ascariasis (or) Roundworm Infestation,- Life cycle,True,3,2014-08;2010-08;2009-02,n=MI-apsemm&ed=4&vol=0#384;n=MI-apsemm&ed=3&vol=0#461,,
-S_MI_3.1.6.4.1,Balantidium coli,- Life cycle;- Detail about Balantidium coli,True,4,2015-02;2011-08;2010-08;2009-08,n=MI-apsemm&ed=4&vol=0#371;n=MI-apsemm&ed=3&vol=0#441,,
-S_MI_3.1.7.2,Stool Examination of Parasitic Infections in GIT,,True,2,2011-02;2009-08,n=MI-apsemm&ed=4&vol=0#90;n=MI-apsemm&ed=3&vol=0#103,,
-S_MI_3.1.7.7.3.2,Egg of Ascaris,,True,1,2009-08,n=MI-apsemm&ed=4&vol=0#385;n=MI-apsemm&ed=3&vol=0#462,,
+- Management",True,6,2022-02;2012-02;2010-08;2009-02;2005-02;1995-11,,n=MI-apsemm&ed=4&vol=0#386;n=MI-apsemm&ed=3&vol=0#463,
+S_MI_3.1.7.7.3,Ascariasis (or) Roundworm Infestation,- Life cycle,True,3,2014-08;2010-08;2009-02,,n=MI-apsemm&ed=4&vol=0#384;n=MI-apsemm&ed=3&vol=0#461,
+S_MI_3.1.6.4.1,Balantidium coli,- Life cycle;- Detail about Balantidium coli,True,4,2015-02;2011-08;2010-08;2009-08,,n=MI-apsemm&ed=4&vol=0#371;n=MI-apsemm&ed=3&vol=0#441,
+S_MI_3.1.7.2,Stool Examination of Parasitic Infections in GIT,,True,2,2011-02;2009-08,,n=MI-apsemm&ed=4&vol=0#90;n=MI-apsemm&ed=3&vol=0#103,
+S_MI_3.1.7.7.3.2,Egg of Ascaris,,True,1,2009-08,,n=MI-apsemm&ed=4&vol=0#385;n=MI-apsemm&ed=3&vol=0#462,
 E_MI_3.1.7.7.3,Ascaris lumbricoides (or) Roundworm,"- Enumerate the intestinal nematodes of medical importance
 - Morphology
 - Life cycle
 - Laboratory diagnosis;- Lifecycle
 - Pathogenesis
-- Laboratory diagnosis",True,2,2011-08;2010-02,n=MI-apsemm&ed=4&vol=0#384;n=MI-apsemm&ed=3&vol=0#461,,
-S_MI_3.1.6.3.1,Cryptosporidium parvum,,True,7,2011-02;2010-02;2008-08;2008-02;2005-02;2000-04;1997-04,n=MI-apsemm&ed=4&vol=0#368;n=MI-apsemm&ed=3&vol=0#437,,
-S_MI_3.1.7.4,Bile-Stained Eggs,,True,5,2014-02;2013-02;2012-02;2010-08;2003-10,n=MI-apsemm&ed=4&vol=0#375,,
-S_MI_3.1.7.7.1.2,Classification of Nematodes According to the Habitat of Adult Worms,,True,2,2017-02;2011-02,n=MI-apsemm&ed=4&vol=0#381;n=MI-apsemm&ed=3&vol=0#457,,
-S_MI_3.1.7.7.1.1,Oviparous Nematodes and Viviparous Nematodes,,True,2,2012-08;2011-02,n=MI-apsemm&ed=4&vol=0#382;n=MI-apsemm&ed=3&vol=0#457,,
-S_MI_3.1.5,Viral Gastroenteritis,- Details about Rota virus;- Viral Diarrhea;- Viral Gastroenteritis,True,10,2023-07;2019-08;2013-02;2011-08;2007-02;2004-08;2003-10;1997-10;1997-04;1994-11;1992-04,n=MI-apsemm&ed=4&vol=0#359;n=MI-apsemm&ed=3&vol=0#424,,
-S_MI_3.1.7.1,Concentration Methods for Stool Examination in GIT,,True,6,2012-02;2011-08;2010-02;2007-02;2006-02;2001-11,n=MI-apsemm&ed=4&vol=0#93;n=MI-apsemm&ed=3&vol=0#106,,
-S_MI_3.1.7.6,Trematodes,,True,1,2011-08,n=MI-apsemm&ed=4&vol=0#378;n=MI-apsemm&ed=3&vol=0#452,,
-S_MI_3.1.6.2.1,Giardiasis,,True,1,2012-08,n=MI-apsemm&ed=4&vol=0#366,,
-S_MI_3.1.7.3,Viviparous Parasites,,True,3,2014-02;2013-08;2006-02,n=MI-apsemm&ed=4&vol=0#382;n=MI-apsemm&ed=3&vol=0#457,,
-S_MI_3.1.7.5.1,Tapeworms,- Tapeworms infecting Human;- Taenia solium;- Lifecycle of Taenia solium;- Lifecycle of Taenia saginata,True,3,2016-08;2013-08;2009-08,n=MI-apsemm&ed=4&vol=0#374;n=MI-apsemm&ed=3&vol=0#447,,
+- Laboratory diagnosis",True,2,2011-08;2010-02,,n=MI-apsemm&ed=4&vol=0#384;n=MI-apsemm&ed=3&vol=0#461,
+S_MI_3.1.6.3.1,Cryptosporidium parvum,,True,7,2011-02;2010-02;2008-08;2008-02;2005-02;2000-04;1997-04,,n=MI-apsemm&ed=4&vol=0#368;n=MI-apsemm&ed=3&vol=0#437,
+S_MI_3.1.7.4,Bile-Stained Eggs,,True,5,2014-02;2013-02;2012-02;2010-08;2003-10,,n=MI-apsemm&ed=4&vol=0#375,
+S_MI_3.1.7.7.1.2,Classification of Nematodes According to the Habitat of Adult Worms,,True,2,2017-02;2011-02,,n=MI-apsemm&ed=4&vol=0#381;n=MI-apsemm&ed=3&vol=0#457,
+S_MI_3.1.7.7.1.1,Oviparous Nematodes and Viviparous Nematodes,,True,2,2012-08;2011-02,,n=MI-apsemm&ed=4&vol=0#382;n=MI-apsemm&ed=3&vol=0#457,
+S_MI_3.1.5,Viral Gastroenteritis,- Details about Rota virus;- Viral Diarrhea;- Viral Gastroenteritis,True,10,2023-07;2019-08;2013-02;2011-08;2007-02;2004-08;2003-10;1997-10;1997-04;1994-11;1992-04,,n=MI-apsemm&ed=4&vol=0#359;n=MI-apsemm&ed=3&vol=0#424,
+S_MI_3.1.7.1,Concentration Methods for Stool Examination in GIT,,True,6,2012-02;2011-08;2010-02;2007-02;2006-02;2001-11,,n=MI-apsemm&ed=4&vol=0#93;n=MI-apsemm&ed=3&vol=0#106,
+S_MI_3.1.7.6,Trematodes,,True,1,2011-08,,n=MI-apsemm&ed=4&vol=0#378;n=MI-apsemm&ed=3&vol=0#452,
+S_MI_3.1.6.2.1,Giardiasis,,True,1,2012-08,,n=MI-apsemm&ed=4&vol=0#366,
+S_MI_3.1.7.3,Viviparous Parasites,,True,3,2014-02;2013-08;2006-02,,n=MI-apsemm&ed=4&vol=0#382;n=MI-apsemm&ed=3&vol=0#457,
+S_MI_3.1.7.5.1,Tapeworms,- Tapeworms infecting Human;- Taenia solium;- Lifecycle of Taenia solium;- Lifecycle of Taenia saginata,True,3,2016-08;2013-08;2009-08,,n=MI-apsemm&ed=4&vol=0#374;n=MI-apsemm&ed=3&vol=0#447,
 S_MI_3.1.7.5.3,Diphyllobothrium latum,"- Larval forms
-- Lifecycle;- Fish tapeworm",True,1,2014-02,n=MI-apsemm&ed=4&vol=0#377;n=MI-apsemm&ed=3&vol=0#451,,
-S_MI_3.1.7.7.4,Ancylostoma duodenale (or) Hookworm,- Life cycle;- Detail about hookworm,True,5,2016-02;2014-08;2014-02;2013-08;1997-04,n=MI-apsemm&ed=4&vol=0#386;n=MI-apsemm&ed=3&vol=0#463,,
-S_MI_3.1.6.1.1.2,Laboratory Diagnosis of Intestinal Amoebiasis.,,True,2,2023-07;2017-02,n=MI-apsemm&ed=4&vol=0#362;n=MI-apsemm&ed=3&vol=0#430,,
-S_MI_3.1.6.1.2,Iodamoeba butschlli,,True,1,2020-11,n=MI-apsemm&ed=4&vol=0#365;n=MI-apsemm&ed=3&vol=0#432,,
-S_MI_3.1.2.2.2,Enterotoxin Produced by Escherichia coli,- Various properties of enterotoxin of Escherichia coli;- Different mechanisms of E. coli enterotoxin,True,2,2022-03;2016-02,n=MI-apsemm&ed=4&vol=0#338;n=MI-apsemm&ed=3&vol=0#401,,
+- Lifecycle;- Fish tapeworm",True,1,2014-02,,n=MI-apsemm&ed=4&vol=0#377;n=MI-apsemm&ed=3&vol=0#451,
+S_MI_3.1.7.7.4,Ancylostoma duodenale (or) Hookworm,- Life cycle;- Detail about hookworm,True,5,2016-02;2014-08;2014-02;2013-08;1997-04,,n=MI-apsemm&ed=4&vol=0#386;n=MI-apsemm&ed=3&vol=0#463,
+S_MI_3.1.6.1.1.2,Laboratory Diagnosis of Intestinal Amoebiasis.,,True,2,2023-07;2017-02,,n=MI-apsemm&ed=4&vol=0#362;n=MI-apsemm&ed=3&vol=0#430,
+S_MI_3.1.6.1.2,Iodamoeba butschlli,,True,1,2020-11,,n=MI-apsemm&ed=4&vol=0#365;n=MI-apsemm&ed=3&vol=0#432,
+S_MI_3.1.2.2.2,Enterotoxin Produced by Escherichia coli,- Various properties of enterotoxin of Escherichia coli;- Different mechanisms of E. coli enterotoxin,True,2,2022-03;2016-02,,n=MI-apsemm&ed=4&vol=0#338;n=MI-apsemm&ed=3&vol=0#401,
 E_MI_3.1.6.1.1,Entamoeba histolytica Infection (or) Intestinal amoebiasis,"- Pathogenesis
 - Clinical manifestations
 - Various diagnostic modalities
-- Treatment",True,1,2022-08,n=MI-apsemm&ed=4&vol=0#362;n=MI-apsemm&ed=3&vol=0#427,"A 17 year old boy presented with **bloody diarrhea** with **mucus** and **pus cells**, **colicky abdominal pain**, **fever**, and **prostration**. The wet mount examination of the stool sample was performed which showed **trophozoites** of 5–20 μm, actively motile, with **fingerlike pseudopodia**. Inside the trophozoites, the ingested RBCs are present.",
-S_MI_3.1.6.3.2,Lab Diagnosis of Diarrhoea Caused by Coccidian Parasite,,True,1,2023-02,n=MI-apsemm&ed=4&vol=0#370;n=MI-apsemm&ed=3&vol=0#438,,
+- Treatment",True,1,2022-08,"A 17 year old boy presented with **bloody diarrhea** with **mucus** and **pus cells**, **colicky abdominal pain**, **fever**, and **prostration**. The wet mount examination of the stool sample was performed which showed **trophozoites** of 5–20 μm, actively motile, with **fingerlike pseudopodia**. Inside the trophozoites, the ingested RBCs are present.",n=MI-apsemm&ed=4&vol=0#362;n=MI-apsemm&ed=3&vol=0#427,
+S_MI_3.1.6.3.2,Lab Diagnosis of Diarrhoea Caused by Coccidian Parasite,,True,1,2023-02,,n=MI-apsemm&ed=4&vol=0#370;n=MI-apsemm&ed=3&vol=0#438,
 E_MI_3.1.2.3,Bacillary Dysentery (Shigellosis),"- Causative agent
 - Pathogenesis
 - Clinical features
 - Laboratory diagnosis
 - Treatment
-- Prevention",True,1,2004-08,n=MI-apsemm&ed=4&vol=0#341;n=MI-apsemm&ed=3&vol=0#404,,
+- Prevention",True,1,2004-08,,n=MI-apsemm&ed=4&vol=0#341;n=MI-apsemm&ed=3&vol=0#404,
 E_MI_3.1.7.5.1,Taenia solium,"- Classify Cestodes
 - Lifecycle
 - Pathogenesis
 - Laboratory diagnosis
 - Treatment
-- Prevention",True,3,2003-10;2000-10;1991-12,n=MI-apsemm&ed=4&vol=0#375;n=MI-apsemm&ed=3&vol=0#447,,
-S_MI_3.1.1.2,Clostridium botulinum,- Botulism;- Detail about Clostridium botulinum,True,3,2019-02;2017-02;1998-04,n=MI-apsemm&ed=4&vol=0#334;n=MI-apsemm&ed=3&vol=0#397,,
-S_MI_3.1.4.3,Clostridium difficile,,True,2,2018-02;1997-04,n=MI-apsemm&ed=4&vol=0#357;n=MI-apsemm&ed=3&vol=0#422,,
-S_MI_3.1.2.1,General Characteristics of Enterobacteriaceae,,False,1,,n=MI-apsemm&ed=4&vol=0#337;n=MI-apsemm&ed=3&vol=0#400,,
-S_MI_3.1.3.1.5,Prophylaxis and Epidemiology of Cholera,,True,1,2002-03,n=MI-apsemm&ed=4&vol=0#348;n=MI-apsemm&ed=3&vol=0#412,,
-S_MI_3.1.4.1,Campylobacter,,True,2,1993-01;1990-08,n=MI-apsemm&ed=4&vol=0#354;n=MI-apsemm&ed=3&vol=0#419,,
-S_MI_3.1.1.3,Mycotoxicosis (or) Mycotoxins,,True,7,2023-06;2013-02;2006-08;2004-08;2001-11;1998-11;1995-04,n=MI-apsemm&ed=4&vol=0#335;n=MI-apsemm&ed=3&vol=0#398,,
-S_MI_3.1.7.5.1.2,Larval Forms of Cestodes,,False,1,,n=MI-apsemm&ed=4&vol=0#375;n=MI-apsemm&ed=3&vol=0#447,,
-S_MI_3.1.5.1.2,Hymenolepis nana (or) Dwarf Tapeworm,,False,1,,n=MI-apsemm&ed=4&vol=0#377;n=MI-apsemm&ed=3&vol=0#450,,
-S_MI_3.1.7.7.5,Strongyloides stercoralis,- Pathogenesis,True,1,2003-10,n=MI-apsemm&ed=4&vol=0#388;n=MI-apsemm&ed=3&vol=0#466,,
-S_MI_3.1.6,Morphology of Pathogenic Intestinal Protozoans,,True,1,1991-12,n=MI-apsemm&ed=4&vol=0#362;n=MI-apsemm&ed=3&vol=0#427,,
-S_MI_3.1.2.2.4,Enterohemorrhagic E. coli (EHEC),,False,1,,n=MI-apsemm&ed=4&vol=0#340;n=MI-apsemm&ed=3&vol=0#403,,
-S_MI_3.1.1.1,Listeria monocytogenes,,True,2,2022-02;2011-02,n=MI-apsemm&ed=4&vol=0#334;n=MI-apsemm&ed=3&vol=0#396,,
-S_MI_3.1.6.1.1.2,Life Cycle of Entamoeba histolytica,,True,2,2010-08;2000-04,n=MI-apsemm&ed=4&vol=0#362;n=MI-apsemm&ed=3&vol=0#428,,
+- Prevention",True,3,2003-10;2000-10;1991-12,,n=MI-apsemm&ed=4&vol=0#375;n=MI-apsemm&ed=3&vol=0#447,
+S_MI_3.1.1.2,Clostridium botulinum,- Botulism;- Detail about Clostridium botulinum,True,3,2019-02;2017-02;1998-04,,n=MI-apsemm&ed=4&vol=0#334;n=MI-apsemm&ed=3&vol=0#397,
+S_MI_3.1.4.3,Clostridium difficile,,True,2,2018-02;1997-04,,n=MI-apsemm&ed=4&vol=0#357;n=MI-apsemm&ed=3&vol=0#422,
+S_MI_3.1.2.1,General Characteristics of Enterobacteriaceae,,False,1,,,n=MI-apsemm&ed=4&vol=0#337;n=MI-apsemm&ed=3&vol=0#400,
+S_MI_3.1.3.1.5,Prophylaxis and Epidemiology of Cholera,,True,1,2002-03,,n=MI-apsemm&ed=4&vol=0#348;n=MI-apsemm&ed=3&vol=0#412,
+S_MI_3.1.4.1,Campylobacter,,True,2,1993-01;1990-08,,n=MI-apsemm&ed=4&vol=0#354;n=MI-apsemm&ed=3&vol=0#419,
+S_MI_3.1.1.3,Mycotoxicosis (or) Mycotoxins,,True,7,2023-06;2013-02;2006-08;2004-08;2001-11;1998-11;1995-04,,n=MI-apsemm&ed=4&vol=0#335;n=MI-apsemm&ed=3&vol=0#398,
+S_MI_3.1.7.5.1.2,Larval Forms of Cestodes,,False,1,,,n=MI-apsemm&ed=4&vol=0#375;n=MI-apsemm&ed=3&vol=0#447,
+S_MI_3.1.5.1.2,Hymenolepis nana (or) Dwarf Tapeworm,,False,1,,,n=MI-apsemm&ed=4&vol=0#377;n=MI-apsemm&ed=3&vol=0#450,
+S_MI_3.1.7.7.5,Strongyloides stercoralis,- Pathogenesis,True,1,2003-10,,n=MI-apsemm&ed=4&vol=0#388;n=MI-apsemm&ed=3&vol=0#466,
+S_MI_3.1.6,Morphology of Pathogenic Intestinal Protozoans,,True,1,1991-12,,n=MI-apsemm&ed=4&vol=0#362;n=MI-apsemm&ed=3&vol=0#427,
+S_MI_3.1.2.2.4,Enterohemorrhagic E. coli (EHEC),,False,1,,,n=MI-apsemm&ed=4&vol=0#340;n=MI-apsemm&ed=3&vol=0#403,
+S_MI_3.1.1.1,Listeria monocytogenes,,True,2,2022-02;2011-02,,n=MI-apsemm&ed=4&vol=0#334;n=MI-apsemm&ed=3&vol=0#396,
+S_MI_3.1.6.1.1.2,Life Cycle of Entamoeba histolytica,,True,2,2010-08;2000-04,,n=MI-apsemm&ed=4&vol=0#362;n=MI-apsemm&ed=3&vol=0#428,
 E_MI_3.1.7.7.2,Enterobiasis,"- Enumerate Intestinal Parasites
-- Laboratory diagnosis",True,1,1992-04,n=MI-apsemm&ed=4&vol=0#383;n=MI-apsemm&ed=3&vol=0#459,,
-S_MI_3.1.4.4,Bacterioides,,True,1,1995-11,n=MI-apsemm&ed=4&vol=0#327,,
-S_MI_3.1.7.5.4,Redia and cercaria,,True,2,2002-03;2001-11,n=MI-apsemm&ed=4&vol=0#379,,
-S_MI_3.1.7.5.5,Cyclops,,True,3,2002-03;2001-11;1995-11,n=MI-apsemm&ed=4&vol=0#377,,
+- Laboratory diagnosis",True,1,1992-04,,n=MI-apsemm&ed=4&vol=0#383;n=MI-apsemm&ed=3&vol=0#459,
+S_MI_3.1.4.4,Bacterioides,,True,1,1995-11,,n=MI-apsemm&ed=4&vol=0#327,
+S_MI_3.1.7.5.4,Redia and cercaria,,True,2,2002-03;2001-11,,n=MI-apsemm&ed=4&vol=0#379,
+S_MI_3.1.7.5.5,Cyclops,,True,3,2002-03;2001-11;1995-11,,n=MI-apsemm&ed=4&vol=0#377,
