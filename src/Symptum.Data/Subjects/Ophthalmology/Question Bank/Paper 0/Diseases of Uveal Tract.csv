@@ -1,0 +1,15 @@
+Id,Title,Descriptions,HasPreviouslyBeenAsked,Importance,YearsAsked,ProbableCases,BookReferences,LinkReferences
+S_OP_,Anterior Uveitis (or) Iridocyclitis,"- Investigations;- Clinical features;- Causes of variation of intraocular pressure;- Classification- Management;- Complications",True,8,2023-06;2023-02;2009-08;2011-08;2012-02;2006-02;2000-10;1994-11,,n=OP-akkco&ed=9&vol=0#146-152,
+S_OP_,Granulomatous Uveitis,"- Etiology- Clinical features- Management;- Differences between Granulomatous and Non-Granulomatous Uveitis",True,5,2024-02;2023-02;2008-08;2011-08;2012-08,,n=OP-akkco&ed=9&vol=0#145;n=OP-akkco&ed=9&vol=0#151,
+S_OP_,Endophthalmitis,,True,6,2017-02;2018-08;2022-04;2009-08;2012-02;2015-08,,n=OP-akkco&ed=9&vol=0#161-163,
+S_OP_,Posterior Synechiae,,True,1,2017-02,,n=OP-akkco&ed=9&vol=0#148,
+S_OP_,Hypertensive Iridocyclitic Crisis (or) Glaucomatocyclitic Crisis,,True,1,2017-08,,n=OP-akkco&ed=9&vol=0#160,
+S_OP_,Evisceration,- Indications,True,3,2017-08;2022-04;2015-02,,n=OP-akkco&ed=9&vol=0#164,
+E_OP_,Acute Iridocyclitis (or) Anterior Uveitis,"- Etiopathogenesis- Clinical features- Management;- Differential Diagnosis of Acute red eye- Clinical features- Management;- Classification- Clinical features- Management",True,10,2018-02;2019-08;2022-08;2024-02;2014-02;2007-08;2005-08;2004-02;2002-03;2001-04;1992-04,"A 30 year old female patient presented to the OPD with pain in the right eye and defective vision for the past 3 days. On examination, the patient had RE: circumcorneal congestion, on slit lamp examination RE cornea – fine KP's present, anterior chamber showed flare 2+ and cells 2+, pupil 3 mm sluggishly reacting to both direct and consensual light reflex.",n=OP-akkco&ed=9&vol=0#146-152,
+S_OP_,Keratic Precipitates,,True,5,2010-08;2006-08;2005-08;1995-11;1992-04,,n=OP-akkco&ed=9&vol=0#146-147,
+S_OP_,Syndrome associated Uveitis,,True,1,2013-02,,n=OP-akkco&ed=9&vol=0#160-161,
+S_OP_,Joint disorder associated Uveitis,,True,1,2013-02,,n=OP-akkco&ed=9&vol=0#159,
+S_OP_,Iridectomy,- Types,True,3,2015-08;2001-11;1992-04,,n=OP-akkco&ed=9&vol=0#168,
+S_OP_,Iris Nodules,,True,1,2016-02,,n=OP-akkco&ed=9&vol=0#148,
+S_OP_,Ring Synechiae,,True,1,2005-02,,n=OP-akkco&ed=9&vol=0#148,
+S_OP_,Aqueous Flare,,True,1,1993-11,,n=OP-akkco&ed=9&vol=0#147,
