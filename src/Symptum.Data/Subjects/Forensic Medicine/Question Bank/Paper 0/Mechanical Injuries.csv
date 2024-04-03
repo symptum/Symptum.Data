@@ -1,0 +1,16 @@
+﻿Id,Title,Descriptions,HasPreviouslyBeenAsked,Importance,YearsAsked,ProbableCases,BookReferences,LinkReferences
+E_FM_,Mechanical Injuries,"- Definition
+- Laceration vs Abrasions
+- Coup vs Contrecoup Injuries",True,4,2003-10;2007-02;2013-02;2017-02,,"n=FM-ignfmt&ed=5&vol=1#129, 137",
+S_FM_,Cut Throat Injury,,True,2,2005-08;2015-08,,n=FM-ignfmt&ed=5&vol=1#141,
+S_FM_,Stab Wound,,True,1,2005-08,,n=FM-ignfmt&ed=5&vol=1#143,
+S_FM_,Laceration,,True,1,2008-02,,n=FM-ignfmt&ed=5&vol=1#137,
+E_FM_,Injuries,"- Classification
+- Antemortem vs Postmortem Wounds",True,2,2009-02;2018-09,,"n=FM-ignfmt&ed=5&vol=1#129, 136",
+S_FM_,Defence Wounds,,True,2,2010-02;1990-12,,n=FM-ignfmt&ed=5&vol=1#150,
+S_FM_,Incised looking Lacerated wounds,,True,1,1991-12,,n=FM-ignfmt&ed=5&vol=1#138,
+E_FM_,Abrasion,"- Definition
+- Types
+- Medicolegal importance",True,2,1999-04;2001-04,,n=FM-ignfmt&ed=5&vol=1#129,
+S_FM_,Incised Wound vs Stab Wound,,True,1,2005-08,,n=FM-ignfmt&ed=5&vol=1#148,
+S_FM_,Penetrating vs Perforating,,True,1,2022-02,,n=FM-ignfmt&ed=5&vol=1#144,
