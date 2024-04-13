@@ -1,0 +1,7 @@
+Id,Title,Descriptions,HasPreviouslyBeenAsked,Importance,YearsAsked,ProbableCases,BookReferences,LinkReferences
+S_FM_,Agricultural Poisoning,"- Classification- Clinical Features- Investigations- Postmortem Appearance",True,1,2024-02,,"n=FM-ignfmt&ed=5&vol=0#500,559",
+E_FM_,Lead Poisoning (or) Plumbism (or) Saturnism,"- Clinical Features- Treatment- Postmortem Appearance",True,1,2023-06,"A 30 year old male, **painter** by occupation presents to the Emergency Department with history of **vomiting, headache, visual disturbances, restlessness and convulsion.** On examination patient is **anaemic with facial paleness, blue lines noted on the gums and left wrist drop.**",n=FM-ignfmt&ed=5&vol=0#529,
+S_FM_,Strychnine Poisoning vs Tetanus,,True,1,2023-06,,n=FM-ignfmt&ed=5&vol=0#622,
+E_FM_,Organophosphorus Poisoning,"- Clinical Features- Treatment- Postmortem Appearance",True,1,2023-02,"A 40 year old male **farmer** brought to the emergency department with history of **restlessness, difficulty in breathing, muscle twitching and drooling of saliva.** On examination, patient is **dyspnoeic, both pupils constricted and extensive crepitation noted over both lung fields.**",n=FM-ignfmt&ed=5&vol=0#559,
+S_FM_,Icthyotoxicosis (or) Icthyosarcotoxicosis,- Poisonous Fish and Marine Creatures,True,1,2023-02,,n=FM-ignfmt&ed=5&vol=0#655,
+S_FM_,Ideal Homicidal Poison,,True,1,2024-02,,n=FM-ignfmt&ed=5&vol=0#500,

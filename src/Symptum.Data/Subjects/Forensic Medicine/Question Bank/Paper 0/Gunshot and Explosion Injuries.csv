@@ -1,4 +1,6 @@
-﻿Id,Title,Descriptions,HasPreviouslyBeenAsked,Importance,YearsAsked,ProbableCases,BookReferences,LinkReferences
+Id,Title,Descriptions,HasPreviouslyBeenAsked,Importance,YearsAsked,ProbableCases,BookReferences,LinkReferences
+S_FM_,Autopsy,,True,1,2024-02,,n=FM-ignfmt&ed=5&vol=0#175-178,
+E_FM_,Firearm,"- Definition- Diagram and Description of Shotgun Cartridge Parts- Pattern of Entrance Wounds at Various Ranges",True,1,2023-06,,"n=FM-ignfmt&ed=5&vol=0#156,158,162",
 E_FM_,Explosion Injuries,"- Effects of bomb explosion injuries
 - Methods to identify mutilated bodies",True,1,2015-08,,n=FM-ignfmt&ed=5&vol=1#178,
 S_FM_,Entry and Exit Wounds,- Differentiate,True,1,2014-02,,n=FM-ignfmt&ed=5&vol=1#172,
