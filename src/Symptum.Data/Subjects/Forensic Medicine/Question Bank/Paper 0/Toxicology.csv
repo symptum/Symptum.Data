@@ -2,7 +2,7 @@ Id,Title,Descriptions,HasPreviouslyBeenAsked,Importance,YearsAsked,ProbableCases
 S_FM_,Agricultural Poisoning,"- Classification- Clinical Features- Investigations- Postmortem Appearance",True,1,2024-02,,"n=FM-ignfmt&ed=5&vol=0#500,559",
 E_FM_,Lead Poisoning (or) Plumbism (or) Saturnism,"- Clinical Features- Treatment- Postmortem Appearance",True,1,2023-06,"A 30 year old male, **painter** by occupation presents to the Emergency Department with history of **vomiting, headache, visual disturbances, restlessness and convulsion.** On examination patient is **anaemic with facial paleness, blue lines noted on the gums and left wrist drop.**",n=FM-ignfmt&ed=5&vol=0#529,
 S_FM_,Strychnine Poisoning vs Tetanus,,True,1,2023-06,,n=FM-ignfmt&ed=5&vol=0#622,
-E_FM_,Organophosphorus Poisoning,"- Clinical Features- Treatment- Postmortem Appearance",True,1,2023-02,"A 40 year old male **farmer** brought to the emergency department with history of **restlessness, difficulty in breathing, muscle twitching and drooling of saliva.** On examination, patient is **dyspnoeic, both pupils constricted and extensive crepitation noted over both lung fields.**",n=FM-ignfmt&ed=5&vol=0#559,
+E_FM_,Organophosphorus Compound (OPC) Poisoning,"- Clinical Features- Treatment- Postmortem Appearance;- Classification of Agricultural Poisons- Treatment- Postmortem Appearance",True,2,2023-02;2020-02,"A 40 year old male **farmer** brought to the emergency department with history of **restlessness, difficulty in breathing, muscle twitching and drooling of saliva.** On examination, patient is **dyspnoeic, both pupils constricted and extensive crepitation noted over both lung fields.**",n=FM-ignfmt&ed=5&vol=0#559,
 S_FM_,Icthyotoxicosis (or) Icthyosarcotoxicosis,- Poisonous Fish and Marine Creatures,True,1,2023-02,,n=FM-ignfmt&ed=5&vol=0#655,
 S_FM_,Ideal Homicidal Poison,,True,1,2024-02,,n=FM-ignfmt&ed=5&vol=0#500,
 S_FM_,Speed-ball (Cocaine + Heroin),- Asked as a Short Answer,True,1,2024-02,,"n=FM-ignfmt&ed=5&vol=0#600,606",
@@ -12,6 +12,14 @@ E_FM_,Arsenic Poisoning,"- Definition of Poisoning- Clinical Features- Postmor
 S_FM_,Chronic Poisoning with Cannabis,- Run amok (Asked as a Short Answer),True,2,2023-02;2022-02,,n=FM-ignfmt&ed=5&vol=0#597,
 S_FM_,Abrus precatorius,- Sui (Asked as a Short Answer),True,1,2023-02,,n=FM-ignfmt&ed=5&vol=0#570,
 S_FM_,Russell's Viper vs Cobra,,True,1,2022-08,,n=FM-ignfmt&ed=5&vol=0#632,
-S_FM_,Lathyrism,- Asked as a Short Answer,True,1,2022-08,,,
+S_FM_,Lathyrism,- Asked as a Short Answer,True,1,2022-08,,n=FM-ignfmt&ed=5&vol=0#654,
 S_FM_,Carbolic Acid (Phenol) Poisoning (or) Carbolism,,True,1,2022-02,,n=FM-ignfmt&ed=5&vol=0#518,
 S_FM_,Conditions causing Miosis,- Asked as a Short Answer,True,1,2022-02,,,
+S_FM_,Duties of a Medical Practitioner in case of Poisoning,,True,1,2021-09,,n=FM-ignfmt&ed=5&vol=0#504,
+S_FM_,Viper Snake Bite,,True,1,2021-09,,"n=FM-ignfmt&ed=5&vol=0#638,640",
+S_FM_,Aconite,- Hippus (Asked as a Short Answer),True,1,2021-09,,n=FM-ignfmt&ed=5&vol=0#583,
+S_FM_,Clinical Features of Chronic Arsenic Poisoning,- Aldrich-Mees Lines (Asked as a Short Answer),True,1,2021-09,,n=FM-ignfmt&ed=5&vol=0#527,
+S_FM_,War Gases,- Asked as a Short Answer,True,1,2020-11,,n=FM-ignfmt&ed=5&vol=0#628,
+S_FM_,Antidote,,True,1,2020-02,,n=FM-ignfmt&ed=5&vol=0#502,
+S_FM_,Nitric Acid,- Xanthoproteic Reaction (Asked as a Short Answer),True,1,2020-02,,n=FM-ignfmt&ed=5&vol=0#514,
+S_FM_,Cardiac Poisons,- Asked as a Short Answer,True,1,2020-02,,n=FM-ignfmt&ed=5&vol=0#579,

@@ -1,5 +1,6 @@
 Id,Title,Descriptions,HasPreviouslyBeenAsked,Importance,YearsAsked,ProbableCases,BookReferences,LinkReferences
 S_FM_,Superfecundation and Superfetation,,True,2,2024-02;2023-02,,n=FM-ignfmt&ed=5&vol=0#394,
 S_FM_,Positive Signs of Pregnancy,,True,2,2023-06;2024-02,,n=FM-ignfmt&ed=5&vol=0#394,
-S_FM_,Artificial Insemination,- Legal Issues,True,1,2023-06,,n=FM-ignfmt&ed=5&vol=0#348,
-S_FM_,Signs of Recent Delivery,- Lochia (Asked as a Short Answer),True,4,2024-02;2023-07;2023-02;2022-08,,n=FM-ignfmt&ed=5&vol=0#396,
+S_FM_,Artificial Insemination,- Legal Issues,True,2,2023-06;2020-02,,n=FM-ignfmt&ed=5&vol=0#348,
+S_FM_,Signs of Recent Delivery,- Lochia (Asked as a Short Answer),True,5,2024-02;2023-07;2023-02;2022-08;2021-09,,n=FM-ignfmt&ed=5&vol=0#396,
+S_FM_,Pseudocyesis,,True,1,2020-02,,n=FM-ignfmt&ed=5&vol=0#394,
