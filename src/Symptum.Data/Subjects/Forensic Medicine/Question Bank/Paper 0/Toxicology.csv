@@ -9,7 +9,7 @@ S_FM_,Speed-ball (Cocaine + Heroin),- Asked as a Short Answer,True,1,2024-02,,"n
 S_FM_,Methyl Alcohol (or) Methanol Poisoning,- Treatment,True,2,2023-07;2022-02,,n=FM-ignfmt&ed=5&vol=0#554,
 S_FM_,Vitriolage,- Asked as a Short Answer,True,1,2023-07,,n=FM-ignfmt&ed=5&vol=0#513,
 E_FM_,Arsenic Poisoning,"- Definition of Poisoning- Clinical Features- Postmortem Appearance- Arsenic Poisoning vs Cholera",True,1,2023-02,,n=FM-ignfmt&ed=5&vol=0#525,
-S_FM_,Chronic Poisoning with Cannabis,- Run amok (Asked as a Short Answer),True,2,2023-02;2022-02,,n=FM-ignfmt&ed=5&vol=0#597,
+S_FM_,Chronic Poisoning with Cannabis,- Run amok (Asked as a Short Answer),True,3,2023-02;2022-02;2019-08,,n=FM-ignfmt&ed=5&vol=0#597,
 S_FM_,Abrus precatorius,- Sui (Asked as a Short Answer),True,1,2023-02,,n=FM-ignfmt&ed=5&vol=0#570,
 S_FM_,Russell's Viper vs Cobra,,True,1,2022-08,,n=FM-ignfmt&ed=5&vol=0#632,
 S_FM_,Lathyrism,- Asked as a Short Answer,True,1,2022-08,,n=FM-ignfmt&ed=5&vol=0#654,
@@ -23,3 +23,6 @@ S_FM_,War Gases,- Asked as a Short Answer,True,1,2020-11,,n=FM-ignfmt&ed=5&vol=0
 S_FM_,Antidote,,True,1,2020-02,,n=FM-ignfmt&ed=5&vol=0#502,
 S_FM_,Nitric Acid,- Xanthoproteic Reaction (Asked as a Short Answer),True,1,2020-02,,n=FM-ignfmt&ed=5&vol=0#514,
 S_FM_,Cardiac Poisons,- Asked as a Short Answer,True,1,2020-02,,n=FM-ignfmt&ed=5&vol=0#579,
+S_FM_,Chronic Lead Poisoning (or) Plumbism (or) Saturnism,,True,1,2019-08,,n=FM-ignfmt&ed=5&vol=0#530,
+S_FM_,Phosphorus Poisoning,- Phossy Jaw (Asked as a Short Answer),True,1,2019-08,,"n=FM-ignfmt&ed=5&vol=0#539,540",
+S_FM_,Body Packers and Stuffers,- Body Packer Syndrome (Asked as a Short Answer),True,1,2019-02,,n=FM-ignfmt&ed=5&vol=0#615,

@@ -1,6 +1,7 @@
 Id,Title,Descriptions,HasPreviouslyBeenAsked,Importance,YearsAsked,ProbableCases,BookReferences,LinkReferences
 S_FM_,Diffuse Axonal Injury (DAI),,True,1,2024-02,,n=FM-ignfmt&ed=5&vol=0#191,
 S_FM_,Railway Spine,- Asked as a Short Answer,True,1,2024-02,,n=FM-ignfmt&ed=5&vol=0#202,
-S_FM_,Whiplash Injury,,True,2,2023-02;2021-09,,"n=FM-ignfmt&ed=5&vol=0#201,217",
+S_FM_,Whiplash Injury,,True,3,2023-02;2021-09;2019-08,,"n=FM-ignfmt&ed=5&vol=0#201,217",
 S_FM_,Cerebral Concussion,- Post-traumatic Automatism (Asked as a Short Answer),True,1,2021-09,,"n=FM-ignfmt&ed=5&vol=0#190,440",
 S_FM_,Contrecoup Injuries,,True,1,2020-11,,n=FM-ignfmt&ed=5&vol=0#187,
+S_FM_,Types of Intracranial Hemorrhages,,True,1,2019-08,,n=FM-ignfmt&ed=5&vol=0#193,
