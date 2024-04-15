@@ -1,0 +1,36 @@
+﻿Id,Title,Descriptions,HasPreviouslyBeenAsked,Importance,YearsAsked,ProbableCases,BookReferences,LinkReferences
+E_CM_,Maternal mortality,"-  Definition
+- Approaches to measure maternal mortality 
+- measures taken by the National Health Mission to reduce maternal mortality",True,5,2024-02;2017-02;2015-02;2013-08;2006-08,,n=CM-parkpsm&ed=27&vol=0#636,
+S_CM_,Health problems of the elderly,- Classify;- Various social security measures,True,9,2024-02;2023-06;2023-02;2019-02;2016-02;2013-02;2011-08;2005-08;2000-10,,n=CM-parkpsm&ed=27&vol=0#677,
+E_CM_,Antenatal care,"- Objectives 
+- Health education of antenatal women
+- Danger signs of pregnancy
+- Clinical, laboratory and counselling services",True,4,2023-06;2019-08;2007-02;2003-10,,n=CM-parkpsm&ed=27&vol=0#599,
+S_CM_,Adolescent period,"- Health programmes and vaccines for adolescent women
+- Importance of adolescent health
+- Challenges to adolescent health",True,2,2023-06;2020-11,,n=CM-parkpsm&ed=27&vol=0#676,
+E_CM_,Low birth weight,"- Incidence
+- Causes prevention and management ",True,2,2023-02;2006-02,,n=CM-parkpsm&ed=27&vol=0#611,
+S_CM_,Interventions in adolescent health,,True,1,2023-02,,n=&ed=27&vol=0#676,
+E_CM_,Breastfeeding,"- Advantages
+- Assessment of breastfeeding
+- Baby friendly hospital initiative",True,2,2022-08;2016-08,,n=CM-parkpsm&ed=27&vol=0#615,
+S_CM_,Risk approach in maternal and child health,,True,2,2022-08;2005-02,,n=CM-parkpsm&ed=27&vol=0#602,
+E_CM_,Health problems of the school child,"- Various health problems
+- Objectives and aspects of school health services",True,4,2022-04;2017-08;2014-02;2006-02;1997-04;1995-04,,,
+S_CM_,Essential newborn care,,True,2,2022-04;2010-08,,n=CM-parkpsm&ed=27&vol=0#608,
+E_CM_,Infant mortality,"- Definition
+- Medical and social causes 
+- Measures taken to prevent infant mortality",True,4,2022-02;2018-02;2012-08;2008-08;2006-02;1994-11,,n=CM-parkpsm&ed=27&vol=0#647,
+E_CM_,MCH Care,"- Indicators
+- Causes and interventions to reduce perinatal mortality",True,5,2021-09;2019-02;2016-08;2011-08;1991-12,,n=CM-parkpsm&ed=27&vol=0#635,
+S_CM_," Small for date versus preterm babies",- Social and biological causes,True,1,2019-08,,n=&ed=27&vol=0#615,
+S_CM_,Functions of under five clinics,,True,1,2018-02,,n=CM-parkpsm&ed=27&vol=0#654,
+S_CM_,Juvenile delinquency,,True,2,2016-02;2006-02,,n=CM-parkpsm&ed=27&vol=0#665,
+S_CM_,Growth chart,,True,3,2015-08;2011-08;2008-08,,n=CM-parkpsm&ed=27&vol=0#622,
+S_CM_,Causes and prevention of maternal death,,True,1,2011-02,,,
+E_CM_,Risk approach in MCH care,- At risk pregnant women,True,1,2009-02,,n=CM-parkpsm&ed=27&vol=0#602,
+S_CM_,Warning signs in pregnancy,,True,1,2008-08,,n=CM-parkpsm&ed=27&vol=0#605,
+S_CM_,Eligible couples,,True,1,2005-08,,n=CM-parkpsm&ed=27&vol=0#567,
+S_CM_,Advantages of breast feeding,,True,1,1993-11,,n=CM-parkpsm&ed=27&vol=0#615,
