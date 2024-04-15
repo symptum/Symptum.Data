@@ -1,16 +1,6 @@
 Id,Title,Descriptions,HasPreviouslyBeenAsked,Importance,YearsAsked,ProbableCases,BookReferences,LinkReferences
-E_FM_,Abrasion,"- Classification of Mechanical Injuries- Ante-mortem vs Post-mortem Abrasion;- Definition- Types- Medicolegal Importance",True,3,2022-08;2001-04;1999-04,,n=FM-ignfmt&ed=5&vol=1#129,
+E_FM_,Abrasion,"- Classification of Mechanical Injuries- Ante-mortem vs Post-mortem Abrasion;- Definition and Classification of Injuries- Types of Abrasions- Medicolegal Importance",True,2,2022-08;2017-02,,n=FM-ignfmt&ed=5&vol=1#129,
 S_FM_,Contusion (or) Bruise,- Patterned Bruise (Asked as a Short Answer),True,1,2022-08,,n=FM-ignfmt&ed=5&vol=0#132,
 S_FM_,Penetrating vs Perforating Injuries,,True,1,2022-02,,n=FM-ignfmt&ed=5&vol=1#144,
 S_FM_,Age from Wounds,,True,1,2022-02,,"n=FM-ignfmt&ed=5&vol=0#131,136,202,203",
-E_FM_,Mechanical Injuries,"- Definition
-- Laceration vs Abrasions
-- Coup vs Contrecoup Injuries",True,4,2017-02;2013-02;2007-02;2003-10,,"n=FM-ignfmt&ed=5&vol=1#129,137",
-S_FM_,Cut Throat Injury,,True,2,2015-08;2005-08,,n=FM-ignfmt&ed=5&vol=1#141,
-S_FM_,Stab Wound,,True,1,2005-08,,n=FM-ignfmt&ed=5&vol=1#143,
-S_FM_,Laceration,,True,1,2008-02,,n=FM-ignfmt&ed=5&vol=1#137,
-E_FM_,Injuries,"- Classification
-- Antemortem vs Postmortem Wounds",True,2,2018-09;2009-02,,"n=FM-ignfmt&ed=5&vol=1#129,136",
-S_FM_,Defence Wounds,,True,2,2010-02;1990-12,,n=FM-ignfmt&ed=5&vol=1#150,
-S_FM_,Incised looking Lacerated wounds,,True,1,1991-12,,n=FM-ignfmt&ed=5&vol=1#138,
-S_FM_,Incised Wound vs Stab Wound,,True,1,2005-08,,n=FM-ignfmt&ed=5&vol=1#148,
+S_FM_,Laceration,- Avulsion (Asked as a Short Answer),True,2,2017-08;2017-08,,n=FM-ignfmt&ed=5&vol=1#137,

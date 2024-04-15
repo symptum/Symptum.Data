@@ -1,9 +1,10 @@
 Id,Title,Descriptions,HasPreviouslyBeenAsked,Importance,YearsAsked,ProbableCases,BookReferences,LinkReferences
 S_FM_,Forensic Entomology,,True,1,2023-06,,n=FM-ignfmt&ed=5&vol=0#30,
-S_FM_,Cadaveric Spasm (or) Instantaneous Rigor (or) Cataleptic Rigidity,- Development of Rigor Mortis is Hastened in Violent Deaths,True,1,2023-02,,n=FM-ignfmt&ed=5&vol=0#24,
+S_FM_,Cadaveric Spasm (or) Instantaneous Rigor (or) Cataleptic Rigidity,- Development of Rigor Mortis is Hastened in Violent Deaths,True,2,2023-02;2017-08,,n=FM-ignfmt&ed=5&vol=0#24,
 S_FM_,Suspended Animation (or) Apparent Death,,True,2,2024-02;2023-07,,n=FM-ignfmt&ed=5&vol=0#16,
 S_FM_,Rigor Mortis,,True,2,2023-02;2020-02,,n=FM-ignfmt&ed=5&vol=0#21,
 S_FM_,Changes in the Eyes after Death,- Kevorkian Sign or Rail Roading or Cattle Trucking in Retina (Asked as a Short Answer),True,1,2023-02,,n=FM-ignfmt&ed=5&vol=0#26,
-S_FM_,Postmortem Hypostasis,,True,1,2022-08,,n=FM-ignfmt&ed=5&vol=0#17,
+S_FM_,Postmortem Hypostasis,,True,2,2022-08;2017-02,,n=FM-ignfmt&ed=5&vol=0#17,
 E_FM_,Post-mortem Changes,"- Estimation of Time Since Death- Adipocere (or) Saponification- Mummification",True,1,2022-02,,n=FM-ignfmt&ed=5&vol=0#34-38,
 S_FM_,Casper's Dictum,- Asked as a Short Answer,True,1,2019-08,,n=FM-ignfmt&ed=5&vol=0#34,
+S_FM_,Sudden Death,,True,1,2018-02,,n=FM-ignfmt&ed=5&vol=0#326,
