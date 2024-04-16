@@ -2,10 +2,10 @@ Id,Title,Descriptions,HasPreviouslyBeenAsked,Importance,YearsAsked,ProbableCases
 S_FM_,Fracture of Hyoid Bone,"- Types- Significance",True,1,2024-02,,n=FM-ignfmt&ed=5&vol=0#283,
 S_FM_,Causes of Death in Hanging,,True,1,2023-06,,n=FM-ignfmt&ed=5&vol=0#274,
 S_FM_,Autoerotic Deaths (or) Sexual Asphyxias (or) Kotzwainism,,True,2,2023-02;2023-07,,n=FM-ignfmt&ed=5&vol=0#287,
-S_FM_,Drowning,- Paltauf's Hemorrhage (Asked as a Short Answer);- Dry Drowning (Asked as a Short Answer),True,2,2022-08;2017-02,,"n=FM-ignfmt&ed=5&vol=0#310,312",
-S_FM_,Homicidal Hanging (or) Lynching,- Asked as a Short Answer,True,1,2022-08,,n=FM-ignfmt&ed=5&vol=0#288,
+S_FM_,Drowning,- Paltauf's Hemorrhage (Asked as a Short Answer);- Dry Drowning (Asked as a Short Answer);- Sea Water Drowning,True,3,2022-08;2017-02;2016-02,,"n=FM-ignfmt&ed=5&vol=0#310,312",
+S_FM_,Homicidal Hanging (or) Lynching,- Asked as a Short Answer,True,2,2022-08;2015-08,,n=FM-ignfmt&ed=5&vol=0#288,
 E_FM_,Hanging,"- Classification of Asphyxial Deaths- Post-mortem Appearance- Causes of Death;- Definition of Asphyxia- Types of Hanging- Post-mortem Appearance",True,3,2021-09;2019-08;2017-08,,n=FM-ignfmt&ed=5&vol=0#273,
-E_FM_,Drowning,"- Types- Postmortem Appearance;- Definition- Types- Pathophysiology- Postmortem Appearance- Antemortem vs Postmortem Drowning",True,2,2020-11;2018-08,,n=FM-ignfmt&ed=5&vol=0#307-316,
+E_FM_,Drowning,"- Types- Post-mortem Appearance;- Definition- Types- Pathophysiology- Post-mortem Appearance- Ante-mortem vs Post-mortem Drowning;- Definition of Asphyxia- Post-mortem Appearance",True,3,2020-11;2018-08;2015-02,,n=FM-ignfmt&ed=5&vol=0#307-316,
 S_FM_,Café Coronary,,True,1,2020-02,,n=FM-ignfmt&ed=5&vol=0#302,
-S_FM_,Bansdola,- Asked as a Short Answer,True,1,2018-08,,n=FM-ignfmt&ed=5&vol=0#298,
+S_FM_,Bansdola,- Asked as a Short Answer,True,2,2018-08;2016-02,,n=FM-ignfmt&ed=5&vol=0#298,
 S_FM_,Diatoms Test,,True,1,2018-02,,n=FM-ignfmt&ed=5&vol=0#313,
