@@ -1,7 +1,8 @@
 Id,Title,Descriptions,HasPreviouslyBeenAsked,Importance,YearsAsked,ProbableCases,BookReferences,LinkReferences
 E_FM_,Abrasion,"- Classification of Mechanical Injuries- Ante-mortem vs Post-mortem Abrasion;- Definition and Classification of Injuries- Types of Abrasions- Medicolegal Importance",True,3,2022-08;2017-02;2013-02,,n=FM-ignfmt&ed=5&vol=1#129,
-S_FM_,Contusion (or) Bruise,- Patterned Bruise (Asked as a Short Answer),True,2,2022-08;2013-08,,n=FM-ignfmt&ed=5&vol=0#132,
+S_FM_,Contusion (or) Bruise,- Patterned Bruise (Asked as a Short Answer);- Artificial (or) Pseudo Bruise (Asked as a Short Answer),True,3,2022-08;2013-08;2012-08,,n=FM-ignfmt&ed=5&vol=0#132,
 S_FM_,Penetrating vs Perforating Injuries,,True,1,2022-02,,n=FM-ignfmt&ed=5&vol=1#144,
 S_FM_,Age from Wounds,,True,1,2022-02,,"n=FM-ignfmt&ed=5&vol=0#131,136,202,203",
 S_FM_,Laceration,- Avulsion (Asked as a Short Answer);- Classification,True,3,2017-08;2017-08;2013-08,,n=FM-ignfmt&ed=5&vol=1#137,
 S_FM_,Suicidal vs Homicidal Cut Throat Injuries,- Hesitation (or) Tentative (or) Trial (or) Exploratory Cuts (Asked as a Short Answer),True,2,2015-08;2014-08,,n=FM-ignfmt&ed=5&vol=0#139,
+S_FM_,Chop Wounds,- Asked as a Short Answer,True,1,2011-02,,n=FM-ignfmt&ed=5&vol=0#142,

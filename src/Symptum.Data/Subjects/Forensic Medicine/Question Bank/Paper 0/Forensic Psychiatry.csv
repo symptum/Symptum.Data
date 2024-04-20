@@ -1,12 +1,13 @@
 Id,Title,Descriptions,HasPreviouslyBeenAsked,Importance,YearsAsked,ProbableCases,BookReferences,LinkReferences
 E_FM_,Mental Healthcare Act (2017),"- Admission and Discharge Procedures- Independent and Supported Admission- Rights of Mentally-ill Person and Responsibilities of Doctors",True,1,2024-02,"A 38 year old man, who has been experiencing delusions, hallucinations and thought disorder for the past 2 months now display of flattening effects, lack of motivation, aggressive emotional charges and social withdrawal.",n=FM-ignfmt&ed=5&vol=0#434,
-S_FM_,Criminal Responsibilities,,True,1,2023-06,,n=FM-ignfmt&ed=5&vol=0#438,
+S_FM_,Criminal Responsibilities,- Mc Naughten's Rule,True,2,2023-06;2011-08,,n=FM-ignfmt&ed=5&vol=0#438,
 S_FM_,True Insanity vs Feigned Insanity,"- Feigned Insanity- Asked as a Short Answer",True,3,2023-02;2023-07;2014-02,,n=FM-ignfmt&ed=5&vol=0#433,
 S_FM_,Impulse,- Kleptomania (Asked as a Short Answer),True,3,2023-02;2019-08;2016-02,,n=FM-ignfmt&ed=5&vol=0#427,
 S_FM_,Obsession,- Asked as a Short Answer,True,1,2022-02,,n=FM-ignfmt&ed=5&vol=0#428,
 S_FM_,Lucid Interval,- Asked as a Short Answer,True,4,2020-11;2018-02;2015-02;2014-08,,n=FM-ignfmt&ed=5&vol=0#431,
-S_FM_,Delusion,,True,2,2019-02;2013-02,,n=FM-ignfmt&ed=5&vol=0#426,
-S_FM_,Hallucination,,True,1,2017-08,,n=FM-ignfmt&ed=5&vol=0#427,
-S_FM_,Civil Responsibilities,,True,1,2015-08,,n=FM-ignfmt&ed=5&vol=0#437,
+S_FM_,Delusion,,True,3,2019-02;2013-02;2012-08,,n=FM-ignfmt&ed=5&vol=0#426,
+S_FM_,Hallucination,- Magnan's Symptom (or) Formication (Asked as a Short Answer),True,2,2017-08;2011-08,,n=FM-ignfmt&ed=5&vol=0#427,
+S_FM_,Civil Responsibilities,- Holograph Will (Asked as a Short Answer),True,2,2015-08;2012-08,,n=FM-ignfmt&ed=5&vol=0#437,
 E_FM_,Insanity,"- Classification- Definition of Delusion- Types of Delusion",True,1,2013-08,,n=FM-ignfmt&ed=5&vol=0#426,
 S_FM_,Psychopath,,True,1,2013-08,,n=FM-ignfmt&ed=5&vol=0#428,
+S_FM_,Schizophrenia,- Hebephrenia (Asked as a Short Answer),True,1,2012-08,,n=FM-ignfmt&ed=5&vol=0#429,
