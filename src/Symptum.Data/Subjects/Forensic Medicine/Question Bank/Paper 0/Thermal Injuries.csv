@@ -1,4 +1,7 @@
 Id,Title,Descriptions,HasPreviouslyBeenAsked,Importance,YearsAsked,ProbableCases,BookReferences,LinkReferences
-S_FM_,Burns,"- Causes of Death- Postmortem Appearance;- Antemortem vs Postmortem Burns;- Pugilistic (or) Boxing (or) Fencing (or) Defence Attitude;- Dupuytren's Classification (Asked as a Short Answer)",True,5,2024-02;2021-09;2020-11;2013-08;2012-08,,"n=FM-ignfmt&ed=5&vol=0#230,232,236",
-S_FM_,Wallace Rule of Nine,,True,2,2022-08;2014-08,,n=FM-ignfmt&ed=5&vol=0#231,
+S_FM_,Burns,"- Causes of Death- Postmortem Appearance;- Antemortem vs Postmortem Burns;- Pugilistic (or) Boxing (or) Fencing (or) Defence Attitude;- Dupuytren's Classification (Asked as a Short Answer)",True,5,2024-02;2021-09;2020-11;2013-08;2012-08,,"n=FM-ignfmt&ed=5&vol=0#230-232,236",
+S_FM_,Wallace Rule of Nine,,True,4,2022-08;2014-08;2010-08;2009-02,,n=FM-ignfmt&ed=5&vol=0#231,
 S_FM_,Heat Hematoma,- Asked as a Short Answer,True,2,2022-08;2011-08,,n=FM-ignfmt&ed=5&vol=0#234,
+S_FM_,Burns vs Scalds,,True,1,2009-08,,n=FM-ignfmt&ed=5&vol=0#238,
+S_FM_,Scalds,,True,1,2008-08,,n=FM-ignfmt&ed=5&vol=0#237,
+S_FM_,Heat Ruptures,- Asked as a Short Answer,True,1,2008-08,,n=FM-ignfmt&ed=5&vol=0#233,
