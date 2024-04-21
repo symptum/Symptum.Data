@@ -1,15 +1,16 @@
 Id,Title,Descriptions,HasPreviouslyBeenAsked,Importance,YearsAsked,ProbableCases,BookReferences,LinkReferences
-S_FM_,Signs of Live Birth,,True,2,2024-02;2011-08,,n=FM-ignfmt&ed=5&vol=0#413,
+S_FM_,Signs of Live Birth,,True,3,2024-02;2011-08;2008-02,,n=FM-ignfmt&ed=5&vol=0#413,
 S_FM_,Hydrostatic Test (or) Raygat Test,,True,2,2023-02;2009-02,,n=FM-ignfmt&ed=5&vol=0#414,
 S_FM_,Abortifacient Drugs,- Ecbolics (Asked as a Short Answer),True,2,2023-02;2014-02,,n=FM-ignfmt&ed=5&vol=0#404,
 S_FM_,Munchausen Syndrome By Proxy (or) Factitious Disorder,- Asked as a Short Answer,True,1,2024-02,,n=FM-ignfmt&ed=5&vol=0#422,
 S_FM_,Viable Child,- Asked as a Short Answer,True,3,2023-07;2009-08;2008-08,,n=FM-ignfmt&ed=5&vol=0#412,
 S_FM_,Respired vs Unrespired Lung,,True,1,2021-09,,n=FM-ignfmt&ed=5&vol=0#416,
-S_FM_,Criminal Abortion,- Complications,True,3,2020-11;2013-02;2010-02,,n=FM-ignfmt&ed=5&vol=0#404,
-S_FM_,Medical Termination of Pregnancy,,True,3,2020-11;2018-02;2011-08,,n=FM-ignfmt&ed=5&vol=0#401,
+S_FM_,Criminal Abortion,- Complications,True,4,2020-11;2013-02;2010-02;2006-08,,n=FM-ignfmt&ed=5&vol=0#404,
+S_FM_,Medical Termination of Pregnancy,,True,4,2020-11;2018-02;2011-08;2007-08,,n=FM-ignfmt&ed=5&vol=0#401,
 E_FM_,Criminal Abortion,"- Definition and Classification of Abortion- Diagnosis and Evidences in a dead- Medicolegal Importance",True,1,2019-02,,n=FM-ignfmt&ed=5&vol=0#404,
 S_FM_,Battered Baby Syndrome (or) Caffey's Syndrome (or) Maltreatment Syndrome,,True,3,2019-02;2016-08;2014-02,,n=FM-ignfmt&ed=5&vol=0#420,
 S_FM_,Caput Succedaneum,- Asked as a Short Answer,True,1,2013-08,,n=FM-ignfmt&ed=5&vol=0#417,
 S_FM_,Shaken Baby Syndrome (or) Infantile Whiplash Syndrome,,True,1,2012-08,,n=FM-ignfmt&ed=5&vol=0#421,
 S_FM_,Spalding's Sign,- Asked as a Short Answer,True,1,2010-08,,n=FM-ignfmt&ed=5&vol=0#411,
 S_FM_,Still Birth,- Asked as a Short Answer,True,1,2010-02,,n=FM-ignfmt&ed=5&vol=0#410,
+S_FM_,Sudden Infant Death Syndrome (SIDS) (or) Crib (or) Cot Death,,True,1,2006-02,,n=FM-ignfmt&ed=5&vol=0#422,

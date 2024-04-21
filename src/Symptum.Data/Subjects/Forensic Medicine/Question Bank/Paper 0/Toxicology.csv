@@ -22,12 +22,12 @@ S_FM_,Arsenic Poisoning,- Aldrich-Mees Lines (Asked as a Short Answer);- Raindro
 S_FM_,War Gases,,True,2,2020-11;2011-02,,n=FM-ignfmt&ed=5&vol=0#628,
 S_FM_,Antidotes,- Pencillamine (or) Cuprimine (Asked as a Short Answer);- Demulcents (Asked as a Short Answer);- Chemical Antidotes (Asked as a Short Answer);- Universal Antidote (Asked as a Short Answer),True,6,2020-02;2017-02;2014-08;2013-08;2010-02;2008-08,,n=FM-ignfmt&ed=5&vol=0#502,
 S_FM_,Nitric Acid,- Xanthoproteic Reaction (Asked as a Short Answer),True,1,2020-02,,n=FM-ignfmt&ed=5&vol=0#514,
-S_FM_,Cardiac Poisons,- Asked as a Short Answer,True,3,2020-02;2018-08;2017-02,,n=FM-ignfmt&ed=5&vol=0#579,
+S_FM_,Cardiac Poisons,,True,4,2020-02;2018-08;2017-02;2007-02,,n=FM-ignfmt&ed=5&vol=0#579,
 S_FM_,Chronic Lead Poisoning (or) Plumbism (or) Saturnism,- Lead Line (or) Burtonian Line (Asked as a Short Answer);- Blood Picture,True,3,2019-08;2015-02;2009-08,,n=FM-ignfmt&ed=5&vol=0#530,
 S_FM_,Phosphorus Poisoning,- Phossy Jaw (Asked as a Short Answer),True,2,2019-08;2014-08,,"n=FM-ignfmt&ed=5&vol=0#539,540",
 S_FM_,Body Packers and Stuffers,- Body Packer Syndrome (Asked as a Short Answer),True,1,2019-02,,n=FM-ignfmt&ed=5&vol=0#615,
 E_FM_,Carbon Monoxide Poisoning,"- Clinical Features- Treatment- Post-mortem Appearance- Medicolegal Importance;- Irrespirable Gases- Action- Clinical Features- Diagnosis- Treatment- Post-mortem Appearance",True,2,2018-02;2012-08,,n=FM-ignfmt&ed=5&vol=0#625,
-S_FM_,Hydrocyanic (or) Scheele's (or) Prussic Acid (or) Cyanide Poisoning,,True,2,2017-08;2011-02,,n=FM-ignfmt&ed=5&vol=0#584,
+S_FM_,Hydrocyanic (or) Scheele's (or) Prussic Acid (or) Cyanide Poisoning,- Treatment,True,3,2017-08;2011-02;2006-08,,n=FM-ignfmt&ed=5&vol=0#584,
 S_FM_,Lysergic Acid Diethylamide (LSD),- Asked as a Short Answer,True,1,2017-08,,"n=FM-ignfmt&ed=5&vol=0#597,614",
 E_FM_,Sulfuric Acid (H2SO4) (or) Oil of Vitriol,"- Classification of Poisons- Clinical Features- Complications- Treatment- Postmortem Appearances",True,1,2016-02,,n=FM-ignfmt&ed=5&vol=0#511,
 S_FM_,Chronic Mercury Poisoning (or) Hydrargyrism,,True,1,2015-08,,n=FM-ignfmt&ed=5&vol=0#534,
@@ -44,9 +44,14 @@ E_FM_,General Considerations,"- Definition of Poison- Ideal Homicidal Poison- 
 S_FM_,Mickey Finn (or) Knockout Drink,- Asked as a Short Answer,True,1,2011-02,,n=FM-ignfmt&ed=5&vol=0#556,
 S_FM_,Treatment of Organophosphorus Compound (OPC) Poisoning,,True,1,2010-08,,n=FM-ignfmt&ed=5&vol=0#562,
 E_FM_,Hydrocyanic (or) Scheele's (or) Prussic Acid (or) Cyanide Poisoning,"- Clinical Features- Treatment- Post-mortem Appearance",True,1,2010-02,,n=FM-ignfmt&ed=5&vol=0#584,
-E_FM_,Barbiturate Poisoning,"- Clinical Features- Treatment",True,1,2009-08,,n=FM-ignfmt&ed=5&vol=0#608,
+E_FM_,Barbiturate Poisoning,"- Classification of Poisons- Clinical Features- Treatment",True,2,2009-08;2007-08,,n=FM-ignfmt&ed=5&vol=0#608,
 S_FM_,Chronic Cocaine Poisoning (or) Cocainism (or) Cocainomania,- Asked as a Short Answer,True,1,2009-08,,n=FM-ignfmt&ed=5&vol=0#601,
 S_FM_,Drug Addiction vs Drug Habituation,,True,1,2009-02,,,
-E_FM_,Treatment of Poisoning,"- Gastric Lavage (or) Stomach Wash- Antidotes",True,1,2008-08,,n=FM-ignfmt&ed=5&vol=0#501,
+E_FM_,Treatment of Poisoning,"- Gastric Lavage (or) Stomach Wash- Antidotes;- Ideal Suicidal Poison- Factors Modifying Poison Action- Parasuicide (or) Suicide Attempt",True,2,2008-08;2006-08,,n=FM-ignfmt&ed=5&vol=0#501,
 S_FM_,Poisonous vs Non-poisonous Snakes,,True,1,2008-08,,n=FM-ignfmt&ed=5&vol=0#631,
 S_FM_,Oxalic Acid Poisoning,- Oxaluria (Asked as a Short Answer),True,1,2008-08,,n=FM-ignfmt&ed=5&vol=0#517,
+E_FM_,Ethyl Alcohol (or) Ethanol Poisoning,"- Definition of Drunkenness- Stages of Alcohol Intoxication- Clinical Examination",True,1,2008-02,,n=FM-ignfmt&ed=5&vol=0#544,
+S_FM_,Delirium Tremens,,True,1,2007-08,,n=FM-ignfmt&ed=5&vol=0#551,
+E_FM_,Methyl Alcohol (or) Methanol Poisoning,"- Clinical Features- Treatment",True,1,2006-02,,n=FM-ignfmt&ed=5&vol=0#554,
+S_FM_,Toxalbumin (or) Phytotoxin,,True,1,2006-02,,n=FM-ignfmt&ed=5&vol=0#573,
+S_FM_,Gastric Lavage (or) Stomach Wash,,True,1,2006-02,,n=FM-ignfmt&ed=5&vol=0#501,
