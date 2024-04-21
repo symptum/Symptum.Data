@@ -1,8 +1,8 @@
 Id,Title,Descriptions,HasPreviouslyBeenAsked,Importance,YearsAsked,ProbableCases,BookReferences,LinkReferences
 S_FM_,Forensic Entomology,,True,1,2023-06,,n=FM-ignfmt&ed=5&vol=0#30,
-S_FM_,Cadaveric Spasm (or) Instantaneous Rigor (or) Cataleptic Rigidity,- Development of Rigor Mortis is Hastened in Violent Deaths,True,4,2023-02;2017-08;2015-08;2013-02,,n=FM-ignfmt&ed=5&vol=0#24,
-S_FM_,Suspended Animation (or) Apparent Death,,True,5,2024-02;2023-07;2016-02;2013-02;2009-08,,n=FM-ignfmt&ed=5&vol=0#16,
-S_FM_,Rigor Mortis,- Cutis Anserina (or) Goose Bumps (Asked as a Short Answer),True,3,2023-02;2020-02;2015-08,,n=FM-ignfmt&ed=5&vol=0#21,
+S_FM_,Cadaveric Spasm (or) Instantaneous Rigor (or) Cataleptic Rigidity,- Development of Rigor Mortis is Hastened in Violent Deaths,True,5,2023-02;2017-08;2015-08;2013-02;2005-08,,n=FM-ignfmt&ed=5&vol=0#24,
+S_FM_,Suspended Animation (or) Apparent Death,,True,7,2024-02;2023-07;2016-02;2013-02;2009-08;2005-08;2005-02,,n=FM-ignfmt&ed=5&vol=0#16,
+S_FM_,Rigor Mortis,- Cutis Anserina (or) Goose Bumps (Asked as a Short Answer),True,4,2023-02;2020-02;2015-08;2005-02,,n=FM-ignfmt&ed=5&vol=0#21,
 S_FM_,Changes in the Eyes after Death,- Kevorkian Sign or Rail Roading or Cattle Trucking in Retina (Asked as a Short Answer),True,3,2023-02;2013-02;2011-02,,n=FM-ignfmt&ed=5&vol=0#26,
 S_FM_,Post-mortem Hypostasis (or) Livor Mortis (or) Cadaveric Lividity (or) Suggillations,,True,5,2022-08;2017-02;2014-08;2013-08;2013-02,,n=FM-ignfmt&ed=5&vol=0#17,
 E_FM_,Death and Post-mortem Changes,"- Estimation of Time Since Death- Adipocere (or) Saponification- Mummification;- Definition of Death- Post-mortem Changes- Estimation of Time Since Death;- Post-mortem Interval- Factors for Determining the Post-mortem Interval;- Post-mortem Changes- Rigor Mortis;- Definition of Somatic Death- Signs of Death- Estimation of Time Since Death- Suspended Animation",True,8,2022-02;2016-08;2014-02;2011-02;2010-02;2009-08;2008-02;2006-08,,"n=FM-ignfmt&ed=5&vol=0#11,15-38",
@@ -18,3 +18,4 @@ S_FM_,Post-mortem Cooling (or) Algor Mortis,- Post-mortem Caloricity (Asked as a
 S_FM_,Syncope,,True,1,2010-02,,n=FM-ignfmt&ed=5&vol=0#14,
 S_FM_,Conditions Simulating Rigor Mortis,,True,1,2009-02,,n=FM-ignfmt&ed=5&vol=0#24,
 S_FM_,Brain Stem Death,,True,1,2008-02,,n=FM-ignfmt&ed=5&vol=0#12,
+S_FM_,Mummification,,True,1,2005-08,,n=FM-ignfmt&ed=5&vol=0#36,

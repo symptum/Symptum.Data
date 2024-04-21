@@ -1,6 +1,6 @@
 Id,Title,Descriptions,HasPreviouslyBeenAsked,Importance,YearsAsked,ProbableCases,BookReferences,LinkReferences
 S_FM_,Autopsy,,True,1,2024-02,,n=FM-ignfmt&ed=5&vol=0#175-178,
-E_FM_,Firearm,"- Definition- Diagram and Description of Shotgun Cartridge Parts- Pattern of Entrance Wounds at Various Ranges",True,1,2023-06,,"n=FM-ignfmt&ed=5&vol=0#156,158,162",
+E_FM_,Firearms,"- Definition- Diagram and Description of Shotgun Cartridge Parts- Pattern of Entrance Wounds at Various Ranges;- Definition- Classification- Entrance Wound by a Revolver at Close Range- Ricochet Bullet",True,2,2023-06;2005-08,,"n=FM-ignfmt&ed=5&vol=0#156,158,161,162,168",
 S_FM_,Tandem Bullets (or) Piggy-tail Bullets,- Asked as a Short Answer,True,2,2022-08;2010-08,,n=FM-ignfmt&ed=5&vol=0#161,
 S_FM_,Ricochet Bullet,- Asked as a Short Answer,True,3,2020-02;2014-08;2008-08,,n=FM-ignfmt&ed=5&vol=0#161,
 S_FM_,Entry vs Exit Bullet Wounds,,True,2,2018-08;2014-02,,n=FM-ignfmt&ed=5&vol=0#174,
@@ -11,3 +11,4 @@ S_FM_,Types of Firearms,- Calibre (Asked as a Short Answer),True,1,2015-08,,n=FM
 S_FM_,Souvenir Bullets,- Asked as a Short Answer,True,1,2014-02,,n=FM-ignfmt&ed=5&vol=0#162,
 S_FM_,Cannelure,- Asked as a Short Answer,True,1,2012-08,,n=FM-ignfmt&ed=5&vol=0#159,
 S_FM_,Bullets,- Dum-dum bullet (Asked as a Short Answer),True,1,2009-08,,n=FM-ignfmt&ed=5&vol=0#160,
+S_FM_,Bomb Blast Injuries,,True,1,2005-08,,n=FM-ignfmt&ed=5&vol=0#178,

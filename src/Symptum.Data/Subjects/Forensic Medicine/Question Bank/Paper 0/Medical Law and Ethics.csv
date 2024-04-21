@@ -1,20 +1,21 @@
 Id,Title,Descriptions,HasPreviouslyBeenAsked,Importance,YearsAsked,ProbableCases,BookReferences,LinkReferences
-E_FM_,Medical Negligence (or) Malapraxis,"- Definition- Types and Differences- Prevention- Medical Indemnity Insurance;- Proof of Medical Negligence- The Defences for Medical Practitioner;- Definition- Types with Examples- Precautions and Prevention",True,4,2024-02;2023-07;2023-02;2010-08,"A 45 year old man was admitted to the trauma Intensive Care Unit following motor vehicle accident. He had multiple injuries and fractures with several complications. Then he developed ARDS and AKI, so he was put on ventilator and died on next day. The patient relatives complained about hospital and doctors, regarding inadequate treatment given to him.",n=FM-ignfmt&ed=5&vol=0#468,
+E_FM_,Medical Negligence (or) Malapraxis,"- Definition- Types and Differences- Prevention- Medical Indemnity Insurance;- Proof of Medical Negligence- The Defences for Medical Practitioner;- Definition- Types with Examples- Precautions and Prevention;- Definition- Ingredients- The Defences against Medical Negligence",True,6,2024-02;2023-07;2023-02;2010-08;2005-08;2005-02,"A 45 year old man was admitted to the trauma Intensive Care Unit following motor vehicle accident. He had multiple injuries and fractures with several complications. Then he developed ARDS and AKI, so he was put on ventilator and died on next day. The patient relatives complained about hospital and doctors, regarding inadequate treatment given to him.",n=FM-ignfmt&ed=5&vol=0#468,
 S_FM_,National Medical Commission (NMC),- Indian Medical Council (MCI) now replaced by NMC,True,4,2023-06;2019-02;2013-02;2010-02,,n=FM-ignfmt&ed=5&vol=0#461,
 E_FM_,Duties and Rights of a Registered Medical Practitioner and Privileged Communication,,True,1,2024-02,,"n=FM-ignfmt&ed=5&vol=0#467,474",
 S_FM_,Euthanasia (or) Mercy Killing,,True,3,2023-07;2019-02;2009-02,,n=FM-ignfmt&ed=5&vol=0#487,
 S_FM_,Warning Notice,,True,2,2022-02;2011-08,,n=FM-ignfmt&ed=5&vol=0#465,
 S_FM_,Novus Actus Interveniens,,True,2,2021-09;2011-02,,n=FM-ignfmt&ed=5&vol=0#469,
 S_FM_,Malingering,- Asked as a Short Answer,True,2,2020-11;2013-08,,n=FM-ignfmt&ed=5&vol=0#477,
-S_FM_,Privileged Communication,,True,3,2020-02;2010-08;2008-08,,n=FM-ignfmt&ed=5&vol=0#474,
+S_FM_,Privileged Communication,,True,5,2020-02;2010-08;2008-08;2005-08;2005-08,,n=FM-ignfmt&ed=5&vol=0#474,
 S_FM_,Professional Misconduct (or) Infamous Conduct,- Dichotomy (or) Fee Splitting (Asked as a Short Answer),True,7,2020-02;2019-02;2014-08;2013-02;2011-08;2010-08;2009-08,,n=FM-ignfmt&ed=5&vol=0#465,
 S_FM_,Vicarious Liability (or) Respondent Superior,,True,2,2019-08;2006-08,,n=FM-ignfmt&ed=5&vol=0#471,
 S_FM_,Penal Erasure (or) Professional Death Sentence,,True,3,2019-08;2017-02;2008-02,,n=FM-ignfmt&ed=5&vol=0#465,
 S_FM_,Therapeutic Misadventure,,True,2,2018-08;2014-02,,n=FM-ignfmt&ed=5&vol=0#472,
-S_FM_,Consent,- Informed Consent,True,4,2016-08;2016-02;2013-08;2009-08,,n=FM-ignfmt&ed=5&vol=0#474,
+S_FM_,Consent,- Informed Consent,True,5,2016-08;2016-02;2013-08;2009-08;2005-08,,n=FM-ignfmt&ed=5&vol=0#474,
 S_FM_,Composite Negligence,- Asked as a Short Answer,True,1,2012-08,,n=FM-ignfmt&ed=5&vol=0#473,
 S_FM_,Res Ipsa Loquitur,,True,2,2011-02;2007-08,,n=FM-ignfmt&ed=5&vol=0#469,
 S_FM_,State Medical Council (SMC),,True,1,2008-08,,n=FM-ignfmt&ed=5&vol=0#464,
 S_FM_,Contributory Negligence,,True,1,2008-02,,n=FM-ignfmt&ed=5&vol=0#471,
 E_FM_,Professional Misconduct (or) Infamous Conduct,"- Definition- Disciplinary Control",True,1,2007-02,,n=FM-ignfmt&ed=5&vol=0#464,
 S_FM_,Professional Secrecy,,True,1,2006-02,,n=FM-ignfmt&ed=5&vol=0#473,
+E_FM_,State Medical Council (SMC),"- Functions- Rules of Consent",True,1,2005-08,,"n=FM-ignfmt&ed=5&vol=0#464,476",

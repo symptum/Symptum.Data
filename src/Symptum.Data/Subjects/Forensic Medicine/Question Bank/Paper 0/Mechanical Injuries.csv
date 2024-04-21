@@ -4,8 +4,10 @@ S_FM_,Contusion (or) Bruise,- Patterned Bruise (Asked as a Short Answer);- Artif
 S_FM_,Penetrating vs Perforating Injuries,,True,1,2022-02,,n=FM-ignfmt&ed=5&vol=1#144,
 S_FM_,Age from Wounds,,True,1,2022-02,,"n=FM-ignfmt&ed=5&vol=0#131,136,202,203",
 S_FM_,Laceration,- Avulsion (Asked as a Short Answer);- Classification,True,4,2017-08;2017-08;2013-08;2008-02,,n=FM-ignfmt&ed=5&vol=1#137,
-S_FM_,Suicidal vs Homicidal Cut Throat Injuries,- Hesitation (or) Tentative (or) Trial (or) Exploratory Cuts (Asked as a Short Answer),True,2,2015-08;2014-08,,n=FM-ignfmt&ed=5&vol=0#139,
+S_FM_,Suicidal vs Homicidal Cut Throat Injuries,- Hesitation (or) Tentative (or) Trial (or) Exploratory Cuts (Asked as a Short Answer),True,3,2015-08;2014-08;2005-08,,n=FM-ignfmt&ed=5&vol=0#139,
 S_FM_,Chop Wounds,- Asked as a Short Answer,True,1,2011-02,,n=FM-ignfmt&ed=5&vol=0#142,
 S_FM_,Defence Wounds,,True,1,2010-02,,n=FM-ignfmt&ed=5&vol=0#150,
 S_FM_,Fabricated(or) Fictitious (or) Forged Wounds,,True,2,2009-08;2006-02,,n=FM-ignfmt&ed=5&vol=0#151,
 E_FM_,Injuries,"- Classification- Ante-mortem vs Post-mortem Wounds- Causes of Death from Injuries",True,1,2009-02,,"n=FM-ignfmt&ed=5&vol=0#129,132,136,236,261-268",
+S_FM_,Features of a Punctured (or) Stab Wounds,,True,1,2005-08,,n=FM-ignfmt&ed=5&vol=0#143,
+S_FM_,Incised vs Stab Wounds,,True,1,2005-08,,"n=FM-ignfmt&ed=5&vol=0#139,144",
