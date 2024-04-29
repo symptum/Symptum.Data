@@ -8,6 +8,7 @@ S_FM_,Suicidal vs Homicidal Cut Throat Injuries,- Hesitation (or) Tentative (or)
 S_FM_,Chop Wounds,- Asked as a Short Answer,True,1,2011-02,,n=FM-ignfmt&ed=5&vol=0#142,
 S_FM_,Defence Wounds,,True,1,2010-02,,n=FM-ignfmt&ed=5&vol=0#150,
 S_FM_,Fabricated(or) Fictitious (or) Forged Wounds,,True,2,2009-08;2006-02,,n=FM-ignfmt&ed=5&vol=0#151,
-E_FM_,Injuries,"- Classification- Ante-mortem vs Post-mortem Wounds- Causes of Death from Injuries",True,1,2009-02,,"n=FM-ignfmt&ed=5&vol=0#129,132,136,236,261-268",
+E_FM_,Injuries,"- Classification- Ante-mortem vs Post-mortem Wounds- Causes of Death from Injuries;- Classification- Lacerations vs Incised Wounds",True,2,2009-02;2003-10,,"n=FM-ignfmt&ed=5&vol=0#129,132,136,236,261-268",
 S_FM_,Features of a Punctured (or) Stab Wounds,,True,1,2005-08,,n=FM-ignfmt&ed=5&vol=0#143,
 S_FM_,Incised vs Stab Wounds,,True,1,2005-08,,"n=FM-ignfmt&ed=5&vol=0#139,144",
+S_FM_,Weapon Identification by Examination of Stab Injury,,True,1,2004-08,,n=FM-ignfmt&ed=5&vol=0#144,
