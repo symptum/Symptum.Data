@@ -5,7 +5,7 @@ E_FM_,Duties and Rights of a Registered Medical Practitioner and Privileged Comm
 S_FM_,Euthanasia (or) Mercy Killing,,True,3,2023-07;2019-02;2009-02,,n=FM-ignfmt&ed=5&vol=0#487,
 S_FM_,Warning Notice,,True,3,2022-02;2011-08;2001-04,,n=FM-ignfmt&ed=5&vol=0#465,
 S_FM_,Novus Actus Interveniens,,True,2,2021-09;2011-02,,n=FM-ignfmt&ed=5&vol=0#469,
-S_FM_,Malingering,- Asked as a Short Answer,True,2,2020-11;2013-08,,n=FM-ignfmt&ed=5&vol=0#477,
+S_FM_,Malingering,,True,3,2020-11;2013-08;2000-04,,n=FM-ignfmt&ed=5&vol=0#477,
 S_FM_,Privileged Communication,,True,5,2020-02;2010-08;2008-08;2005-08;2005-08,,n=FM-ignfmt&ed=5&vol=0#474,
 S_FM_,Professional Misconduct (or) Infamous Conduct,- Dichotomy (or) Fee Splitting (Asked as a Short Answer),True,8,2020-02;2019-02;2014-08;2013-02;2011-08;2010-08;2009-08;2001-11,,n=FM-ignfmt&ed=5&vol=0#465,
 S_FM_,Vicarious Liability (or) Respondent Superior,,True,4,2019-08;2006-08;2004-08;2002-03,,n=FM-ignfmt&ed=5&vol=0#471,
@@ -15,9 +15,11 @@ S_FM_,Consent,- Informed Consent;- Rules of Consent,True,7,2016-08;2016-02;2013-
 S_FM_,Composite Negligence,- Asked as a Short Answer,True,1,2012-08,,n=FM-ignfmt&ed=5&vol=0#473,
 S_FM_,Res Ipsa Loquitur,,True,3,2011-02;2007-08;2002-03,,n=FM-ignfmt&ed=5&vol=0#469,
 S_FM_,State Medical Council (SMC),,True,1,2008-08,,n=FM-ignfmt&ed=5&vol=0#464,
-S_FM_,Contributory Negligence,,True,1,2008-02,,n=FM-ignfmt&ed=5&vol=0#471,
+S_FM_,Contributory Negligence,,True,2,2008-02;2000-10,,n=FM-ignfmt&ed=5&vol=0#471,
 E_FM_,Professional Misconduct (or) Infamous Conduct,"- Definition- Disciplinary Control",True,1,2007-02,,n=FM-ignfmt&ed=5&vol=0#464,
 S_FM_,Professional Secrecy,,True,1,2006-02,,n=FM-ignfmt&ed=5&vol=0#473,
 E_FM_,State Medical Council (SMC),"- Functions- Rules of Consent;- Functions- Examples of Serious Professional Misconduct contained in the Warning Notice",True,2,2005-08;2004-08,,"n=FM-ignfmt&ed=5&vol=0#464,476",
 S_FM_,Medical Indemnity Insurance,,True,1,2004-08,,n=FM-ignfmt&ed=5&vol=0#473,
 S_FM_,Consumer Protection Act (CPA/COPRA),,True,1,2003-10,,n=FM-ignfmt&ed=5&vol=0#478,
+S_FM_,Corporate Negligence,,True,1,2000-10,,n=FM-ignfmt&ed=5&vol=0#472,
+E_FM_,National Medical Commission (NMC),"- Functions of Indian Medical Council- Privileged Communication",True,1,2000-04,,"n=FM-ignfmt&ed=5&vol=0#461,474",

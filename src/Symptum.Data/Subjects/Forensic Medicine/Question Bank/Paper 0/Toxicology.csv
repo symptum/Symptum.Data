@@ -6,7 +6,7 @@ E_FM_,Organophosphorus Compound (OPC) Poisoning,"- Clinical Features- Treatment
 S_FM_,Icthyotoxicosis (or) Icthyosarcotoxicosis,- Poisonous Fish and Marine Creatures,True,1,2023-02,,n=FM-ignfmt&ed=5&vol=0#655,
 S_FM_,Ideal Homicidal Poison,,True,2,2024-02;2018-08,,n=FM-ignfmt&ed=5&vol=0#500,
 S_FM_,Speed-ball,"- Asked as a Short Answer- Cocaine and Heroin",True,1,2024-02,,"n=FM-ignfmt&ed=5&vol=0#600,606",
-S_FM_,Methyl Alcohol (or) Methanol Poisoning,- Treatment,True,3,2023-07;2022-02;2009-08,,n=FM-ignfmt&ed=5&vol=0#554,
+S_FM_,Methyl Alcohol (or) Methanol Poisoning,- Treatment,True,4,2023-07;2022-02;2009-08;2000-04,,n=FM-ignfmt&ed=5&vol=0#554,
 S_FM_,Vitriolage (or) Acid Throwing,- Asked as a Short Answer,True,5,2023-07;2018-02;2014-08;2010-02;2009-02,,n=FM-ignfmt&ed=5&vol=0#513,
 E_FM_,Arsenic Poisoning,"- Definition of Poisoning- Clinical Features- Postmortem Appearance- Arsenic Poisoning vs Cholera",True,2,2023-02;2014-08,,n=FM-ignfmt&ed=5&vol=0#525,
 S_FM_,Cannabis,- Run amok;- Bhang (Asked as a Short Answer);- Charas (or) Hashish (Asked as a Short Answer);- Clinical Features (Asked as a Short Answer),True,9,2023-02;2022-02;2019-08;2014-08;2013-08;2012-08;2010-08;2009-02;2001-11,,"n=FM-ignfmt&ed=5&vol=0#594,597",
@@ -20,13 +20,13 @@ S_FM_,Viper Snake Bite,,True,4,2021-09;2010-02;2009-02;2005-02,,"n=FM-ignfmt&ed=
 S_FM_,Aconite,- Hippus (Asked as a Short Answer),True,5,2021-09;2018-08;2011-02;2009-08;2008-08,,n=FM-ignfmt&ed=5&vol=0#583,
 S_FM_,Arsenic Poisoning,- Aldrich-Mees Lines (Asked as a Short Answer);- Raindrop Pigmentation (Asked as a Short Answer),True,3,2021-09;2018-08;2010-02,,n=FM-ignfmt&ed=5&vol=0#525,
 S_FM_,War Gases,,True,3,2020-11;2011-02;2003-10,,n=FM-ignfmt&ed=5&vol=0#628,
-S_FM_,Antidotes,- Pencillamine (or) Cuprimine (Asked as a Short Answer);- Demulcents (Asked as a Short Answer);- Chemical Antidotes (Asked as a Short Answer);- Universal Antidote (Asked as a Short Answer);- Chelating Agents;- Activated Charcoal,True,8,2020-02;2017-02;2014-08;2013-08;2010-02;2008-08;2003-10;2002-03,,n=FM-ignfmt&ed=5&vol=0#502,
+S_FM_,Antidotes,- Pencillamine (or) Cuprimine (Asked as a Short Answer);- Demulcents (Asked as a Short Answer);- Chemical Antidotes (Asked as a Short Answer);- Universal Antidote (Asked as a Short Answer);- Chelating Agents;- Activated Charcoal,True,9,2020-02;2017-02;2014-08;2013-08;2010-02;2008-08;2003-10;2002-03;2000-10,,n=FM-ignfmt&ed=5&vol=0#502,
 S_FM_,Nitric Acid,- Xanthoproteic Reaction (Asked as a Short Answer),True,1,2020-02,,n=FM-ignfmt&ed=5&vol=0#514,
 S_FM_,Cardiac Poisons,,True,4,2020-02;2018-08;2017-02;2007-02,,n=FM-ignfmt&ed=5&vol=0#579,
 S_FM_,Chronic Lead Poisoning (or) Plumbism (or) Saturnism,- Lead Line (or) Burtonian Line (Asked as a Short Answer);- Blood Picture,True,4,2019-08;2015-02;2009-08;2004-08,,n=FM-ignfmt&ed=5&vol=0#530,
 S_FM_,Phosphorus Poisoning,- Phossy Jaw (Asked as a Short Answer),True,2,2019-08;2014-08,,"n=FM-ignfmt&ed=5&vol=0#539,540",
 S_FM_,Body Packers and Stuffers,- Body Packer Syndrome (Asked as a Short Answer),True,1,2019-02,,n=FM-ignfmt&ed=5&vol=0#615,
-E_FM_,Carbon Monoxide Poisoning,"- Clinical Features- Treatment- Post-mortem Appearance- Medicolegal Importance;- Irrespirable Gases- Action- Clinical Features- Diagnosis- Treatment- Post-mortem Appearance",True,2,2018-02;2012-08,,n=FM-ignfmt&ed=5&vol=0#625,
+E_FM_,Carbon Monoxide Poisoning,"- Clinical Features- Treatment- Post-mortem Appearance- Medicolegal Importance;- Irrespirable Gases- Action- Clinical Features- Diagnosis- Treatment- Post-mortem Appearance",True,3,2018-02;2012-08;2000-04,,n=FM-ignfmt&ed=5&vol=0#625,
 S_FM_,Hydrocyanic (or) Scheele's (or) Prussic Acid (or) Cyanide Poisoning,- Treatment,True,3,2017-08;2011-02;2006-08,,n=FM-ignfmt&ed=5&vol=0#584,
 S_FM_,Lysergic Acid Diethylamide (LSD),- Asked as a Short Answer,True,1,2017-08,,"n=FM-ignfmt&ed=5&vol=0#597,614",
 E_FM_,Sulfuric Acid (H2SO4) (or) Oil of Vitriol,"- Classification of Poisons- Clinical Features- Complications- Treatment- Postmortem Appearances",True,1,2016-02,,n=FM-ignfmt&ed=5&vol=0#511,
@@ -35,7 +35,7 @@ S_FM_,Mushroom Poisoning,,True,2,2014-08;2011-02,,n=FM-ignfmt&ed=5&vol=0#652,
 S_FM_,Endrine (or) Plant Penicillin Poisoning,,True,2,2014-08;2012-08,,n=FM-ignfmt&ed=5&vol=0#564,
 E_FM_,Chronic Mercury Poisoning (or) Hydrargyrism,"- Clinical Features- Treatment- Post-mortem Appearance",True,1,2014-02,,n=FM-ignfmt&ed=5&vol=0#534,
 S_FM_,Ideal Suicidal Poison,,True,2,2014-02;2013-08,,n=FM-ignfmt&ed=5&vol=0#500,
-S_FM_,Ophitoxaemia (or) Snake Bite Poisoning,- Snake Venom (Asked as a Short Answer),True,2,2014-02;2013-08,,n=FM-ignfmt&ed=5&vol=0#631,
+S_FM_,Ophitoxaemia (or) Snake Bite Poisoning,- Snake Venom (Asked as a Short Answer);- First Aid,True,3,2014-02;2013-08;2000-10,,n=FM-ignfmt&ed=5&vol=0#631,
 S_FM_,Aphrodisiacs,"- Asked as a Short Answer- Alcohol, Cocaine, Cannabis, MDMA and Methamphetamine",True,1,2014-02,,,
 S_FM_,Sewer Gases,"- Asked as a Short Answer- Hydrogen Sulphide, CO2 and Methane",True,1,2014-02,,n=FM-ignfmt&ed=5&vol=0#627,
 S_FM_,Cantharides (or) Spanish Fly (or) Blister Beetle,,True,1,2012-08,,n=FM-ignfmt&ed=5&vol=0#647,
@@ -52,8 +52,8 @@ S_FM_,Poisonous vs Non-poisonous Snakes,,True,1,2008-08,,n=FM-ignfmt&ed=5&vol=0#
 S_FM_,Oxalic Acid Poisoning,- Oxaluria (Asked as a Short Answer),True,1,2008-08,,n=FM-ignfmt&ed=5&vol=0#517,
 E_FM_,Ethyl Alcohol (or) Ethanol Poisoning,"- Definition of Drunkenness- Stages of Alcohol Intoxication- Clinical Examination",True,1,2008-02,,n=FM-ignfmt&ed=5&vol=0#544,
 S_FM_,Delirium Tremens,,True,1,2007-08,,n=FM-ignfmt&ed=5&vol=0#551,
-E_FM_,Methyl Alcohol (or) Methanol Poisoning,"- Clinical Features- Treatment- Post-mortem Appearance;- Definition of Drunkenness- Clinical Features- Treatment- Post-mortem Appearance",True,3,2006-02;2001-11;2001-04,,n=FM-ignfmt&ed=5&vol=0#554,
-S_FM_,Toxalbumin (or) Phytotoxin,,True,3,2006-02;2003-10;2001-04,,n=FM-ignfmt&ed=5&vol=0#573,
+E_FM_,Methyl Alcohol (or) Methanol Poisoning,"- Clinical Features- Treatment- Post-mortem Appearance;- Definition of Drunkenness- Clinical Features- Treatment- Post-mortem Appearance",True,4,2006-02;2001-11;2001-04;2000-10,,n=FM-ignfmt&ed=5&vol=0#554,
+S_FM_,Toxalbumin (or) Phytotoxin,,True,4,2006-02;2003-10;2001-04;2000-04,,n=FM-ignfmt&ed=5&vol=0#573,
 S_FM_,Gastric Lavage (or) Stomach Wash,,True,1,2006-02,,n=FM-ignfmt&ed=5&vol=0#501,
 S_FM_,Clinical Features of Datura Poisoning,,True,2,2005-08;2005-08,,n=FM-ignfmt&ed=5&vol=0#592,
 S_FM_,Carbamate Poisoning,,True,1,2005-08,,n=FM-ignfmt&ed=5&vol=0#563,
@@ -62,3 +62,4 @@ S_FM_,Acute Lead Poisoning,,True,1,2002-03,,n=FM-ignfmt&ed=5&vol=0#529,
 S_FM_,Stupefying Agents,,True,1,2002-03,,n=FM-ignfmt&ed=5&vol=0#591,
 S_FM_,Hallucinogenic Drugs,,True,1,2002-03,,n=FM-ignfmt&ed=5&vol=0#594,
 E_FM_,Cerbera thevetia Poisoning,"- Clinical Features- Treatment- Post-mortem Appearance",True,1,2001-04,,n=FM-ignfmt&ed=5&vol=0#579,
+E_FM_,Morphine Poisoning,"- Alkaloids- Clinical Features- Treatment- Post-mortem Appearance",True,1,2000-10,,"n=FM-ignfmt&ed=5&vol=0#603,592",
