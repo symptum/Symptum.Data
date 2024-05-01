@@ -1,5 +1,5 @@
 Id,Title,Descriptions,HasPreviouslyBeenAsked,Importance,YearsAsked,ProbableCases,BookReferences,LinkReferences
-E_FM_,Abrasion,"- Classification of Mechanical Injuries- Ante-mortem vs Post-mortem Abrasion;- Definition and Classification of Injuries- Types of Abrasions- Medicolegal Importance",True,3,2022-08;2017-02;2013-02,,n=FM-ignfmt&ed=5&vol=1#129,
+E_FM_,Abrasion,"- Classification of Mechanical Injuries- Ante-mortem vs Post-mortem Abrasion;- Definition and Classification of Injuries- Types of Abrasions- Medicolegal Importance",True,4,2022-08;2017-02;2013-02;2001-04,,n=FM-ignfmt&ed=5&vol=1#129,
 S_FM_,Contusion (or) Bruise,- Patterned Bruise (Asked as a Short Answer);- Artificial (or) Pseudo Bruise (Asked as a Short Answer),True,4,2022-08;2013-08;2012-08;2010-02,,n=FM-ignfmt&ed=5&vol=0#132,
 S_FM_,Penetrating vs Perforating Injuries,,True,1,2022-02,,n=FM-ignfmt&ed=5&vol=1#144,
 S_FM_,Age from Wounds,,True,1,2022-02,,"n=FM-ignfmt&ed=5&vol=0#131,136,202,203",
@@ -12,3 +12,4 @@ E_FM_,Injuries,"- Classification- Ante-mortem vs Post-mortem Wounds- Causes of
 S_FM_,Features of a Punctured (or) Stab Wounds,,True,1,2005-08,,n=FM-ignfmt&ed=5&vol=0#143,
 S_FM_,Incised vs Stab Wounds,,True,1,2005-08,,"n=FM-ignfmt&ed=5&vol=0#139,144",
 S_FM_,Weapon Identification by Examination of Stab Injury,,True,1,2004-08,,n=FM-ignfmt&ed=5&vol=0#144,
+S_FM_,Abrasion,,True,1,2002-03,,n=FM-ignfmt&ed=5&vol=0#129,
