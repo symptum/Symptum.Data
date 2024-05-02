@@ -8,17 +8,18 @@ E_FM_,Hanging,"- Classification of Asphyxial Deaths- Post-mortem Appearance- C
 E_FM_,Drowning,"- Definition- Types- Post-mortem Appearance;- Definition- Types- Pathophysiology- Post-mortem Appearance- Ante-mortem vs Post-mortem Drowning;- Definition and Classification of Asphyxia- Post-mortem Appearance;- Pathophysiology- Post-mortem Appearance- Causes of Death",True,6,2020-11;2018-08;2015-02;2013-08;2010-02;2007-08,,n=FM-ignfmt&ed=5&vol=0#307-316,
 S_FM_,Café Coronary,,True,6,2020-02;2013-02;2009-08;2005-08;2003-10;2001-11,,n=FM-ignfmt&ed=5&vol=0#302,
 S_FM_,Bansdola,- Asked as a Short Answer,True,2,2018-08;2016-02,,n=FM-ignfmt&ed=5&vol=0#298,
-S_FM_,Diatoms Test,,True,5,2018-02;2014-08;2003-10;2002-03;2000-04,,n=FM-ignfmt&ed=5&vol=0#313,
+S_FM_,Diatoms Test,- Acid Digestion Test,True,7,2018-02;2014-08;2003-10;2002-03;2000-04;1999-04;1998-04,,n=FM-ignfmt&ed=5&vol=0#313,
 S_FM_,Gagging,- Asked as a Short Answer,True,2,2014-02;2008-08,,n=FM-ignfmt&ed=5&vol=0#301,
 S_FM_,Traumatic Asphyxia,,True,4,2013-08;2010-08;2006-08;2000-10,,n=FM-ignfmt&ed=5&vol=0#303,
 S_FM_,Asphyxial Stigmata,- Asked as a Short Answer,True,1,2013-08,,,
 S_FM_,Mugging,,True,1,2012-08,,n=FM-ignfmt&ed=5&vol=0#300,
-S_FM_,Partial (or) Incomplete Hanging,- Asked as a Short Answer,True,1,2010-08,,n=FM-ignfmt&ed=5&vol=0#285,
+S_FM_,Partial (or) Incomplete Hanging,- Asked as a Short Answer,True,2,2010-08;1997-04,,n=FM-ignfmt&ed=5&vol=0#285,
 S_FM_,Choking,- Asked as a Short Answer,True,1,2009-08,,n=FM-ignfmt&ed=5&vol=0#302,
 E_FM_,Mechanical Asphyxial Deaths,"- Classification- Hanging vs Ligature Strangulation",True,1,2008-08,,n=FM-ignfmt&ed=5&vol=0#273-295,
 S_FM_,Judicial Hanging,,True,1,2008-02,,n=FM-ignfmt&ed=5&vol=0#288,
 S_FM_,Bloodless Dissection of Neck,,True,1,2005-08,,n=FM-ignfmt&ed=5&vol=0#280,
-S_FM_,Manual Strangulation (or) Throttling,,True,1,2005-02,,n=FM-ignfmt&ed=5&vol=0#295,
+S_FM_,Manual Strangulation (or) Throttling,,True,2,2005-02;1998-10,,n=FM-ignfmt&ed=5&vol=0#295,
 S_FM_,Post-mortem Appearance in Drowning,,True,2,2004-08;2001-11,,n=FM-ignfmt&ed=5&vol=0#308,
 S_FM_,Secondary Drowning,,True,1,2001-11,,n=FM-ignfmt&ed=5&vol=0#312,
 S_FM_,Burking,,True,1,2000-04,,n=FM-ignfmt&ed=5&vol=0#305,
+S_FM_,Gettler's Test,,True,1,1998-10,,n=FM-ignfmt&ed=5&vol=0#312,
