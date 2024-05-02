@@ -1,5 +1,5 @@
 Id,Title,Descriptions,HasPreviouslyBeenAsked,Importance,YearsAsked,ProbableCases,BookReferences,LinkReferences
-S_FM_,Fracture of Hyoid Bone,"- Types- Significance",True,4,2024-02;2009-02;2005-08;2001-04,,n=FM-ignfmt&ed=5&vol=0#283,
+S_FM_,Fracture of Hyoid Bone,"- Types- Significance",True,5,2024-02;2009-02;2005-08;2001-04;1996-10,,n=FM-ignfmt&ed=5&vol=0#283,
 S_FM_,Causes of Death in Hanging,,True,1,2023-06,,n=FM-ignfmt&ed=5&vol=0#274,
 S_FM_,Autoerotic Deaths (or) Sexual Asphyxias (or) Kotzwainism,,True,5,2023-02;2023-07;2011-02;2010-02;2009-02,,n=FM-ignfmt&ed=5&vol=0#287,
 S_FM_,Drowning,- Paltauf's Hemorrhage (Asked as a Short Answer);- Dry Drowning (Asked as a Short Answer);- Sea Water Drowning;- Oedema Aquosum Lung (Asked as a Short Answer),True,7,2022-08;2017-02;2016-02;2014-08;2013-08;2013-02;2011-08,,"n=FM-ignfmt&ed=5&vol=0#310,312",
@@ -10,7 +10,7 @@ S_FM_,Café Coronary,,True,6,2020-02;2013-02;2009-08;2005-08;2003-10;2001-11,,n=
 S_FM_,Bansdola,- Asked as a Short Answer,True,2,2018-08;2016-02,,n=FM-ignfmt&ed=5&vol=0#298,
 S_FM_,Diatoms Test,- Acid Digestion Test,True,7,2018-02;2014-08;2003-10;2002-03;2000-04;1999-04;1998-04,,n=FM-ignfmt&ed=5&vol=0#313,
 S_FM_,Gagging,- Asked as a Short Answer,True,2,2014-02;2008-08,,n=FM-ignfmt&ed=5&vol=0#301,
-S_FM_,Traumatic Asphyxia,,True,4,2013-08;2010-08;2006-08;2000-10,,n=FM-ignfmt&ed=5&vol=0#303,
+S_FM_,Traumatic Asphyxia,,True,5,2013-08;2010-08;2006-08;2000-10;1994-11,,n=FM-ignfmt&ed=5&vol=0#303,
 S_FM_,Asphyxial Stigmata,- Asked as a Short Answer,True,1,2013-08,,,
 S_FM_,Mugging,,True,1,2012-08,,n=FM-ignfmt&ed=5&vol=0#300,
 S_FM_,Partial (or) Incomplete Hanging,- Asked as a Short Answer,True,2,2010-08;1997-04,,n=FM-ignfmt&ed=5&vol=0#285,
