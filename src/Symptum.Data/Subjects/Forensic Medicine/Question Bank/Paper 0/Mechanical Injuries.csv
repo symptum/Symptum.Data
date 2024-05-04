@@ -1,16 +1,26 @@
-﻿Id,Title,Descriptions,HasPreviouslyBeenAsked,Importance,YearsAsked,ProbableCases,BookReferences,LinkReferences
-E_FM_,Mechanical Injuries,"- Definition
-- Laceration vs Abrasions
-- Coup vs Contrecoup Injuries",True,4,2003-10;2007-02;2013-02;2017-02,,"n=FM-ignfmt&ed=5&vol=1#129, 137",
-S_FM_,Cut Throat Injury,,True,2,2005-08;2015-08,,n=FM-ignfmt&ed=5&vol=1#141,
-S_FM_,Stab Wound,,True,1,2005-08,,n=FM-ignfmt&ed=5&vol=1#143,
-S_FM_,Laceration,,True,1,2008-02,,n=FM-ignfmt&ed=5&vol=1#137,
+Id,Title,Descriptions,HasPreviouslyBeenAsked,Importance,YearsAsked,ProbableCases,BookReferences,LinkReferences
+E_FM_,Abrasion,"- Classification of Mechanical Injuries
+- Ante-mortem vs Post-mortem Abrasion;- Definition and Classification of Injuries
+- Types of Abrasions
+- Medicolegal Importance",True,5,2022-08;2017-02;2013-02;2001-04;1999-04,,n=FM-ignfmt&ed=5&vol=1#129,
+S_FM_,Contusion (or) Bruise,- Patterned Bruise (Asked as a Short Answer);- Artificial (or) Pseudo Bruise (Asked as a Short Answer),True,4,2022-08;2013-08;2012-08;2010-02,,n=FM-ignfmt&ed=5&vol=0#132,
+S_FM_,Penetrating vs Perforating Injuries,,True,1,2022-02,,n=FM-ignfmt&ed=5&vol=1#144,
+S_FM_,Age from Wounds,,True,1,2022-02,,"n=FM-ignfmt&ed=5&vol=0#131,136,202,203",
+S_FM_,Laceration,- Avulsion (Asked as a Short Answer);- Classification,True,5,2017-08;2017-08;2013-08;2008-02;2000-10,,n=FM-ignfmt&ed=5&vol=1#137,
+S_FM_,Suicidal vs Homicidal Cut Throat Injuries,- Hesitation (or) Tentative (or) Trial (or) Exploratory Cuts (Asked as a Short Answer),True,3,2015-08;2014-08;2005-08,,n=FM-ignfmt&ed=5&vol=0#139,
+S_FM_,Chop Wounds,- Asked as a Short Answer,True,1,2011-02,,n=FM-ignfmt&ed=5&vol=0#142,
+S_FM_,Defence Wounds,,True,2,2010-02;1990-12,,n=FM-ignfmt&ed=5&vol=0#150,
+S_FM_,Fabricated(or) Fictitious (or) Forged Wounds,,True,2,2009-08;2006-02,,n=FM-ignfmt&ed=5&vol=0#151,
 E_FM_,Injuries,"- Classification
-- Antemortem vs Postmortem Wounds",True,2,2009-02;2018-09,,"n=FM-ignfmt&ed=5&vol=1#129, 136",
-S_FM_,Defence Wounds,,True,2,2010-02;1990-12,,n=FM-ignfmt&ed=5&vol=1#150,
-S_FM_,Incised looking Lacerated wounds,,True,1,1991-12,,n=FM-ignfmt&ed=5&vol=1#138,
-E_FM_,Abrasion,"- Definition
-- Types
-- Medicolegal importance",True,2,1999-04;2001-04,,n=FM-ignfmt&ed=5&vol=1#129,
-S_FM_,Incised Wound vs Stab Wound,,True,1,2005-08,,n=FM-ignfmt&ed=5&vol=1#148,
-S_FM_,Penetrating vs Perforating,,True,1,2022-02,,n=FM-ignfmt&ed=5&vol=1#144,
+- Ante-mortem vs Post-mortem Wounds
+- Causes of Death from Injuries;- Characteristics of Ante-mortem Wounds
+- Causes of Death from Injuries",True,2,2009-02;1997-04,,"n=FM-ignfmt&ed=5&vol=0#129,132,136,236,261-268",
+S_FM_,Features of a Punctured (or) Stab Wounds,,True,1,2005-08,,n=FM-ignfmt&ed=5&vol=0#143,
+S_FM_,Incised vs Stab Wounds,,True,1,2005-08,,"n=FM-ignfmt&ed=5&vol=0#139,144",
+S_FM_,Weapon Identification by Examination of Stab Injury,,True,1,2004-08,,n=FM-ignfmt&ed=5&vol=0#144,
+E_FM_,Lacerations and Incised Wounds,"- Classification of Mechanical Injuries
+- Lacerations vs Incised Wounds",True,1,2003-10,,n=FM-ignfmt&ed=5&vol=0#137,
+S_FM_,Abrasion,,True,1,2002-03,,n=FM-ignfmt&ed=5&vol=0#129,
+E_FM_,Cut Throat Injuries,"- Classification of Mechanical Injuries
+- Suicidal vs Homicidal Cut Throat Injuries",True,1,1997-10,,n=FM-ignfmt&ed=5&vol=0#139,
+S_FM_,Incised Looking Lacerated Wounds,,True,1,1991-12,,n=FM-ignfmt&ed=5&vol=0#138,
