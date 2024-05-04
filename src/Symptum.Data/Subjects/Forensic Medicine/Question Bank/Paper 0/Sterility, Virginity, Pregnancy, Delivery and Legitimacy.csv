@@ -6,8 +6,11 @@ S_FM_,Signs of Recent Delivery,- Lochia (Asked as a Short Answer),True,10,2024-0
 S_FM_,Pseudocyesis,,True,2,2020-02;2012-08,,n=FM-ignfmt&ed=5&vol=0#394,
 S_FM_,Surrogate Mother,- Asked as a Short Answer,True,3,2018-02;2014-02;2000-04,,n=FM-ignfmt&ed=5&vol=0#350,
 S_FM_,Disputed Paternity,- Posthumous Child (Asked as a Short Answer);- Atavism (Asked as a Short Answer),True,5,2014-02;2013-02;2009-02;2008-02;1995-11,,n=FM-ignfmt&ed=5&vol=0#398,
-S_FM_,False Virgin,- Asked as a Short Answer,True,1,2010-08,,n=FM-ignfmt&ed=5&vol=0#390,
-E_FM_,Artificial Insemination,"- Indications- Biological Aspects- Legal Aspects- Precautions",True,1,2009-02,,n=FM-ignfmt&ed=5&vol=0#348,
-S_FM_,Hymen,,True,4,2005-08;2000-10;2000-04;1998-04,,n=FM-ignfmt&ed=5&vol=0#389,
-S_FM_,Signs of Virginity,,True,1,2004-08,,n=FM-ignfmt&ed=5&vol=0#390,
-E_FM_,Impotence and Sterility,"- Definition of Impotence and Sterility- Causes of Impotence and Sterility in Male and Female- Artificial Insemination",True,1,2003-10,,n=FM-ignfmt&ed=5&vol=0#342,
+S_FM_,Virginity,- False Virgin (Asked as a Short Answer);- Hymen;- Signs of Virginity,True,6,2010-08;2005-08;2004-08;2000-10;2000-04;1998-04,,n=FM-ignfmt&ed=5&vol=0#389-391,
+E_FM_,Artificial Insemination,"- Indications
+- Biological Aspects
+- Legal Aspects
+- Precautions",True,1,2009-02,,n=FM-ignfmt&ed=5&vol=0#348,
+E_FM_,Impotence and Sterility,"- Definition of Impotence and Sterility
+- Causes of Impotence and Sterility in Male and Female
+- Artificial Insemination",True,1,2003-10,,n=FM-ignfmt&ed=5&vol=0#342,

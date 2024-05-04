@@ -1,5 +1,7 @@
 Id,Title,Descriptions,HasPreviouslyBeenAsked,Importance,YearsAsked,ProbableCases,BookReferences,LinkReferences
-E_FM_,Mental Healthcare Act (2017),"- Admission and Discharge Procedures- Independent and Supported Admission- Rights of Mentally-ill Person and Responsibilities of Doctors",True,1,2024-02,"A 38 year old man, who has been experiencing delusions, hallucinations and thought disorder for the past 2 months now display of flattening effects, lack of motivation, aggressive emotional charges and social withdrawal.",n=FM-ignfmt&ed=5&vol=0#434,
+E_FM_,Mental Healthcare Act (2017),"- Admission and Discharge Procedures
+- Independent and Supported Admission
+- Rights of Mentally-ill Person and Responsibilities of Doctors",True,1,2024-02,"A 38 year old man, who has been experiencing delusions, hallucinations and thought disorder for the past 2 months now display of flattening effects, lack of motivation, aggressive emotional charges and social withdrawal.",n=FM-ignfmt&ed=5&vol=0#434,
 S_FM_,Criminal Responsibilities,- Mc Naughten's Rule;- Section 84 IPC,True,6,2023-06;2011-08;2008-02;2006-02;2003-10;1996-10,,n=FM-ignfmt&ed=5&vol=0#438,
 S_FM_,Feigned Insanity,- True Insanity vs Feigned Insanity,True,5,2023-02;2023-07;2014-02;2010-02;2007-08,,n=FM-ignfmt&ed=5&vol=0#433,
 S_FM_,Impulse,- Kleptomania (Asked as a Short Answer),True,5,2023-02;2019-08;2016-02;2010-08;2009-02,,n=FM-ignfmt&ed=5&vol=0#427,
@@ -8,8 +10,13 @@ S_FM_,Lucid Interval,,True,6,2020-11;2018-02;2015-02;2014-08;1997-10;1993-01,,n=
 S_FM_,Delusion,,True,10,2019-02;2013-02;2012-08;2009-08;2005-08;2001-11;2001-11;1999-04;1998-10;1990-12,,n=FM-ignfmt&ed=5&vol=0#426,
 S_FM_,Hallucination,- Magnan's Symptom (or) Formication (Asked as a Short Answer),True,9,2017-08;2011-08;2010-08;2005-08;2002-03;2000-10;2000-04;2000-04;1997-10,,n=FM-ignfmt&ed=5&vol=0#427,
 S_FM_,Civil Responsibilities,- Holograph Will (Asked as a Short Answer);- Testamentary Capacity,True,7,2015-08;2012-08;2007-02;2004-08;2004-08;2000-04;1997-10,,n=FM-ignfmt&ed=5&vol=0#437,
-E_FM_,Insanity,"- Classification- Definition of Delusion- Types of Delusion;- Definition- Restraining Procedure- Criteria for Discharge",True,3,2013-08;2006-08;1998-10,,n=FM-ignfmt&ed=5&vol=0#426,
+E_FM_,Delusion,"- Classification of Insanity
+- Definition of Delusion
+- Types of Delusion",True,1,2013-08,,n=FM-ignfmt&ed=5&vol=0#426,
 S_FM_,Psychopath,,True,1,2013-08,,n=FM-ignfmt&ed=5&vol=0#428,
 S_FM_,Schizophrenia,- Hebephrenia (Asked as a Short Answer),True,1,2012-08,,n=FM-ignfmt&ed=5&vol=0#429,
+E_FM_,Restraining Procedure of an Insane Person,"- Definition of Insanity
+- Restraining Procedure
+- Criteria for Discharge",True,2,2006-08;1998-10,,n=FM-ignfmt&ed=5&vol=0#434,
 S_FM_,Reception Order,,True,1,2006-02,,n=FM-ignfmt&ed=5&vol=0#436,
 S_FM_,American Law Institute (ALI) Test,,True,1,1997-04,,n=FM-ignfmt&ed=5&vol=0#439,
