@@ -1,0 +1,15 @@
+﻿Id,Title,Descriptions,HasPreviouslyBeenAsked,Importance,YearsAsked,ProbableCases,BookReferences,LinkReferences
+S_CM_,Uses of Bio-statistics in Medicine,,True,1,2001-11,,n=CM-parkpsm&ed=27&vol=1#967,
+S_CM_,Tests of significance,- Formulas for standard error;- Standard error,True,2,2001-04;2012-08,,n=CM-parkpsm&ed=27&vol=1#978,
+S_CM_,Measures of dispersion,,True,3,2004-08;2015-02;2022-08,,n=CM-parkpsm&ed=27&vol=1#976,
+S_CM_,Measures of central tendency,- Statistical averages,True,4,2006-02;2008-02;2013-02;2002-03,,n=CM-parkpsm&ed=27&vol=1#975,
+S_CM_,Standard deviation,,True,1,2009-02,,n=CM-parkpsm&ed=27&vol=1#976,
+S_CM_,Chi-Square test,"- How is the Chi-square test done? 
+- What are its uses?;- Describe the steps of Chi square test with examples",True,5,2009-08;2012-02;2014-02;1990-12;2020-02,,n=CM-parkpsm&ed=27&vol=1#980,
+S_CM_,Histogram,- Use of histogram in biostatistics,True,3,2010-02;2017-08;2022-04,,n=CM-parkpsm&ed=27&vol=1#973,
+S_CM_,Normal distribution,- Standard normal curve;- Compare and contrast meaning of 'p' value and confidence interval in biostatistics,True,4,2011-02;2014-08;2020-11;2023-06,,n=CM-parkpsm&ed=27&vol=1#977,
+S_CM_,Pie-chart,,True,1,2012-02,,n=CM-parkpsm&ed=27&vol=1#974,
+M_CM_,Pictogram,,True,1,2014-08,,n=CM-parkpsm&ed=27&vol=1#974,
+S_CM_,Data presentation,,True,1,2005-02,,n=CM-parkpsm&ed=27&vol=1#972,
+S_CM_,Statistical Maps,- Illustrate with examples the best graph to depict the relationship between two variables,True,1,2019-02,,n=CM-parkpsm&ed=27&vol=1#974,
+S_CM_,Sources of health information,- Feasibility of record linkage as a source of health information,True,2,2020-02;2020-11,,n=CM-parkpsm&ed=27&vol=1#968,
