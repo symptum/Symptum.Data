@@ -1,0 +1,82 @@
+﻿Id,Title,Descriptions,HasPreviouslyBeenAsked,Importance,YearsAsked,ProbableCases,BookReferences,LinkReferences
+S_EN_,Carcinoma of vocal cord,,True,1,2024-02,,n=EN-dhinent&ed=8&vol=1#361,
+S_EN_,Informed consent for a tracheostomy patient,The  student should know about the details of the procedure and its complications.,True,1,2024-02,,n=EN-dhinent&ed=8&vol=1#369,
+E_EN_,Multiple juvenile papillomatosis,,True,1,2023-06,"4 yrs old child presents in emergency with respiratory distress. Laryngoscopy reveals Multiple Juvenile Papillomatosis of the Larynx. What will be your first line of treatment?
+a) What are the complications that can happen?
+b) What are the precautions you will take?",n=EN-dhinent&ed=8&vol=1#359,
+S_EN_,Foreign bodies in the airway,The student should know about the various places where the foreign body can get lodged.,True,2,2024-02;2001-11,,n=EN-dhinent&ed=8&vol=1#375,
+S_EN_,"Complications of Tracheostomy ","Complications are chronologically categorised into immediate intermediate and late.;Also Asked as a two mark ",True,4,2023-06;2023-02;2018-08;2016-08,,n=EN-dhinent&ed=8&vol=1#372,
+S_EN_,"Indications of Tracheostomy ",,True,1,2023-02,,n=EN-dhinent&ed=8&vol=1#370,
+S_EN_,Acute epiglottitis,"Asked as a two mark on the causative agent and the radiological finding ",True,1,2022-02,,n=EN-dhinent&ed=8&vol=1#338,
+S_EN_,Reinke’s edema,Asked as a two mark,True,1,2023-02,,n=&ed=8&vol=1#342,
+E_EN_,Stridor,"Enumerate the causes of stridor in children.
+b. 50year old smoker with hoarseness and stridor - differential diagnosis.
+c. Surgical management of stridor for this patient its procedure and its complication.;List the causes of stridor. Describe the indications, operative technique and complications of tracheostomy.",True,4,2021-09;2017-02;2010-08;2007-02;2001-11;2000-04;1995-11,,n=EN-dhinent&ed=8&vol=1#345,
+S_EN_,Singer’s nodule,"Asked as a two mark or a four mark ",True,5,2021-09;2018-02;2013-08;2010-02;2007-02;2002-03;2000-10,,n=EN-dhinent&ed=8&vol=8#352,
+S_EN_,Sulcus Vocalis,"Asked as a two mark ",True,1,2020-11,,n=EN-dhinent&ed=8&vol=1#352,
+E_EN_,Vocal cord polyp,,True,1,2020-02,,n=EN-dhinent&ed=8&vol=1#353,
+S_EN_,"Signs of TB larynx ","Asked as a two mark ",True,1,2019-08,,n=EN-dhinent&ed=8&vol=1#342,
+S_EN_,Speech rehabilitation methods after laryngectomy,"Asked as a two mark ",True,1,2019-08,,n=EN-dhinent&ed=8&vol=1#365,
+S_EN_,Unpaired cartilages of larynx,"Asked as a two mark ",True,1,2017-08,,n=EN-dhinent&ed=8&vol=1#331,
+S_EN_,Laryngomalacia,"Asked as a two mark ",True,2,2017-02;2014-08,,n=EN-dhinent&ed=8&vol=1#345,
+S_EN_,Bilateral abductor paralysis,"Asked as a two mark ",True,1,2015-02,,n=EN-dhinent&ed=8&vol=1#349,
+S_EN_,Carcinoma Larynx,,True,1,2014-08,,n=EN-dhinent&ed=8&vol=1#359,
+E_EN_,"Tracheostomy ","Write an essay on the operative procedure of Tracheostomy, its complications and types of Tracheostomy tubes.
+Briefly discuss the functions and indications of Tracheostomy.",True,4,2013-02;2005-08;2001-11;1995-04,,n=EN-dhinent&ed=8&vol=1#369,
+S_EN_,"Vocal cord paralysis - theories on position ",,True,1,2012-08,,,
+S_EN_,Benign tumours of the larynx,,True,1,2012-02,,n=EN-dhinent&ed=8&vol=1#356,
+S_EN_,Croup,,True,1,2010-08,,n=EN-dhinent&ed=8&vol=1#339,
+S_EN_,"Vocal cord paralysis ",,True,1,2007-08,,n=EN-dhinent&ed=8&vol=1#347,
+E_EN_,Multiple juvenile papillomatosis,,True,2,2006-02;2001-04,,n=EN-dhinent&ed=8&vol=1#357,
+S_EN_,Stridor in children,Stridor in children is mostly congenital and inflammatory,True,1,1999-04,,n=EN-dhinent&ed=8&vol=1#344,
+S_EN_,Reinke’s space,,True,1,1991-12,,n=EN-dhinent&ed=8&vol=1#334,
+M_EN_,Abductor of vocal cord,"Abductor of vocal cord is
+A) Posterior cricoarytenoid
+C) Cricothyroid
+B) Lateral cricoarytenoid
+D) Thyroarytenoid",True,1,2023-02,,n=EN-dhinent&ed=8&vol=1#347,
+M_EN_,Laryngeal cartilages,"Which of the following cartilage has signet ring shape
+A) Thyroid
+B) Cricoid
+C) Cuneiform
+",True,1,2023-02,,n=EN-dhinent&ed=8&vol=1#331,
+M_EN_,"Nerve supply of the larynx ","Cricothyroid muscle is supplied by
+A) Internal laryngeal nerve
+C) Recurrent laryngeal nerve
+B) External laryngeal nerve
+D) Glossopharyngeal nerve",True,1,2023-02,,n=EN-dhinent&ed=8&vol=1#347,
+M_EN_,Thumb sign,"Thumb sign in Lateral X-ray of neck is seen in?
+A) Epiglottitis
+B) Internal haemorrhage
+C) Saccular cyst
+D) Carcinoma epiglottis",True,1,2023-02,,,
+M_EN_,"Vocal nodule treatment ","Treatment of choice in early vocal cord nodule is
+A) Radial excision
+B) Microlaryngoscopic removal
+C) Cryotherapy
+D) Voice rest and speech therapy",True,1,2023-02,,,
+M_EN_,"Juvenile papillomatosis ","Juvenile papillomatosis is caused by
+A) HSV
+B) EBV
+C) CMV
+D) HPV",True,1,2023-02,,n=EN-dhinent&ed=8&vol=1#357,
+M_EN_," Complications of tracheostomy ","20. Complications of tracheostomy are all except
+A) Fracture cervical vertebra
+B) Pneumothorax
+C) Subcutaneous emphysema
+D) Apnoea.",True,1,2023-02,,n=EN-dhinent&ed=8&vol=1#373,
+M_EN_,Adductor paralysis,"A girl has attended the clinic with aphonia. On indirect laryngoscopy there is evidenc of adductor Paralysis: What is the probable cause?
+A) Idiopathic
+B) Viral
+C) Functional
+D) Central cause",True,1,2023-06,,n=EN-dhinent&ed=8&vol=1#350,
+M_EN_,"Galen anastomosis ","Galen Anastamosis is between
+A) IX and X cranial nerves
+C) Superior and Recurrent Laryngeal nerves
+B) Right and left superior Laryngeal nerv
+D) Superior and Inferior Thyroid arteries",True,1,,,,
+M_EN_,Laryngocele,"Demonstration of air containing sac after Valsalva's Maneuver suggest
+A) Branchial cleft cyst
+B) Laryngocele
+C) Zenker's diverticulum
+D) Cystic hygroma",True,1,2023-06,,n=EN-dhinent&ed=8&vol=1#355,
