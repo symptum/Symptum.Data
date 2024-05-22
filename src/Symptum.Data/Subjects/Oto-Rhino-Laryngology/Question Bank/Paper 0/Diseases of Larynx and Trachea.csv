@@ -10,11 +10,12 @@ S_EN_,Foreign Bodies of Air Passages,- Foreign Body of Bronchus,True,2,2023-06;2
 S_EN_,Indications of Tracheostomy,,True,1,2023-02,,n=EN-dhinent&ed=8&vol=0#370,
 S_EN_,Subglottic Stenosis,,True,1,2023-02,,n=EN-dhinent&ed=8&vol=0#344,
 S_EN_,Reinke’s Edema (or) Polypoid Degeneration of Vocal Cord,- Asked as a Short Answer,True,1,2023-02,,n=EN-dhinent&ed=8&vol=0#342,
-S_EN_,Acute epiglottitis,"Asked as a two mark on the causative agent and the radiological finding ",True,1,2022-02,,n=EN-dhinent&ed=8&vol=0#338,
-E_EN_,Stridor,"Enumerate the causes of stridor in children.
-b. 50year old smoker with hoarseness and stridor - differential diagnosis.
-c. Surgical management of stridor for this patient its procedure and its complication.;List the causes of stridor. Describe the indications, operative technique and complications of tracheostomy.",True,4,2021-09;2017-02;2010-08;2007-02;2001-11;2000-04;1995-11,,n=EN-dhinent&ed=8&vol=1#345,
-S_EN_,Singer’s nodule,"Asked as a two mark or a four mark ",True,5,2021-09;2018-02;2013-08;2010-02;2007-02;2002-03;2000-10,,n=EN-dhinent&ed=8&vol=8#352,
+S_EN_,Laryngeal Web,- McNaught Keel (Asked as a Short Answer),True,1,2022-08,,n=EN-dhinent&ed=8&vol=0#344,
+S_EN_,Dysphonia Plica Ventricularis (or) Ventricular Dysphonia,- Asked as a Short Answer,True,1,2022-04,,n=EN-dhinent&ed=8&vol=0#366,
+S_EN_,Acute Epiglottitis,- Causative Organisms and Radiological Findings (Asked as a Short Answer),True,1,2022-02,,n=EN-dhinent&ed=8&vol=0#338,
+S_EN_,Surgical Importance of Cricothyroid Membrane,- Asked as a Short Answer,True,1,2022-02,,,
+E_EN_,Stridor,"- Causes of Stridor in Children- Differential Diagnosis for a 50 year old smoker with hoarseness and stridor- Surgical Management, its Procedure and Complications;List the causes of stridor. Describe the indications, operative technique and complications of tracheostomy.",True,4,2021-09;2017-02;2010-08;2007-02;2001-11;2000-04;1995-11,,n=EN-dhinent&ed=8&vol=0#345,
+S_EN_,Vocal (or) Singer’s (or) Screamer's Nodule,- Asked as a Short Answer,True,5,2021-09;2018-02;2013-08;2010-02;2007-02;2002-03;2000-10,,n=EN-dhinent&ed=8&vol=0#352,
 S_EN_,Sulcus Vocalis,"Asked as a two mark ",True,1,2020-11,,n=EN-dhinent&ed=8&vol=1#352,
 E_EN_,Vocal cord polyp,,True,1,2020-02,,n=EN-dhinent&ed=8&vol=1#353,
 S_EN_,"Signs of TB larynx ","Asked as a two mark ",True,1,2019-08,,n=EN-dhinent&ed=8&vol=1#342,

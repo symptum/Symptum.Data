@@ -11,6 +11,11 @@ E_EN_,Chronic Tonsillitis with Adenoid Hypertrophy,"- Diagnosis- Investigations
 S_EN_,Retropharyngeal Abscess,,True,8,2023-06;2023-02;2022-02;2012-08;2011-02;2010-02;2001-04;2000-10,,n=EN-dhinent&ed=8&vol=0#312,
 S_EN_,Juvenile Nasopharyngeal Angiofibroma (JNA) (or) Nasopharyngeal Fibroma,,True,7,2023-06;2015-08;2013-02;2011-02;2008-08;2002-03;2001-04,,n=EN-dhinent&ed=8&vol=0#289,
 E_EN_,Tonsils,"- Definition- Differential Diagnosis of Unilateral Tonsillar Enlargement- Complications of Tonsillectomy",True,1,2023-02,,"n=EN-dhinent&ed=8&vol=0#303,506",
+S_EN_,Vincent's Angina,,True,1,2022-08,,n=EN-dhinent&ed=8&vol=0#306,
+S_EN_,Obstructive Sleep Apnoea (OSA),,True,1,2022-08,,n=EN-dhinent&ed=8&vol=0#326,
+S_EN_,Mouth Breathing,,True,1,2022-04,,,
+S_EN_,Faucial Diphtheria,,True,3,2022-02;2003-10;2002-03,,n=EN-dhinent&ed=8&vol=0#306,
+S_EN_,Snoring,- Surgical Management,True,1,2021-09,,n=EN-dhinent&ed=8&vol=0#325,
 S_EN_,Adenoid facies,,True,3,2014-02;2010-02;2001-11,,n=EN-dhinent&ed=8&vol=0#287,
 E_EN_,Retropharyngeal abscess,"- Aetiology and pathogenesis
 - Clinical features
@@ -21,7 +26,6 @@ E_EN_,"Juvenile Nasopharyngeal Angiofibroma ","-Aetiology
 - Clinical features
 - Management ",True,2,2011-08;2009-08,A 15 year old female presenting with unilateral nasal obstruction and nasal discharge on the right side.On endoscopic examination a tumor mass is seen with blood stained discharge..,n=EN-dhinent&ed=8&vol=0#289-295,
 S_EN_,Ludwig's angina,,True,5,2015-02;2009-02;2008-02;2005-02;2004-08,,n=EN-dhinent&ed=8&vol=0#309,
-S_EN_,Facial diphtheria,,True,3,2022-02;2003-10;2002-03,,n=EN-dhinent&ed=8&vol=0#306,
 S_EN_,"Quinsy/peritonsillar abscess ",,True,3,2013-02;2008-02;2004-08,,n=EN-dhinent&ed=8&vol=0#311,
 S_EN_,Parapharyngeal space and abscess,,True,3,2012-02;2009-02;2006-02,,n=EN-dhinent&ed=8&vol=0#314,
 S_EN_,Differential diagnosis for membrane over the tonsil,,True,3,2017-08;2010-08;2008-08,,n=EN-dhinent&ed=8&vol=0#306,
@@ -44,7 +48,6 @@ E_EN_,Chronic tonsillitis,"- Aetiology
 - Management ",True,2,2020-11;2018-08,,n=EN-dhinent&ed=8&vol=0#307,
 S_EN_,Parts of hypopharynx,,True,1,2019-02,,n=EN-dhinent&ed=8&vol=0#284,
 S_EN_,Lingual tonsil,,True,1,2019-08,,n=EN-dhinent&ed=8&vol=0#281,
-S_EN_,Vincent angina,,True,1,2022-08,,n=EN-dhinent&ed=8&vol=0#306,
 E_EN_,Adenoidectomy,"- Indications, Contraindications
 -Position, Steps of operation
 - Complications",False,1,,,"n=EN-dhinent&ed=8&vol=0#507,508",

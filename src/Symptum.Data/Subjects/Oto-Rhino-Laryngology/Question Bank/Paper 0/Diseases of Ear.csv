@@ -23,7 +23,7 @@ E_EN_,Hearing Impairment in Children,"- Etiology
 S_EN_,Adverse Effects of Noise Exposure,- Noise Induced Hearing Loss (Asked as a Short Answer),True,2,2023-06;2023-06,,n=EN-dhinent&ed=8&vol=0#40,
 S_EN_,Myringotomy (or) Tympanostomy,,True,1,2023-06,,n=EN-dhinent&ed=8&vol=0#471,
 S_EN_,Syndromes Associated with Hearing Loss,- Treacher Collins Syndrome (or) Mandibulofacial Dysostosis (Asked as a Short Answer),True,1,2023-06,,n=EN-dhinent&ed=8&vol=0#136,
-S_EN_,Herpes Zoster Oticus (or) Ramsay Hunt Syndrome,,True,1,2023-02,,n=EN-dhinent&ed=8&vol=0#114,
+S_EN_,Herpes Zoster Oticus (or) Ramsay Hunt Syndrome,,True,2,2023-02;2021-09,,n=EN-dhinent&ed=8&vol=0#114,
 S_EN_,Cochlear Implants,"- Briefly describe about cochlear implants
 - Indications",True,4,2023-02;2019-08;2018-02;2007-02,,n=EN-dhinent&ed=8&vol=0#145,
 S_EN_,Presbycusis (or) Presbyacusis (or) Age-related Hearing Loss,,True,3,2023-02;2018-02;2013-08,,n=EN-dhinent&ed=8&vol=0#43,
@@ -34,28 +34,39 @@ E_EN_,Chronic [Suppurative] Otitis Media (CSOM/COM) - Atticoantral (or) Squamosa
 S_EN_,Mechanism of Hearing,- Impedance Matching (or) Transformer Action,True,1,2023-02,,n=EN-dhinent&ed=8&vol=0#17,
 S_EN_,Clinical Features of Lateral Sinus Thrombophlebitis,- Tobey-Ayer Test (Asked as a Short Answer),True,1,2023-02,,n=EN-dhinent&ed=8&vol=0#101,
 S_EN_,Masked (or) Latent Mastoiditis,- Asked as a Short Answer,True,1,2023-02,,n=EN-dhinent&ed=8&vol=0#95,
-E_EN_,Chronic suppurative otitis media (Tubotympanic type),"- Etiopathogenesis 
+S_EN_,Otoacoustic Emissions (OAE),,True,2,2022-08;2018-08,,n=EN-dhinent&ed=8&vol=0#32,
+S_EN_,Epley's Maneuver,,True,1,2022-08,,n=EN-dhinent&ed=8&vol=0#52,
+E_EN_,Chronic [Suppurative] Otitis Media (CSOM/COM) - Tubotympanic (or) Mucosal (or) Safe Type,"- Diagnosis
+- Investigations
+- Air-Bone Gap
+- Management;- Etiopathogenesis
 - Clinical features
 - Complications
-- Management ",True,4,2008-08;2005-02;2001-04;1998-10,"- 30 yrs old female from village, with H/O right ear discharge since childhood with H/O hard of hearing - 5yrs. & Headache - 3 months. On Examination the patient was having a central perforation in the anteroinferior quadrant of the Tympanic
-membrane. TFT showed Rinne negative, Weber lateralized to right side ABC- not reduced. What could be the Diagnosis? What are the investigation you will do? What do you mean by Air - Bone Gap? How will you manage this case",n=EN-dhinent&ed=8&vol=0#81,
+- Management",True,5,2022-04;2008-08;2005-02;2001-04;1998-10,"A 30 year old female from village, with H/O **right ear discharge** since childhood with H/O **hard of hearing** for 5 years and headache for 3 months. On Examination, the patient was having a **central perforation** in the anteroinferior quadrant of the tympanic membrane. TFT showed **Rinne negative**, **Weber** lateralized to **right side **, **ABC - not reduced**.",n=EN-dhinent&ed=8&vol=0#81,
+S_EN_,Labyrinthitis,- Diffuse Serous Labyrinthitis,True,2,2022-04;2009-02,,n=EN-dhinent&ed=8&vol=0#96,
+S_EN_,Speech Audiometry,,True,1,2022-04,,n=EN-dhinent&ed=8&vol=0#27,
+S_EN_,Korner's Septum,- Asked as a Short Answer,True,1,2022-04,,n=EN-dhinent&ed=8&vol=0#9,
+S_EN_,Variants of Ménière's Disease,- Lermoyez Syndrome (Asked as a Short Answer),True,1,2022-04,,n=EN-dhinent&ed=8&vol=0#122,
+S_EN_,Tympanic Membrane,- Different types of perforations,True,3,2022-02;2010-02;2008-08,,n=EN-dhinent&ed=8&vol=0#3,
+S_EN_,Sudden Sensory Neural Hearing Loss,- Causes and Management,True,3,2022-02;2017-08;2008-08,,n=EN-dhinent&ed=8&vol=0#37,
+S_EN_,Types of Hearing Aids,,True,1,2022-02,,n=EN-dhinent&ed=8&vol=0#141,
+S_EN_,Tinnitus,- Two Causes of Objective Tinnitus (Asked as a Short Answer);- Classify,True,2,2022-02;2012-08,,n=EN-dhinent&ed=8&vol=0#151,
+S_EN_,Semicircular Canals,,True,1,2021-09,,n=EN-dhinent&ed=8&vol=0#11,
+S_EN_,Otalgia (or) Ear Ache,- Referred Otalgia,True,7,2021-09;2012-02;2011-02;2010-02;2009-08;2006-02;1999-04,,n=EN-dhinent&ed=8&vol=0#149,
+S_EN_,Gradenigo's Syndrome,,True,4,2021-09;2019-02;2011-08;2010-02,,n=EN-dhinent&ed=8&vol=0#95,
+S_EN_,Intratympanic Gentamicin Therapy (or) Chemical Labyrinthectomy,- Asked as a Short Answer,True,1,2021-09,,n=EN-dhinent&ed=8&vol=0#124,
 S_EN_,Middle ear cleft,"- Neat labelled diagram
 - Briefly describe",True,2,2010-02;2008-08,,n=EN-dhinent&ed=8&vol=0#5,
 S_EN_,Caloric test,,True,3,2009-02;2008-08;1997-10,,n=EN-dhinent&ed=8&vol=0#49,
 S_EN_,Rinne's test,,True,4,2008-08;2007-02;2005-08;1999-04,,n=EN-dhinent&ed=8&vol=0#26,
-S_EN_,Tympanic membrane,- Different types of perforations,True,3,2022-02;2010-02;2008-08,,n=EN-dhinent&ed=8&vol=0#3,
 S_EN_,Radical mastoidectomy,- Indications,True,2,2017-08;2008-08,,n=EN-dhinent&ed=8&vol=0#477,
-S_EN_,Sensory neural hearing loss,"- Mention four causes
-- Causes and management of sudden sensorineural hearing loss",True,3,2022-02;2017-08;2008-08,,n=EN-dhinent&ed=8&vol=0#37,
 S_EN_,Deaf mutism,,True,5,2005-02;2002-03;2000-10;1997-04;1996-10,,n=EN-dhinent&ed=8&vol=0#135,
 E_EN_,Conductive hearing loss,"- Discuss the aetiopathology
 - Describe the types of tympanoplasty",True,1,2009-02,- Enumerate the causes of conductive hearing loss with intact tympanic membrane discuss the clinical features and management of otitis media with effusion in a 4 year old child,n=EN-dhinent&ed=8&vol=0#34,
-S_EN_,Labyrinthitis,- Diffuse serous labyrinthitis,True,2,2022-04;2009-02,,n=EN-dhinent&ed=8&vol=0#96,
 S_EN_,Petrositis,,True,1,2009-02,,n=EN-dhinent&ed=8&vol=0#95,
 S_EN_,Otomycosis,,True,7,2012-02;2009-08;2009-02;2005-08;2003-10;1998-10;1993-11,,n=EN-dhinent&ed=8&vol=0#61,
 S_EN_,Furuncle of ear,,True,2,2009-08;2002-03,,n=EN-dhinent&ed=8&vol=0#60,
 S_EN_,Facial palsy (or) Bell's palsy,,True,5,2018-08;2014-08;2013-08;2009-08;2003-10,,n=EN-dhinent&ed=8&vol=0#112,
-S_EN_,Referred otalgia,,True,2,2009-08;1999-04,,n=EN-dhinent&ed=8&vol=0#149,
 S_EN_,Tuning fork tests,"- Write about tuning fork tests
 - Tuning fork test for non organic deafness",True,4,2020-11;2013-02;2012-02;2009-08,,n=EN-dhinent&ed=8&vol=0#26,
 S_EN_,Myringotomy,,True,2,2014-08;2009-08,,n=EN-dhinent&ed=8&vol=0#471,
@@ -67,8 +78,6 @@ S_EN_,Complications chronic suppurative otitis media,"- Extra cranial complicati
 - Intra cranial complication
 - Managemant",True,5,2012-02;2011-02;2010-02;2002-03;2000-04,,n=EN-dhinent&ed=8&vol=0#90,
 S_EN_,Hearing loss,,True,1,2010-02,,n=EN-dhinent&ed=8&vol=0#34,
-S_EN_,Gradenigo's syndrome,,True,4,2021-09;2019-02;2011-08;2010-02,,n=EN-dhinent&ed=8&vol=0#95,
-S_EN_,Otalgia,,True,1,2010-02,,n=EN-dhinent&ed=8&vol=0#149,
 S_EN_,Tympanogram,,True,2,2016-02;2010-02,,n=EN-dhinent&ed=8&vol=0#29,
 S_EN_,Stapedial reflex (or) Acoustic reflex,,True,1,2010-08,,n=EN-dhinent&ed=8&vol=0#30,
 S_EN_,Physiology of hearing,,True,1,2010-08,,n=EN-dhinent&ed=8&vol=0#,
@@ -76,14 +85,12 @@ S_EN_,Pure tone audiometry,,True,2,2015-02;2010-08,,n=EN-dhinent&ed=8&vol=0#,
 S_EN_,Tympanoplasty,,True,1,2010-08,,n=EN-dhinent&ed=8&vol=0#,
 E_EN_,Glue ear (or) Serous otitis media (or) Otisis media with effusion (or) Secretory otisis media,"- Aetiology
 - Clinical features
-- Treatment",True,4,2023-02;2011-02;2004-08;2002-03,- Enumerate the causes of conductive hearing loss with intact tympanic membrane. Discuss the clinical features and management of otitis media with effusion in a 4 year old child,n=EN-dhinent&ed=8&vol=0#,
+- Treatment",True,3,2011-02;2004-08;2002-03,- Enumerate the causes of conductive hearing loss with intact tympanic membrane. Discuss the clinical features and management of otitis media with effusion in a 4 year old child,n=EN-dhinent&ed=8&vol=0#,
 S_EN_,Meniere's disease,"- Write about Meniere's disease
 - Clinical features and management",True,6,2017-08;2017-02;2015-02;2011-02;2005-02;1996-10,,n=EN-dhinent&ed=8&vol=0#,
 S_EN_,Allergic otitis externa,,True,1,2011-02,,n=EN-dhinent&ed=8&vol=0#,
 S_EN_,Lateral sinus thrombosis,- Lateral sinus thromboplebitis,True,2,2011-02;2006-02,,n=EN-dhinent&ed=8&vol=0#,
 S_EN_,Fistula test (or) Fistula sign,,True,3,2014-02;2011-02;2008-02,,n=EN-dhinent&ed=8&vol=0#,
-S_EN_,Reffered otalgia,"- Define
-- Four important causes",True,4,2021-09;2012-02;2011-02;2006-02,,n=EN-dhinent&ed=8&vol=0#149,
 E_EN_,Meniere's disease,"- Etiopathology
 - Clinical features
 - Management",True,1,2011-08,,n=EN-dhinent&ed=8&vol=0#,
@@ -104,7 +111,6 @@ S_EN_,Swimmer's ear,,True,1,2012-08,,n=EN-dhinent&ed=8&vol=0#,
 S_EN_,Ototoxicity,,True,3,2020-11;2018-02;2012-08,,n=EN-dhinent&ed=8&vol=0#,
 S_EN_,"Nerve supply of external auditory canal ",,True,1,2012-08,,n=EN-dhinent&ed=8&vol=0#,
 S_EN_,Valsalva maneuver,,True,1,2012-08,,n=EN-dhinent&ed=8&vol=0#,
-S_EN_,"Tinnitus ",- Classify,True,1,2012-08,,n=EN-dhinent&ed=8&vol=0#,
 S_EN_,Pseudocyst pinna,,True,1,2012-08,,n=EN-dhinent&ed=8&vol=0#,
 E_EN_,Benign positional paroxysmal vertigo(BPPV),"- Enumerate the peripheral vestibular causes of vertigo
 - Pathophysiology
@@ -135,18 +141,8 @@ E_EN_,Middle ear,"- Describe in detail
 S_EN_,Complications of stapedectomy,,True,1,2006-02,,,
 S_EN_,Bezold's abscess,,True,1,2008-02,,,
 S_EN_,Acute otitis media,,True,1,2017-02,,,
-S_EN_,OAE (Otoacoustic emission),,True,2,2022-08;2018-08,,,
 S_EN_,Organ of corti,,True,1,2019-02,,,
 S_EN_,Trautmann's triangle,,True,1,2020-11,,,
-S_EN_,Semicircular canals,,True,1,2021-09,,,
-S_EN_,Intratympanic gentamicin,,True,1,2021-09,,,
-S_EN_,Types of hearing aid,,True,1,2022-02,,,
-S_EN_,Two causes of objective tinnitus,,True,1,2022-02,,,
-S_EN_,Speech audiometry,,True,1,2022-04,,,
-S_EN_,Lermoyez syndrome,,True,1,2022-04,,,
-S_EN_,Halo's sign,,True,1,2022-08,,,
-S_EN_,Epley's maneuver,,True,1,2022-08,,,
-S_EN_,Trigeminal neuralgia,,True,1,2023-06,,,
 S_EN_,Theories of hearing,,True,1,2001-11,,,
 E_EN_,Conductive deafness,"- Define
 - Enumerate its causes
