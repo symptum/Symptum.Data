@@ -7,15 +7,36 @@ E_EN_,Nasopharyngeal Cancer,"- Possible Diagnosis
 - Clinical features
 - Management",True,2,2024-02;2014-02,"A 60 year old male comes with **nasal block, nasal bleeding and upper deep cervical lymph node on right side.** There is a **proliferative mass** in nasopharynx on post-nasal examination.",n=EN-dhinent&ed=8&vol=0#296,
 S_EN_,Post-cricoid Carcinoma,,True,1,2024-02,,n=EN-dhinent&ed=8&vol=0#322,
-E_EN_,Chronic Tonsillitis with Adenoid Hypertrophy,"- Diagnosis- Investigations- Treatment- Surgery and its Complications",True,1,2024-02,A 6 year old female child from a village has come to the hospital with C/O **recurrent attacks of URI** for 2 years and **throat pain** for 6 months with **mouth breathing and snoring** for 2 months.,"n=EN-dhinent&ed=8&vol=0#286,307",
+E_EN_,Chronic Tonsillitis with Adenoid Hypertrophy,"- Diagnosis
+- Investigations
+- Treatment
+- Surgery and its Complications",True,1,2024-02,A 6 year old female child from a village has come to the hospital with C/O **recurrent attacks of URI** for 2 years and **throat pain** for 6 months with **mouth breathing and snoring** for 2 months.,"n=EN-dhinent&ed=8&vol=0#286,307",
 S_EN_,Retropharyngeal Abscess,,True,8,2023-06;2023-02;2022-02;2012-08;2011-02;2010-02;2001-04;2000-10,,n=EN-dhinent&ed=8&vol=0#312,
 S_EN_,Juvenile Nasopharyngeal Angiofibroma (JNA) (or) Nasopharyngeal Fibroma,,True,7,2023-06;2015-08;2013-02;2011-02;2008-08;2002-03;2001-04,,n=EN-dhinent&ed=8&vol=0#289,
-E_EN_,Tonsils,"- Definition- Differential Diagnosis of Unilateral Tonsillar Enlargement- Complications of Tonsillectomy",True,1,2023-02,,"n=EN-dhinent&ed=8&vol=0#303,506",
+E_EN_,Tonsils,"- Definition
+- Differential Diagnosis of Unilateral Tonsillar Enlargement
+- Complications of Tonsillectomy",True,1,2023-02,,"n=EN-dhinent&ed=8&vol=0#303,506",
 S_EN_,Vincent's Angina,,True,1,2022-08,,n=EN-dhinent&ed=8&vol=0#306,
-S_EN_,Obstructive Sleep Apnoea (OSA),,True,1,2022-08,,n=EN-dhinent&ed=8&vol=0#326,
+S_EN_,Obstructive Sleep Apnoea (OSA),,True,2,2022-08;2020-11,,n=EN-dhinent&ed=8&vol=0#326,
 S_EN_,Mouth Breathing,,True,1,2022-04,,,
 S_EN_,Faucial Diphtheria,,True,3,2022-02;2003-10;2002-03,,n=EN-dhinent&ed=8&vol=0#306,
 S_EN_,Snoring,- Surgical Management,True,1,2021-09,,n=EN-dhinent&ed=8&vol=0#325,
+E_EN_,Chronic Tonsillitis,"- Classification
+- Pathogenesis
+- Clinical Features
+- Management
+- Contraindications for Tonsillectomy;- Aetiology
+- Pathogenesis
+- Classification
+- Clinical features
+- Diagnosis
+- Complications
+- Management",True,2,2020-11;2018-08,,n=EN-dhinent&ed=8&vol=0#307,
+S_EN_,Styalgia (or) Eagle Syndrome,,True,1,2020-02,,n=EN-dhinent&ed=8&vol=0#321,
+S_EN_,Killian's Dehiscence,- Asked as a Short Answer,True,3,2020-02;2014-02;2011-02,,n=EN-dhinent&ed=8&vol=0#281,
+S_EN_,Lingual Tonsil,,True,1,2019-08,,n=EN-dhinent&ed=8&vol=0#283,
+S_EN_,Pharyngeal Pouch,,True,2,2019-08;2011-08,,n=EN-dhinent&ed=8&vol=0#323,
+S_EN_,Parts of Hypopharynx,- Asked as a Short Answer,True,1,2019-02,,n=EN-dhinent&ed=8&vol=0#284,
 S_EN_,Adenoid facies,,True,3,2014-02;2010-02;2001-11,,n=EN-dhinent&ed=8&vol=0#287,
 E_EN_,Retropharyngeal abscess,"- Aetiology and pathogenesis
 - Clinical features
@@ -31,23 +52,12 @@ S_EN_,Parapharyngeal space and abscess,,True,3,2012-02;2009-02;2006-02,,n=EN-dhi
 S_EN_,Differential diagnosis for membrane over the tonsil,,True,3,2017-08;2010-08;2008-08,,n=EN-dhinent&ed=8&vol=0#306,
 S_EN_,Waldeyer ring,,True,3,2013-08;2011-08;2008-08,,n=EN-dhinent&ed=8&vol=0#281,
 S_EN_,Pyriform fossa,,True,1,2001-11,,n=EN-dhinent&ed=8&vol=0#284,
-S_EN_,Killian dehiscence,,True,3,2020-02;2014-02;2011-02,,n=EN-dhinent&ed=8&vol=0#281,
-S_EN_,Pharyngeal pouch,,True,2,2019-08;2011-08,,n=EN-dhinent&ed=8&vol=0#323,
 E_EN_,"Acute follicular tonsillitis ","- Diagnosis
 - Complications
 - Treatment",True,1,2011-02,,n=EN-dhinent&ed=8&vol=0#304-306,
 S_EN_,"Acute tonsillitis ",,True,1,2011-08,,n=EN-dhinent&ed=8&vol=0#304,
 S_EN_,Blood supply of tonsils,,True,1,2013-02,,n=EN-dhinent&ed=8&vol=0#303-304,
 S_EN_,Tonsillolith,,True,1,2014-02,,n=EN-dhinent&ed=8&vol=0#308,
-E_EN_,Chronic tonsillitis,"- Aetiology
-- Pathogenesis
-- Classification
-- Clinical features
-- Diagnosis
-- Complications 
-- Management ",True,2,2020-11;2018-08,,n=EN-dhinent&ed=8&vol=0#307,
-S_EN_,Parts of hypopharynx,,True,1,2019-02,,n=EN-dhinent&ed=8&vol=0#284,
-S_EN_,Lingual tonsil,,True,1,2019-08,,n=EN-dhinent&ed=8&vol=0#281,
 E_EN_,Adenoidectomy,"- Indications, Contraindications
 -Position, Steps of operation
 - Complications",False,1,,,"n=EN-dhinent&ed=8&vol=0#507,508",
