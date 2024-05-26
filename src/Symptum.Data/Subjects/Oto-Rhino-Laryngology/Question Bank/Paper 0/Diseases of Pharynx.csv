@@ -17,7 +17,7 @@ E_EN_,Tonsils,"- Definition
 - Differential Diagnosis of Unilateral Tonsillar Enlargement
 - Complications of Tonsillectomy",True,1,2023-02,,"n=EN-dhinent&ed=8&vol=0#303,506",
 S_EN_,Vincent's Angina,,True,1,2022-08,,n=EN-dhinent&ed=8&vol=0#306,
-S_EN_,Obstructive Sleep Apnoea (OSA),,True,2,2022-08;2020-11,,n=EN-dhinent&ed=8&vol=0#326,
+S_EN_,Obstructive Sleep Apnoea (OSA),,True,3,2022-08;2020-11;2017-02,,n=EN-dhinent&ed=8&vol=0#326,
 S_EN_,Mouth Breathing,,True,1,2022-04,,,
 S_EN_,Faucial Diphtheria,,True,3,2022-02;2003-10;2002-03,,n=EN-dhinent&ed=8&vol=0#306,
 S_EN_,Snoring,- Surgical Management,True,1,2021-09,,n=EN-dhinent&ed=8&vol=0#325,
@@ -25,31 +25,23 @@ E_EN_,Chronic Tonsillitis,"- Classification
 - Pathogenesis
 - Clinical Features
 - Management
-- Contraindications for Tonsillectomy;- Aetiology
-- Pathogenesis
-- Classification
-- Clinical features
-- Diagnosis
-- Complications
-- Management",True,2,2020-11;2018-08,,n=EN-dhinent&ed=8&vol=0#307,
+- Contraindications for Tonsillectomy;- Etiology- Pathogenesis- Clinical Features- Diagnosis- Complications- Management",True,2,2020-11;2018-08,,n=EN-dhinent&ed=8&vol=0#307,
 S_EN_,Styalgia (or) Eagle Syndrome,,True,1,2020-02,,n=EN-dhinent&ed=8&vol=0#321,
 S_EN_,Killian's Dehiscence,- Asked as a Short Answer,True,3,2020-02;2014-02;2011-02,,n=EN-dhinent&ed=8&vol=0#281,
 S_EN_,Lingual Tonsil,,True,1,2019-08,,n=EN-dhinent&ed=8&vol=0#283,
-S_EN_,Pharyngeal Pouch,,True,2,2019-08;2011-08,,n=EN-dhinent&ed=8&vol=0#323,
+S_EN_,Pharyngeal Pouch (or) Hypopharyngeal (or) Zenker's Diverticulum,,True,3,2019-08;2018-02;2011-08,,n=EN-dhinent&ed=8&vol=0#323,
 S_EN_,Parts of Hypopharynx,- Asked as a Short Answer,True,1,2019-02,,n=EN-dhinent&ed=8&vol=0#284,
+S_EN_,Polysomnography,,True,1,2018-08,,n=EN-dhinent&ed=8&vol=0#327,
+E_EN_,Juvenile Nasopharyngeal Angiofibroma (JNA) (or) Nasopharyngeal Fibroma,"- Causes of Epistaxis- Management of JNA;- Aetiology- Spread- Clinical features- Management",True,3,2017-08;2011-08;2009-08,A 15 year old female presenting with unilateral nasal obstruction and nasal discharge on the right side.On endoscopic examination a tumor mass is seen with blood stained discharge..,n=EN-dhinent&ed=8&vol=0#289,
+S_EN_,Differential Diagnosis of Membrane Over the Tonsil,,True,3,2017-08;2010-08;2008-08,,n=EN-dhinent&ed=8&vol=0#306,
+S_EN_,Parapharyngeal Abscess,- Boundaries (Asked as a Short Answer),True,4,2017-08;2012-02;2009-02;2006-02,,n=EN-dhinent&ed=8&vol=0#314,
+S_EN_,Ludwig's Angina,,True,6,2017-02;2015-02;2009-02;2008-02;2005-02;2004-08,,n=EN-dhinent&ed=8&vol=0#309,
 S_EN_,Adenoid facies,,True,3,2014-02;2010-02;2001-11,,n=EN-dhinent&ed=8&vol=0#287,
 E_EN_,Retropharyngeal abscess,"- Aetiology and pathogenesis
 - Clinical features
 - Management
 ",True,1,2008-08,"A 2 year old child presenting with a unilateral paramedian bulge  presents with dysphagia and difficulty in breathing,with stridor and cough.",n=EN-dhinent&ed=9&vol=0#312-314,
-E_EN_,"Juvenile Nasopharyngeal Angiofibroma ","-Aetiology
-- Spread
-- Clinical features
-- Management ",True,2,2011-08;2009-08,A 15 year old female presenting with unilateral nasal obstruction and nasal discharge on the right side.On endoscopic examination a tumor mass is seen with blood stained discharge..,n=EN-dhinent&ed=8&vol=0#289-295,
-S_EN_,Ludwig's angina,,True,5,2015-02;2009-02;2008-02;2005-02;2004-08,,n=EN-dhinent&ed=8&vol=0#309,
 S_EN_,"Quinsy/peritonsillar abscess ",,True,3,2013-02;2008-02;2004-08,,n=EN-dhinent&ed=8&vol=0#311,
-S_EN_,Parapharyngeal space and abscess,,True,3,2012-02;2009-02;2006-02,,n=EN-dhinent&ed=8&vol=0#314,
-S_EN_,Differential diagnosis for membrane over the tonsil,,True,3,2017-08;2010-08;2008-08,,n=EN-dhinent&ed=8&vol=0#306,
 S_EN_,Waldeyer ring,,True,3,2013-08;2011-08;2008-08,,n=EN-dhinent&ed=8&vol=0#281,
 S_EN_,Pyriform fossa,,True,1,2001-11,,n=EN-dhinent&ed=8&vol=0#284,
 E_EN_,"Acute follicular tonsillitis ","- Diagnosis

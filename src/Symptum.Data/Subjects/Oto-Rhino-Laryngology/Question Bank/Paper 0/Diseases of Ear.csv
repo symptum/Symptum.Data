@@ -11,7 +11,7 @@ S_EN_,Impacted Wax (or) Cerumen,- Management,True,2,2024-02;2006-08,,n=EN-dhinen
 S_EN_,Malignant (or) Necrotizing Otitis Externa,,True,9,2024-02;2023-02;2019-08;2017-08;2012-02;2011-08;2006-08;2000-10;1991-12,,n=EN-dhinent&ed=8&vol=0#61,
 S_EN_,Auditory Brainstem Response (ABR) (or) Brainstem Evoked Response Audiometry (BERA) (or) Brainstem Auditory Evoked Response (BAER),,True,1,2024-02,,n=EN-dhinent&ed=8&vol=0#31,
 S_EN_,Aero-Otitis Media (or) Otitic Barotrauma,,True,2,2024-02;2023-06,,n=EN-dhinent&ed=8&vol=0#78,
-S_EN_,Clinical Features of Acoustic Neuroma (or) Vestibular Schwannoma,- Hitzelberger Sign (Asked as a Short Answer),True,1,2024-02,,n=EN-dhinent&ed=8&vol=0#132,
+S_EN_,Acoustic Neuroma (or) Vestibular Schwannoma,- Clinical Features: Hitzelberger Sign (Asked as a Short Answer);- Cerebellopontine Angle Tumors,True,2,2024-02;2018-02,,n=EN-dhinent&ed=8&vol=0#132,
 S_EN_,Stenger Test,- Tuning Fork Tests for Non-Organic Deafness,True,2,2024-02;2020-11,,n=EN-dhinent&ed=8&vol=0#44,
 E_EN_,Hearing Impairment in Children,"- Etiology
 - Clinical Features
@@ -24,11 +24,10 @@ S_EN_,Adverse Effects of Noise Exposure,- Noise Induced Hearing Loss (Asked as a
 S_EN_,Myringotomy (or) Tympanostomy,,True,1,2023-06,,n=EN-dhinent&ed=8&vol=0#471,
 S_EN_,Syndromes Associated with Hearing Loss,- Treacher Collins Syndrome (or) Mandibulofacial Dysostosis (Asked as a Short Answer),True,1,2023-06,,n=EN-dhinent&ed=8&vol=0#136,
 S_EN_,Herpes Zoster Oticus (or) Ramsay Hunt Syndrome,,True,2,2023-02;2021-09,,n=EN-dhinent&ed=8&vol=0#114,
-S_EN_,Cochlear Implants,"- Briefly describe about cochlear implants
-- Indications",True,4,2023-02;2019-08;2018-02;2007-02,,n=EN-dhinent&ed=8&vol=0#145,
+S_EN_,Cochlear Implants,- Indications (Asked as a Short Answer),True,4,2023-02;2019-08;2018-02;2007-02,,n=EN-dhinent&ed=8&vol=0#145,
 S_EN_,Presbycusis (or) Presbyacusis (or) Age-related Hearing Loss,,True,3,2023-02;2018-02;2013-08,,n=EN-dhinent&ed=8&vol=0#43,
 S_EN_,Otitis Media with Effusion (or) Serous (or) Secretory (or) Mucoid Otitis Media (or) Glue Ear,,True,10,2023-02;2020-02;2018-08;2015-08;2014-02;2012-02;2010-02;2005-02;2005-02;2003-10;2000-04,,n=EN-dhinent&ed=8&vol=0#75,
-S_EN_,Otosclerosis,,True,7,2023-02;2018-08;2016-08;2013-08;2012-02;1997-10;1995-04,,n=EN-dhinent&ed=8&vol=0#103,
+S_EN_,Otosclerosis - Split,"- Clinical Features- Diagnosis;- Asked as a Short Answer- Diagnosis- Medical Management",True,7,2023-02;2018-08;2016-08;2013-08;2012-02;1997-10;1995-04,,n=EN-dhinent&ed=8&vol=0#103,
 E_EN_,Chronic [Suppurative] Otitis Media (CSOM/COM) - Atticoantral (or) Squamosal type (or) Unsafe Ear,"- Investigations
 - Post-operative Complications",True,1,2023-02,A 40 year old male with history of right ear **discharge** for the last 15 years. **Discharge is foul smelling and scanty** in amount.,n=EN-dhinent&ed=8&vol=0#81,
 S_EN_,Mechanism of Hearing,- Impedance Matching (or) Transformer Action;- Travelling Wave Theory of von Bekesy (Asked as a Short Answer),True,2,2023-02;2020-11,,n=EN-dhinent&ed=8&vol=0#17,
@@ -69,18 +68,19 @@ E_EN_,Otogenic Brain Abscess,"- Routes of Spread of Infection from Ear to Intrac
 - Otogenic Brain Abscess",True,1,2019-08,,"n=EN-dhinent&ed=8&vol=0#90,98",
 S_EN_,Impedance Audiometry,- Tympanometry;- Tympanogram,True,6,2019-02;2016-02;2014-08;2013-08;2012-08;2010-02,,n=EN-dhinent&ed=8&vol=0#28,
 S_EN_,Organ of Corti,,True,1,2019-02,,n=EN-dhinent&ed=8&vol=0#16,
+S_EN_,Facial palsy (or) Bell's palsy - Split,- Surgery for Facial Nerve Palsy (or) Bell's Palsy,True,5,2018-08;2014-08;2013-08;2009-08;2003-10,,n=EN-dhinent&ed=8&vol=0#112,
+S_EN_,Ménière's Disease,"- Clinical Features- Management",True,6,2017-08;2017-02;2015-02;2011-02;2005-02;1996-10,,n=EN-dhinent&ed=8&vol=0#119,
+S_EN_,Acute (Suppurative) Otitis Media (ASOM/AOM),,True,1,2017-02,,n=EN-dhinent&ed=8&vol=0#73,
 S_EN_,Middle ear cleft,"- Neat labelled diagram
 - Briefly describe",True,2,2010-02;2008-08,,n=EN-dhinent&ed=8&vol=0#5,
 S_EN_,Caloric test,,True,3,2009-02;2008-08;1997-10,,n=EN-dhinent&ed=8&vol=0#49,
 S_EN_,Rinne's test,,True,4,2008-08;2007-02;2005-08;1999-04,,n=EN-dhinent&ed=8&vol=0#26,
-S_EN_,Radical mastoidectomy,- Indications,True,2,2017-08;2008-08,,n=EN-dhinent&ed=8&vol=0#477,
 S_EN_,Deaf mutism,,True,5,2005-02;2002-03;2000-10;1997-04;1996-10,,n=EN-dhinent&ed=8&vol=0#135,
 E_EN_,Conductive hearing loss,"- Discuss the aetiopathology
 - Describe the types of tympanoplasty",True,1,2009-02,- Enumerate the causes of conductive hearing loss with intact tympanic membrane discuss the clinical features and management of otitis media with effusion in a 4 year old child,n=EN-dhinent&ed=8&vol=0#34,
 S_EN_,Petrositis,,True,1,2009-02,,n=EN-dhinent&ed=8&vol=0#95,
 S_EN_,Otomycosis,,True,7,2012-02;2009-08;2009-02;2005-08;2003-10;1998-10;1993-11,,n=EN-dhinent&ed=8&vol=0#61,
 S_EN_,Furuncle of ear,,True,2,2009-08;2002-03,,n=EN-dhinent&ed=8&vol=0#60,
-S_EN_,Facial palsy (or) Bell's palsy,,True,5,2018-08;2014-08;2013-08;2009-08;2003-10,,n=EN-dhinent&ed=8&vol=0#112,
 S_EN_,Tuning Fork Tests,,True,3,2013-02;2012-02;2009-08,,n=EN-dhinent&ed=8&vol=0#26,
 S_EN_,Myringotomy,,True,2,2014-08;2009-08,,n=EN-dhinent&ed=8&vol=0#471,
 E_EN_,Cholesteatoma,"- Pathogenesis
@@ -98,8 +98,6 @@ S_EN_,Tympanoplasty,,True,1,2010-08,,n=EN-dhinent&ed=8&vol=0#,
 E_EN_,Glue ear (or) Serous otitis media (or) Otisis media with effusion (or) Secretory otisis media,"- Aetiology
 - Clinical features
 - Treatment",True,3,2011-02;2004-08;2002-03,- Enumerate the causes of conductive hearing loss with intact tympanic membrane. Discuss the clinical features and management of otitis media with effusion in a 4 year old child,n=EN-dhinent&ed=8&vol=0#,
-S_EN_,Meniere's disease,"- Write about Meniere's disease
-- Clinical features and management",True,6,2017-08;2017-02;2015-02;2011-02;2005-02;1996-10,,n=EN-dhinent&ed=8&vol=0#,
 S_EN_,Allergic otitis externa,,True,1,2011-02,,n=EN-dhinent&ed=8&vol=0#,
 S_EN_,Lateral sinus thrombosis,- Lateral sinus thromboplebitis,True,2,2011-02;2006-02,,n=EN-dhinent&ed=8&vol=0#,
 S_EN_,Fistula test (or) Fistula sign,,True,3,2014-02;2011-02;2008-02,,n=EN-dhinent&ed=8&vol=0#,
@@ -145,7 +143,6 @@ E_EN_,Middle ear,"- Describe in detail
 - Anatomy",True,1,2006-02,,,
 S_EN_,Complications of stapedectomy,,True,1,2006-02,,,
 S_EN_,Bezold's abscess,,True,1,2008-02,,,
-S_EN_,Acute otitis media,,True,1,2017-02,,,
 S_EN_,Theories of hearing,,True,1,2001-11,,,
 E_EN_,Conductive deafness,"- Define
 - Enumerate its causes
