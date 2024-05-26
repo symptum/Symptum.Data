@@ -11,7 +11,7 @@ E_EN_,Chronic Tonsillitis with Adenoid Hypertrophy,"- Diagnosis
 - Investigations
 - Treatment
 - Surgery and its Complications",True,1,2024-02,A 6 year old female child from a village has come to the hospital with C/O **recurrent attacks of URI** for 2 years and **throat pain** for 6 months with **mouth breathing and snoring** for 2 months.,"n=EN-dhinent&ed=8&vol=0#286,307",
-S_EN_,Retropharyngeal Abscess,,True,8,2023-06;2023-02;2022-02;2012-08;2011-02;2010-02;2001-04;2000-10,,n=EN-dhinent&ed=8&vol=0#312,
+S_EN_,Retropharyngeal Abscess,- **Prevertebral Shadow Widening** in Radiograph of Soft Tissue Lateral View (Asked as a Short Answer),True,9,2023-06;2023-02;2022-02;2016-08;2012-08;2011-02;2010-02;2001-04;2000-10,,n=EN-dhinent&ed=8&vol=0#312,
 S_EN_,Juvenile Nasopharyngeal Angiofibroma (JNA) (or) Nasopharyngeal Fibroma,,True,7,2023-06;2015-08;2013-02;2011-02;2008-08;2002-03;2001-04,,n=EN-dhinent&ed=8&vol=0#289,
 E_EN_,Tonsils,"- Definition
 - Differential Diagnosis of Unilateral Tonsillar Enlargement
@@ -36,12 +36,10 @@ E_EN_,Juvenile Nasopharyngeal Angiofibroma (JNA) (or) Nasopharyngeal Fibroma,"- 
 S_EN_,Differential Diagnosis of Membrane Over the Tonsil,,True,3,2017-08;2010-08;2008-08,,n=EN-dhinent&ed=8&vol=0#306,
 S_EN_,Parapharyngeal Abscess,- Boundaries (Asked as a Short Answer),True,4,2017-08;2012-02;2009-02;2006-02,,n=EN-dhinent&ed=8&vol=0#314,
 S_EN_,Ludwig's Angina,,True,6,2017-02;2015-02;2009-02;2008-02;2005-02;2004-08,,n=EN-dhinent&ed=8&vol=0#309,
+E_EN_,Retropharyngeal Abscess,"- Causes of Dysphagia- Acute Retropharyngeal Abscess;- Aetiology and pathogenesis- Clinical features- Management",True,2,2016-08;2008-08,"A 2 year old child presenting with a unilateral paramedian bulge  presents with dysphagia and difficulty in breathing,with stridor and cough.","n=EN-dhinent&ed=9&vol=0#312,404",
+S_EN_,Causes of Unilateral Tonsillar Enlargement,- Asked as a Short Answer,True,1,2016-02,,,
+S_EN_,Peritonsillar Abscess (or) Quinsy,- Asked as a Short Answer,True,4,2015-02;2013-02;2008-02;2004-08,,n=EN-dhinent&ed=8&vol=0#311,
 S_EN_,Adenoid facies,,True,3,2014-02;2010-02;2001-11,,n=EN-dhinent&ed=8&vol=0#287,
-E_EN_,Retropharyngeal abscess,"- Aetiology and pathogenesis
-- Clinical features
-- Management
-",True,1,2008-08,"A 2 year old child presenting with a unilateral paramedian bulge  presents with dysphagia and difficulty in breathing,with stridor and cough.",n=EN-dhinent&ed=9&vol=0#312-314,
-S_EN_,"Quinsy/peritonsillar abscess ",,True,3,2013-02;2008-02;2004-08,,n=EN-dhinent&ed=8&vol=0#311,
 S_EN_,Waldeyer ring,,True,3,2013-08;2011-08;2008-08,,n=EN-dhinent&ed=8&vol=0#281,
 S_EN_,Pyriform fossa,,True,1,2001-11,,n=EN-dhinent&ed=8&vol=0#284,
 E_EN_,"Acute follicular tonsillitis ","- Diagnosis
