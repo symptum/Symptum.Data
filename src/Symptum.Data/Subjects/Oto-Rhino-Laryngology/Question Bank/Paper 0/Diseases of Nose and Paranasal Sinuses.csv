@@ -1,18 +1,18 @@
 Id,Title,Descriptions,HasPreviouslyBeenAsked,Importance,YearsAsked,ProbableCases,BookReferences,LinkReferences
-S_EN_,Little's Area,"- Anatomy
-- Clinical Importance",True,7,2024-02;2018-02;2015-08;2012-08;2011-09;2008-08;1991-03,,n=EN-dhinent&ed=8&vol=0#205,
+S_EN_,Little's Area (or) Kiesselbach's Plexus,"- Anatomy
+- Clinical Importance",True,7,2024-02;2018-02;2015-08;2012-08;2011-08;2008-08;1991-03,,n=EN-dhinent&ed=8&vol=0#205,
 S_EN_,Perforation of Nasal Septum,"- Etiopathogenesis
-- Management",True,1,2024-02,,n=EN-dhinent&ed=8&vol=0#174,
+- Management",True,2,2024-02;2012-02,,n=EN-dhinent&ed=8&vol=0#174,
 S_EN_,Atrophic Rhinitis (or) Ozaena,- Surgical Management;- Treatment,True,9,2024-02;2023-02;2017-02;2015-08;2013-02;2012-02;2010-08;2008-08;1993-11,,n=EN-dhinent&ed=8&vol=0#178,
 S_EN_,Vasomotor Rhinitis,- Vidian Neurectomy (Asked as a Short Answer);- Asked as a Short Answer,True,2,2024-02;2020-02,,n=EN-dhinent&ed=8&vol=0#198,
-S_EN_,Functions (or) Physiology of Nose,- Olfaction (or) Perception of Smell,True,5,2023-06;2012-08;2011-02;2010-02;2010-02,,n=EN-dhinent&ed=8&vol=0#162,
-S_EN_,Rhinosporidiosis,,True,6,2023-06;2016-08;2011-08;2009-08;1997-04;1993-01,,n=EN-dhinent&ed=8&vol=0#185,
+S_EN_,Functions (or) Physiology of Nose,- Olfaction (or) Perception of Smell;- Nasal Cycle,True,5,2023-06;2012-08;2011-02;2010-02;2008-02,,n=EN-dhinent&ed=8&vol=0#162,
+S_EN_,Rhinosporidiosis,,True,6,2023-06;2016-08;2011-08;2009-02;1997-04;1993-01,,n=EN-dhinent&ed=8&vol=0#185,
 S_EN_,T/NK-Cell Lymphoma (or) Lethal Midline (or) Stewart's Granuloma,- Asked as a Short Answer,True,1,2023-06,,n=EN-dhinent&ed=8&vol=0#187,
 E_EN_,Rhinosporidiosis,"- Clinical Features
 - Investigations
 - Treatment;- Etiology- Clinical Features- Management",True,4,2023-02;2013-08;2005-08;1993-01,,n=EN-dhinent&ed=8&vol=0#185,
 S_EN_,Rhinoscleroma,,True,6,2023-02;2020-11;2013-08;2011-02;2007-02;1998-04,,n=EN-dhinent&ed=8&vol=0#181,
-S_EN_,CSF Rhinorrhea,,True,3,2023-02;2011-02;2003-10,,n=EN-dhinent&ed=8&vol=0#191,
+S_EN_,CSF Rhinorrhea,- Common Sites of Leakage (Asked as a Short Answer),True,3,2023-02;2011-02;2003-10,,n=EN-dhinent&ed=8&vol=0#191,
 S_EN_,Wegener's Granulomatosis,- Asked as a Short Answer,True,1,2023-02,,n=EN-dhinent&ed=8&vol=0#187,
 E_EN_,Nasal Polypi,"- Diagnosis: Bilateral Ethmoidal Polypi
 - Samter's Triad
@@ -32,24 +32,37 @@ S_EN_,Choanal Atresia,,True,3,2019-08;2016-02;2007-08,,n=EN-dhinent&ed=8&vol=0#1
 S_EN_,Dangerous Area of Face,- Asked as a Short Answer,True,1,2019-08,,,
 S_EN_,Rhinitis Sicca,- Asked as a Short Answer,True,1,2019-02,,n=EN-dhinent&ed=8&vol=0#180,
 S_EN_,Mucociliary Clearance Mechanism,,True,2,2018-08;2001-11,,n=EN-dhinent&ed=8&vol=0#163,
-S_EN_,Antrochoanal (or) Killian Polyp,,True,2,2018-08;2014-08,,n=EN-dhinent&ed=8&vol=0#200,
+S_EN_,Antrochoanal (or) Killian Polyp,,True,6,2018-08;2014-08;2012-02;2011-02;2009-08;2008-08,,n=EN-dhinent&ed=8&vol=0#200,
 S_EN_,Maxillectomy,- Types and Indications (Asked as a Short Answer),True,1,2018-02,,,
-S_EN_,Allergic Rhinitis,,True,5,2017-08;2012-02;2011-02;2010-08;2009-02,,n=EN-dhinent&ed=8&vol=0#194,
+S_EN_,Allergic Rhinitis,- Clinical Features (Asked as a Short Answer),True,5,2017-08;2012-02;2011-02;2010-08;2009-02,,n=EN-dhinent&ed=8&vol=0#194,
 S_EN_,Frontal Mucocele,,True,1,2016-08,,n=EN-dhinent&ed=8&vol=0#231,
 S_EN_,Cottle's Line and Its Significance,- Asked as a Short Answer,True,1,2016-08,,,
 S_EN_,Antrochoanal vs Ethmoidal Polypi,,True,1,2016-02,,n=EN-dhinent&ed=8&vol=0#202,
-S_EN_,Anatomy of Nose,- Haller Cells (Asked as a Short Answer);- Hiatus Semilunaris;- Middle Meatus;- Ostiomeatal Complex,True,4,2016-02;2015-02;2014-08;2013-08,,"n=EN-dhinent&ed=8&vol=0#155,157,159",
-S_EN_,Nasal Polypi,,True,1,2015-08,,n=EN-dhinent&ed=8&vol=0#200,
-E_EN_,Carcinoma of Maxillary Sinus,"- Etiology- Pathology- Management;- Classification",True,3,2015-02;2012-02;2009-08,,n=EN-dhinent&ed=8&vol=0#241,
+S_EN_,Anatomy of Nose,- Haller Cells (Asked as a Short Answer);- Hiatus Semilunaris;- Middle Meatus;- Ostiomeatal Complex;- Lateral Wall of Nasal Cavity,True,7,2016-02;2015-02;2014-08;2013-08;2010-08;2009-02;2008-02,,"n=EN-dhinent&ed=8&vol=0#155,157,159",
+S_EN_,Nasal Polypi,,True,2,2015-08;2009-02,,n=EN-dhinent&ed=8&vol=0#200,
+E_EN_,Carcinoma of Maxillary Sinus,"- Etiology- Pathology- Investigations- Management",True,3,2015-02;2012-02;2009-02,,n=EN-dhinent&ed=8&vol=0#241,
 S_EN_,Myiasis of Nose (or) Maggots in the Nose,,True,4,2014-08;2011-08;2010-02;2001-11,,n=EN-dhinent&ed=8&vol=0#189,
 S_EN_,Oroantral Fistula,- Asked as a Short Answer,True,2,2014-08;2003-10,,n=EN-dhinent&ed=8&vol=0#217,
-E_EN_,Epistaxis,"- Causes- Management in a 6 year old child",True,6,2014-02;2012-02;2011-02;2007-02;2003-10;1999-04,,n=EN-dhinent&ed=8&vol=0#205,
+E_EN_,Epistaxis,"- Causes- Management in a 6 year old child",True,4,2014-02;2007-02;2003-10;1999-04,,n=EN-dhinent&ed=8&vol=0#205,
 S_EN_,Cottle's Test,,True,1,2014-02,,n=EN-dhinent&ed=8&vol=0#172,
 S_EN_,Classification of Carcinoma of Maxillary Sinus,,True,1,2013-08,,n=EN-dhinent&ed=8&vol=0#241,
 S_EN_,Rhinophyma (or) Potato Nose,,True,4,2013-08;2013-02;2012-08;2006-02,,n=EN-dhinent&ed=8&vol=0#166,
 S_EN_,Anterior Nasal Packing,,True,1,2013-08,,n=EN-dhinent&ed=8&vol=0#208,
-E_EN_,Deviated Nasal Septum,"- Clinical Features
-- Management ",True,1,2000-10,,n=&ed=8&vol=0#,
+S_EN_,Mucormycosis,- Rhinocerebral Mucormycosis (or) Phycomycosis,True,2,2012-08;2011-08,,n=EN-dhinent&ed=8&vol=0#183,
+S_EN_,Ethmoidal Polypi,,True,3,2012-08;2012-02;2010-02,,n=EN-dhinent&ed=8&vol=0#201,
+S_EN_,Fractures of Orbital Floor,- Orbital Blow Out Fractures (Asked as a Short Answer),True,1,2012-08,,n=EN-dhinent&ed=8&vol=0#215,
+S_EN_,Epistaxis,- Epistaxis Digitorum (Asked as a Short Answer),True,2,2012-02;2011-02,,n=EN-dhinent&ed=8&vol=0#205,
+S_EN_,Sphenoid Sinus,,True,2,2012-02;2009-02,,n=EN-dhinent&ed=8&vol=0#219,
+S_EN_,Fractures of Maxilla (or) Le Fort Fractures,,True,1,2011-08,,n=EN-dhinent&ed=8&vol=0#215,
+S_EN_,Rhinitis Medicamentosa,- Asked as a Short Answer,True,1,2011-08,,n=EN-dhinent&ed=8&vol=0#199,
+S_EN_,Inverted (or) Transitional Cell (or) Schneiderian Papilloma (or) Ringertz Tumour,- Asked as a Short Answer,True,2,2011-08;2009-02,,n=EN-dhinent&ed=8&vol=0#236,
+S_EN_,Nasal Cholesteatoma,,True,1,2011-02,,,
+S_EN_,Furuncle (or) Boil of Nose,- Asked as a Short Answer,True,1,2011-02,,n=EN-dhinent&ed=8&vol=0#168,
+S_EN_,Bleeding Polypus Septum,- Asked as a Short Answer,True,1,2011-02,,,
+S_EN_,Septal Hematoma,,True,3,2010-08;2008-08;1994-11,,n=EN-dhinent&ed=8&vol=0#173,
+S_EN_,Causes of Sinusitis,- Asked as a Short Answer,True,1,2010-08,,,
+S_EN_,Surgical Approaches To Maxillary Sinus,- Asked as a Short Answer,True,1,2010-08,,n=EN-dhinent&ed=8&vol=0#228,
+E_EN_,Deviated Nasal Septum,"- Clinical Features- Management",True,2,2010-02;2000-10,,n=EN-dhinent&ed=8&vol=0#171,
 E_EN_,"Atrophic Rhinitis ","- Causes
 - Clinical Features
 - Management",True,3,2002-03;1997-04;1993-11,,n=EN-dhinent&ed=8&vol=0#178,
@@ -57,15 +70,6 @@ E_EN_,"Vasomotor Rhinitis ","- Pathogenesis
 - Clinical features
 - Treatment ",True,5,2002-03;2000-04;1997-04;1995-04;1993-11,,n=EN-dhinent&ed=8&vol=0#198,
 E_EN_,Septal Haematoma and Perforation,,True,2,1998-10;1994-11,,n=&ed=0&vol=0#,
-S_EN_,"Diagnostic Nasal Endoscopy ",,True,1,2012-08,,n=EN-dhinent&ed=8&vol=0#492,
-S_EN_,"Rhinocerebral - Phycomycosis ",,True,1,2012-08,,n=EN-dhinent&ed=8&vol=0#183,
-S_EN_,Rhinolalia Aperta,- Causes,True,1,2012-08,,n=EN-dhinent&ed=8&vol=0#368,
-S_EN_,Rhinolalia Clausa,- Causes,True,1,2011-08,,n=&ed=0&vol=0#,
-S_EN_,Rhinitis Medicomentosa,,True,1,2011-08,,n=EN-dhinent&ed=8&vol=0#199,
-S_EN_,Furuncle - Nose,,True,1,2011-02,,n=EN-dhinent&ed=8&vol=0#168,
-S_EN_,Septal Hematoma,,True,4,2011-02;2010-08;2008-08;1994-11,,n=&ed=0&vol=0#,
-S_EN_,"Lateral Wall of Nasal Cavity ",,True,1,2010-08,,n=EN-dhinent&ed=8&vol=0#156,
-S_EN_,Septoplasty and SMR,,True,5,2012-02;2009-02;2008-08;2006-08;2004-08,,n=EN-dhinent&ed=8&vol=0#489,
 E_EN_,"Chronic Maxillary Sinusitis ","- Etiology
 - Clinical Features 
 - Management ",True,2,2003-10;2001-04,,n=&ed=0&vol=0#,
