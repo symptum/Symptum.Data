@@ -1,7 +1,9 @@
 Id,Title,Descriptions,HasPreviouslyBeenAsked,Importance,YearsAsked,ProbableCases,BookReferences,LinkReferences
-S_EN_,Strictures of Oesophagus,,True,1,2024-02,,n=EN-dhinent&ed=8&vol=0#400,
-S_EN_,Plummer Vinson Syndrome (or) Patterson Brown Kelly Syndrome,,True,3,2024-02;2020-11;2016-02,,n=EN-dhinent&ed=8&vol=0#401,
+S_EN_,Strictures of Oesophagus,,True,2,2024-02;2014-08,,n=EN-dhinent&ed=8&vol=0#400,
+S_EN_,Plummer Vinson Syndrome (or) Patterson Brown Kelly Syndrome,,True,4,2024-02;2020-11;2016-02;2014-08,,n=EN-dhinent&ed=8&vol=0#401,
 S_EN_,Benign Neoplasms (or) Pre-malignant Conditions of Oesophagus,,True,1,2023-06,,n=EN-dhinent&ed=8&vol=0#402,
 S_EN_,Cardiac Achalasia,- Asked as a Short Answer,True,1,2020-02,,n=EN-dhinent&ed=8&vol=0#401,
 E_EN_,Plummer Vinson Syndrome (or) Patterson Brown Kelly Syndrome,"- Causes of Dysphagia- Etiology- Clinical Features- Investigations- Treatment",True,1,2019-02,,n=EN-dhinent&ed=8&vol=0#401,
 S_EN_,Investigations of Dysphagia,- Asked as a Short Answer,True,1,2015-08,,n=EN-dhinent&ed=8&vol=0#405,
+S_EN_,Etiology of Cancer Oesophagus,,True,1,2013-08,,n=EN-dhinent&ed=8&vol=0#402,
+S_EN_,Physiology of Swallowing,,True,1,2013-02,,n=EN-dhinent&ed=8&vol=0#398,
