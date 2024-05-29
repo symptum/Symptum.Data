@@ -1,0 +1,20 @@
+Id,Title,Descriptions,HasPreviouslyBeenAsked,Importance,YearsAsked,ProbableCases,BookReferences,LinkReferences
+S_EN_,Complications of Tonsillectomy,- Secondary Hemorrhage;- Reactionary Hemorrhage (Asked as a Short Answer),True,10,2024-02;2023-06;2019-02;2017-08;2017-02;2014-08;2011-08;2009-08;2008-08;2004-08;1998-10,,n=EN-dhinent&ed=8&vol=0#506,
+S_EN_,Cortical Mastoidectomy,- Complications (Asked as a Short Answer),True,2,2023-06;2017-02,,n=EN-dhinent&ed=8&vol=0#475,
+S_EN_,Myringotomy (or) Tympanostomy,,True,3,2023-06;2014-08;2009-08,,n=EN-dhinent&ed=8&vol=0#471,
+S_EN_,Videostroboscopy,- Asked as a Short Answer,True,1,2023-06,,,
+S_EN_,Septal Surgeries,- Complications of Septoplasty;- Complications of Septal Surgeries (Asked as a Short Answer);- Septoplasty (Asked as a Short Answer);- Submucous Resection of Nasal Septum (SMR) vs Septoplasty,True,8,2023-02;2015-08;2012-02;2010-02;2009-08;2008-08;2006-08;2004-08,,"n=EN-dhinent&ed=8&vol=0#488,491",
+S_EN_,Water's View,- Asked as a Short Answer,True,1,2022-02,,n=EN-dhinent&ed=8&vol=0#509,
+S_EN_,Grommet (or) Ventilation Tube,- Asked as a Short Answer,True,1,2020-11,,n=EN-dhinent&ed=8&vol=0#472,
+S_EN_,Caldwell-Luc Surgery (or) Anterior Antrostomy,- Indications (Asked as a Short Answer),True,2,2020-02;2009-08,,n=EN-dhinent&ed=8&vol=0#485,
+S_EN_,Myringoplasty,,True,3,2019-02;2013-08;1998-04,,n=EN-dhinent&ed=8&vol=0#480,
+S_EN_,Functional Endoscopic Sinus Surgery (FESS),- Complications (Asked as a Short Answer),True,7,2018-08;2016-08;2014-02;2013-08;2010-08;2005-02;2003-10,,n=EN-dhinent&ed=8&vol=0#494,
+S_EN_,Radical Mastoidectomy,- Indications (Asked as a Short Answer),True,2,2017-08;2008-08,,n=EN-dhinent&ed=8&vol=0#477,
+S_EN_,Diagnostic Nasal Endoscopy (DNE),,True,1,2012-08,,n=EN-dhinent&ed=8&vol=0#492,
+S_EN_,Absolute Indications of Tonsillectomy,- Asked as a Short Answer,True,1,2010-08,,n=EN-dhinent&ed=8&vol=0#503,
+S_EN_,Modalities of Tonsillectomy,- Asked as a Short Answer,True,1,2010-08,,n=EN-dhinent&ed=8&vol=0#503,
+S_EN_,Proof Puncture (or) Antral Lavage,,True,1,2009-08,,n=EN-dhinent&ed=8&vol=0#482,
+S_EN_,Indirect Laryngoscopy,,True,2,2005-08;2005-02,,n=EN-dhinent&ed=8&vol=0#454,
+S_EN_,Siegel's Speculum,,True,1,2005-08,,,
+S_EN_,Oesophagoscopy,,True,1,2005-08,,n=EN-dhinent&ed=8&vol=0#501,
+E_EN_,Tonsillectomy,"- Indications- Postoperative Care;- Indications- Contraindications- Procedure",True,2,1998-04;1991-12,,n=EN-dhinent&ed=8&vol=0#503,
