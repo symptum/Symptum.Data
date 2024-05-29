@@ -1,12 +1,12 @@
 Id,Title,Descriptions,HasPreviouslyBeenAsked,Importance,YearsAsked,ProbableCases,BookReferences,LinkReferences
 S_EN_,Glottic Cancer (or) Carcinoma of Vocal Cord,,True,1,2024-02,,n=EN-dhinent&ed=8&vol=0#358,
 S_EN_,Informed Consent for a Tracheostomy Patient,,True,1,2024-02,,"n=EN-dhinent&ed=8&vol=0#369,469",
-S_EN_,Vocal Rehabilitation After Total Laryngectomy,- Blom-Singer's Prosthesis for Tracheo-Oesophageal Speech (Asked as a Short Answer);- Asked as a Short Answer,True,2,2024-02;2019-08,,n=EN-dhinent&ed=8&vol=0#365,
+S_EN_,Total Laryngectomy,- Blom-Singer's Prosthesis for Tracheo-Oesophageal Speech (Asked as a Short Answer);- Vocal Rehabilitation After Total Laryngectomy (Asked as a Short Answer);- Indications (Asked as a Short Answer),True,3,2024-02;2019-08;2011-02,,n=EN-dhinent&ed=8&vol=0#365,
 E_EN_,Juvenile Papillomatosis of Larynx (or) Respiratory Papillomatosis,"- First Line of Treatment
 - Complications
 - Precautions",True,1,2023-06,A 4 year old child presents in emergency with respiratory distress. Laryngoscopy reveals multiple **Juvenile Papillomatosis** of the Larynx.,n=EN-dhinent&ed=8&vol=0#356,
 S_EN_,Complications of Tracheostomy,- Immediate Complications (Asked as a Short Answer),True,4,2023-06;2023-02;2018-08;2016-08,,n=EN-dhinent&ed=8&vol=0#372,
-S_EN_,Foreign Bodies of Air Passages,- Foreign Body of Bronchus,True,2,2023-06;2016-08,,n=EN-dhinent&ed=8&vol=0#375,
+S_EN_,Foreign Bodies of Air Passages,- Foreign Bodies of Bronchus,True,2,2023-06;2016-08,,n=EN-dhinent&ed=8&vol=0#375,
 S_EN_,Indications of Tracheostomy,,True,1,2023-02,,n=EN-dhinent&ed=8&vol=0#370,
 S_EN_,Subglottic Stenosis,,True,1,2023-02,,n=EN-dhinent&ed=8&vol=0#344,
 S_EN_,Reinke’s Edema (or) Polypoid Degeneration of Vocal Cord,- Asked as a Short Answer;- Reinke's Space,True,4,2023-02;2013-02;2011-08;1991-12,,"n=EN-dhinent&ed=8&vol=0#334,342",
@@ -14,29 +14,52 @@ S_EN_,Laryngeal Web,- McNaught Keel (Asked as a Short Answer),True,1,2022-08,,n=
 S_EN_,Dysphonia Plica Ventricularis (or) Ventricular Dysphonia,- Asked as a Short Answer,True,1,2022-04,,n=EN-dhinent&ed=8&vol=0#366,
 S_EN_,Acute Epiglottitis (or) Supraglottic Laryngitis,- Causative Organisms and Radiological Findings (Asked as a Short Answer),True,6,2022-02;2016-02;2014-02;2011-08;2005-08;2002-03,,n=EN-dhinent&ed=8&vol=0#338,
 S_EN_,Surgical Importance of Cricothyroid Membrane,- Asked as a Short Answer,True,1,2022-02,,,
-E_EN_,Stridor,"- Causes of Stridor in Children- Differential Diagnosis for a 50 year old smoker with Hoarseness and Stridor- Surgical Management, its Procedure and Complications;- Definition- Classification- Causes in Children- Management;- Etiology- Clinical Features- Management",True,5,2021-09;2010-08;2008-02;2002-03;2000-04,,n=EN-dhinent&ed=8&vol=0#345,
+E_EN_,Stridor,"- Causes of Stridor in Children- Differential Diagnosis (for a 50 year old smoker with Hoarseness and Stridor)- Surgical Management, its Procedure and Complications;- Definition
+- Classification
+- Causes in Children
+- Management;- Etiology
+- Clinical Features
+- Management",True,5,2021-09;2010-08;2008-02;2002-03;2000-04,,n=EN-dhinent&ed=8&vol=0#344,
 S_EN_,Vocal (or) Singer’s (or) Screamer's Nodule,,True,10,2021-09;2018-02;2013-08;2013-02;2012-02;2010-02;2007-02;2005-02;2005-02;2003-10;2002-03;2001-04;2000-10,,n=EN-dhinent&ed=8&vol=0#352,
 S_EN_,Sulcus Vocalis,- Asked as a Short Answer,True,1,2020-11,,n=EN-dhinent&ed=8&vol=0#355,
 S_EN_,Vocal Cord Polyp,,True,1,2020-02,,n=EN-dhinent&ed=8&vol=0#353,
 S_EN_,Tuberculosis of Larynx,- Signs (Asked as a Short Answer);- Turban Epiglottis (Asked as a Short Answer),True,4,2019-08;2015-08;2014-02;1996-10,,"n=EN-dhinent&ed=8&vol=0#342,550",
 S_EN_,Recurrent Laryngeal Nerve Paralysis (or) Palsy,- Bilateral Abductor Paralysis;- Causes of Left Nerve Paralysis;- Wagner and Grossmann Theory (Asked as a Short Answer);- Semon's Law;- Causes of Right Nerve Paralysis,True,7,2019-02;2017-08;2015-02;2014-02;2013-02;2012-08;2007-08,,n=EN-dhinent&ed=8&vol=0#348,
-S_EN_,Laryngocoele,- Asked as a Short Answer,True,1,2019-02,,n=EN-dhinent&ed=8&vol=0#344,
+S_EN_,Laryngocoele,- Asked as a Short Answer,True,1,2019-02,,"n=EN-dhinent&ed=8&vol=0#344,355",
 S_EN_,Cricothyroidotomy (or) Laryngotomy (or) Mini Tracheostomy,- Asked as a Short Answer,True,1,2018-02,,n=EN-dhinent&ed=8&vol=0#373,
 S_EN_,Anatomy of Larynx,- Unpaired Cartilages of Larynx (Asked as a Short Answer);- Laryngeal Crepitus (Asked as a Short Answer);- Glottis (or) Rima Glottidis (Asked as a Short Answer),True,3,2017-08;2014-02;2012-08,,"n=EN-dhinent&ed=8&vol=0#331,334",
-E_EN_,Tracheostomy,"- Definition and Causes of Stridor- Indications of Tracheostomy- Procedure- Complications;- Procedure- Complications- Types of Tracheostomy Tubes- Functions- Indications;- Causes of Stridor- Types of Tracheostomy- Procedure- Complications;- Indications- Procedure- Complications",True,7,2017-02;2013-08;2013-02;2007-02;2005-08;2001-11;1995-04,,n=EN-dhinent&ed=8&vol=0#369,
+E_EN_,Tracheostomy,"- Definition and Causes of Stridor
+- Indications of Tracheostomy
+- Procedure
+- Complications;- Procedure
+- Complications
+- Types of Tracheostomy Tubes
+- Functions
+- Indications;- Causes of Stridor
+- Types of Tracheostomy
+- Procedure
+- Complications;- Indications
+- Procedure
+- Complications",True,7,2017-02;2013-08;2013-02;2007-02;2005-08;2001-11;1995-04,,n=EN-dhinent&ed=8&vol=0#369,
 S_EN_,Laryngomalacia (or) Congenital Laryngeal Stridor,- Asked as a Short Answer,True,3,2017-02;2014-08;2009-02,,n=EN-dhinent&ed=8&vol=0#344,
 S_EN_,Benign (or) Pre-malignant Tumours and Lesions of Larynx,,True,4,2017-02;2012-02;2009-08;2009-02,,"n=EN-dhinent&ed=8&vol=0#352,356",
-E_EN_,Foreign Bodies of Air Passages,"- Causes of Stridor in Children- Management of Foreign Bodies",True,1,2015-08,,"n=EN-dhinent&ed=8&vol=0#345,375",
-E_EN_,Cancer Larynx,"- Etiology- Pathology- Management;- Investigations- Treatment;- Causes for Hoarseness- Treatment",True,3,2014-08;2010-02;1997-10,A 60 year old male chronic smoker comes with complaints of **hoarseness** of voice for 1 year.,n=EN-dhinent&ed=8&vol=0#358,
+E_EN_,Foreign Bodies of Air Passages,"- Causes of Stridor in Children
+- Management of Foreign Bodies",True,1,2015-08,,"n=EN-dhinent&ed=8&vol=0#345,375",
+E_EN_,Cancer Larynx,"- Etiology
+- Pathology
+- Management;- Investigations
+- Treatment;- Causes for Hoarseness
+- Treatment",True,3,2014-08;2010-02;1997-10,A 60 year old male chronic smoker comes with complaints of **hoarseness** of voice for 1 year.,n=EN-dhinent&ed=8&vol=0#358,
 S_EN_,Functional (or) Hysterical Aphonia,,True,2,2014-08;2011-02,,n=EN-dhinent&ed=8&vol=0#366,
 S_EN_,Acute Laryngo-tracheo-bronchitis (or) Croup,- Steeple Sign (Asked as a Short Answer),True,2,2014-02;2010-08,,n=EN-dhinent&ed=8&vol=0#339,
 S_EN_,Laryngeal Paralysis,- Theories on Position of Vocal Cord Paralysis,True,2,2012-08;2010-02,,n=EN-dhinent&ed=8&vol=0#348,
 S_EN_,Functions (or) Physiology of Larynx,- Phonation (Asked as a Short Answer),True,2,2012-08;2011-02,,n=EN-dhinent&ed=8&vol=0#335,
 S_EN_,Hypernasality (or) Rhinolalia Aperta,- Causes (Asked as a Short Answer),True,1,2012-08,,n=EN-dhinent&ed=8&vol=0#368,
 S_EN_,Hyponasality (or) Rhinolalia Clausa,- Causes (Asked as a Short Answer),True,2,2012-02;2011-08,,n=EN-dhinent&ed=8&vol=0#368,
-S_EN_,Total Laryngectomy,- Indications (Asked as a Short Answer),True,1,2011-02,,n=EN-dhinent&ed=8&vol=0#363,
 S_EN_,Juvenile Papillomatosis of Larynx (or) Respiratory Papillomatosis,,True,4,2011-02;2010-02;2006-02;2001-04,,n=EN-dhinent&ed=8&vol=0#356,
 S_EN_,Tracheostomy,,True,5,2010-08;2009-02;2005-08;2005-02;2001-04,,n=EN-dhinent&ed=8&vol=0#369,
 S_EN_,Heimlich Maneuver,- Asked as a Short Answer,True,1,2010-02,,n=EN-dhinent&ed=8&vol=0#377,
-E_EN_,Hoarseness of Voice,"- Causes in 55 year old Males- Investigations- Role of Micro-laryngeal Surgery in Papilloma Larynx",True,1,2007-08,,"n=EN-dhinent&ed=8&vol=0#356,366",
+E_EN_,Hoarseness of Voice,"- Causes in 55 year old Males
+- Investigations
+- Role of Micro-laryngeal Surgery in Papilloma Larynx",True,1,2007-08,,"n=EN-dhinent&ed=8&vol=0#356,366",
 S_EN_,Stridor,- Stridor in Children,True,2,1999-04;1995-11,,n=EN-dhinent&ed=8&vol=0#344,
