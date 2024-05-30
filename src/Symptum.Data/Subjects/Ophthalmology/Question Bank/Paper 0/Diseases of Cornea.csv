@@ -1,4 +1,4 @@
-﻿Id,Title,Descriptions,HasPreviouslyBeenAsked,Importance,YearsAsked,ProbableCases,BookReferences,LinkReferences
+Id,Title,Descriptions,HasPreviouslyBeenAsked,Importance,YearsAsked,ProbableCases,BookReferences,LinkReferences
 S_OP_,Corneal ulcer,"- Details about Corneal ulcer;- Prevention
 - Management of corneal ulcer perforation.",True,2,2024-02;2012-08,,n=OP-akkco&ed=9&vol=1#94,
 S_OP_,Keratoplasty,"- Classification 
@@ -36,7 +36,7 @@ E_OP_,Hypopyon corneal ulcer,"- Aetiology
 - Treatment;- Ulcer serpens
 - Etiology
 - Clinical features
-- Management",True,7,2013-08;2010-02;2009-02;2006-08;2000-10;2005-02;1993-01,,n=OP-akkco&ed=9&vol=1#97,
+- Management",True,7,2013-08;2010-02;2009-02;2006-08;2005-02;2000-10;1993-01,,n=OP-akkco&ed=9&vol=1#97,
 S_OP_,Acanthamoeba keratitis,,True,3,2013-08;2011-08;2010-08,,n=OP-akkco&ed=9&vol=1#97,
 S_OP_,Common fungi which frequently produce hypopion corneal ulcer,,True,1,2013-02,,n=OP-akkco&ed=9&vol=1#100,
 S_OP_,Interstitial keratitis,- Hutchinson triad;- Details about Interstitial keratitis,True,2,2013-02;2007-08,,n=OP-akkco&ed=9&vol=1#114,
@@ -46,7 +46,7 @@ E_OP_,Herpes simplex keratitis,"- Symptoms
 - Signs
 - Treatment",True,1,2005-08,,n=OP-akkco&ed=9&vol=1#102,
 S_OP_,Fungal keratitis,- Details about Fungal keratitis;- Fungal Corneal ulcer,True,4,2005-08;2003-10;2000-04;1991-12,,n=OP-akkco&ed=9&vol=1#100,
-S_OP_,Dendritic Ulcer,,True,3,2005-02;2005-08;1999-04,,n=OP-akkco&ed=9&vol=1#103,
+S_OP_,Dendritic Ulcer,,True,3,2005-08;2005-02;1999-04,,n=OP-akkco&ed=9&vol=1#103,
 S_OP_,Corneal vascularisation,- Details about Corneal Vascularization;- Pannus,True,2,2004-08;2002-03,,n=OP-akkco&ed=9&vol=1#128,
 S_OP_,Keratomycosis,,True,1,2001-11,,n=OP-akkco&ed=9&vol=1#100,
 S_OP_,Exposure keratitis,,True,2,2001-11;1993-01,,n=OP-akkco&ed=9&vol=1#110,
