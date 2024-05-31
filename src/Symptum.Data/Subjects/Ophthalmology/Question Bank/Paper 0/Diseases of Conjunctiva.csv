@@ -1,12 +1,8 @@
 Id,Title,Descriptions,HasPreviouslyBeenAsked,Importance,YearsAsked,ProbableCases,BookReferences,LinkReferences
-S_OP_,"Ophthalmia Neonatorum ","- Management ",True,6,2024-02;2015-08;2012-08;2012-02;2010-08;2010-02,,n=OP-akkco&ed=9&vol=1#73,
-S_OP_,"Vernal Keratoconjunctivitis ","- Clinical Features 
-- Management;- Causes
-- Management ;- Etiology 
-- Signs
-- Treatment ",True,10,2024-02;2021-09;2018-02;2014-02;2013-08;2011-08;2009-02;2005-02;2004-08;2002-03;2001-11,,n=OP-akkco&ed=9&vol=1#75,
-S_OP_,"Trachoma ",- Clinical Features ;- WHO grading system;- Management ;- SAFE strategy;- Pannus,True,9,2023-02;2022-02;2019-02;2012-08;2012-02;2008-08;2005-02;2002-03;1996-10,,n=OP-akkco&ed=9&vol=1#64,
-S_OP_,"Pterygium vs Pseudopterygium ",,True,2,2023-02;2012-08,,n=OP-akkco&ed=9&vol=1#83,
+S_OP_,Vernal Keratoconjunctivitis (VKC) (or) Spring Catarrh,,True,10,2024-02;2021-09;2018-02;2014-02;2013-08;2011-08;2009-02;2005-02;2004-08;2002-03;2001-11,,n=OP-akkco&ed=9&vol=1#75,
+S_OP_,Ophthalmia Neonatorum,- Management,True,6,2024-02;2015-08;2012-08;2012-02;2010-08;2010-02,,n=OP-akkco&ed=9&vol=0#73,
+S_OP_,Trachoma (or) Egyptian Ophthalmia,- Clinical Features;- WHO grading system;- Management ;- SAFE strategy;- Pannus,True,9,2023-02;2022-02;2019-02;2012-08;2012-02;2008-08;2005-02;2002-03;1996-10,,n=OP-akkco&ed=9&vol=0#64,
+S_OP_,Pterygium vs Pseudopterygium,- Asked as a Short Answer,True,2,2023-02;2012-08,,n=OP-akkco&ed=9&vol=0#83,
 S_OP_,"Phylectenular Conjunctivitis ","- Etiology
 - Signs
 - Treatment ",True,1,2012-02,,n=OP-akkco&ed=9&vol=1#78,

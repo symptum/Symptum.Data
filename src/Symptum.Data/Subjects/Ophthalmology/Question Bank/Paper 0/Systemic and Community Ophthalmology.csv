@@ -1,10 +1,10 @@
 Id,Title,Descriptions,HasPreviouslyBeenAsked,Importance,YearsAsked,ProbableCases,BookReferences,LinkReferences
-S_OP_,Vitamin A deficiency,Classification;clinical features;treatment and prophylaxis,True,8,2023-06;2020-11;2013-08;2013-02;2011-08;2010-08;2003-10;2001-11,,n=OP-akkco&ed=9&vol=0#449,
+E_OP_,Ocular Manifestation of  Diabetes Mellitus,"- Ocular Manifestations- Management",True,1,2024-02,A 60 year old female with history of uncontrolled diabetes mellitus for 10 years.,n=OP-akkco&ed=9&vol=0#455,
+S_OP_,National Programme for Control of Blindness (NPCB),district blindness control society;eye camps,True,5,2024-02;2020-11;2020-02;2010-02;2007-08,,n=OP-akkco&ed=9&vol=0#464,
+S_OP_,Vision 2020: The Right to Sight,,True,6,2024-02;2017-08;2013-08;2012-02;2009-02;2008-08,,"n=OP-akkco&ed=9&vol=0#466,472",
+S_OP_,Eye Banking,- Hospital Corneal Retrieval Programme (HCRP),True,5,2023-06;2023-06;2019-08;2016-08;2010-02,,n=OP-akkco&ed=9&vol=0#470,
+S_OP_,Vitamin A Deficiency,- WHO Classification,True,8,2023-02;2020-11;2013-08;2013-02;2011-08;2010-08;2003-10;2001-11,,n=OP-akkco&ed=9&vol=0#449,
+S_OP_,Blindness,- Legal and Economic Blindness (Asked as a Short Answer);Definition ;common causes of blindness in India,True,10,2023-02;2022-08;2021-09;2018-08;2016-02;2015-08;2015-02;2013-08;2012-08;2011-08;2010-08;2009-02;2004-08,,n=OP-akkco&ed=9&vol=0#460,
 S_OP_,Ocular manifestations in AIDS,,True,2,2021-09;2011-08,,n=OP-akkco&ed=9&vol=0#453,
 E_OP_,Ocular manifestations of tuberculosis,,True,1,2013-02,,n=OP-akkco&ed=9&vol=0#454,
-E_OP_,Ocular manifestation in Diabetes Mellitus,,True,1,2024-02,60 yr old female with history of uncontrolled diabetes mellitus for 10 years. Enumerate the Ophthalmic manifestations of diabetes mellitus and management of each.,n=OP-akkco&ed=9&vol=0#455,
-S_OP_,Blindness,Definition ;legal and economic blindness;common causes of blindness in India,True,10,2023-02;2022-08;2021-09;2018-08;2016-02;2015-08;2015-02;2013-08;2012-08;2011-08;2010-08;2009-02;2004-08,,n=OP-akkco&ed=9&vol=0#459,
 E_OP_,National programme for control of blindness,,True,1,2006-02,,n=OP-akkco&ed=9&vol=0#464,
-S_OP_,National programme for control of blindness,NPCB;district blindness control society;eye camps,True,5,2024-02;2020-11;2020-02;2010-02;2007-08,,n=OP-akkco&ed=9&vol=0#464,
-S_OP_,Vision 2020,,True,6,2024-02;2017-08;2013-08;2012-02;2009-02;2008-08,,n=OP-akkco&ed=9&vol=0#466,
-S_OP_,Eye bank,Functions;preservation of cornea,True,5,2023-06;2023-06;2019-08;2016-08;2010-02,,n=OP-akkco&ed=9&vol=0#470,

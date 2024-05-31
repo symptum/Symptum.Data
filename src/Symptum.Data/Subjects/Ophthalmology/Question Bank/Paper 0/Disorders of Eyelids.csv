@@ -1,4 +1,5 @@
 Id,Title,Descriptions,HasPreviouslyBeenAsked,Importance,YearsAsked,ProbableCases,BookReferences,LinkReferences
+S_OP_,Ptosis,,True,2,2024-02;2011-08,,n=OP-akkco&ed=9&vol=0#360,
 S_OP_,Cross section of Upper Eyelid anatomy,,True,1,2012-02,,n=OP-parsdoe&ed=23&vol=0#400;n=OP-akkco&ed=7&vol=1#377,
 S_OP_,Blepharitis,,True,2,2019-08;2010-02,,n=OP-parsdoe&ed=23&vol=1#400;n=OP-akkco&ed=7&vol=1#380,
 S_OP_,Hordeolum Externum/Stye,,True,2,2012-08;2009-08,,n=OP-parsdoe&ed=23&vol=1#403;n=OP-akkco&ed=7&vol=1#383,
@@ -6,4 +7,3 @@ S_OP_,Chalazion,,True,1,2008-08,,n=OP-parsdoe&ed=23&vol=1#404;n=OP-akkco&ed=7&vo
 S_OP_,Entropion,,True,1,2016-08,,n=OP-parsdoe&ed=23&vol=1#405;n=OP-akkco&ed=7&vol=1#387,
 S_OP_,Ectropion,,True,1,2013-02,,n=OP-parsdoe&ed=23&vol=1#409;n=OP-akkco&ed=7&vol=1#389,
 S_OP_,Symblepharon,,True,2,2014-02;2009-02,,n=OP-parsdoe&ed=23&vol=1#410;n=OP-akkco&ed=23&vol=1#392,
-S_OP_,Ptosis,,True,1,2011-08,,n=OP-parsdoe&ed=23&vol=1#411;n=OP-akkco&ed=7&vol=1#395,

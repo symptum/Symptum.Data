@@ -1,15 +1,9 @@
 Id,Title,Descriptions,HasPreviouslyBeenAsked,Importance,YearsAsked,ProbableCases,BookReferences,LinkReferences
-S_OP_,Corneal ulcer,"- Details about Corneal ulcer;- Prevention
-- Management of corneal ulcer perforation.",True,2,2024-02;2012-08,,n=OP-akkco&ed=9&vol=1#94,
-S_OP_,Keratoplasty,"- Classification 
-- Indication for Penetrating Keratoplasty;- Complications of Keratoplasty;- Indications for Keratoplasty",True,7,2024-02;2021-09;2013-08;2012-02;2010-08;2009-02;1997-04,,n=OP-akkco&ed=9&vol=1#129,
-E_OP_,Fungal Corneal Ulcer,"- Aetiopathogenesis
-- Clinical features
-- Management
-- Complications of Fungal Corneal 
-Ulcer",True,2,2023-06;2023-02,"40 year old farmer had injury with vegetable foreign body in the left eye following which he developed watering, redness and defective vision, What is the diagnosis? ",n=OP-akkco&ed=9&vol=1#100,
-S_OP_,Bullous Keratopathy,,True,1,2023-06,,"n=OP-akkco&ed=9&vol=1#123,126",
-S_OP_,Keratoconus,- Details about Keratoconus;- Management of Keratoconus,True,7,2023-02;2022-04;2017-08;2014-02;2013-08;2010-08;1998-04,,n=OP-akkco&ed=9&vol=1#124,
+S_OP_,Corneal Ulcer,"- Clinical Features- Management",True,2,2024-02;2012-08,,n=OP-akkco&ed=9&vol=0#94,
+S_OP_,Keratoplasty,"- Classification- Indications for Penetrating Keratoplasty (PK);- Complications of Keratoplasty;- Indications for Keratoplasty",True,7,2024-02;2021-09;2013-08;2012-02;2010-08;2009-02;1997-04,,n=OP-akkco&ed=9&vol=0#129,
+E_OP_,Mycotic (or) Fungal Keratitis (or) Corneal Ulcer,"- Clinical Features- Management- Complications;- Diagnosis- Etiology- Pathogenesis- Clinical Features- Management",True,2,2023-06;2023-02,"A 40 year old **farmer** had **injury with vegetable foreign body** in the left eye following which he developed **watering, redness and defective vision**.",n=OP-akkco&ed=9&vol=0#100,
+S_OP_,Corneal Edema (or) Bullous Keratopathy,,True,1,2023-06,,n=OP-akkco&ed=9&vol=0#126,
+S_OP_,Keratoconus (or) Conical Cornea,,True,7,2023-02;2022-04;2017-08;2014-02;2013-08;2010-08;1998-04,,n=OP-akkco&ed=9&vol=0#124,
 S_OP_,Herpes zoster opthalmicus,"- Details about Herpes Zoster ophthalmicus;- Clinical features
 - Management of Herpes Zoster ophthalmicus",True,2,2022-02;2010-08,,n=OP-akkco&ed=9&vol=1#104,
 S_OP_,Corneal blindness,,True,1,2019-02,,n=OP-akkco&ed=9&vol=1#126,
@@ -18,7 +12,7 @@ S_OP_,Organisms invading normal corneal epithelium,,True,2,2018-02;2012-08,,n=OP
 E_OP_,Bacterial corneal ulcer,"- aetiopathogenesis
 - Management;- Aetiology
 - Clinical features
-- Management",True,3,2024-03;2007-02;2005-02,,n=OP-akkco&ed=9&vol=1#94,
+- Management",True,2,2007-02;2005-02,,n=OP-akkco&ed=9&vol=1#94,
 S_OP_,Herpes simplex keratitis,"- Details about Herpes simplex keratitis;- Clinical features
 - Management",True,2,2016-08;2013-02,,n=OP-akkco&ed=9&vol=1#102,
 S_OP_,Describe anatomy of cornea,,True,1,2016-02,,n=OP-akkco&ed=9&vol=1#90,

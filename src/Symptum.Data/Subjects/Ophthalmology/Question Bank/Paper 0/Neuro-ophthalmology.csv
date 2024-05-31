@@ -1,8 +1,8 @@
 Id,Title,Descriptions,HasPreviouslyBeenAsked,Importance,YearsAsked,ProbableCases,BookReferences,LinkReferences
-S_OP_,Papilledema,"- Causes- Clinical Features- Management;- Differences between Papilledema and Papillitis",True,9,2023-02;2012-08;2012-02;2011-08;2008-02;2005-08;2001-04;1998-04;1995-11,,n=OP-akkco&ed=9&vol=0#304-307,
-S_OP_,Optic Neuritis,,True,3,2023-06;2016-08;1997-10,,n=OP-akkco&ed=9&vol=0#298-300,
+S_OP_,Pupillary Reflexes and their Abnormalities,- Argyll Robertson Pupil;- Tests;- Marcus Gunn Pupil,True,5,2023-06;2019-02;2015-02;2013-02;2009-08,,n=OP-akkco&ed=9&vol=0#296,
+S_OP_,Papilledema,"- Causes- Clinical Features- Management;- Differences between Papilledema and Papillitis",True,9,2023-02;2012-08;2012-02;2011-08;2008-02;2005-08;2001-04;1998-04;1995-11,,n=OP-akkco&ed=9&vol=0#304,
+S_OP_,Optic Neuritis,,True,3,2023-06;2016-08;1997-10,,n=OP-akkco&ed=9&vol=0#298,
 S_OP_,Nyctalopia (or) Night Blindness,,True,5,2018-08;2017-02;2009-02;2005-02;2002-03,,n=OP-akkco&ed=9&vol=0#308-309,
-S_OP_,Pupillary Reflexes,- Argyll Robertson Pupil;- Tests;- Marcus Gunn Pupil,True,4,2019-02;2015-02;2013-02;2009-08,,n=OP-akkco&ed=9&vol=0#296-298,
 S_OP_,Color Vision,- Tests,True,3,2020-02;2012-08;2009-08,,n=OP-akkco&ed=9&vol=0#309-310,
 E_OP_,Optic Neuritis,"- Etiology- Clinical features- Management;- Etiology- Classification- Clinical features- Management",True,2,2022-02;2008-08,,n=OP-akkco&ed=9&vol=0#298-300,
 S_OP_,Toxic Optic Neuropathy,,True,3,2011-08;2010-02;2008-08,,n=OP-akkco&ed=9&vol=0#300-302,
