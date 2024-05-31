@@ -2,7 +2,10 @@ Id,Title,Descriptions,HasPreviouslyBeenAsked,Importance,YearsAsked,ProbableCases
 E_EN_,Otosclerosis,"- Differential Diagnosis
 - Evaluations
 - Probable Diagnosis
-- Treatment;- Etiology- Pathogenesis- Clinical Features- Management;- Diagnosis
+- Treatment;- Etiology
+- Pathogenesis
+- Clinical Features
+- Management;- Diagnosis
 - Management",True,4,2024-02;2009-08;2005-08;2003-10,"A 35 year old female comes to ENT OPD with complaints of **right ear hard of hearing**. On examination, her **tympanic membrane was intact**. **Rinne** test was **negative on right side** and positive on left side. **Weber** lateralized to **right ear**.",n=EN-dhinent&ed=8&vol=0#103,
 S_EN_,Tuberculous Otitis Media,,True,2,2024-02;2023-06,,n=EN-dhinent&ed=8&vol=0#88,
 S_EN_,Impacted Wax (or) Cerumen,- Management,True,2,2024-02;2006-08,,n=EN-dhinent&ed=8&vol=0#62,
