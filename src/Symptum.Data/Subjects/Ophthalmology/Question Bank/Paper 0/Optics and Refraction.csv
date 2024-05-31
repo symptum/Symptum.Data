@@ -1,7 +1,15 @@
 Id,Title,Descriptions,HasPreviouslyBeenAsked,Importance,YearsAsked,ProbableCases,BookReferences,LinkReferences
 S_OP_,Presbyopia (or) Eyesight of Old Age,,True,6,2024-02;2022-02;2016-02;2005-08;1999-04;1997-04,,n=OP-akkco&ed=9&vol=0#46,
-E_OP_,Myopia,"- Diagnosis: Pathological (or) Degenerative (or) Progressive Myopia- Causes of Sudden Painless Loss of Vision- Management;- Definition- Classification- Clinical Features- Complications- Management",True,4,2023-06;2023-06;2020-11;2019-02,,n=OP-akkco&ed=9&vol=0#37,
-S_OP_,Hypermetropia,"- Definition- Classification- Management",True,10,2023-02;2018-02;2015-02;2013-08;2013-02;2012-08;2012-08;2011-08;2005-08;2005-02,,n=OP-akkco&ed=9&vol=0#34,
+E_OP_,Myopia,"- Diagnosis: Pathological (or) Degenerative (or) Progressive Myopia
+- Causes of Sudden Painless Loss of Vision
+- Management;- Definition
+- Classification
+- Clinical Features
+- Complications
+- Management",True,4,2023-06;2023-06;2020-11;2019-02,,n=OP-akkco&ed=9&vol=0#37,
+S_OP_,Hypermetropia,"- Definition
+- Classification
+- Management",True,10,2023-02;2018-02;2015-02;2013-08;2013-02;2012-08;2012-08;2011-08;2005-08;2005-02,,n=OP-akkco&ed=9&vol=0#34,
 S_OP_,Strum's Conoid,,True,1,2023-02,,n=OP-akkco&ed=9&vol=0#41,
 S_OP_,Emmetropia,"Draw the optical diagram of Emmetropia, Hypermetropia and myopia",True,1,2015-08,,n=OP-akkco&ed=9&vol=0#33,
 E_OP_,Hypermetropia,"Define hypermetropia. ;Discuss its clinical features;management. ",True,1,2020-02,,n=OP-akkco&ed=9&vol=0#34,
