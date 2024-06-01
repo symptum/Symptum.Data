@@ -9,15 +9,14 @@ E_OP_,Primary Angle Closure Disease (or) Glaucoma (PACD/PACG),"- Probable Diagno
 - Clinical Features
 - Management;- Stages
 - Clinical Features
-- Management",True,5,2024-02;2022-04;2018-08;2010-08;1991-08,"A 50 year old male presented with **headache, nausea, vomiting, pain in right eye with redness and H/O coloured halos** around light. On Examination, **visual acuity was 1/60 and intraocular pressure was 50 mmHg**. On Slit Lamp Examination there were, RE: **circumcorneal congestion, corneal edema and shallow anterior chamber with mid dilated pupil**.",n=OP-akkco&ed=9&vol=0#225,
+- Management;- Differential Diagnosis of Red Eye- Management of Acute Congestive Glaucoma",True,6,2024-02;2022-04;2018-08;2016-02;2010-08;1991-08,"A 50 year old male presented with **headache, nausea, vomiting, pain in right eye with redness and H/O coloured halos** around light. On Examination, **visual acuity was 1/60 and intraocular pressure was 50 mmHg**. On Slit Lamp Examination there were, RE: **circumcorneal congestion, corneal edema and shallow anterior chamber with mid dilated pupil**.",n=OP-akkco&ed=9&vol=0#225,
 S_OP_,Lens Induced (or) Phacogenic Glaucoma,- Phacolytic (or) Lens Protein Glaucoma,True,9,2024-02;2023-06;2023-02;2022-04;2020-02;2013-08;2012-08;2005-08;2005-02,,n=OP-akkco&ed=9&vol=0#231,
 S_OP_,Medical Management of Glaucoma,- Open Angle Glaucoma,True,6,2023-06;2017-08;2012-08;2011-08;2003-10;2001-11,,"n=OP-akkco&ed=9&vol=0#221,229,230",
 E_OP_,Primary Open Angle Glaucoma (POAG) (or) Chronic Simple Glaucoma,"- Etiology
 - Clinical Features
 - Management",True,6,2021-09;2012-02;2009-02;2007-08;2001-04;2000-04,,n=OP-akkpo&ed=9&vol=0#215,
 S_OP_,Surgical Treatment of Glaucoma,- Types (Asked as a Short Answer),True,1,2019-02,,n=OP-akkco&ed=9&vol=0#235,
-S_OP_,Field Defects in Primary Open Angle Glaucoma (POAG),,True,3,2017-02;2015-08;1997-04,,"n=OP-akkco&ed=9&vol=0#217,220",
-E_OP_,"Differential diagnosis for red eye. Management of acute congestive attack of angle closure glaucoma ",,True,5,2016-02;2013-02;2008-08;2003-10;1997-10,,n=OP-akkco&ed=9&vol=1#225,
+S_OP_,Field Defects in Primary Open Angle Glaucoma (POAG),,True,3,2017-02;2015-02;1997-04,,"n=OP-akkco&ed=9&vol=0#217,220",
 E_OP_,"Chronic simple glaucoma ","-clinical features/ treatment ",True,1,2002-03,,n=OP-akkco&ed=9&vol=1#215,
 E_OP_,Buphthalmos,"-symptoms/ signs/ treatment ",True,1,2007-02,,n=OP-akkpo&ed=9&vol=1#212,
 S_OP_,Buphthalmos,"-clinical features and management ",True,3,2012-08;2002-03;2001-04,,n=OP-akkco&ed=9&vol=1#212,
