@@ -2,7 +2,7 @@ Id,Title,Descriptions,HasPreviouslyBeenAsked,Importance,YearsAsked,ProbableCases
 S_OP_,Episcleritis,"- Details about Episcleritis;- Clinical features
 - Management of episcleritis",True,3,2024-02;2011-08;2009-02,,n=OP-akkco&ed=9&vol=0#133,
 S_OP_,Anterior Staphyloma,,True,1,2023-06,,n=OP-akkco&ed=9&vol=0#137,
-S_OP_,Scleritis,,True,2,2018-08;1998-04,,n=OP-akkco&ed=9&vol=1#135,
-S_OP_,Staphylomas,,True,4,2017-08;2013-08;2006-02;2003-10,,n=OP-akkco&ed=9&vol=1#137,
+S_OP_,Scleritis,- Associated Systemic Diseases (Asked as a Short Answer),True,2,2018-08;1998-04,,n=OP-akkco&ed=9&vol=0#135,
+S_OP_,Staphylomas,,True,4,2017-08;2013-08;2006-02;2003-10,,n=OP-akkco&ed=9&vol=0#137,
 S_OP_,Scleromalacia Perforans,,True,1,2015-08,,n=OP-akkco&ed=9&vol=1#136,
 S_OP_,Nodular Episcleritis,,True,1,2003-10,,n=OP-akkco&ed=9&vol=1#134,

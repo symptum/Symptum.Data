@@ -1,10 +1,10 @@
 Id,Title,Descriptions,HasPreviouslyBeenAsked,Importance,YearsAsked,ProbableCases,BookReferences,LinkReferences
 S_OP_,Abducent (or) Sixth Cranial Nerve Palsy,,True,1,2024-02,,,
-S_OP_,Extraocular Muscles,"- Nerve Supply and Action of Superior Oblique (Asked as a Short Answer);- Nerve Supply
-- Action",True,5,2023-06;2019-08;2018-08;2018-02;2008-08,,n=OP-akkco&ed=9&vol=0#318,
-S_OP_,Amblyopia,- Types (Asked as a Short Answer),True,2,2023-06;2020-11,,n=OP-akkco&ed=9&vol=0#324,
-S_OP_,Paralytic and Concomitant Squint,- Differences,True,1,2019-08,,n=OP-akkco&ed=9&vol=0#329;n=OP-akkco&ed=9&vol=0#334,
-S_OP_,Diplopia,"- Charting;- Classify
-- Causes",True,3,2022-08;2011-08;1998-10,,n=OP-akkco&ed=9&vol=0#325,
+S_OP_,Extraocular Muscles,- Nerve Supply and Action of Superior Oblique (Asked as a Short Answer);- Nerve Supply and Action of Lateral Rectus (Asked as a Short Answer);- Muscles Supplied by Oculomotor (or) Third Cranial Nerve (Asked as a Short Answer),True,5,2023-06;2019-08;2018-08;2018-02;2008-08,,n=OP-akkco&ed=9&vol=0#318,
+S_OP_,Amblyopia,- Types (Asked as a Short Answer);- Causes (Asked as a Short Answer),True,2,2023-06;2020-11,,n=OP-akkco&ed=9&vol=0#324,
+S_OP_,Diplopia Charting,,True,1,2022-08,,n=OP-akkco&ed=9&vol=0#337,
+S_OP_,Paralytic vs Concomitant Squint,- Asked as a Short Answer,True,1,2019-08,,"n=OP-akkco&ed=9&vol=0#329,334",
+S_OP_,Diplopia,"- Classify
+- Causes",True,2,2011-08;1998-10,,n=OP-akkco&ed=9&vol=0#325,
 S_OP_,Grades of Binocular vision,,True,1,2013-02,,n=OP-akkco&ed=9&vol=0#323,
 S_OP_,Esotropia,,True,1,2015-02,,n=OP-akkco&ed=9&vol=0#329,

@@ -6,16 +6,19 @@ E_OP_,Myopia,"- Diagnosis: Pathological (or) Degenerative (or) Progressive Myopi
 - Classification
 - Clinical Features
 - Complications
-- Management",True,4,2023-06;2023-06;2020-11;2019-02,,n=OP-akkco&ed=9&vol=0#37,
-S_OP_,Hypermetropia,"- Definition
+- Management;- Etiology
 - Classification
-- Management",True,10,2023-02;2018-02;2015-02;2013-08;2013-02;2012-08;2012-08;2011-08;2005-08;2005-02,,n=OP-akkco&ed=9&vol=0#34,
+- Clinical Features
+- Management",True,4,2023-06;2023-06;2020-11;2019-02,,n=OP-akkco&ed=9&vol=0#37,
+S_OP_,Hypermetropia,,True,10,2023-02;2018-02;2015-02;2013-08;2013-02;2012-08;2012-08;2011-08;2005-08;2005-02,,n=OP-akkco&ed=9&vol=0#34,
 S_OP_,Strum's Conoid,,True,1,2023-02,,n=OP-akkco&ed=9&vol=0#41,
+E_OP_,Hypermetropia,"- Definition
+- Clinical Features
+- Management",True,1,2020-02,,n=OP-akkco&ed=9&vol=0#34,
+S_OP_,Treatment of Myopia,,True,6,2017-02;2007-08;2001-11;2000-10;1997-10;1993-01,,n=OP-akkco&ed=9&vol=0#37,
 S_OP_,Emmetropia,"Draw the optical diagram of Emmetropia, Hypermetropia and myopia",True,1,2015-08,,n=OP-akkco&ed=9&vol=0#33,
-E_OP_,Hypermetropia,"Define hypermetropia. ;Discuss its clinical features;management. ",True,1,2020-02,,n=OP-akkco&ed=9&vol=0#34,
 S_OP_,Aphakia,,True,2,2016-02;2013-08,,n=OP-akkco&ed=9&vol=0#36,
 S_OP_,pseudophakia,,True,2,2014-02;2006-08,,n=OP-akkco&ed=9&vol=0#37,
-S_OP_,Myopia,,True,6,2017-02;2007-08;2001-11;2000-10;1997-10;1993-01,,n=OP-akkco&ed=9&vol=0#37,
 S_OP_,Pathological myopia,,True,2,2012-02;2010-02,,n=OP-akkco&ed=9&vol=0#38,
 S_OP_,Astigmatism,types;clinical features;management,True,8,2016-08;2014-02;2012-08;2011-08;2010-08;2010-02;2007-02;2003-10,,n=OP-akkco&ed=9&vol=0#40,
 S_OP_,Accommodation,,True,1,2012-08,,n=OP-akkpo&ed=9&vol=0#44,

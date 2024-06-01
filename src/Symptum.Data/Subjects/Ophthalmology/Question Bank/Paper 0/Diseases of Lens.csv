@@ -1,13 +1,21 @@
 Id,Title,Descriptions,HasPreviouslyBeenAsked,Importance,YearsAsked,ProbableCases,BookReferences,LinkReferences
-S_OP_,Complicated Cataract,- Causes (Asked as a Short Answer),True,8,2023-06;2018-08;2018-02;2016-02;2013-02;2008-02;2005-08;1995-04,,n=OP-akkco&ed=7&vol=0#184,
-E_OP_,Diabetic Cataract,"- Diagnosis
+S_OP_,Complicated Cataract,- Causes (Asked as a Short Answer),True,8,2023-06;2018-08;2018-02;2016-02;2013-02;2008-02;2005-08;1995-04,,n=OP-akkco&ed=9&vol=0#184,
+E_OP_,Diabetic (or) Snowflake (or) Snowstorm Cataract,"- Diagnosis
 - Clinical Features
 - Management",True,1,2023-02,"A **65** year old **diabetic** patient with C/O both eye **progressive painless loss of vision** over the past one year. On Examination, there is a **greyish white reflex** in the pupillary area of the right eye.","n=OP-akkco&ed=9&vol=0#177,183",
 S_OP_,Counselling a Cataract Patient with Poor Visual Prognosis,- AETCOM,True,1,2023-02,,,
-S_OP_7.2.7.2,Zonular or Lamellar Cataract,,True,2,2018-02;1992-04,,n=OP-parsdoe&ed=23&vol=0#242;n=OP-akkco&ed=7&vol=0#189,
+S_OP_,Ectopia Lentis,- Asked as a Short Answer,True,1,2022-08,,n=OP-akkco&ed=9&vol=0#203,
+S_OP_,Biometry (or) Calculation of IOL Power,- A-scan Ultrasonic Biometry (Asked as a Short Answer),True,2,2022-04;2022-02,,n=OP-akkco&ed=9&vol=0#198,
+S_OP_,Congenital Cataract,- Causes (Asked as a Short Answer),True,1,2022-02,,n=OP-akkco&ed=9&vol=0#173,
+S_OP_,Nuclear Cataract,,True,1,2021-09,,"n=OP-akkco&ed=9&vol=0#174,179",
+S_OP_,Drug Induced Cataract,- Causes (Asked as a Short Answer),True,1,2021-09,,n=OP-akkco&ed=9&vol=0#184,
+S_OP_,Complications of Cataract Surgery,,True,2,2019-08;2014-02,,n=OP-akkco&ed=9&vol=0#199,
+S_OP_,Treatment of Posterior Capsular Opacification (or) Cataract,- Asked as a Short Answer,True,1,2019-08,,,
+S_OP_,Lamellar (or) Zonular Cataract,,True,2,2018-02;1992-04,,n=OP-akkco&ed=9&vol=0#174,
+S_OP_,Hypermature Cataract,- Asked as a Short Answer,True,1,2017-02,,n=OP-akkco&ed=9&vol=0#178,
 E_OP_7.3.1,"Mention the causes of progressive loss of vision and describe signs, symptoms and management of mature cataract",,True,3,2015-02;2002-03;1995-11,What are the causes of gradual diminution of vision in a patient of age 59 ?  How will you investigate this patient?,"n=OP-parsdoe&ed=23&vol=0#246;n=OP-akkco&ed=7&vol=0#196,197",
 E_OP_7.2,What are the causes of Cataract? How will you treat a case of uniocular cataract?,Aetiopathogenesis/-Cataract associated with ocular diseases/-Cataract associated with systemic diseases/-Other causes of Cataract/-Treatment of Aphakia/-Cataract Surgeries,True,2,2001-11;1997-04,,"n=OP-parsdoe&ed=23&vol=0#234,247,254;n=OP-akkco&ed=7&vol=0#193-196, 199-202, 448",
-E_OP_7.2.7,"Describe the etiology, clinical features and management of congenital cataract",,True,4,2021-09;2014-02;2001-11;1998-10,Enumerate the causes of Leukocoria,n=OP-parsdoe&ed=23&vol=0#241-244;n=OP-akkco&ed=7&vol=0#188-192,
+E_OP_7.2.7,"Describe the etiology, clinical features and management of congenital cataract",,True,3,2014-02;2001-11;1998-10,Enumerate the causes of Leukocoria,n=OP-parsdoe&ed=23&vol=0#241-244;n=OP-akkco&ed=7&vol=0#188-192,
 S_OP_7.4.2.5,After Cataract,,True,3,2010-08;2010-02;2001-04,,n=OP-parsdoe&ed=23&vol=0#258;n=OP-akkco&ed=7&vol=0#221,
 E_OP_7.2; 7.4.2.3,Define Cataract. Enumerate the acquired cataracts. Describe briefly the management of Senile Cataract and add a brief note on postoperative complications,,True,4,2012-08;2008-02;2001-11;1997-04,,"n=OP-akkco&ed=7&vol=0#193-202;n=OP-parsdoe&ed=23&vol=0#236-241 ",
 S_OP_7.2.7.9.2,Two syndromes associated with subluxated lens,,True,3,2016-02;2012-02;2008-02,,n=OP-parsdoe&ed=23&vol=0#245;n=OP-akkco&ed=7&vol=0#222,
@@ -16,6 +24,3 @@ S_OP_7.4.1.4,Phaecoemulsification,,True,1,2010-02,,"n=OP-akkco&ed=7&vol=0#211;n=
 E_OP_7.3,Enumerate the preoperative investigations for Cataract surgery,,True,1,2010-08,,n=OP-akkco&ed=7&vol=0#202-204,
 S_OP_7.2.7.9.2,Mention 4 causes of dislocation of lens,,True,2,2013-08;2010-08,,n=OP-akkco&ed=7&vol=0#224;n=OP-parsdoe&ed=23&vol=0#245,
 S_OP_7.2.3,Difference between cupoliform and cuneiform cataract,,True,1,2012-08,,"n=OP-parsdoe&ed=23&vol=0#237,241;n=OP-akkco&ed=7&vol=0#194",
-S_OP_7.4.2.3,Post operative complications of Cataract surgery,,True,2,2019-08;2014-02,,n=OP-akkco&ed=7&vol=0#219-221;n=OP-parsdoe&ed=23&vol=0#258,
-S_OP_7.2.3,Hypermature Cataract,,True,1,2017-02,,n=OP-akkco&ed=7&vol=0#195;n=OP-parsdoe&ed=23&vol=0#240,
-S_OP_7.2,2 drugs causing cataract,,True,1,2021-09,,n=OP-akkco&ed=7&vol=0#201,
