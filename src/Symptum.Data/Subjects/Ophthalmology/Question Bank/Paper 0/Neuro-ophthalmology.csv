@@ -6,12 +6,13 @@ E_OP_,Optic Neuritis,"- Etiology
 - Classification
 - Clinical Features
 - Management",True,2,2022-02;2008-08,,n=OP-akkco&ed=9&vol=0#298,
-S_OP_,Tests for Colour Vision,- Asked as a Short Answer,True,3,2020-02;2012-08;2009-08,,n=OP-akkco&ed=9&vol=0#310,
-S_OP_,Nyctalopia (or) Night Blindness,- Causes (Asked as a Short Answer);- Asked as a Short Answer,True,5,2018-08;2017-02;2009-02;2005-02;2002-03,,n=OP-akkco&ed=9&vol=0#308,
+S_OP_,Color Blindness,- Tests for Colour Vision (Asked as a Short Answer),True,4,2020-02;2012-08;2009-08;2005-02,,"n=OP-akkco&ed=9&vol=0#309,310",
+S_OP_,Nyctalopia (or) Night Blindness,- Causes (Asked as a Short Answer),True,5,2018-08;2017-02;2009-02;2005-02;2002-03,,n=OP-akkco&ed=9&vol=0#308,
 E_OP_,Optic Atrophy,,True,1,2016-08,,n=OP-akkco&ed=9&vol=0#306,
-S_OP_,Optic Atrophy,,True,2,2013-02;2004-02,,n=OP-akkco&ed=9&vol=0#306,
+S_OP_,Optic Atrophy,,True,3,2013-02;2006-02;2004-08,,n=OP-akkco&ed=9&vol=0#306,
 S_OP_,Papilledema vs Papillitis,- Asked as a Short Answer,True,3,2012-08;2012-02;2011-08,,n=OP-akkco&ed=9&vol=0#307,
 S_OP_,Toxic Optic Neuropathy (or) Toxic Amblyopia,- Causes (Asked as a Short Answer);- Causative Drugs (Asked as a Short Answer),True,3,2011-08;2010-02;2008-08,,n=OP-akkco&ed=9&vol=0#300,
-S_OP_,Acute Retrobulbar Neuritis,- Diagnosis (Asked as a Short Answer),True,4,2009-02;2006-08;2000-04;1998-10,,n=OP-akkco&ed=9&vol=0#299,
+S_OP_,Acute Retrobulbar Optic Neuritis,- Diagnosis (Asked as a Short Answer),True,4,2009-02;2006-08;2000-04;1998-10,,n=OP-akkco&ed=9&vol=0#299,
 S_OP_,Lesions of Visual Pathway,- Field Defects in Occipital Lobe Infarct (Asked as a Short Answer),True,1,2008-08,,"n=OP-akkco&ed=9&vol=0#293,296",
-S_OP_,Papillitis,,True,1,2000-10,,n=OP-akkco&ed=9&vol=0#307,
+E_OP_,Ocular Manifestations of Common Neurological Disorders,,True,1,2005-02,,"n=OP-akkco&ed=9&vol=0#293,297,298,311",
+S_OP_,Papillitis,,True,1,2000-10,,"n=OP-akkco&ed=9&vol=0#299,307",

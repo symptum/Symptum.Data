@@ -3,7 +3,7 @@ S_OP_,Corneal Ulcer,"- Clinical Features
 - Management;- Prevention and Management of Perforation of Corneal Ulcer",True,2,2024-02;2012-08,,"n=OP-akkco&ed=9&vol=0#94,99",
 S_OP_,Keratoplasty,"- Classification
 - Indications for Penetrating Keratoplasty (PK);- Complications (Asked as a Short Answer);- Preservation of Donor Cornea;- Indications",True,8,2024-02;2021-09;2016-08;2013-08;2012-02;2010-08;2009-02;1997-04,,n=OP-akkco&ed=9&vol=0#129,
-E_OP_,Mycotic (or) Fungal Keratitis (or) Corneal Ulcer,"- Clinical Features
+E_OP_,Fungal (or) Mycotic Keratitis (or) Corneal Ulcer (or) Keratomycosis,"- Clinical Features
 - Management
 - Complications;- Diagnosis
 - Etiology
@@ -18,34 +18,32 @@ S_OP_,Corneal Opacity vs Ulcer,,True,1,2018-08,,"n=OP-akkco&ed=9&vol=0#94,126",
 S_OP_,Organisms Invading Normal (Intact) Corneal Epithelium,- Asked as a Short Answer,True,2,2018-02;2012-08,,n=OP-akkco&ed=9&vol=0#94,
 E_OP_,Bacterial Keratitis (or) Corneal Ulcer,"- Etiology
 - Pathogenesis
+- Management;- Clinical Features
+- Complications
 - Management;- Etiology
 - Clinical Features
 - Management",True,3,2017-02;2007-02;2005-02,,n=OP-akkco&ed=9&vol=0#94,
-S_OP_,Herpes Simplex Keratitis,- Causes and Management of Geographic Ulcer;- Disciform Keratitis,True,4,2016-08;2014-02;2013-02;2008-08,,"n=OP-akkco&ed=9&vol=0#102,104",
+S_OP_,Herpes Simplex Keratitis,- Causes and Management of Geographic Ulcer;- Disciform Keratitis;- Dendritic Ulcer,True,6,2016-08;2014-02;2013-02;2008-08;2005-08;2005-02,,"n=OP-akkco&ed=9&vol=0#102,104",
 S_OP_,Anatomy of Cornea,- Layers (Asked as a Short Answer),True,2,2016-02;2015-08,,n=OP-akkco&ed=9&vol=0#90,
 E_OP_,Corneal Ulcer,"- Clinical Features
 - Diagnosis
 - Investigations
-- Management",True,2,2015-08;2005-08,,n=OP-akkco&ed=9&vol=0#94,
+- Treatment;- Etiology
+- Clinical Features
+- Treatment",True,2,2015-08;2005-08,,n=OP-akkco&ed=9&vol=0#94,
 S_OP_,Common Fungi Affecting the Cornea,- Asked as a Short Answer,True,2,2014-02;2013-02,,n=OP-akkco&ed=9&vol=0#100,
-E_OP_,Hypopyon Corneal Ulcer,"- Etiology
+E_OP_,Hypopyon Corneal Ulcer (or) Ulcus Serpens,"- Etiology
 - Clinical Features
 - Diagnosis
-- Treatment;- Ulcer serpens
-- Etiology
-- Clinical features
-- Management",True,7,2013-08;2010-02;2009-02;2006-08;2005-02;2000-10;1993-01,,n=OP-akkco&ed=9&vol=0#97,
+- Treatment",True,7,2013-08;2010-02;2009-02;2006-08;2005-02;2000-10;1993-01,,n=OP-akkco&ed=9&vol=0#97,
 S_OP_,Acanthamoeba Keratitis,,True,3,2013-08;2011-08;2010-08,,n=OP-akkco&ed=9&vol=0#107,
-S_OP_,Syphilitic (or) Leutic Interstitial Keratitis,- Hutchinson's Triad (Asked as a Short Answer),True,2,2013-02;2007-08,,n=OP-akkco&ed=9&vol=0#115,
+S_OP_,Interstitial Keratitis,- Syphilitic (or) Leutic Interstitial Keratitis: Hutchinson's Triad (Asked as a Short Answer),True,2,2013-02;2007-08,,n=OP-akkco&ed=9&vol=0#114,
 S_OP_,Viral Keratitis,- Clinical Features,True,3,2012-08;2012-02;2009-08,,n=OP-akkco&ed=9&vol=0#101,
-E_OP_,Herpes simplex keratitis,"- Symptoms
-- Signs
-- Treatment",True,1,2005-08,,n=OP-akkco&ed=9&vol=1#102,
-S_OP_,Fungal keratitis,- Details about Fungal keratitis;- Fungal Corneal ulcer,True,4,2005-08;2003-10;2000-04;1991-12,,n=OP-akkco&ed=9&vol=1#100,
-S_OP_,Dendritic Ulcer,,True,3,2005-08;2005-02;1999-04,,n=OP-akkco&ed=9&vol=1#103,
-S_OP_,Corneal vascularisation,- Details about Corneal Vascularization;- Pannus,True,2,2004-08;2002-03,,n=OP-akkco&ed=9&vol=1#128,
-S_OP_,Keratomycosis,,True,1,2001-11,,n=OP-akkco&ed=9&vol=1#100,
-S_OP_,Exposure keratitis,,True,2,2001-11;1993-01,,n=OP-akkco&ed=9&vol=1#110,
+E_OP_,Herpes Simplex Keratitis,"- Clinical Features
+- Management",True,1,2005-08,,n=OP-akkco&ed=9&vol=0#102,
+S_OP_,Fungal (or) Mycotic Keratitis (or) Corneal Ulcer (or) Keratomycosis,,True,5,2005-08;2003-10;2001-11;2000-04;1991-12,,n=OP-akkco&ed=9&vol=0#100,
+S_OP_,Corneal Vascularisation,- Pannus,True,2,2004-08;2002-03,,n=OP-akkco&ed=9&vol=0#128,
+S_OP_,Exposure Keratitis,,True,2,2001-11;1993-01,,n=OP-akkco&ed=9&vol=0#110,
 S_OP_,Corneal opacity,,True,1,1996-10,,n=OP-akkco&ed=9&vol=1#126,
 S_OP_,"Hypopion Corneal Ulcer ",,True,1,1999-11,,n=OP-akkco&ed=9&vol=1#97,
 E_OP_,"Herpetic kerato conjunctivitis ","- Aetiopathogenesis

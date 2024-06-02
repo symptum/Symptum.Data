@@ -9,20 +9,28 @@ S_OP_,Biometry (or) Calculation of IOL Power,- Axial Length (or) A-scan Ultrason
 S_OP_,Congenital Cataract,- Causes (Asked as a Short Answer);- Common Types (Asked as a Short Answer),True,3,2022-02;2014-02;2012-08,,n=OP-akkco&ed=9&vol=0#173,
 S_OP_,Nuclear Cataract,,True,1,2021-09,,"n=OP-akkco&ed=9&vol=0#174,179",
 S_OP_,Drug Induced Cataract,- Causes (Asked as a Short Answer),True,1,2021-09,,n=OP-akkco&ed=9&vol=0#184,
-S_OP_,Complications of Cataract Surgery,- Posterior Capsular Opacification (or) Secondary (or) After Cataract,True,4,2019-08;2014-02;2010-08;2010-02,,"n=OP-akkco&ed=9&vol=0#199,202",
+S_OP_,Complications of Cataract Surgery,- Posterior Capsular Opacification (or) Secondary (or) After Cataract,True,5,2019-08;2014-02;2010-08;2010-02;2001-04,,"n=OP-akkco&ed=9&vol=0#199,202",
 S_OP_,Treatment of Posterior Capsular Opacification (or) Cataract,- Asked as a Short Answer,True,1,2019-08,,,
 S_OP_,Lamellar (or) Zonular Cataract,,True,2,2018-02;1992-04,,n=OP-akkco&ed=9&vol=0#174,
 S_OP_,Hypermature Cataract,- Asked as a Short Answer,True,1,2017-02,,n=OP-akkco&ed=9&vol=0#178,
-S_OP_,Subluxation of Lens,- Associated Syndromes,True,3,2016-02;2012-02;2009-02,,n=OP-akkco&ed=9&vol=0#204,
+S_OP_,Subluxation of Lens,- Associated Syndromes (Asked as a Short Answer),True,4,2016-02;2012-02;2009-02;2001-04,,n=OP-akkco&ed=9&vol=0#204,
 E_OP_,Senile Cataract,"- Causes of Progressive Loss of Vision
 - Management of Senile Cortical Cataract;- Clinical Features
 - Diagnosis
 - Management;- Definition of Cataract
 - Clinical Features
-- Management",True,3,2015-02;2012-08;2008-02,,n=OP-akkco&ed=9&vol=0#177,
+- Management;- Causes of Painless Progressive Loss of Vision
+- Clinical Features
+- Management of Mature Cataract;- Acquired Cataracts
+- Management of Senile Cataract
+- Post-operative Complications",True,5,2015-02;2012-08;2008-02;2002-03;2001-11,,n=OP-akkco&ed=9&vol=0#177,
 S_OP_,Dislocation (or) Luxation of Lens,- Causes (Asked as a Short Answer),True,2,2013-08;2010-08,,n=OP-akkco&ed=9&vol=0#204,
 S_OP_,Cupuliform (Senile Posterior Subcapsular) vs Cuneiform (Senile Cortical) Cataract,- Asked as a Short Answer,True,1,2012-08,,n=OP-akkco&ed=9&vol=0#178,
 S_OP_,Phaecoemulsification,- Advantages (Asked as a Short Answer);- Asked as a Short Answer,True,4,2012-02;2011-08;2010-02;2009-02,,"n=OP-akkco&ed=9&vol=0#188,193",
 E_OP_,Pre-operative Investigations for Cataract Surgery,,True,1,2010-08,,n=OP-akkco&ed=9&vol=0#185,
-E_OP_7.3.1,"Mention the causes of progressive loss of vision and describe signs, symptoms and management of mature cataract",,True,2,2002-03;1995-11,What are the causes of gradual diminution of vision in a patient of age 59 ?  How will you investigate this patient?,"n=OP-parsdoe&ed=23&vol=0#246;n=OP-akkco&ed=7&vol=0#196,197",
-E_OP_7.2,What are the causes of Cataract? How will you treat a case of uniocular cataract?,Aetiopathogenesis/-Cataract associated with ocular diseases/-Cataract associated with systemic diseases/-Other causes of Cataract/-Treatment of Aphakia/-Cataract Surgeries,True,2,2001-11;1997-04,,"n=OP-parsdoe&ed=23&vol=0#234,247,254;n=OP-akkco&ed=7&vol=0#193-196, 199-202, 448",
+S_OP_,Intraocular Lenses (IOL),,True,2,2003-10;2000-10,,n=OP-akkco&ed=9&vol=0#195,
+E_OP_,Congenital Cataract,"- Causes of Leucocoria
+- Classification
+- Etiology
+- Clinical Features
+- Management",True,1,2001-11,,n=OP-akkco&ed=9&vol=0#173,

@@ -4,29 +4,29 @@ E_OP_,Primary Angle Closure Disease (or) Glaucoma (PACD/PACG),"- Probable Diagno
 - Pathogenesis
 - Classification
 - Clinical Features
-- Management;- Causes of Painful Loss of Vision
+- Management;- Causes of Sudden Painful Loss of Vision
 - Etiology
 - Clinical Features
 - Management;- Stages
 - Clinical Features
 - Management;- Differential Diagnosis of Red Eye
-- Management of Acute Congestive Glaucoma",True,8,2024-02;2022-04;2018-08;2016-02;2013-02;2010-08;2008-08;1991-08,"A 50 year old male presented with **headache, nausea, vomiting, pain in right eye with redness and H/O coloured halos** around light. On Examination, **visual acuity was 1/60 and intraocular pressure was 50 mmHg**. On Slit Lamp Examination there were, RE: **circumcorneal congestion, corneal edema and shallow anterior chamber with mid dilated pupil**.",n=OP-akkco&ed=9&vol=0#225,
+- Management of Acute Congestive Glaucoma",True,10,2024-02;2022-04;2018-08;2016-02;2013-02;2010-08;2008-08;2004-08;2003-10;1991-08,"A 50 year old male presented with **headache, nausea, vomiting, pain in right eye with redness and H/O coloured halos** around light. On Examination, **visual acuity was 1/60 and intraocular pressure was 50 mmHg**. On Slit Lamp Examination there were, RE: **circumcorneal congestion, corneal edema and shallow anterior chamber with mid dilated pupil**.",n=OP-akkco&ed=9&vol=0#225,
 S_OP_,Lens Induced (or) Phacogenic Glaucoma,- Phacolytic (or) Lens Protein Glaucoma,True,10,2024-02;2023-06;2023-02;2022-04;2020-02;2013-08;2012-02;2010-02;2005-08;2005-02,,n=OP-akkco&ed=9&vol=0#231,
-S_OP_,Medical Management of Glaucoma,- Primary Open Angle Glaucoma (POAG),True,5,2023-06;2017-08;2012-08;2003-10;2001-11,,"n=OP-akkco&ed=9&vol=0#221,229,230",
+S_OP_,Medical Management of Glaucoma,- Primary Open Angle Glaucoma (POAG),True,3,2023-06;2017-08;2012-08,,"n=OP-akkco&ed=9&vol=0#221,229,230",
 E_OP_,Primary Open Angle Glaucoma (POAG) (or) Chronic Simple Glaucoma,"- Etiology
 - Clinical Features
 - Management;- Definition
 - Clinical Features
 - Investigations
-- Treatment",True,6,2021-09;2012-02;2009-02;2007-08;2001-04;2000-04,,n=OP-akkpo&ed=9&vol=0#215,
+- Treatment;- Causes of Progressive Loss of Vision
+- Clinical Features
+- Management",True,7,2021-09;2012-02;2009-02;2007-08;2002-03;2001-04;2000-04,,n=OP-akkpo&ed=9&vol=0#215,
 S_OP_,Surgical Treatment of Glaucoma,- Types (Asked as a Short Answer),True,2,2019-02;2011-08,,n=OP-akkco&ed=9&vol=0#235,
-S_OP_,Field Defects in Primary Open Angle Glaucoma (POAG),- Definition and Types of Scotoma (Asked as a Short Answer),True,5,2017-02;2015-02;2011-08;2009-08;1997-04,,"n=OP-akkco&ed=9&vol=0#217,220",
-S_OP_,Congenital (or) Developmental (or) Childhood Glaucomas,- Buphthalmos (Asked as a Short Answer),True,4,2014-02;2012-08;2002-03;2001-04,,n=OP-akkco&ed=9&vol=0#212,
+S_OP_,Field Defects in Primary Open Angle Glaucoma (POAG),- Definition and Types of Scotoma (Asked as a Short Answer);- Seidel's Scotoma,True,6,2017-02;2015-02;2011-08;2009-08;2002-03;1997-04,,"n=OP-akkco&ed=9&vol=0#217,220",
+S_OP_,Congenital (or) Developmental (or) Childhood Glaucomas,- Buphthalmos,True,4,2014-02;2012-08;2002-03;2001-04,,n=OP-akkco&ed=9&vol=0#212,
 S_OP_,Absolute Primary Angle Closure Glaucoma,- Management,True,2,2013-08;2010-08,,n=OP-akkco&ed=9&vol=0#230,
 S_OP_,Circulation of Aqueous Humour,,True,1,2013-02,,n=OP-akkco&ed=9&vol=0#209,
 S_OP_,Ocular Hypertension,- Definition (Asked as a Short Answer),True,1,2013-02,,n=OP-akkco&ed=9&vol=0#223,
-S_OP_,Acute Congestive (or) Primary Angle Closure Glaucoma (POAG),,True,2,2011-08;2010-02,,n=OP-akkco&ed=9&vol=0#229,
-E_OP_,"Chronic simple glaucoma ","-clinical features/ treatment ",True,1,2002-03,,n=OP-akkco&ed=9&vol=1#215,
-E_OP_,Buphthalmos,"-symptoms/ signs/ treatment ",True,1,2007-02,,n=OP-akkpo&ed=9&vol=1#212,
-S_OP_,Iris bombe,,True,1,,,n=OP-akkco&ed=9&vol=1#225,
-S_OP_,Seidel's scotoma,,True,1,,,n=OP-akkco&ed=9&vol=1#219,
+S_OP_,Acute Congestive (or) Primary Angle Closure Glaucoma (POAG),,True,3,2011-08;2010-02;2001-11,,n=OP-akkco&ed=9&vol=0#229,
+E_OP_,Primary Congenital Glaucomas: Buphthalmos,"- Clinical Features
+- Management",True,1,2007-02,,n=OP-akkpo&ed=9&vol=0#212,
