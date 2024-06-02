@@ -1,6 +1,6 @@
 Id,Title,Descriptions,HasPreviouslyBeenAsked,Importance,YearsAsked,ProbableCases,BookReferences,LinkReferences
 S_OP_,Indications for Breach of Confidentiality,- AETCOM,True,1,2024-02,,,
-S_OP_,Enucleation,- Indications (Asked as a Short Answer),True,3,2024-02;2023-06;2018-02,,n=OP-akkco&ed=9&vol=0#289,
+S_OP_,Enucleation,- Indications (Asked as a Short Answer),True,4,2024-02;2023-06;2018-02;2009-02,,n=OP-akkco&ed=9&vol=0#289,
 S_OP_,Red Eye,,True,1,2023-06,,"n=OP-akkco&ed=9&vol=0#61,150",
 S_OP_,Hutchinson's Sign,"- Asked as a Short Answer
 - Ambiguous: May Refer to Hutchinson's Triad (or) Hutchinson's Rule in Herpes Zoster Ophthalmicus (or) Hutchinson's Pupil",True,1,2022-08,,"n=OP-akkco&ed=9&vol=0#105,115,315",
@@ -12,6 +12,9 @@ S_OP_,Paracentesis,- Indications (Asked as a Short Answer),True,1,2020-02,,"n=OP
 S_OP_,Evaluation of Vision in Children,,True,1,2019-08,,,
 S_OP_,Causes of Shallow Anterior Chamber,- Asked as a Short Answer,True,1,2014-02,,,
 S_OP_,Gram Negative Microbes,- Asked as a Short Answer,True,1,2014-02,,,
-S_OP_,Tubular Vision,- Asked as a Short Answer,True,2,2013-08;2012-02,,"n=OP-akkco&ed=9&vol=0#220,268",
+S_OP_,Tubular Vision,- Asked as a Short Answer,True,4,2013-08;2012-02;2010-02;2009-08,,"n=OP-akkco&ed=9&vol=0#220,268",
 S_OP_,Fincham's Test,- Asked as a Short Answer,True,1,2012-08,,n=OP-akkco&ed=9&vol=0#228,
 S_OP_,Sudden Painless Loss of Vision,- Asked as a Short Answer,True,1,2012-08,,,
+S_OP_,Differential Diagnosis of Leucocoria,- Leucocoria in Children,True,2,2011-08;2008-08,,"n=OP-akkco&ed=9&vol=0#157,176,182,242,266,267,285,287",
+S_OP_,Causes for Variations in Intraocular Pressure in Iridocyclitis,,True,1,2009-08,,n=OP-akkco&ed=9&vol=0#232,
+S_OP_,Causes of Defective Dark Adaptation,- Asked as a Short Answer,True,1,2008-08,,,

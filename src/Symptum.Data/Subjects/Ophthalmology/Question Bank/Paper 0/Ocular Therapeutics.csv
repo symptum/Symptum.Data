@@ -1,7 +1,7 @@
 Id,Title,Descriptions,HasPreviouslyBeenAsked,Importance,YearsAsked,ProbableCases,BookReferences,LinkReferences
 S_OP_,Anti-fungal Drugs,,True,2,2024-02;2020-02,,n=OP-akkco&ed=9&vol=0#428,
 S_OP_,Mydriatics and Cycloplegics,"- Mechanism of Action
-- Uses;- Atropine (Asked as a Short Answer);- Homatropine",True,10,2023-06;2019-08;2016-02;2015-02;2011-08;2009-02;2008-02;2005-02;2004-02;2002-03,,n=OP-akkco&ed=9&vol=0#433,
+- Uses;- Atropine;- Homatropine",True,10,2023-06;2019-08;2016-02;2015-02;2011-08;2009-02;2008-02;2005-02;2004-02;2002-03,,n=OP-akkco&ed=9&vol=0#433,
 S_OP_,Anti-VEGF (Anti-Vascular Endothelial Growth Factor) Agents,,True,3,2023-06;2023-02;2017-02,,n=OP-akkco&ed=9&vol=0#437,
 S_OP_,Modes of Administration,,True,1,2023-02,,n=OP-akkco&ed=9&vol=0#423,
 S_OP_,Prostaglandin Analogues,,True,1,2022-08,,n=OP-akkco&ed=9&vol=0#429,

@@ -16,19 +16,28 @@ S_OP_,Herpes Zoster Ophthalmicus,,True,2,2022-02;2010-08,,n=OP-akkco&ed=9&vol=0#
 S_OP_,Corneal Blindness,,True,1,2019-02,,n=OP-akkco&ed=9&vol=0#126,
 S_OP_,Corneal Opacity vs Ulcer,,True,1,2018-08,,"n=OP-akkco&ed=9&vol=0#94,126",
 S_OP_,Organisms Invading Normal (Intact) Corneal Epithelium,- Asked as a Short Answer,True,2,2018-02;2012-08,,n=OP-akkco&ed=9&vol=0#94,
-E_OP_,Bacterial Keratitis (or) Corneal Ulcer,"- Etiology- Pathogenesis- Management;- Etiology- Clinical Features- Management",True,3,2017-02;2007-02;2005-02,,n=OP-akkco&ed=9&vol=0#94,
-S_OP_,Herpes Simplex Keratitis,- Causes and Management of Geographic Ulcer,True,3,2016-08;2014-02;2013-02,,n=OP-akkco&ed=9&vol=0#102,
+E_OP_,Bacterial Keratitis (or) Corneal Ulcer,"- Etiology
+- Pathogenesis
+- Management;- Etiology
+- Clinical Features
+- Management",True,3,2017-02;2007-02;2005-02,,n=OP-akkco&ed=9&vol=0#94,
+S_OP_,Herpes Simplex Keratitis,- Causes and Management of Geographic Ulcer;- Disciform Keratitis,True,4,2016-08;2014-02;2013-02;2008-08,,"n=OP-akkco&ed=9&vol=0#102,104",
 S_OP_,Anatomy of Cornea,- Layers (Asked as a Short Answer),True,2,2016-02;2015-08,,n=OP-akkco&ed=9&vol=0#90,
-E_OP_,Corneal Ulcer,"- Clinical Features- Diagnosis- Investigations- Management",True,2,2015-08;2005-08,,n=OP-akkco&ed=9&vol=0#94,
+E_OP_,Corneal Ulcer,"- Clinical Features
+- Diagnosis
+- Investigations
+- Management",True,2,2015-08;2005-08,,n=OP-akkco&ed=9&vol=0#94,
 S_OP_,Common Fungi Affecting the Cornea,- Asked as a Short Answer,True,2,2014-02;2013-02,,n=OP-akkco&ed=9&vol=0#100,
-E_OP_,Hypopyon Corneal Ulcer,"- Etiology- Clinical Features- Diagnosis- Treatment;- Ulcer serpens
+E_OP_,Hypopyon Corneal Ulcer,"- Etiology
+- Clinical Features
+- Diagnosis
+- Treatment;- Ulcer serpens
 - Etiology
 - Clinical features
 - Management",True,7,2013-08;2010-02;2009-02;2006-08;2005-02;2000-10;1993-01,,n=OP-akkco&ed=9&vol=0#97,
 S_OP_,Acanthamoeba Keratitis,,True,3,2013-08;2011-08;2010-08,,n=OP-akkco&ed=9&vol=0#107,
 S_OP_,Syphilitic (or) Leutic Interstitial Keratitis,- Hutchinson's Triad (Asked as a Short Answer),True,2,2013-02;2007-08,,n=OP-akkco&ed=9&vol=0#115,
-S_OP_,Viral Keratitis,- Clinical Features;- Asked as a Short Answer,True,3,2012-08;2012-02;2009-08,,n=OP-akkco&ed=9&vol=0#101,
-S_OP_,Disciform Keratitis,,True,1,2008-08,,n=OP-akkco&ed=9&vol=1#104,
+S_OP_,Viral Keratitis,- Clinical Features,True,3,2012-08;2012-02;2009-08,,n=OP-akkco&ed=9&vol=0#101,
 E_OP_,Herpes simplex keratitis,"- Symptoms
 - Signs
 - Treatment",True,1,2005-08,,n=OP-akkco&ed=9&vol=1#102,

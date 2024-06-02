@@ -11,17 +11,16 @@ E_OP_,Myopia,"- Diagnosis: Pathological (or) Degenerative (or) Progressive Myopi
 - Clinical Features
 - Management",True,4,2023-06;2023-06;2020-11;2019-02,,n=OP-akkco&ed=9&vol=0#37,
 S_OP_,Hypermetropia,,True,9,2023-02;2018-02;2015-02;2013-08;2013-02;2012-08;2011-08;2005-08;2005-02,,n=OP-akkco&ed=9&vol=0#34,
-S_OP_,Strum's Conoid,,True,2,2023-02;2016-08,,n=OP-akkco&ed=9&vol=0#41,
+S_OP_,Strum's Conoid,- Diagram (Asked as a Short Answer),True,5,2023-02;2016-08;2011-08;2010-08;2010-02,,n=OP-akkco&ed=9&vol=0#41,
 E_OP_,Hypermetropia,"- Definition
 - Clinical Features
 - Management",True,1,2020-02,,n=OP-akkco&ed=9&vol=0#34,
-S_OP_,Treatment of Myopia,,True,6,2017-02;2007-08;2001-11;2000-10;1997-10;1993-01,,n=OP-akkco&ed=9&vol=0#37,
+S_OP_,Treatment of Myopia,- Surgical Treatment (Asked as a Short Answer),True,7,2017-02;2008-08;2007-08;2001-11;2000-10;1997-10;1993-01,,n=OP-akkco&ed=9&vol=0#37,
 S_OP_,Aphakia,- Causes (Asked as a Short Answer),True,2,2016-02;2013-08,,n=OP-akkco&ed=9&vol=0#36,
 S_OP_,"Optical Diagrams of Emmetropia, Hypermetropia and Myopia",- Asked as a Short Answer,True,1,2015-08,,"n=OP-akkco&ed=9&vol=0#33,34,37",
 S_OP_,Pseudophakia,,True,2,2014-02;2006-08,,n=OP-akkco&ed=9&vol=0#37,
-S_OP_,Astigmatism,- Types;- Types of Lenses Used for Correction (Asked as a Short Answer),True,7,2014-02;2012-08;2011-08;2010-08;2010-02;2007-02;2003-10,,n=OP-akkco&ed=9&vol=0#40,
+S_OP_,Astigmatism,- Types;- Types of Lenses Used for Correction (Asked as a Short Answer),True,4,2014-02;2012-08;2007-02;2003-10,,n=OP-akkco&ed=9&vol=0#40,
 S_OP_,Accommodation,- Asked as a Short Answer,True,1,2012-08,,n=OP-akkpo&ed=9&vol=0#44,
 S_OP_,Pathological Myopia,,True,2,2012-02;2010-02,,n=OP-akkco&ed=9&vol=0#38,
 S_OP_,Anisometropia,- Asked as a Short Answer,True,1,2012-02,,n=OP-akkco&ed=9&vol=0#43,
-S_OP_,Contact lens,,True,3,2008-02;2006-02;2004-08,,n=OP-akkco&ed=9&vol=0#50,
-S_OP_,refractive surgeries,,True,1,2008-08,,n=OP-akkco&ed=9&vol=0#51,
+S_OP_,Contact Lenses,,True,3,2008-02;2006-02;2004-08,,n=OP-akkco&ed=9&vol=0#50,
