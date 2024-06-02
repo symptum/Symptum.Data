@@ -1,5 +1,7 @@
 Id,Title,Descriptions,HasPreviouslyBeenAsked,Importance,YearsAsked,ProbableCases,BookReferences,LinkReferences
-S_OP_,Chronic Dacryocystitis,,True,1,2023-06,,n=OP-akkco&ed=9&vol=0#377,
+S_OP_,Chronic Dacryocystitis,- Treatment (Asked as a Short Answer),True,3,2023-06;2014-02;2013-08,,n=OP-akkco&ed=9&vol=0#377,
 S_OP_,Etiological Classification of Dry Eye Disease,,True,1,2023-02,,n=OP-akkco&ed=9&vol=0#371,
 S_OP_,Acute Dacryocystitis,- Complications (Asked as a Short Answer),True,1,2018-08,,n=OP-akkco&ed=9&vol=0#378,
 S_OP_,Congenital Dacryocystitis,,True,1,2016-08,,n=OP-akkco&ed=9&vol=0#376,
+S_OP_,Anatomy of Lacrimal Apparatus,,True,1,2013-02,,n=OP-akkco&ed=9&vol=0#369,
+E_OP_,Chronic Dacryocystitis,"- Etiology- Clinical Features- Management",True,1,2012-08,,n=OP-akkco&ed=9&vol=0#377,
