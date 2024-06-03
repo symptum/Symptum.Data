@@ -3,13 +3,10 @@ S_OP_,Vernal Keratoconjunctivitis (VKC) (or) Spring Catarrh,,True,10,2024-02;202
 S_OP_,Ophthalmia Neonatorum,,True,6,2024-02;2015-08;2012-08;2012-02;2010-08;2010-02,,n=OP-akkco&ed=9&vol=0#73,
 S_OP_,Trachoma (or) Egyptian Ophthalmia,"- Clinical Features (Asked as a Short Answer);- WHO Classification;- Causes for Blindness
 - Management;- SAFE Strategy (Asked as a Short Answer)",True,8,2023-02;2022-02;2019-02;2012-08;2012-02;2008-08;2005-02;1996-10,,n=OP-akkco&ed=9&vol=0#64,
-S_OP_,Pterygium vs Pseudopterygium,- Asked as a Short Answer,True,2,2023-02;2012-08,,n=OP-akkco&ed=9&vol=0#83,
+S_OP_,Pterygium,- Pterygium vs Pseudopterygium (Asked as a Short Answer),True,6,2023-02;2012-08;2010-08;2010-02;2009-08;2007-02,,n=OP-akkco&ed=9&vol=0#82,
 S_OP_,Differential Diagnosis of Limbal Nodules,"- Asked as a Short Answer
 - Phlycten, Pinguecula, Early Pterygium, Foreign Body, Granuloma, Episcleritis, Scleritis, Limbal Dermoid, Malignancies, etc.",True,2,2022-04;2016-08,,"n=OP-akkco&ed=9&vol=0#78,81,82,87,134",
-S_OP_,Phlyctenular Keratoconjunctivitis (PKC),"- Phlycten (Asked as a Short Answer);- Etiology
-- Signs
-- Treatment;- Management of Fascicular Ulcer",True,3,2016-02;2014-02;2012-02,,n=OP-akkco&ed=9&vol=0#78,
-S_OP_,Pterygium,,True,4,2010-08;2010-02;2009-08;2007-02,,n=OP-akkco&ed=9&vol=0#82,
+S_OP_,Phlyctenular Keratoconjunctivitis (PKC),- Phlycten (Asked as a Short Answer);- Management of Fascicular Ulcer,True,3,2016-02;2014-02;2012-02,,n=OP-akkco&ed=9&vol=0#78,
 E_OP_,Trachoma,"- Definition
 - Clinical Features
 - Management
