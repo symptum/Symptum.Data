@@ -1,0 +1,13 @@
+Id,Title,Descriptions,HasPreviouslyBeenAsked,Importance,YearsAsked,ProbableCases,BookReferences,LinkReferences
+S_OP_,Chronic Dacryocystitis,- Treatment (Asked as a Short Answer),True,5,2023-06;2014-02;2013-08;2010-02;2003-10,,n=OP-akkco&ed=9&vol=0#377,
+S_OP_,Dry Eye Disease,,True,2,2023-02;2010-08,,n=OP-akkco&ed=9&vol=0#371,
+S_OP_,Acute Dacryocystitis,- Complications (Asked as a Short Answer),True,2,2018-08;2007-02,,n=OP-akkco&ed=9&vol=0#378,
+S_OP_,Congenital Dacryocystitis,,True,1,2016-08,,n=OP-akkco&ed=9&vol=0#376,
+S_OP_,Anatomy of Lacrimal Apparatus,,True,1,2013-02,,n=OP-akkco&ed=9&vol=0#369,
+E_OP_,Chronic Dacryocystitis,"- Etiology
+- Clinical Features
+- Management",True,3,2012-08;2011-08;2009-08,,n=OP-akkco&ed=9&vol=0#377,
+S_OP_,Tear Film,- Layers and Functions (Asked as a Short Answer),True,2,2011-08;2009-02,,n=OP-akkco&ed=9&vol=0#370,
+E_OP_,Acute Dacryocystitis,"- Clinical Features
+- Complications
+- Management",True,1,1999-04,,n=OP-akkco&ed=9&vol=0#378,
