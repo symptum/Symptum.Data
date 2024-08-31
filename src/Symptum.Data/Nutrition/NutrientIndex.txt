@@ -1,0 +1,59 @@
+# Nutrient Index: This index file will be used to generate code (model and UI code) for the Nutrient entries of a Food
+# Each line will be used to generate a Nutrient entry
+# Use '#' for comments:
+#    - If it is in the line start, the whole line will be ignored
+#    - If it is present after a Nutrient entry, it will be used for code generation as the description
+
+Energy ~ kcal # The total energy present in 100 g of food
+Protein ~ g
+Carbohydrates ~ g
+Dietary Fibres ~ g
+
+# Lipids
+
+Total Lipids ~ g
+Poly Unsaturated Fatty Acids ~ g # PUFA
+Mono Unsaturated Fatty Acids ~ g # MUFA
+Saturated Fatty Acids ~ g # SFA
+Cholesterol ~ mg
+
+# Vitamins
+
+Vitamin A ~ IU
+Vitamin B1 ~ mg # Thiamine
+Vitamin B2 ~ mg # Riboflavin
+Vitamin B3 ~ mg # Niacin
+Vitamin B5 ~ mg # Pantothenic Acid
+Vitamin B6 ~ mg # Pyridoxine
+Vitamin B7 ~ mg # Biotin
+Vitamin B9 ~ mg # Folic Acid
+Vitamin B12 ~ ug # Cobalamin
+Vitamin C ~ mg # Ascorbic Acid
+Vitamin D ~ IU # Calciferol
+Vitamin E ~ mg
+Vitamin K ~ ug
+
+# Electrolytes
+
+Sodium ~ mg # Na
+Potassium ~ mg # K
+Chlorine ~ mg # Cl
+
+# Minerals
+
+Calcium ~ mg # Ca
+Magnesium ~ mg # Mg
+Iron ~ mg # Fe
+Copper ~ mg # Cu
+Zinc ~ mg # Zn
+Fluoride ~ ug # F
+Sulphur ~ mg # S
+Phosphorous ~ mg # P
+Manganese ~ mg # Mn
+Lithium ~ ug # Li
+
+# Miscellaneous
+
+Choline ~ mg
+Carotene ~ ug
+DHA ~ g
