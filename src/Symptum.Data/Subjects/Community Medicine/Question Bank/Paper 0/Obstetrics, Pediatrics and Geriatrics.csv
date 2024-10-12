@@ -1,4 +1,8 @@
-﻿Id,Title,Descriptions,HasPreviouslyBeenAsked,Importance,YearsAsked,ProbableCases,BookReferences,LinkReferences
+Id,Title,Descriptions,HasPreviouslyBeenAsked,Importance,YearsAsked,ProbableCases,BookReferences,LinkReferences
+E_CM_,Infant Mortality Rate (IMR),"- Definition- Comparison with National Average- Factors Influencing IMR- Preventive and Social Measures to Reduce IMR;- Definition
+- Medical and social causes 
+- Measures taken to prevent infant mortality",True,7,2024-02;2022-02;2018-02;2012-08;2008-08;2006-02;1994-11,,n=CM-parkpsm&ed=27&vol=0#646,
+E_CM_,School Health Services,"- Objectives- Minimum Standards in India for Healthful School Environment- School Health Programme Under Ayushman Bharat",True,1,2024-02,,n=CM-parkpsm&ed=27&vol=0#657,
 E_CM_,Maternal mortality,"-  Definition
 - Approaches to measure maternal mortality 
 - measures taken by the National Health Mission to reduce maternal mortality",True,5,2024-02;2017-02;2015-02;2013-08;2006-08,,n=CM-parkpsm&ed=27&vol=0#636,
@@ -20,9 +24,6 @@ S_CM_,Risk approach in maternal and child health,,True,2,2022-08;2005-02,,n=CM-p
 E_CM_,Health problems of the school child,"- Various health problems
 - Objectives and aspects of school health services",True,4,2022-04;2017-08;2014-02;2006-02;1997-04;1995-04,,,
 S_CM_,Essential newborn care,,True,2,2022-04;2010-08,,n=CM-parkpsm&ed=27&vol=0#608,
-E_CM_,Infant mortality,"- Definition
-- Medical and social causes 
-- Measures taken to prevent infant mortality",True,4,2022-02;2018-02;2012-08;2008-08;2006-02;1994-11,,n=CM-parkpsm&ed=27&vol=0#647,
 E_CM_,MCH Care,"- Indicators
 - Causes and interventions to reduce perinatal mortality",True,5,2021-09;2019-02;2016-08;2011-08;1991-12,,n=CM-parkpsm&ed=27&vol=0#635,
 S_CM_," Small for date versus preterm babies",- Social and biological causes,True,1,2019-08,,n=&ed=27&vol=0#615,

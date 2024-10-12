@@ -1,11 +1,12 @@
-﻿Id,Title,Descriptions,HasPreviouslyBeenAsked,Importance,YearsAsked,ProbableCases,BookReferences,LinkReferences
+Id,Title,Descriptions,HasPreviouslyBeenAsked,Importance,YearsAsked,ProbableCases,BookReferences,LinkReferences
+S_CM_,Web of Causation for Accidents,,True,1,2024-02,,n=CM-parkpsm&ed=27&vol=0#465,
 S_CM_,"Consequences of untreated Hypertension  and Newer initiatives under NPCDCS ",,True,1,2022-02,,"n=CM-parkpsm&ed=26&vol=1#421,529",
+E_CM_,"Coronary Heart Disease ","- Discuss the epidemiology and prevention of coronary heart disease, Discuss the 
+contributions of national program for its prevention.;- Discuss in brief the modifiable and non modifiable risk factors in CHD and explain some of the steps taken to prevent CHD",True,2,2019-02;2001-11,,n=CM-parkpsm&ed=26&vol=1#412-418,
 S_CM_,Apply the levels of prevention and modes of intervention to diabetes mellitus,,True,1,2017-02,,n=CM-parkpsm&ed=26&vol=1#442,
 S_CM_,What are the modifiable risk factors for hypertension?,,True,2,2007-02;2017-02,,n=CM-parkpsm&ed=26&vol=1#421,
 S_CM_,Assessment of obesity,,True,2,2005-02;2017-08,,n=CM-parkpsm&ed=26&vol=1#446,
 S_CM_,Environmental risk factors for cancers,,True,2,2011-08;2018-02,,n=CM-parkpsm&ed=26&vol=1#430,
-E_CM_,"Coronary Heart Disease ","- Discuss the epidemiology and prevention of coronary heart disease, Discuss the 
-contributions of national program for its prevention.;- Discuss in brief the modifiable and non modifiable risk factors in CHD and explain some of the steps taken to prevent CHD",True,2,2019-02;2001-11,,n=CM-parkpsm&ed=26&vol=1#412-418,
 S_CM_,Explain the rule of halves in epidemiology of hypertension and suggest methods?,,True,1,2019-08,,n=CM-parkpsm&ed=26&vol=1#419-420,
 S_CM_,Describe cancer screening in detail,,True,1,2020-08,,n=CM-parkpsm&ed=26&vol=1#432-433,
 E_CM_,Hypertension,"- Discuss in detail the consequences of untreated Hypertension and its control as per the program of NPCDCS;- Describe the Natural History of Hypertension, What is tracking and out line the strategy adopted for its prevention and control;- Describe the epidemiology of Hypertension and write in detail the control and preventive measures of Hypertension ",True,3,2008-02;2020-11;2022-08,,n=CM-parkpsm&ed=26&vol=1#419-424,
