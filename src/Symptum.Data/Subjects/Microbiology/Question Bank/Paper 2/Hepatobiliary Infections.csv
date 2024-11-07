@@ -1,4 +1,4 @@
-Id,Title,Descriptions,HasPreviouslyBeenAsked,Importance,YearsAsked,ProbableCases,BookReferences,LinkReferences
+Id,Title,Descriptions,HasPreviouslyBeenAsked,Importance,YearsAsked,ProbableCases,References
 E_MI_3.2.2.2,Echinococcus granulsosus,"- Morphology
 - Life cycle
 - Pathogenesis
@@ -7,10 +7,10 @@ E_MI_3.2.2.2,Echinococcus granulsosus,"- Morphology
 - Laboratory diagnosis;- Enumerate the cestodes infecting man
 - Lifecycle
 - Pathogenicity
-- Laboratory diagnosis",True,5,2008-08;2005-08;2003-10;2000-04;1990-12,25 year old male presents with **pain** in the **right hypochondrium and jaundice**. Ultrasonography reveals **water lily** sign. Surgery was done to Remove the cyst. Histopathological examination of the cyst reveals **3 layers** of cyst wall with **brood capsules**.,n=MI-apsemm&ed=4&vol=0#410;n=MI-apsemm&ed=3&vol=0#493,
-S_MI_3.2.1.5,Delta Hepatitis Agent (or) Hepatitis Delta (D) Virus,,True,1,2008-08,,n=MI-apsemm&ed=4&vol=0#405;n=MI-apsemm&ed=3&vol=0#487,
+- Laboratory diagnosis",True,5,2008-08;2005-08;2003-10;2000-04;1990-12,25 year old male presents with **pain** in the **right hypochondrium and jaundice**. Ultrasonography reveals **water lily** sign. Surgery was done to Remove the cyst. Histopathological examination of the cyst reveals **3 layers** of cyst wall with **brood capsules**.,@book?n=MI-apsemm&ed=4&vol=0#410;@book?n=MI-apsemm&ed=3&vol=0#493
+S_MI_3.2.1.5,Delta Hepatitis Agent (or) Hepatitis Delta (D) Virus,,True,1,2008-08,,@book?n=MI-apsemm&ed=4&vol=0#405;@book?n=MI-apsemm&ed=3&vol=0#487
 S_MI_3.2.2.2.1,Hydatid Cyst,"- Pathogenesis
-- Laboratory diagnosis",True,4,2016-08;2013-02;2006-08;1998-04,,n=MI-apsemm&ed=4&vol=0#410;n=MI-apsemm&ed=3&vol=0#494,
+- Laboratory diagnosis",True,4,2016-08;2013-02;2006-08;1998-04,,@book?n=MI-apsemm&ed=4&vol=0#410;@book?n=MI-apsemm&ed=3&vol=0#494
 E_MI_3.2.1.3,Hepatitis B Virus,"- Morphology
 - Pathogenesis
 - Laboratory diagnosis;- Name the viruses infecting the liver
@@ -32,29 +32,29 @@ E_MI_3.2.1.3,Hepatitis B Virus,"- Morphology
 - Pathogenesis
 - Lab diagnosis
 - Prophylaxis
-- Treatment",True,10,2023-07;2019-08;2018-02;2015-02;2012-08;2011-08;2009-08;2007-08;2005-08;1997-04;1996-04,,n=MI-apsemm&ed=4&vol=0#397;n=MI-apsemm&ed=3&vol=0#478,
-S_MI_3.2.2.1,Extra Intestinal Amoebiasis (or) Amoebic Liver Abscess,,True,8,2022-08;2018-02;2014-08;2013-02;2012-02;2010-02;2007-08;2006-02,,n=MI-apsemm&ed=4&vol=0#409;n=MI-apsemm&ed=3&vol=0#491,
-S_MI_3.2.2.3.2,Larva Migrans,,True,6,2023-02;2019-02;2010-02;2004-08;2004-02;2001-11,,n=MI-apsemm&ed=4&vol=0#440;n=MI-apsemm&ed=3&vol=0#499,
-S_MI_3.2.2.3.2.1,Visceral Larva Migrans,,True,2,2013-02;2010-08,,n=MI-apsemm&ed=4&vol=0#440;n=MI-apsemm&ed=3&vol=0#499,
-S_MI_3.2.1.3.2,Lab Diagnosis of Hepatitis B Virus Infection,- Viral markers of HBV infection;- Hepatitis Markers,True,7,2023-02;2022-03;2013-02;2012-02;2010-08;2004-08;1997-10,,n=MI-apsemm&ed=4&vol=0#401;n=MI-apsemm&ed=3&vol=0#482,
-S_MI_3.2.1.4,Hepatitis C,- Laboratory Diagnosis;- Detail about Hepatitis C,True,2,2013-08;2006-02,,n=MI-apsemm&ed=4&vol=0#403;n=MI-apsemm&ed=3&vol=0#484,
-S_MI_3.2.1.3.3,Prevention of Hepatitis B Virus Infection,- Detail about Prevention;- Hepatitis Vaccine,True,2,2020-02;2016-02,,n=MI-apsemm&ed=4&vol=0#402;n=MI-apsemm&ed=3&vol=0#484,
+- Treatment",True,10,2023-07;2019-08;2018-02;2015-02;2012-08;2011-08;2009-08;2007-08;2005-08;1997-04;1996-04,,@book?n=MI-apsemm&ed=4&vol=0#397;@book?n=MI-apsemm&ed=3&vol=0#478
+S_MI_3.2.2.1,Extra Intestinal Amoebiasis (or) Amoebic Liver Abscess,,True,8,2022-08;2018-02;2014-08;2013-02;2012-02;2010-02;2007-08;2006-02,,@book?n=MI-apsemm&ed=4&vol=0#409;@book?n=MI-apsemm&ed=3&vol=0#491
+S_MI_3.2.2.3.2,Larva Migrans,,True,6,2023-02;2019-02;2010-02;2004-08;2004-02;2001-11,,@book?n=MI-apsemm&ed=4&vol=0#440;@book?n=MI-apsemm&ed=3&vol=0#499
+S_MI_3.2.2.3.2.1,Visceral Larva Migrans,,True,2,2013-02;2010-08,,@book?n=MI-apsemm&ed=4&vol=0#440;@book?n=MI-apsemm&ed=3&vol=0#499
+S_MI_3.2.1.3.2,Lab Diagnosis of Hepatitis B Virus Infection,- Viral markers of HBV infection;- Hepatitis Markers,True,7,2023-02;2022-03;2013-02;2012-02;2010-08;2004-08;1997-10,,@book?n=MI-apsemm&ed=4&vol=0#401;@book?n=MI-apsemm&ed=3&vol=0#482
+S_MI_3.2.1.4,Hepatitis C,- Laboratory Diagnosis;- Detail about Hepatitis C,True,2,2013-08;2006-02,,@book?n=MI-apsemm&ed=4&vol=0#403;@book?n=MI-apsemm&ed=3&vol=0#484
+S_MI_3.2.1.3.3,Prevention of Hepatitis B Virus Infection,- Detail about Prevention;- Hepatitis Vaccine,True,2,2020-02;2016-02,,@book?n=MI-apsemm&ed=4&vol=0#402;@book?n=MI-apsemm&ed=3&vol=0#484
 S_MI_3.2.1.3,Hepatitis B Virus,"- Various viral markers
 - Laboratory diagnosis
-- Prophylaxis;- Detail about Hepatitis B Virus",True,2,2022-08;2022-02,"A 40-year-old male presented with history of **loss of appetite, malaise and jaundice** of 2 months duration. On examination, there was **icterus, hepatomegaly and tenderness in the right hypochondriac region.** He gave a history of **blood transfusion** in the past. On laboratory examination, he was found to be positive for HBsAg.",n=MI-apsemm&ed=4&vol=0#397;n=MI-apsemm&ed=3&vol=0#478,
-S_MI_3.2.2.2,Echinococcus granulosus,- Life cycle;- Hydatid disease;- Cystic Echinococcus;- Dog Tapeworm,True,3,2023-02;2020-02;2009-02,,n=MI-apsemm&ed=4&vol=0#410;n=MI-apsemm&ed=3&vol=0#493,
+- Prophylaxis;- Detail about Hepatitis B Virus",True,2,2022-08;2022-02,"A 40-year-old male presented with history of **loss of appetite, malaise and jaundice** of 2 months duration. On examination, there was **icterus, hepatomegaly and tenderness in the right hypochondriac region.** He gave a history of **blood transfusion** in the past. On laboratory examination, he was found to be positive for HBsAg.",@book?n=MI-apsemm&ed=4&vol=0#397;@book?n=MI-apsemm&ed=3&vol=0#478
+S_MI_3.2.2.2,Echinococcus granulosus,- Life cycle;- Hydatid disease;- Cystic Echinococcus;- Dog Tapeworm,True,3,2023-02;2020-02;2009-02,,@book?n=MI-apsemm&ed=4&vol=0#410;@book?n=MI-apsemm&ed=3&vol=0#493
 E_MI_3.2.2.1,Extra Intestinal Amoebiasis (or) Amoebic Liver Abscess,"- Pathogenesis
 - Clinical features
 - Complication
 - Laboratory diagnosis
 - Treatment
-- Prevention",True,1,,"45 year old male presents with **fever, jaundice and pain in the right hypochondrium.** He complains of **dysentery** and along with **weight loss** for the past 2 months. USG of the abdomen shows **enlarged liver** with **peritonitis.** Diagnostic Aspiration from the liver reveals **anchovy sauce pus.**",n=MI-apsemm&ed=4&vol=0#409;n=MI-apsemm&ed=3&vol=0#489,
-S_MI_3.2.1.7,Yellow Fever,,True,1,1995-11,,n=MI-apsemm&ed=4&vol=0#407;n=MI-apsemm&ed=3&vol=0#489,
-S_MI_3.2.1.7.1,17D Vaccine,,True,1,,,n=MI-apsemm&ed=4&vol=0#408;n=MI-apsemm&ed=3&vol=0#490,
-S_MI_3.2.1.6,Hepatitis E,,True,1,2003-10,,n=MI-apsemm&ed=4&vol=0#406;n=MI-apsemm&ed=3&vol=0#488,
-S_MI_3.2.2.3.1,Fasciola hepatica,,True,1,1998-10,,n=MI-apsemm&ed=4&vol=0#413;n=MI-apsemm&ed=3&vol=0#497,
-S_MI_3.2.2.3.1,Casoni's Test,,True,2,2014-02;2010-02,,n=MI-apsemm&ed=4&vol=0#412;n=MI-apsemm&ed=3&vol=0#496,
-S_MI_3.2.1.2,Hepatitis A,,True,1,,,n=MI-apsemm&ed=4&vol=0#396;n=MI-apsemm&ed=3&vol=0#477,
-S_MI_3.2.1.1,Viral Oncogenes,- Detail about Viral Oncogenes;- Oncogenic RNA Viruses;- Mechanism of Oncogenesis by HPV and HBV,True,3,2020-02;2012-08;1998-11,,n=MI-apsemm&ed=4&vol=0#669;n=MI-apsemm&ed=3&vol=0#476,
-S_MI_3.2.1.3.1,Dane Particle,,True,1,2013-02,,n=MI-apsemm&ed=4&vol=0#398;n=MI-apsemm&ed=3&vol=0#479,
-S_MI_3.2.1,Hepatitis Virus,- Associated with Cirrhosis;- Providing Chronic infection,True,3,2014-02;2013-08;1997-10,,n=MI-apsemm&ed=4&vol=0#395;n=MI-apsemm&ed=3&vol=0#476,
+- Prevention",True,1,,"45 year old male presents with **fever, jaundice and pain in the right hypochondrium.** He complains of **dysentery** and along with **weight loss** for the past 2 months. USG of the abdomen shows **enlarged liver** with **peritonitis.** Diagnostic Aspiration from the liver reveals **anchovy sauce pus.**",@book?n=MI-apsemm&ed=4&vol=0#409;@book?n=MI-apsemm&ed=3&vol=0#489
+S_MI_3.2.1.7,Yellow Fever,,True,1,1995-11,,@book?n=MI-apsemm&ed=4&vol=0#407;@book?n=MI-apsemm&ed=3&vol=0#489
+S_MI_3.2.1.7.1,17D Vaccine,,True,1,,,@book?n=MI-apsemm&ed=4&vol=0#408;@book?n=MI-apsemm&ed=3&vol=0#490
+S_MI_3.2.1.6,Hepatitis E,,True,1,2003-10,,@book?n=MI-apsemm&ed=4&vol=0#406;@book?n=MI-apsemm&ed=3&vol=0#488
+S_MI_3.2.2.3.1,Fasciola hepatica,,True,1,1998-10,,@book?n=MI-apsemm&ed=4&vol=0#413;@book?n=MI-apsemm&ed=3&vol=0#497
+S_MI_3.2.2.3.1,Casoni's Test,,True,2,2014-02;2010-02,,@book?n=MI-apsemm&ed=4&vol=0#412;@book?n=MI-apsemm&ed=3&vol=0#496
+S_MI_3.2.1.2,Hepatitis A,,True,1,,,@book?n=MI-apsemm&ed=4&vol=0#396;@book?n=MI-apsemm&ed=3&vol=0#477
+S_MI_3.2.1.1,Viral Oncogenes,- Detail about Viral Oncogenes;- Oncogenic RNA Viruses;- Mechanism of Oncogenesis by HPV and HBV,True,3,2020-02;2012-08;1998-11,,@book?n=MI-apsemm&ed=4&vol=0#669;@book?n=MI-apsemm&ed=3&vol=0#476
+S_MI_3.2.1.3.1,Dane Particle,,True,1,2013-02,,@book?n=MI-apsemm&ed=4&vol=0#398;@book?n=MI-apsemm&ed=3&vol=0#479
+S_MI_3.2.1,Hepatitis Virus,- Associated with Cirrhosis;- Providing Chronic infection,True,3,2014-02;2013-08;1997-10,,@book?n=MI-apsemm&ed=4&vol=0#395;@book?n=MI-apsemm&ed=3&vol=0#476

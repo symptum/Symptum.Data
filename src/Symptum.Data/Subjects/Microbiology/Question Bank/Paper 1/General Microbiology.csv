@@ -1,72 +1,72 @@
-Id,Title,Descriptions,HasPreviouslyBeenAsked,Importance,YearsAsked,ProbableCases,BookReferences,LinkReferences
-S_MI_1.2.6.2,Gene Transfer,- Various methods of gene transfer;- Transformation,True,1,2022-03,,n=MI-apsemm&ed=4&vol=0#44,
-S_MI_1.2.3.1,Bacterial Growth Curve,- Factors affecting growth of bacteria,True,6,2020-11;2016-08;2014-08;2012-08;2012-02;2010-02,,n=MI-apsemm&ed=4&vol=0#19,
-S_MI_1.2.1.2,Phase Contrast Microscope,- Working mechanism;- Principle,True,2,2023-07;2022-08,,n=MI-apsemm&ed=4&vol=0#7,
-S_MI_1.2.6.2.4,Transposons,,True,4,2023-07;2022-08;2019-02;2011-08,,n=MI-apsemm&ed=4&vol=0#48,
-S_MI_1.2.1.3,Fluorescence Microscope,- Working Mechanism;- Uses;- Principles,True,3,2023-02;2020-02;2016-02,,n=MI-apsemm&ed=4&vol=0#8,
+Id,Title,Descriptions,HasPreviouslyBeenAsked,Importance,YearsAsked,ProbableCases,References
+S_MI_1.2.6.2,Gene Transfer,- Various methods of gene transfer;- Transformation,True,1,2022-03,,@book?n=MI-apsemm&ed=4&vol=0#44
+S_MI_1.2.3.1,Bacterial Growth Curve,- Factors affecting growth of bacteria,True,6,2020-11;2016-08;2014-08;2012-08;2012-02;2010-02,,@book?n=MI-apsemm&ed=4&vol=0#19
+S_MI_1.2.1.2,Phase Contrast Microscope,- Working mechanism;- Principle,True,2,2023-07;2022-08,,@book?n=MI-apsemm&ed=4&vol=0#7
+S_MI_1.2.6.2.4,Transposons,,True,4,2023-07;2022-08;2019-02;2011-08,,@book?n=MI-apsemm&ed=4&vol=0#48
+S_MI_1.2.1.3,Fluorescence Microscope,- Working Mechanism;- Uses;- Principles,True,3,2023-02;2020-02;2016-02,,@book?n=MI-apsemm&ed=4&vol=0#8
 S_MI_1.2.6.3,Genetic engineering,"- Definition
 - Procedure and application
-- Recombinant DNA technology in vaccine production",True,3,2023-02;2022-08;2018-02,,n=MI-apsemm&ed=4&vol=0#48,
-S_MI_1.1.1.3,Robert Koch,- Koch's postulates,True,5,2023-07;2022-02;2019-02;2016-02;2009-08,,n=MI-apsemm&ed=4&vol=0#4,
-S_MI_1.1.1.1,Louis Pasteur,,True,6,2021-09;2020-11;2017-08;2015-02;2011-02;2009-02,,n=MI-apsemm&ed=4&vol=0#4,
-S_MI_1.2.5.1.6,Transport Media,,True,5,2023-07;2022-08;2014-08;2012-02;2009-02,,n=MI-apsemm&ed=4&vol=0#28,
-S_MI_1.1.1.2,Pasteurization,,True,2,2019-08;2009-08,,,
-S_MI_1.2.1.4,Electron Microscope,,True,3,2023-07;2015-02;2011-08,,n=MI-apsemm&ed=4&vol=0#9,
-S_MI_1.2.1.1,Darkground Microscope,- Uses,True,2,2019-08;2012-02,,n=MI-apsemm&ed=4&vol=0#7,
-S_MI_1.2.2.2.4,Fimbriae,,True,2,2023-02;2011-02,,n=MI-apsemm&ed=4&vol=0#18,
-S_MI_1.2.2.2.3,Flagella,- Types;- Bacteria having peritrichous flagella,True,5,2021-09;2015-02;2013-02;2012-02;2009-08,,n=MI-apsemm&ed=4&vol=0#17,
-S_MI_1.2.2.2.1,Bacterial Capsule,,True,5,2017-08;2014-02;2010-08;2010-02;2008-08,,n=MI-apsemm&ed=4&vol=0#17,
-S_MI_1.2.2.2.2,Slime Layer,,True,1,2020-11,,n=MI-apsemm&ed=4&vol=0#17,
-S_MI_1.2.2.1.1,Bacterial Cell Wall,- Difference between bacterial cell wall of Gram Positive and Gram Negative bacteria,True,1,2016-02,,n=MI-apsemm&ed=4&vol=0#14,
+- Recombinant DNA technology in vaccine production",True,3,2023-02;2022-08;2018-02,,@book?n=MI-apsemm&ed=4&vol=0#48
+S_MI_1.1.1.3,Robert Koch,- Koch's postulates,True,5,2023-07;2022-02;2019-02;2016-02;2009-08,,@book?n=MI-apsemm&ed=4&vol=0#4
+S_MI_1.1.1.1,Louis Pasteur,,True,6,2021-09;2020-11;2017-08;2015-02;2011-02;2009-02,,@book?n=MI-apsemm&ed=4&vol=0#4
+S_MI_1.2.5.1.6,Transport Media,,True,5,2023-07;2022-08;2014-08;2012-02;2009-02,,@book?n=MI-apsemm&ed=4&vol=0#28
+S_MI_1.1.1.2,Pasteurization,,True,2,2019-08;2009-08,,
+S_MI_1.2.1.4,Electron Microscope,,True,3,2023-07;2015-02;2011-08,,@book?n=MI-apsemm&ed=4&vol=0#9
+S_MI_1.2.1.1,Darkground Microscope,- Uses,True,2,2019-08;2012-02,,@book?n=MI-apsemm&ed=4&vol=0#7
+S_MI_1.2.2.2.4,Fimbriae,,True,2,2023-02;2011-02,,@book?n=MI-apsemm&ed=4&vol=0#18
+S_MI_1.2.2.2.3,Flagella,- Types;- Bacteria having peritrichous flagella,True,5,2021-09;2015-02;2013-02;2012-02;2009-08,,@book?n=MI-apsemm&ed=4&vol=0#17
+S_MI_1.2.2.2.1,Bacterial Capsule,,True,5,2017-08;2014-02;2010-08;2010-02;2008-08,,@book?n=MI-apsemm&ed=4&vol=0#17
+S_MI_1.2.2.2.2,Slime Layer,,True,1,2020-11,,@book?n=MI-apsemm&ed=4&vol=0#17
+S_MI_1.2.2.1.1,Bacterial Cell Wall,- Difference between bacterial cell wall of Gram Positive and Gram Negative bacteria,True,1,2016-02,,@book?n=MI-apsemm&ed=4&vol=0#14
 E_MI_1.2.2.1,Bacterial Cell Wall,"- Morphology
 - Diagram
-- Functions of various appendages",True,1,2009-02,,n=MI-apsemm&ed=4&vol=0#14,
-E_MI_1.2.3.1,Bacterial Growth Curve,- Factors affecting the growth of bacteria,True,1,2022-03,,n=MI-apsemm&ed=4&vol=0#19,
-E_MI_1.2.3,Physiology of Bacteria,,True,1,2013-02,,n=MI-apsemm&ed=4&vol=0#19,
-S_MI_1.2.4.1,"Differential Stains ",,True,1,2022-08,,n=MI-apsemm&ed=4&vol=0#24,
-S_MI_1.2.4.2,"Negative Staining ",,True,3,2022-02;2013-08;2009-02,,n=MI-apsemm&ed=4&vol=0#23,
-S_MI_1.2.4.3,Modified Acid-Fast Staining,,True,1,2020-11,,n=MI-apsemm&ed=4&vol=0#25,
-S_MI_1.2.4,Identification of Bacteria,,True,1,2020-02,,n=MI-apsemm&ed=4&vol=0#32,
-S_MI_1.2.4.3.1,Uses of Gram Stain,,True,1,2010-08,,n=MI-apsemm&ed=4&vol=0#24,
+- Functions of various appendages",True,1,2009-02,,@book?n=MI-apsemm&ed=4&vol=0#14
+E_MI_1.2.3.1,Bacterial Growth Curve,- Factors affecting the growth of bacteria,True,1,2022-03,,@book?n=MI-apsemm&ed=4&vol=0#19
+E_MI_1.2.3,Physiology of Bacteria,,True,1,2013-02,,@book?n=MI-apsemm&ed=4&vol=0#19
+S_MI_1.2.4.1,"Differential Stains ",,True,1,2022-08,,@book?n=MI-apsemm&ed=4&vol=0#24
+S_MI_1.2.4.2,"Negative Staining ",,True,3,2022-02;2013-08;2009-02,,@book?n=MI-apsemm&ed=4&vol=0#23
+S_MI_1.2.4.3,Modified Acid-Fast Staining,,True,1,2020-11,,@book?n=MI-apsemm&ed=4&vol=0#25
+S_MI_1.2.4,Identification of Bacteria,,True,1,2020-02,,@book?n=MI-apsemm&ed=4&vol=0#32
+S_MI_1.2.4.3.1,Uses of Gram Stain,,True,1,2010-08,,@book?n=MI-apsemm&ed=4&vol=0#24
 E_MI_1.2.5,Culture Media,"- Types
-- Anaerobic culture media",True,1,2020-11,,n=MI-apsemm&ed=4&vol=0#27,
-S_MI_1.2.5.1,Culture Media,,True,1,2023-02,,n=MI-apsemm&ed=4&vol=0#27,
-S_MI_1.2.5.1.1,Differential Media,,True,1,2022-08,,n=MI-apsemm&ed=4&vol=0#28,
-S_MI_1.2.5.1.2,Enriched Media,,True,6,2022-02;2018-08;2016-02;2014-02;2010-02;2008-08,,n=MI-apsemm&ed=4&vol=0#27,
-S_MI_1.2.5.1.3,Enrichment Broth,,True,2,2016-08;2011-02,,n=MI-apsemm&ed=4&vol=0#27,
-S_MI_1.2.5.1.4,Selective Media,,True,5,2015-02;2014-02;2013-02;2012-08;2009-08,,n=MI-apsemm&ed=4&vol=0#28,
-S_MI_1.2.5.1.2.1,Chocolate Agar,,True,1,2017-08,,n=MI-apsemm&ed=4&vol=0#27,
-S_MI_1.2.5.1.5,Anaerobic Culture Media,,True,8,2021-09;2016-02;2014-02;2012-02;2011-08;2011-02;2010-08;2010-02,,n=MI-apsemm&ed=4&vol=0#28,
-S_MI_1.2.5.2.1,Indole Test,,True,1,2021-09,,n=MI-apsemm&ed=4&vol=0#33,
-S_MI_1.2.5.2.3,Oxidase Test,,True,1,2009-02,,n=MI-apsemm&ed=4&vol=0#33,
-S_MI_1.2.5.2.2,Urease Test,,True,1,2008-08,,n=MI-apsemm&ed=4&vol=0#34,
-S_MI_1.2.5.2,IMVIC test,,True,1,2012-08,,n=MI-apsemm&ed=4&vol=0#33,
-S_MI_1.2.5.3.1,Polymerase Chain Reaction (PCR),,True,5,2019-08;2016-08;2015-02;2013-08;2012-02,,n=MI-apsemm&ed=4&vol=0#39,
-S_MI_1.2.5.3.2,Nucleic Acid Probes,,True,2,2016-02;2012-08,,n=MI-apsemm&ed=4&vol=0#41,
-S_MI_1.2.6.1,Plasmid,,True,5,2020-02;2014-08;2013-02;2010-08;2009-08,,n=MI-apsemm&ed=4&vol=0#44,
-E_MI_1.2.6.2,Methods of Gene Transfer,,True,1,2018-02,,n=MI-apsemm&ed=4&vol=0#44,
+- Anaerobic culture media",True,1,2020-11,,@book?n=MI-apsemm&ed=4&vol=0#27
+S_MI_1.2.5.1,Culture Media,,True,1,2023-02,,@book?n=MI-apsemm&ed=4&vol=0#27
+S_MI_1.2.5.1.1,Differential Media,,True,1,2022-08,,@book?n=MI-apsemm&ed=4&vol=0#28
+S_MI_1.2.5.1.2,Enriched Media,,True,6,2022-02;2018-08;2016-02;2014-02;2010-02;2008-08,,@book?n=MI-apsemm&ed=4&vol=0#27
+S_MI_1.2.5.1.3,Enrichment Broth,,True,2,2016-08;2011-02,,@book?n=MI-apsemm&ed=4&vol=0#27
+S_MI_1.2.5.1.4,Selective Media,,True,5,2015-02;2014-02;2013-02;2012-08;2009-08,,@book?n=MI-apsemm&ed=4&vol=0#28
+S_MI_1.2.5.1.2.1,Chocolate Agar,,True,1,2017-08,,@book?n=MI-apsemm&ed=4&vol=0#27
+S_MI_1.2.5.1.5,Anaerobic Culture Media,,True,8,2021-09;2016-02;2014-02;2012-02;2011-08;2011-02;2010-08;2010-02,,@book?n=MI-apsemm&ed=4&vol=0#28
+S_MI_1.2.5.2.1,Indole Test,,True,1,2021-09,,@book?n=MI-apsemm&ed=4&vol=0#33
+S_MI_1.2.5.2.3,Oxidase Test,,True,1,2009-02,,@book?n=MI-apsemm&ed=4&vol=0#33
+S_MI_1.2.5.2.2,Urease Test,,True,1,2008-08,,@book?n=MI-apsemm&ed=4&vol=0#34
+S_MI_1.2.5.2,IMVIC test,,True,1,2012-08,,@book?n=MI-apsemm&ed=4&vol=0#33
+S_MI_1.2.5.3.1,Polymerase Chain Reaction (PCR),,True,5,2019-08;2016-08;2015-02;2013-08;2012-02,,@book?n=MI-apsemm&ed=4&vol=0#39
+S_MI_1.2.5.3.2,Nucleic Acid Probes,,True,2,2016-02;2012-08,,@book?n=MI-apsemm&ed=4&vol=0#41
+S_MI_1.2.6.1,Plasmid,,True,5,2020-02;2014-08;2013-02;2010-08;2009-08,,@book?n=MI-apsemm&ed=4&vol=0#44
+E_MI_1.2.6.2,Methods of Gene Transfer,,True,1,2018-02,,@book?n=MI-apsemm&ed=4&vol=0#44
 S_MI_1.2.6.2.2,Transduction,"- Mechanism
-- Types",True,2,2013-08;2009-08,,n=MI-apsemm&ed=4&vol=0#45,
-S_MI_1.2.6.2.3,Conjugation,,True,2,2015-08;2010-02,,n=MI-apsemm&ed=4&vol=0#47,
-S_MI_1.2.6.2.1,Mutation,,True,5,2023-07;2018-08;2012-08;2011-08;2010-08,,n=MI-apsemm&ed=4&vol=0#44,
-S_MI_1.2.7.2,Exotoxins,- Bacteria producing exotoxins;- Exotoxin producing shigella species,True,4,2018-02;2014-02;2013-02;2010-02,,n=MI-apsemm&ed=4&vol=0#60,
-S_MI_1.2.7.2.1,Difference Between Exotoxin and Endotoxin,,True,1,2008-08,,n=MI-apsemm&ed=4&vol=0#59,
-S_MI_1.2.7.1,Bacterial Virulence,,True,2,2017-02;2008-08,,n=MI-apsemm&ed=4&vol=0#58,
-S_MI_1.2.8.1,Mycoplasma,- Lab Diagnosis,True,2,2014-02;2009-02,,n=MI-apsemm&ed=4&vol=0#18;n=MI-apsemm&ed=4&vol=0#69,
-S_MI_1.2.8.2,Pleomorphism,,True,1,2013-08,,n=MI-apsemm&ed=4&vol=0#18,
-S_MI_1.2.8.3,Non-Sporing Anaerobic Infections,,True,1,2009-02,,n=MI-apsemm&ed=4&vol=0#68,
-S_MI_1.6.1,"Antimicrobial Resistance ",,True,2,2020-11;2012-08,,n=MI-apsemm&ed=4&vol=0#51,
-S_MI_1.6.1.1,"Transferrable Drug Resistance  ",,True,1,2011-02,,n=MI-apsemm&ed=4&vol=0#55,
-S_MI_1.1.5.1,Commensals,,True,1,2018-08,,n=MI-apsemm&ed=4&vol=0#108,
-S_MI_1.1.2.1,Viral Replication,,False,1,,,n=MI-apsemm&ed=4&vol=0#73,
-S_MI_1.1.2.2,"Lab Diagnosis of Viral Diseases ",,False,1,,,n=MI-apsemm&ed=4&vol=0#77,
-S_MI_1.2.9,Stool Concentration Techniques,,False,1,,,n=MI-apsemm&ed=4&vol=0#93,
-S_MI_1.1.4.1,Dimorphic Fungi,,False,1,,,n=MI-apsemm&ed=4&vol=0#101,
-S_MI_1.1.4.2,Opportunistic Fungal Infections,,False,1,,,n=MI-apsemm&ed=4&vol=0#105,
-S_MI_1.6.2,Antimicrobial Susceptibility Testing (AST),,False,1,,,n=MI-apsemm&ed=4&vol=0#35,
-S_MI_1.2.2.2.5,Biofilm,,False,1,,,n=MI-apsemm&ed=4&vol=0#17,
-E_MI_,Immuno-prophylaxis of Viral Diseases (or) Viral Vaccines,,False,2,,,n=MI-apsemm&ed=4&vol=0#82,
-S_MI_,Lord Lister,,False,1,,,n=MI-apsemm&ed=4&vol=0#4,
-S_MI_,Bacterial Spores,,False,5,,,n=MI-apsemm&ed=4&vol=0#18,
-S_MI_,Sporicidal Chemicals,,False,1,,,n=MI-apsemm&ed=4&vol=0#19,
-S_MI_,L-forms of Bacteria,,False,1,,,n=MI-apsemm&ed=4&vol=0#18,
+- Types",True,2,2013-08;2009-08,,@book?n=MI-apsemm&ed=4&vol=0#45
+S_MI_1.2.6.2.3,Conjugation,,True,2,2015-08;2010-02,,@book?n=MI-apsemm&ed=4&vol=0#47
+S_MI_1.2.6.2.1,Mutation,,True,5,2023-07;2018-08;2012-08;2011-08;2010-08,,@book?n=MI-apsemm&ed=4&vol=0#44
+S_MI_1.2.7.2,Exotoxins,- Bacteria producing exotoxins;- Exotoxin producing shigella species,True,4,2018-02;2014-02;2013-02;2010-02,,@book?n=MI-apsemm&ed=4&vol=0#60
+S_MI_1.2.7.2.1,Difference Between Exotoxin and Endotoxin,,True,1,2008-08,,@book?n=MI-apsemm&ed=4&vol=0#59
+S_MI_1.2.7.1,Bacterial Virulence,,True,2,2017-02;2008-08,,@book?n=MI-apsemm&ed=4&vol=0#58
+S_MI_1.2.8.1,Mycoplasma,- Lab Diagnosis,True,2,2014-02;2009-02,,@book?n=MI-apsemm&ed=4&vol=0#18;@book?n=MI-apsemm&ed=4&vol=0#69
+S_MI_1.2.8.2,Pleomorphism,,True,1,2013-08,,@book?n=MI-apsemm&ed=4&vol=0#18
+S_MI_1.2.8.3,Non-Sporing Anaerobic Infections,,True,1,2009-02,,@book?n=MI-apsemm&ed=4&vol=0#68
+S_MI_1.6.1,"Antimicrobial Resistance ",,True,2,2020-11;2012-08,,@book?n=MI-apsemm&ed=4&vol=0#51
+S_MI_1.6.1.1,"Transferrable Drug Resistance  ",,True,1,2011-02,,@book?n=MI-apsemm&ed=4&vol=0#55
+S_MI_1.1.5.1,Commensals,,True,1,2018-08,,@book?n=MI-apsemm&ed=4&vol=0#108
+S_MI_1.1.2.1,Viral Replication,,False,1,,,@book?n=MI-apsemm&ed=4&vol=0#73
+S_MI_1.1.2.2,"Lab Diagnosis of Viral Diseases ",,False,1,,,@book?n=MI-apsemm&ed=4&vol=0#77
+S_MI_1.2.9,Stool Concentration Techniques,,False,1,,,@book?n=MI-apsemm&ed=4&vol=0#93
+S_MI_1.1.4.1,Dimorphic Fungi,,False,1,,,@book?n=MI-apsemm&ed=4&vol=0#101
+S_MI_1.1.4.2,Opportunistic Fungal Infections,,False,1,,,@book?n=MI-apsemm&ed=4&vol=0#105
+S_MI_1.6.2,Antimicrobial Susceptibility Testing (AST),,False,1,,,@book?n=MI-apsemm&ed=4&vol=0#35
+S_MI_1.2.2.2.5,Biofilm,,False,1,,,@book?n=MI-apsemm&ed=4&vol=0#17
+E_MI_,Immuno-prophylaxis of Viral Diseases (or) Viral Vaccines,,False,2,,,@book?n=MI-apsemm&ed=4&vol=0#82
+S_MI_,Lord Lister,,False,1,,,@book?n=MI-apsemm&ed=4&vol=0#4
+S_MI_,Bacterial Spores,,False,5,,,@book?n=MI-apsemm&ed=4&vol=0#18
+S_MI_,Sporicidal Chemicals,,False,1,,,@book?n=MI-apsemm&ed=4&vol=0#19
+S_MI_,L-forms of Bacteria,,False,1,,,@book?n=MI-apsemm&ed=4&vol=0#18
