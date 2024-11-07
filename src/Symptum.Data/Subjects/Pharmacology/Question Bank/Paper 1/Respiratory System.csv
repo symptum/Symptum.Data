@@ -1,46 +1,46 @@
-Id,Title,Descriptions,HasPreviouslyBeenAsked,Importance,YearsAsked,ProbableCases,BookReferences,LinkReferences
-E_PH_1.32.1,Role of Sympathomimetics in Bronchial Asthma,,True,1,2012-08,,n=PH-kdtemp&ed=8&vol=0#222,
+Id,Title,Descriptions,HasPreviouslyBeenAsked,Importance,YearsAsked,ProbableCases,References
+E_PH_1.32.1,Role of Sympathomimetics in Bronchial Asthma,,True,1,2012-08,,@book?n=PH-kdtemp&ed=8&vol=0#222
 E_PH_1.32,Drugs used in Bronchial Asthma,"- Mechanism of Action
 - Uses
 - Adverse Effects
-- Classification",True,2,2011-08;2007-02,,n=PH-kdtemp&ed=8&vol=0#241,
-S_PH_1.33.1.1,Centrally Acting Cough Suppressants,- Uses,True,1,2012-08,,n=PH-kdtemp&ed=8&vol=0#239,
+- Classification",True,2,2011-08;2007-02,,@book?n=PH-kdtemp&ed=8&vol=0#241
+S_PH_1.33.1.1,Centrally Acting Cough Suppressants,- Uses,True,1,2012-08,,@book?n=PH-kdtemp&ed=8&vol=0#239
 S_PH_1.32.2,Steroids Used in Bronchial Asthma,"- Role
-- Adverse effects",True,7,2020-08;2018-08;2017-08;2017-02;2012-02;2009-08;2004-08,,n=PH-kdtemp&ed=8&vol=0#249,
-S_PH_1.32.3,Mast Cell Stabilisers,,True,5,2018-08;2016-02;2011-02;2010-02;2000-04,,n=PH-kdtemp&ed=8&vol=0#249,
-S_PH_1.33.2,Mucolytics (or) Mucokinetics,,True,3,2019-02;2013-08;2010-02,,n=PH-kdtemp&ed=8&vol=0#238,
+- Adverse effects",True,7,2020-08;2018-08;2017-08;2017-02;2012-02;2009-08;2004-08,,@book?n=PH-kdtemp&ed=8&vol=0#249
+S_PH_1.32.3,Mast Cell Stabilisers,,True,5,2018-08;2016-02;2011-02;2010-02;2000-04,,@book?n=PH-kdtemp&ed=8&vol=0#249
+S_PH_1.33.2,Mucolytics (or) Mucokinetics,,True,3,2019-02;2013-08;2010-02,,@book?n=PH-kdtemp&ed=8&vol=0#238
 S_PH_1.32.4,Leukotriene Antagonists in Bronchial Asthma,"- Mechanism of Action
 - Uses
 - Adverse Effects
-- Indications",True,2,2013-08;2010-08,,n=PH-kdtemp&ed=8&vol=0#248,
+- Indications",True,2,2013-08;2010-08,,@book?n=PH-kdtemp&ed=8&vol=0#248
 S_PH_1.33.1,Antitussives,"- Mechanism of Action
 - Uses
 - Adverse Effects
-- Examples",True,5,2023-02;2021-02;2018-08;2017-08;2011-08,,n=PH-kdtemp&ed=8&vol=0#239,
+- Examples",True,5,2023-02;2021-02;2018-08;2017-08;2011-08,,@book?n=PH-kdtemp&ed=8&vol=0#239
 S_PH_1.32.4,Montelukast,"- Mechanism of Action
-- Uses",True,1,2011-08,,n=PH-kdtemp&ed=8&vol=0#248,
+- Uses",True,1,2011-08,,@book?n=PH-kdtemp&ed=8&vol=0#248
 S_PH_1.32.6,Status Asthmaticus,"- Drugs Used
-- Management",True,5,2019-08;2014-02;2005-08;2003-10;2000-10,,n=PH-kdtemp&ed=8&vol=0#253,
-S_PH_1.32,Anti-Asthmatic Drugs,,True,1,2014-02,,n=PH-kdtemp&ed=8&vol=0#241,
-S_PH_1.32.5,Ipratropium bromide,,True,1,2014-08,,n=PH-kdtemp&ed=8&vol=0#248,
-S_PH_1.32.2,Role of Glucocorticoids in Bronchial Asthma,,True,2,2015-02;1998-04,,n=PH-kdtemp&ed=8&vol=0#249,
-S_PH_1.32.1,Salbutamol,,True,2,2015-08;1997-10,,n=PH-kdtemp&ed=8&vol=0#242,
-S_PH_1.33.2,Bromhexine,,True,1,2016-02,,n=PH-kdtemp&ed=8&vol=0#238,
+- Management",True,5,2019-08;2014-02;2005-08;2003-10;2000-10,,@book?n=PH-kdtemp&ed=8&vol=0#253
+S_PH_1.32,Anti-Asthmatic Drugs,,True,1,2014-02,,@book?n=PH-kdtemp&ed=8&vol=0#241
+S_PH_1.32.5,Ipratropium bromide,,True,1,2014-08,,@book?n=PH-kdtemp&ed=8&vol=0#248
+S_PH_1.32.2,Role of Glucocorticoids in Bronchial Asthma,,True,2,2015-02;1998-04,,@book?n=PH-kdtemp&ed=8&vol=0#249
+S_PH_1.32.1,Salbutamol,,True,2,2015-08;1997-10,,@book?n=PH-kdtemp&ed=8&vol=0#242
+S_PH_1.33.2,Bromhexine,,True,1,2016-02,,@book?n=PH-kdtemp&ed=8&vol=0#238
 S_PH_1.33.2,Nasal decongestants,"- Classification
 - Mechanism of Action
 - Uses
-- Adverse Effects",True,4,2023-07;2016-02;2007-02;2000-04,,n=PH-kdtemp&ed=8&vol=0#238,
-S_PH_1.32.7,Theophylline,- Adverse Effects,True,1,2020-02,,n=PH-kdtemp&ed=8&vol=0#246,
-S_PH_1.33.1,Dextromethorphan,,True,1,2001-11,,n=PH-kdtemp&ed=8&vol=0#239,
+- Adverse Effects",True,4,2023-07;2016-02;2007-02;2000-04,,@book?n=PH-kdtemp&ed=8&vol=0#238
+S_PH_1.32.7,Theophylline,- Adverse Effects,True,1,2020-02,,@book?n=PH-kdtemp&ed=8&vol=0#246
+S_PH_1.33.1,Dextromethorphan,,True,1,2001-11,,@book?n=PH-kdtemp&ed=8&vol=0#239
 S_PH_1.33.1,Centrally Acting Cough Syrup,"- Classification
 - Mechanism of action
 - Uses
-- Adverse Effects",True,1,2001-11,,n=PH-kdtemp&ed=8&vol=0#239,
-S_PH_1.32.4,Zileuton,,True,1,2005-08,,n=PH-kdtemp&ed=8&vol=0#249,
+- Adverse Effects",True,1,2001-11,,@book?n=PH-kdtemp&ed=8&vol=0#239
+S_PH_1.32.4,Zileuton,,True,1,2005-08,,@book?n=PH-kdtemp&ed=8&vol=0#249
 S_PH_1.32.1;1.32.5;1.32.7,Bronchodilators,"- Classification: Sympathomimetics, Methyl xanthines, Anticholinergics
 - Mechanism of action
 - Uses
-- Adverse Effects",True,1,2007-08,,n=PH-kdtemp&ed=8&vol=0#242,
-S_PH_1.32.3,Cromolyn Sodium (or) Sodium Cromoglycate,,True,2,2018-02;2002-03,,n=PH-kdtemp&ed=8&vol=0#249,
-S_PH_1.32.7,Methyl Xanthines in Bronchial Asthma,,True,1,2001-11,,n=PH-kdtemp&ed=8&vol=0#243,
-S_PH_1.33.2,Expectorants,,True,1,2005-02,,n=PH-kdtemp&ed=8&vol=0#238,
+- Adverse Effects",True,1,2007-08,,@book?n=PH-kdtemp&ed=8&vol=0#242
+S_PH_1.32.3,Cromolyn Sodium (or) Sodium Cromoglycate,,True,2,2018-02;2002-03,,@book?n=PH-kdtemp&ed=8&vol=0#249
+S_PH_1.32.7,Methyl Xanthines in Bronchial Asthma,,True,1,2001-11,,@book?n=PH-kdtemp&ed=8&vol=0#243
+S_PH_1.33.2,Expectorants,,True,1,2005-02,,@book?n=PH-kdtemp&ed=8&vol=0#238
