@@ -1,12 +1,12 @@
-Id,Title,Descriptions,HasPreviouslyBeenAsked,Importance,YearsAsked,ProbableCases,BookReferences,LinkReferences
-S_EN_,Foreign Bodies in ENT,- Management of Foreign Bodies in Aerodigestive Tract,True,2,2024-02;2001-11,,"n=EN-dhinent&ed=8&vol=0#63,189,375,406",
-S_EN_,Trigeminal Neuralgia,- Asked as a Short Answer,True,1,2023-06,,,
-S_EN_,Laimer-Haeckerman's Area,,True,1,2022-08,,,
-S_EN_,Covid-19 (or) Corona Virus (or) SARS CoV-2 Infection,- Asked as a Short Answer,True,1,2022-08,,n=EN-dhinent&ed=8&vol=0#176,
-S_EN_,Halo's Sign,- Asked as a Short Answer,True,1,2022-08,,,
-S_EN_,CHARGE Syndrome,,True,1,2022-04,,n=EN-dhinent&ed=8&vol=0#546,
-S_EN_,Sluder's Neuralgia,- Asked as a Short Answer,True,1,2014-08,,n=EN-dhinent&ed=8&vol=0#549,
-S_EN_,Dysphagia Lusoria,- Asked as a Short Answer,True,2,2014-08;2013-02,,n=EN-dhinent&ed=8&vol=0#546,
-S_EN_,Lignocaine in ENT,- Asked as a Short Answer,True,1,2013-08,,,
-S_EN_,TNM Classification,,True,1,2005-08,,,
-S_EN_,Premalignant Conditions in ENT,,True,2,2002-03;2000-04,,,
+Id,Title,Descriptions,HasPreviouslyBeenAsked,Importance,YearsAsked,ProbableCases,References
+S_EN_,Foreign Bodies in ENT,- Management of Foreign Bodies in Aerodigestive Tract,True,2,2024-02;2001-11,,"@book?n=EN-dhinent&ed=8&vol=0#63,189,375,406"
+S_EN_,Trigeminal Neuralgia,- Asked as a Short Answer,True,1,2023-06,,
+S_EN_,Laimer-Haeckerman's Area,,True,1,2022-08,,
+S_EN_,Covid-19 (or) Corona Virus (or) SARS CoV-2 Infection,- Asked as a Short Answer,True,1,2022-08,,@book?n=EN-dhinent&ed=8&vol=0#176
+S_EN_,Halo's Sign,- Asked as a Short Answer,True,1,2022-08,,
+S_EN_,CHARGE Syndrome,,True,1,2022-04,,@book?n=EN-dhinent&ed=8&vol=0#546
+S_EN_,Sluder's Neuralgia,- Asked as a Short Answer,True,1,2014-08,,@book?n=EN-dhinent&ed=8&vol=0#549
+S_EN_,Dysphagia Lusoria,- Asked as a Short Answer,True,2,2014-08;2013-02,,@book?n=EN-dhinent&ed=8&vol=0#546
+S_EN_,Lignocaine in ENT,- Asked as a Short Answer,True,1,2013-08,,
+S_EN_,TNM Classification,,True,1,2005-08,,
+S_EN_,Premalignant Conditions in ENT,,True,2,2002-03;2000-04,,

@@ -1,4 +1,4 @@
-Id,Title,Descriptions,HasPreviouslyBeenAsked,Importance,YearsAsked,ProbableCases,BookReferences,LinkReferences
+Id,Title,Descriptions,HasPreviouslyBeenAsked,Importance,YearsAsked,ProbableCases,References
 E_EN_,Otosclerosis,"- Differential Diagnosis
 - Evaluations
 - Probable Diagnosis
@@ -6,14 +6,14 @@ E_EN_,Otosclerosis,"- Differential Diagnosis
 - Pathogenesis
 - Clinical Features
 - Management;- Diagnosis
-- Management",True,4,2024-02;2009-08;2005-08;2003-10,"A 35 year old female comes to ENT OPD with complaints of **right ear hard of hearing**. On examination, her **tympanic membrane was intact**. **Rinne** test was **negative on right side** and positive on left side. **Weber** lateralized to **right ear**.",n=EN-dhinent&ed=8&vol=0#103,
-S_EN_,Tuberculous Otitis Media,,True,2,2024-02;2023-06,,n=EN-dhinent&ed=8&vol=0#88,
-S_EN_,Impacted Wax (or) Cerumen,- Management,True,2,2024-02;2006-08,,n=EN-dhinent&ed=8&vol=0#62,
-S_EN_,Malignant (or) Necrotizing Otitis Externa,,True,10,2024-02;2023-02;2019-08;2017-08;2015-08;2012-02;2011-08;2006-08;2000-10;1991-12,,n=EN-dhinent&ed=8&vol=0#61,
-S_EN_,Auditory Brainstem Response (ABR) (or) Brainstem Evoked Response Audiometry (BERA) (or) Brainstem Auditory Evoked Response (BAER),,True,1,2024-02,,n=EN-dhinent&ed=8&vol=0#31,
-S_EN_,Aero-Otitis Media (or) Otitic Barotrauma,,True,2,2024-02;2023-06,,n=EN-dhinent&ed=8&vol=0#78,
-S_EN_,Acoustic Neuroma (or) Vestibular Schwannoma,- Clinical Features: Hitzelberger Sign (Asked as a Short Answer);- Cerebellopontine Angle Tumors,True,2,2024-02;2018-02,,n=EN-dhinent&ed=8&vol=0#132,
-S_EN_,Stenger Test,- Tuning Fork Tests for Non-Organic Deafness,True,2,2024-02;2020-11,,n=EN-dhinent&ed=8&vol=0#44,
+- Management",True,4,2024-02;2009-08;2005-08;2003-10,"A 35 year old female comes to ENT OPD with complaints of **right ear hard of hearing**. On examination, her **tympanic membrane was intact**. **Rinne** test was **negative on right side** and positive on left side. **Weber** lateralized to **right ear**.",@book?n=EN-dhinent&ed=8&vol=0#103
+S_EN_,Tuberculous Otitis Media,,True,2,2024-02;2023-06,,@book?n=EN-dhinent&ed=8&vol=0#88
+S_EN_,Impacted Wax (or) Cerumen,- Management,True,2,2024-02;2006-08,,@book?n=EN-dhinent&ed=8&vol=0#62
+S_EN_,Malignant (or) Necrotizing Otitis Externa,,True,10,2024-02;2023-02;2019-08;2017-08;2015-08;2012-02;2011-08;2006-08;2000-10;1991-12,,@book?n=EN-dhinent&ed=8&vol=0#61
+S_EN_,Auditory Brainstem Response (ABR) (or) Brainstem Evoked Response Audiometry (BERA) (or) Brainstem Auditory Evoked Response (BAER),,True,1,2024-02,,@book?n=EN-dhinent&ed=8&vol=0#31
+S_EN_,Aero-Otitis Media (or) Otitic Barotrauma,,True,2,2024-02;2023-06,,@book?n=EN-dhinent&ed=8&vol=0#78
+S_EN_,Acoustic Neuroma (or) Vestibular Schwannoma,- Clinical Features: Hitzelberger Sign (Asked as a Short Answer);- Cerebellopontine Angle Tumors,True,2,2024-02;2018-02,,@book?n=EN-dhinent&ed=8&vol=0#132
+S_EN_,Stenger Test,- Tuning Fork Tests for Non-Organic Deafness,True,2,2024-02;2020-11,,@book?n=EN-dhinent&ed=8&vol=0#44
 E_EN_,Hearing Impairment in Children,"- Etiology
 - Clinical Features
 - Investigations
@@ -23,25 +23,25 @@ E_EN_,Hearing Impairment in Children,"- Etiology
 - Management;- Etiology
 - Investigations
 - Auditory Training
-- Hearing Aids",True,3,2023-06;2023-06;2007-08,,n=EN-dhinent&ed=8&vol=0#135,
-S_EN_,Adverse Effects of Noise Exposure,- Noise Induced Hearing Loss (Asked as a Short Answer),True,2,2023-06;2023-06,,n=EN-dhinent&ed=8&vol=0#40,
-S_EN_,Syndromes Associated with Hearing Loss,- Treacher Collins Syndrome (or) Mandibulofacial Dysostosis (Asked as a Short Answer),True,1,2023-06,,n=EN-dhinent&ed=8&vol=0#136,
-S_EN_,Herpes Zoster Oticus (or) Ramsay Hunt Syndrome,,True,2,2023-02;2021-09,,n=EN-dhinent&ed=8&vol=0#114,
-S_EN_,Cochlear Implants,- Indications (Asked as a Short Answer),True,4,2023-02;2019-08;2018-02;2007-02,,n=EN-dhinent&ed=8&vol=0#145,
-S_EN_,Presbycusis (or) Presbyacusis (or) Age-related Hearing Loss,,True,5,2023-02;2018-02;2013-08;2013-02;2000-10,,n=EN-dhinent&ed=8&vol=0#43,
-S_EN_,Otitis Media with Effusion (or) Serous (or) Secretory (or) Mucoid Otitis Media (or) Glue Ear,,True,10,2023-02;2020-02;2018-08;2015-08;2014-02;2012-02;2010-02;2005-02;2003-10;2002-03;2000-04,,n=EN-dhinent&ed=8&vol=0#75,
+- Hearing Aids",True,3,2023-06;2023-06;2007-08,,@book?n=EN-dhinent&ed=8&vol=0#135
+S_EN_,Adverse Effects of Noise Exposure,- Noise Induced Hearing Loss (Asked as a Short Answer),True,2,2023-06;2023-06,,@book?n=EN-dhinent&ed=8&vol=0#40
+S_EN_,Syndromes Associated with Hearing Loss,- Treacher Collins Syndrome (or) Mandibulofacial Dysostosis (Asked as a Short Answer),True,1,2023-06,,@book?n=EN-dhinent&ed=8&vol=0#136
+S_EN_,Herpes Zoster Oticus (or) Ramsay Hunt Syndrome,,True,2,2023-02;2021-09,,@book?n=EN-dhinent&ed=8&vol=0#114
+S_EN_,Cochlear Implants,- Indications (Asked as a Short Answer),True,4,2023-02;2019-08;2018-02;2007-02,,@book?n=EN-dhinent&ed=8&vol=0#145
+S_EN_,Presbycusis (or) Presbyacusis (or) Age-related Hearing Loss,,True,5,2023-02;2018-02;2013-08;2013-02;2000-10,,@book?n=EN-dhinent&ed=8&vol=0#43
+S_EN_,Otitis Media with Effusion (or) Serous (or) Secretory (or) Mucoid Otitis Media (or) Glue Ear,,True,10,2023-02;2020-02;2018-08;2015-08;2014-02;2012-02;2010-02;2005-02;2003-10;2002-03;2000-04,,@book?n=EN-dhinent&ed=8&vol=0#75
 S_EN_,Otosclerosis,"- Clinical Features
 - Diagnosis;- Asked as a Short Answer
 - Diagnosis
-- Medical Management;- Carhart's Notch (Asked as a Short Answer);- Paracusis Willisii",True,9,2023-02;2018-08;2016-08;2016-02;2013-08;2013-02;2012-02;1997-10;1995-04,,n=EN-dhinent&ed=8&vol=0#103,
+- Medical Management;- Carhart's Notch (Asked as a Short Answer);- Paracusis Willisii",True,9,2023-02;2018-08;2016-08;2016-02;2013-08;2013-02;2012-02;1997-10;1995-04,,@book?n=EN-dhinent&ed=8&vol=0#103
 E_EN_,Chronic (Suppurative) Otitis Media (CSOM/COM) - Atticoantral (or) Squamosal type (or) Unsafe Ear,"- Investigations
 - Post-operative Complications;- Complications
-- Management",True,2,2023-02;2001-11,A 40 year old male with history of right ear **discharge** for the last 15 years. **Discharge is foul smelling and scanty** in amount.,n=EN-dhinent&ed=8&vol=0#81,
-S_EN_,Physiology of Hearing,- Impedance Matching (or) Transformer Action;- Travelling Wave Theory of von Bekesy (Asked as a Short Answer);- Auditory Pathway (Asked as a Short Answer);- Theories of Hearing,True,5,2023-02;2020-11;2011-08;2010-08;2001-11,,n=EN-dhinent&ed=8&vol=0#17,
-S_EN_,Lateral (or) Sigmoid Sinus Thrombophlebitis,- Tobey-Ayer Test (Asked as a Short Answer);- Griesinger's Sign (Asked as a Short Answer),True,5,2023-02;2014-02;2013-02;2011-02;2006-02,,n=EN-dhinent&ed=8&vol=0#100,
-S_EN_,Masked (or) Latent Mastoiditis,- Asked as a Short Answer,True,1,2023-02,,n=EN-dhinent&ed=8&vol=0#95,
-S_EN_,Otoacoustic Emissions (OAE),,True,2,2022-08;2018-08,,n=EN-dhinent&ed=8&vol=0#32,
-S_EN_,Epley's Maneuver,,True,1,2022-08,,n=EN-dhinent&ed=8&vol=0#52,
+- Management",True,2,2023-02;2001-11,A 40 year old male with history of right ear **discharge** for the last 15 years. **Discharge is foul smelling and scanty** in amount.,@book?n=EN-dhinent&ed=8&vol=0#81
+S_EN_,Physiology of Hearing,- Impedance Matching (or) Transformer Action;- Travelling Wave Theory of von Bekesy (Asked as a Short Answer);- Auditory Pathway (Asked as a Short Answer);- Theories of Hearing,True,5,2023-02;2020-11;2011-08;2010-08;2001-11,,@book?n=EN-dhinent&ed=8&vol=0#17
+S_EN_,Lateral (or) Sigmoid Sinus Thrombophlebitis,- Tobey-Ayer Test (Asked as a Short Answer);- Griesinger's Sign (Asked as a Short Answer),True,5,2023-02;2014-02;2013-02;2011-02;2006-02,,@book?n=EN-dhinent&ed=8&vol=0#100
+S_EN_,Masked (or) Latent Mastoiditis,- Asked as a Short Answer,True,1,2023-02,,@book?n=EN-dhinent&ed=8&vol=0#95
+S_EN_,Otoacoustic Emissions (OAE),,True,2,2022-08;2018-08,,@book?n=EN-dhinent&ed=8&vol=0#32
+S_EN_,Epley's Maneuver,,True,1,2022-08,,@book?n=EN-dhinent&ed=8&vol=0#52
 E_EN_,Chronic (Suppurative) Otitis Media (CSOM/COM) - Tubotympanic (or) Mucosal (or) Safe Type,"- Diagnosis
 - Investigations
 - Air-Bone Gap
@@ -49,96 +49,96 @@ E_EN_,Chronic (Suppurative) Otitis Media (CSOM/COM) - Tubotympanic (or) Mucosal 
 - Pathogenesis
 - Clinical Features
 - Complications
-- Management",True,6,2022-04;2008-08;2005-02;2001-04;1998-10;1993-01,"A 30 year old female from village, with H/O **right ear discharge** since childhood with H/O **hard of hearing** for 5 years and headache for 3 months. On Examination, the patient was having a **central perforation** in the anteroinferior quadrant of the tympanic membrane. TFT showed **Rinne negative**, **Weber** lateralized to **right side **, **ABC - not reduced**.",n=EN-dhinent&ed=8&vol=0#81,
-S_EN_,Labyrinthitis,- Diffuse Serous Labyrinthitis,True,2,2022-04;2009-02,,n=EN-dhinent&ed=8&vol=0#96,
-S_EN_,Speech Audiometry,,True,1,2022-04,,n=EN-dhinent&ed=8&vol=0#27,
-S_EN_,Korner's Septum,,True,2,2022-04;2014-08,,n=EN-dhinent&ed=8&vol=0#9,
-S_EN_,Variants of Ménière's Disease,- Lermoyez Syndrome (Asked as a Short Answer),True,1,2022-04,,n=EN-dhinent&ed=8&vol=0#122,
-S_EN_,Tympanic Membrane,- Perforations (Asked as a Short Answer),True,3,2022-02;2010-02;2008-08,,"n=EN-dhinent&ed=8&vol=0#3,84",
-S_EN_,Sudden Sensory Neural Hearing Loss,- Causes and Management,True,3,2022-02;2017-08;2008-08,,n=EN-dhinent&ed=8&vol=0#42,
-S_EN_,Hearing Aids,- Types,True,2,2022-02;2015-02,,n=EN-dhinent&ed=8&vol=0#141,
-S_EN_,Tinnitus,- Two Causes of Objective Tinnitus (Asked as a Short Answer);- Classification,True,2,2022-02;2012-08,,n=EN-dhinent&ed=8&vol=0#151,
-S_EN_,Anatomy of Ear,- Semicircular Canals;- Mesotympanum (Asked as a Short Answer);- Medial Wall of Middle Ear: Diagram and Parts (Asked as a Short Answer);- Nerve Supply of External Auditory Canal (Asked as a Short Answer);- Intratympanic Muscles (Asked as a Short Answer);- Stapes;- Middle Ear Cleft,True,8,2021-09;2013-08;2013-02;2012-08;2012-02;2010-02;2008-08;1998-10,,"n=EN-dhinent&ed=8&vol=0#5,6,9,10,11",
-S_EN_,Otalgia (or) Ear Ache,- Referred Otalgia,True,7,2021-09;2012-02;2011-02;2010-02;2009-08;2006-02;1999-04,,n=EN-dhinent&ed=8&vol=0#149,
-S_EN_,Gradenigo's Syndrome,,True,5,2021-09;2019-02;2012-08;2011-08;2010-02,,n=EN-dhinent&ed=8&vol=0#95,
-S_EN_,Intratympanic Gentamicin Therapy (or) Chemical Labyrinthectomy,- Asked as a Short Answer,True,1,2021-09,,n=EN-dhinent&ed=8&vol=0#124,
-S_EN_,Ototoxicity,,True,3,2020-11;2018-02;2012-08,,n=EN-dhinent&ed=8&vol=0#39,
-S_EN_,Trautmann's Triangle,- Asked as a Short Answer,True,1,2020-11,,n=EN-dhinent&ed=8&vol=0#550,
+- Management",True,6,2022-04;2008-08;2005-02;2001-04;1998-10;1993-01,"A 30 year old female from village, with H/O **right ear discharge** since childhood with H/O **hard of hearing** for 5 years and headache for 3 months. On Examination, the patient was having a **central perforation** in the anteroinferior quadrant of the tympanic membrane. TFT showed **Rinne negative**, **Weber** lateralized to **right side **, **ABC - not reduced**.",@book?n=EN-dhinent&ed=8&vol=0#81
+S_EN_,Labyrinthitis,- Diffuse Serous Labyrinthitis,True,2,2022-04;2009-02,,@book?n=EN-dhinent&ed=8&vol=0#96
+S_EN_,Speech Audiometry,,True,1,2022-04,,@book?n=EN-dhinent&ed=8&vol=0#27
+S_EN_,Korner's Septum,,True,2,2022-04;2014-08,,@book?n=EN-dhinent&ed=8&vol=0#9
+S_EN_,Variants of Ménière's Disease,- Lermoyez Syndrome (Asked as a Short Answer),True,1,2022-04,,@book?n=EN-dhinent&ed=8&vol=0#122
+S_EN_,Tympanic Membrane,- Perforations (Asked as a Short Answer),True,3,2022-02;2010-02;2008-08,,"@book?n=EN-dhinent&ed=8&vol=0#3,84"
+S_EN_,Sudden Sensory Neural Hearing Loss,- Causes and Management,True,3,2022-02;2017-08;2008-08,,@book?n=EN-dhinent&ed=8&vol=0#42
+S_EN_,Hearing Aids,- Types,True,2,2022-02;2015-02,,@book?n=EN-dhinent&ed=8&vol=0#141
+S_EN_,Tinnitus,- Two Causes of Objective Tinnitus (Asked as a Short Answer);- Classification,True,2,2022-02;2012-08,,@book?n=EN-dhinent&ed=8&vol=0#151
+S_EN_,Anatomy of Ear,- Semicircular Canals;- Mesotympanum (Asked as a Short Answer);- Medial Wall of Middle Ear: Diagram and Parts (Asked as a Short Answer);- Nerve Supply of External Auditory Canal (Asked as a Short Answer);- Intratympanic Muscles (Asked as a Short Answer);- Stapes;- Middle Ear Cleft,True,8,2021-09;2013-08;2013-02;2012-08;2012-02;2010-02;2008-08;1998-10,,"@book?n=EN-dhinent&ed=8&vol=0#5,6,9,10,11"
+S_EN_,Otalgia (or) Ear Ache,- Referred Otalgia,True,7,2021-09;2012-02;2011-02;2010-02;2009-08;2006-02;1999-04,,@book?n=EN-dhinent&ed=8&vol=0#149
+S_EN_,Gradenigo's Syndrome,,True,5,2021-09;2019-02;2012-08;2011-08;2010-02,,@book?n=EN-dhinent&ed=8&vol=0#95
+S_EN_,Intratympanic Gentamicin Therapy (or) Chemical Labyrinthectomy,- Asked as a Short Answer,True,1,2021-09,,@book?n=EN-dhinent&ed=8&vol=0#124
+S_EN_,Ototoxicity,,True,3,2020-11;2018-02;2012-08,,@book?n=EN-dhinent&ed=8&vol=0#39
+S_EN_,Trautmann's Triangle,- Asked as a Short Answer,True,1,2020-11,,@book?n=EN-dhinent&ed=8&vol=0#550
 E_EN_,Lateral (or) Sigmoid Sinus Thrombophlebitis,"- Complications of Chronic Suppurative Otitis Media
 - Clinical Features
 - Investigations
-- Treatment",True,4,2020-02;2016-02;2014-08;2012-08,,"n=EN-dhinent&ed=8&vol=0#90,100",
-S_EN_,Eustachian Tube,- Functions (Asked as a Short Answer),True,3,2020-02;2016-08;2001-04,,n=EN-dhinent&ed=8&vol=0#67,
-S_EN_,Tullio Phenomenon,- Asked as a Short Answer,True,1,2020-02,,n=EN-dhinent&ed=8&vol=0#550,
+- Treatment",True,4,2020-02;2016-02;2014-08;2012-08,,"@book?n=EN-dhinent&ed=8&vol=0#90,100"
+S_EN_,Eustachian Tube,- Functions (Asked as a Short Answer),True,3,2020-02;2016-08;2001-04,,@book?n=EN-dhinent&ed=8&vol=0#67
+S_EN_,Tullio Phenomenon,- Asked as a Short Answer,True,1,2020-02,,@book?n=EN-dhinent&ed=8&vol=0#550
 E_EN_,Otogenic Brain Abscess,"- Routes of Spread of Infection from Ear to Intracranial Structures
 - Intracranial Complications of Chronic Suppurative Otitis Media
-- Otogenic Brain Abscess",True,1,2019-08,,"n=EN-dhinent&ed=8&vol=0#90,98",
-S_EN_,Impedance Audiometry,- Tympanometry;- Tympanogram;- Stapedial (or) Acoustic Reflex,True,7,2019-02;2016-02;2014-08;2013-08;2012-08;2010-08;2010-02,,n=EN-dhinent&ed=8&vol=0#28,
-S_EN_,Organ of Corti,,True,1,2019-02,,n=EN-dhinent&ed=8&vol=0#16,
-S_EN_,Facial Palsy (or) Bell's Palsy,- Surgery (Asked as a Short Answer),True,5,2018-08;2014-08;2014-02;2009-08;2003-10,,n=EN-dhinent&ed=8&vol=0#112,
+- Otogenic Brain Abscess",True,1,2019-08,,"@book?n=EN-dhinent&ed=8&vol=0#90,98"
+S_EN_,Impedance Audiometry,- Tympanometry;- Tympanogram;- Stapedial (or) Acoustic Reflex,True,7,2019-02;2016-02;2014-08;2013-08;2012-08;2010-08;2010-02,,@book?n=EN-dhinent&ed=8&vol=0#28
+S_EN_,Organ of Corti,,True,1,2019-02,,@book?n=EN-dhinent&ed=8&vol=0#16
+S_EN_,Facial Palsy (or) Bell's Palsy,- Surgery (Asked as a Short Answer),True,5,2018-08;2014-08;2014-02;2009-08;2003-10,,@book?n=EN-dhinent&ed=8&vol=0#112
 S_EN_,Ménière's Disease (or) Endolymphatic Hydrops,"- Clinical Features
-- Management",True,7,2017-08;2017-02;2015-02;2011-02;2005-02;2001-11;1996-10,,n=EN-dhinent&ed=8&vol=0#119,
-S_EN_,Acute (Suppurative) Otitis Media (ASOM/AOM),,True,1,2017-02,,n=EN-dhinent&ed=8&vol=0#73,
-S_EN_,Keratosis Obturans,,True,4,2016-08;2014-08;2005-02;1994-11,,n=EN-dhinent&ed=8&vol=0#64,
-S_EN_,Signs of Retracted Tympanic Membrane,- Asked as a Short Answer,True,1,2016-02,,n=EN-dhinent&ed=8&vol=0#65,
-S_EN_,Cholesteatoma,- Management;- Definition & Diagram (Asked as a Short Answer),True,5,2015-08;2013-02;2011-08;2005-08;1997-04,,n=EN-dhinent&ed=8&vol=0#79,
-S_EN_,Optokinetic Nystagmus,,True,1,2015-02,,n=EN-dhinent&ed=8&vol=0#50,
-S_EN_,Frey's Syndrome (or) Gustatory Sweating,,True,1,2015-02,,"n=EN-dhinent&ed=8&vol=0#117,277",
-S_EN_,Otogenic Brain Abscess,,True,3,2015-02;2006-08;2004-08,,n=EN-dhinent&ed=8&vol=0#98,
-S_EN_,Pure Tone Audiometry,,True,2,2015-02;2010-08,,n=EN-dhinent&ed=8&vol=0#27,
-S_EN_,Masking,- Asked as a Short Answer,True,1,2014-08,,n=EN-dhinent&ed=8&vol=0#24,
-S_EN_,Caloric Test,- Modified Kobrak Test,True,4,2014-02;2009-02;2008-08;1997-10,,n=EN-dhinent&ed=8&vol=0#49,
-S_EN_,Tympanoplasty,,True,2,2014-02;2010-08,,n=EN-dhinent&ed=8&vol=0#34,
-S_EN_,Middle Ear Risk Index (MERI),,True,1,2014-02,,,
-S_EN_,Tuning Fork Tests,- Weber Test (Asked as a Short Answer);- Rinne's Test;- Absolute Bone Conduction (ABC) Test,True,10,2014-02;2013-02;2012-02;2010-08;2009-08;2008-08;2007-08;2007-02;2006-08;2005-08;2004-08;1999-04,,n=EN-dhinent&ed=8&vol=0#26,
-S_EN_,Causes of Red Eardrum,- Asked as a Short Answer,True,1,2014-02,,,
-S_EN_,Fistula Test (or) Fistula Sign,,True,3,2014-02;2011-02;2008-02,,n=EN-dhinent&ed=8&vol=0#47,
+- Management",True,7,2017-08;2017-02;2015-02;2011-02;2005-02;2001-11;1996-10,,@book?n=EN-dhinent&ed=8&vol=0#119
+S_EN_,Acute (Suppurative) Otitis Media (ASOM/AOM),,True,1,2017-02,,@book?n=EN-dhinent&ed=8&vol=0#73
+S_EN_,Keratosis Obturans,,True,4,2016-08;2014-08;2005-02;1994-11,,@book?n=EN-dhinent&ed=8&vol=0#64
+S_EN_,Signs of Retracted Tympanic Membrane,- Asked as a Short Answer,True,1,2016-02,,@book?n=EN-dhinent&ed=8&vol=0#65
+S_EN_,Cholesteatoma,- Management;- Definition & Diagram (Asked as a Short Answer),True,5,2015-08;2013-02;2011-08;2005-08;1997-04,,@book?n=EN-dhinent&ed=8&vol=0#79
+S_EN_,Optokinetic Nystagmus,,True,1,2015-02,,@book?n=EN-dhinent&ed=8&vol=0#50
+S_EN_,Frey's Syndrome (or) Gustatory Sweating,,True,1,2015-02,,"@book?n=EN-dhinent&ed=8&vol=0#117,277"
+S_EN_,Otogenic Brain Abscess,,True,3,2015-02;2006-08;2004-08,,@book?n=EN-dhinent&ed=8&vol=0#98
+S_EN_,Pure Tone Audiometry,,True,2,2015-02;2010-08,,@book?n=EN-dhinent&ed=8&vol=0#27
+S_EN_,Masking,- Asked as a Short Answer,True,1,2014-08,,@book?n=EN-dhinent&ed=8&vol=0#24
+S_EN_,Caloric Test,- Modified Kobrak Test,True,4,2014-02;2009-02;2008-08;1997-10,,@book?n=EN-dhinent&ed=8&vol=0#49
+S_EN_,Tympanoplasty,,True,2,2014-02;2010-08,,@book?n=EN-dhinent&ed=8&vol=0#34
+S_EN_,Middle Ear Risk Index (MERI),,True,1,2014-02,,
+S_EN_,Tuning Fork Tests,- Weber Test (Asked as a Short Answer);- Rinne's Test;- Absolute Bone Conduction (ABC) Test,True,10,2014-02;2013-02;2012-02;2010-08;2009-08;2008-08;2007-08;2007-02;2006-08;2005-08;2004-08;1999-04,,@book?n=EN-dhinent&ed=8&vol=0#26
+S_EN_,Causes of Red Eardrum,- Asked as a Short Answer,True,1,2014-02,,
+S_EN_,Fistula Test (or) Fistula Sign,,True,3,2014-02;2011-02;2008-02,,@book?n=EN-dhinent&ed=8&vol=0#47
 E_EN_,Benign Positional Paroxysmal Vertigo (BPPV),"- Peripheral Vestibular Causes of Vertigo
 - Pathophysiology
 - Clinical Features
-- Management",True,1,2013-02,,n=EN-dhinent&ed=8&vol=0#52,
-S_EN_,Complications Following Facial Nerve Paralysis,- Gustatory Lacrimation (or) Crocodile Tears (Asked as a Short Answer),True,1,2013-02,,n=EN-dhinent&ed=8&vol=0#117,
-S_EN_,Diffuse Otitis Externa,- Swimmer's Ear,True,1,2012-08,,n=EN-dhinent&ed=8&vol=0#60,
-S_EN_,Valsalva Maneuver,- Asked as a Short Answer,True,1,2012-08,,n=EN-dhinent&ed=8&vol=0#69,
-S_EN_,Pseudocyst Pinna,- Asked as a Short Answer,True,1,2012-08,,,
-S_EN_,Acute Mastoiditis,,True,1,2012-02,,n=EN-dhinent&ed=8&vol=0#91,
-S_EN_,Otomycosis,,True,7,2012-02;2009-08;2009-02;2005-08;2003-10;1998-10;1993-11,,n=EN-dhinent&ed=8&vol=0#61,
-S_EN_,Complications of Chronic (Suppurative) Otitis Media (CSOM/COM),- Extracranial Complications;- Intracranial Complications,True,5,2012-02;2011-02;2010-02;2002-03;2000-04,,n=EN-dhinent&ed=8&vol=0#90,
+- Management",True,1,2013-02,,@book?n=EN-dhinent&ed=8&vol=0#52
+S_EN_,Complications Following Facial Nerve Paralysis,- Gustatory Lacrimation (or) Crocodile Tears (Asked as a Short Answer),True,1,2013-02,,@book?n=EN-dhinent&ed=8&vol=0#117
+S_EN_,Diffuse Otitis Externa,- Swimmer's Ear,True,1,2012-08,,@book?n=EN-dhinent&ed=8&vol=0#60
+S_EN_,Valsalva Maneuver,- Asked as a Short Answer,True,1,2012-08,,@book?n=EN-dhinent&ed=8&vol=0#69
+S_EN_,Pseudocyst Pinna,- Asked as a Short Answer,True,1,2012-08,,
+S_EN_,Acute Mastoiditis,,True,1,2012-02,,@book?n=EN-dhinent&ed=8&vol=0#91
+S_EN_,Otomycosis,,True,7,2012-02;2009-08;2009-02;2005-08;2003-10;1998-10;1993-11,,@book?n=EN-dhinent&ed=8&vol=0#61
+S_EN_,Complications of Chronic (Suppurative) Otitis Media (CSOM/COM),- Extracranial Complications;- Intracranial Complications,True,5,2012-02;2011-02;2010-02;2002-03;2000-04,,@book?n=EN-dhinent&ed=8&vol=0#90
 E_EN_,Ménière's Disease (or) Endolymphatic Hydrops,"- Etiology
 - Pathogenesis
 - Clinical Features
-- Management",True,1,2011-08,,n=EN-dhinent&ed=8&vol=0#119,
-S_EN_,Paraganglioma (or) Glomus Tumour,,True,1,2011-08,,n=EN-dhinent&ed=8&vol=0#128,
+- Management",True,1,2011-08,,@book?n=EN-dhinent&ed=8&vol=0#119
+S_EN_,Paraganglioma (or) Glomus Tumour,,True,1,2011-08,,@book?n=EN-dhinent&ed=8&vol=0#128
 E_EN_,Otitis Media with Effusion (or) Serous (or) Secretory (or) Mucoid Otitis Media (or) Glue Ear,"- Etiology
 - Clinical Features
 - Treatment;- Causes of Conductive Hearing Loss (with Intact Tympanic Membrane)
 - Etiology
 - Clinical Features
-- Management (in a 4 year old Child)",True,3,2011-02;2007-02;2004-08,,n=EN-dhinent&ed=8&vol=0#75,
-S_EN_,Allergic (or) Eczematous Otitis Externa,,True,1,2011-02,,n=EN-dhinent&ed=8&vol=0#61,
-S_EN_,Perichondritis of Pinna,- Causes (Asked as a Short Answer),True,1,2010-08,,n=EN-dhinent&ed=8&vol=0#59,
+- Management (in a 4 year old Child)",True,3,2011-02;2007-02;2004-08,,@book?n=EN-dhinent&ed=8&vol=0#75
+S_EN_,Allergic (or) Eczematous Otitis Externa,,True,1,2011-02,,@book?n=EN-dhinent&ed=8&vol=0#61
+S_EN_,Perichondritis of Pinna,- Causes (Asked as a Short Answer),True,1,2010-08,,@book?n=EN-dhinent&ed=8&vol=0#59
 E_EN_,Cholesteatoma,"- Etiology
 - Pathogenesis
 - Clinical Features
-- Management",True,3,2010-02;2006-08;2002-03,,n=EN-dhinent&ed=8&vol=0#79,
-S_EN_,Hearing Loss,,True,1,2010-02,,n=EN-dhinent&ed=8&vol=0#34,
-S_EN_,Furuncle of Ear,,True,2,2009-08;2002-03,,n=EN-dhinent&ed=8&vol=0#60,
+- Management",True,3,2010-02;2006-08;2002-03,,@book?n=EN-dhinent&ed=8&vol=0#79
+S_EN_,Hearing Loss,,True,1,2010-02,,@book?n=EN-dhinent&ed=8&vol=0#34
+S_EN_,Furuncle of Ear,,True,2,2009-08;2002-03,,@book?n=EN-dhinent&ed=8&vol=0#60
 E_EN_,Conductive Hearing Loss,"- Etiology
 - Pathogenesis
 - Types of Tympanoplasty;- Definition
 - Etiology
 - Investigations
-- Management",True,2,2009-02;2005-08,,n=EN-dhinent&ed=8&vol=0#34,
-S_EN_,Petrositis (or) Petrous Apicitis,,True,1,2009-02,,n=EN-dhinent&ed=8&vol=0#95,
-S_EN_,Bezold Abscess,,True,1,2008-02,,n=EN-dhinent&ed=8&vol=0#94,
-E_EN_,Anatomy of Middle Ear,,True,1,2006-02,,n=EN-dhinent&ed=8&vol=0#5,
-S_EN_,Complications of Stapedectomy,,True,1,2006-02,,n=EN-dhinent&ed=8&vol=0#105,
+- Management",True,2,2009-02;2005-08,,@book?n=EN-dhinent&ed=8&vol=0#34
+S_EN_,Petrositis (or) Petrous Apicitis,,True,1,2009-02,,@book?n=EN-dhinent&ed=8&vol=0#95
+S_EN_,Bezold Abscess,,True,1,2008-02,,@book?n=EN-dhinent&ed=8&vol=0#94
+E_EN_,Anatomy of Middle Ear,,True,1,2006-02,,@book?n=EN-dhinent&ed=8&vol=0#5
+S_EN_,Complications of Stapedectomy,,True,1,2006-02,,@book?n=EN-dhinent&ed=8&vol=0#105
 E_EN_,Unilateral Otalgia (or) Ear Ache (or) Pain,"- Etiology
-- Clinical Features of Conditions",True,1,2005-02,,n=EN-dhinent&ed=8&vol=0#149,
-S_EN_,Deaf Mutism,,True,6,2005-02;2002-03;2001-11;2000-10;1997-04;1996-10,,n=EN-dhinent&ed=8&vol=0#135,
+- Clinical Features of Conditions",True,1,2005-02,,@book?n=EN-dhinent&ed=8&vol=0#149
+S_EN_,Deaf Mutism,,True,6,2005-02;2002-03;2001-11;2000-10;1997-04;1996-10,,@book?n=EN-dhinent&ed=8&vol=0#135
 E_EN_,Acute (Suppurative) Otitis Media (ASOM/AOM),"- Conditions Causing Conductive Deafness
 - Etiology
 - Clinical Features
-- Treatment",True,1,2001-04,,n=EN-dhinent&ed=8&vol=0#73,
-S_EN_,Benign Positional Paroxysmal Vertigo (BPPV),,True,1,2001-04,,n=EN-dhinent&ed=8&vol=0#52,
-S_EN_,Otitic Hydrocephalus,,True,1,1995-04,,n=EN-dhinent&ed=8&vol=0#102,
+- Treatment",True,1,2001-04,,@book?n=EN-dhinent&ed=8&vol=0#73
+S_EN_,Benign Positional Paroxysmal Vertigo (BPPV),,True,1,2001-04,,@book?n=EN-dhinent&ed=8&vol=0#52
+S_EN_,Otitic Hydrocephalus,,True,1,1995-04,,@book?n=EN-dhinent&ed=8&vol=0#102

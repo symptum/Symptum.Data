@@ -1,7 +1,7 @@
-Id,Title,Descriptions,HasPreviouslyBeenAsked,Importance,YearsAsked,ProbableCases,BookReferences,LinkReferences
-S_EN_,Oral Candidiasis (or) Moniliasis (or) Thrush,,True,1,2023-06,,n=EN-dhinent&ed=8&vol=0#254,
-S_EN_,Pleomorphic Adenoma,,True,2,2021-09;2011-08,,n=EN-dhinent&ed=8&vol=0#275,
-S_EN_,Sialolithiasis (or) Salivary Calculi,- Asked as a Short Answer,True,1,2020-11,,n=EN-dhinent&ed=8&vol=0#273,
-S_EN_,Premalignant Lesions of Oral Cavity,- Leukoplakia,True,5,2013-08;2010-08;2010-08;2007-08;2004-08,,n=EN-dhinent&ed=8&vol=0#263,
-S_EN_,Aphthous Ulcers,- Asked as a Short Answer,True,2,2013-08;2011-02,,n=EN-dhinent&ed=8&vol=0#255,
-S_EN_,Oral Submucous Fibrosis (OSF),,True,3,2012-02;2009-08;2007-02,,n=EN-dhinent&ed=8&vol=0#258,
+Id,Title,Descriptions,HasPreviouslyBeenAsked,Importance,YearsAsked,ProbableCases,References
+S_EN_,Oral Candidiasis (or) Moniliasis (or) Thrush,,True,1,2023-06,,@book?n=EN-dhinent&ed=8&vol=0#254
+S_EN_,Pleomorphic Adenoma,,True,2,2021-09;2011-08,,@book?n=EN-dhinent&ed=8&vol=0#275
+S_EN_,Sialolithiasis (or) Salivary Calculi,- Asked as a Short Answer,True,1,2020-11,,@book?n=EN-dhinent&ed=8&vol=0#273
+S_EN_,Premalignant Lesions of Oral Cavity,- Leukoplakia,True,5,2013-08;2010-08;2010-08;2007-08;2004-08,,@book?n=EN-dhinent&ed=8&vol=0#263
+S_EN_,Aphthous Ulcers,- Asked as a Short Answer,True,2,2013-08;2011-02,,@book?n=EN-dhinent&ed=8&vol=0#255
+S_EN_,Oral Submucous Fibrosis (OSF),,True,3,2012-02;2009-08;2007-02,,@book?n=EN-dhinent&ed=8&vol=0#258
