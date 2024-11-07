@@ -1,25 +1,25 @@
-Id,Title,Descriptions,HasPreviouslyBeenAsked,Importance,YearsAsked,ProbableCases,BookReferences,LinkReferences
-S_OP_,Indications for Breach of Confidentiality,- AETCOM,True,1,2024-02,,,
-S_OP_,Enucleation,- Indications (Asked as a Short Answer),True,4,2024-02;2023-06;2018-02;2009-02,,n=OP-akkco&ed=9&vol=0#289,
-S_OP_,Red Eye,,True,2,2023-06;1994-11,,"n=OP-akkco&ed=9&vol=0#61,150",
+Id,Title,Descriptions,HasPreviouslyBeenAsked,Importance,YearsAsked,ProbableCases,References
+S_OP_,Indications for Breach of Confidentiality,- AETCOM,True,1,2024-02,,
+S_OP_,Enucleation,- Indications (Asked as a Short Answer),True,4,2024-02;2023-06;2018-02;2009-02,,@book?n=OP-akkco&ed=9&vol=0#289
+S_OP_,Red Eye,,True,2,2023-06;1994-11,,"@book?n=OP-akkco&ed=9&vol=0#61,150"
 S_OP_,Hutchinson's Sign,"- Asked as a Short Answer
-- Ambiguous: May Refer to Hutchinson's Triad (or) Hutchinson's Rule in Herpes Zoster Ophthalmicus (or) Hutchinson's Pupil",True,1,2022-08,,"n=OP-akkco&ed=9&vol=0#105,115,315",
-S_OP_,Causes of Coloured Halos,- Asked as a Short Answer,True,1,2022-08,,,
-S_OP_,Evisceration,- Indications (Asked as a Short Answer),True,3,2022-04;2017-08;2015-02,,n=OP-akkco&ed=9&vol=0#164,
-S_OP_,Ocular Morbidities in School Children,,True,1,2021-09,,,
-S_OP_,Iridodialysis,,True,1,2020-11,,,
-S_OP_,Paracentesis,- Indications (Asked as a Short Answer),True,3,2020-02;2001-04;1996-10,,"n=OP-akkco&ed=9&vol=0#99,252",
-S_OP_,Evaluation of Vision in Children,,True,1,2019-08,,,
-S_OP_,Causes of Shallow Anterior Chamber,- Asked as a Short Answer,True,1,2014-02,,,
-S_OP_,Gram Negative Microbes,- Asked as a Short Answer,True,1,2014-02,,,
-S_OP_,Tubular Vision,- Asked as a Short Answer,True,4,2013-08;2012-02;2010-02;2009-08,,"n=OP-akkco&ed=9&vol=0#220,268",
-S_OP_,Fincham's Test,- Asked as a Short Answer,True,1,2012-08,,n=OP-akkco&ed=9&vol=0#228,
-S_OP_,Sudden Painless Loss of Vision,- Asked as a Short Answer,True,1,2012-08,,,
-S_OP_,Differential Diagnosis of Leucocoria,- Leucocoria in Children;- Pseudogliomas;- Yellowish-White Pupillary (or) Amaurotic Cat's Eye Reflex,True,4,2011-08;2008-08;2002-03;1998-10,,"n=OP-akkco&ed=9&vol=0#157,176,182,242,266,267,285,287",
-S_OP_,Secondary Glaucoma in Iridocyclitis,- Causes for Variations in Intraocular Pressure,True,2,2009-08;2006-02,,n=OP-akkco&ed=9&vol=0#232,
-S_OP_,Causes of Defective Dark Adaptation,- Asked as a Short Answer,True,1,2008-08,,,
-S_OP_,Iris Bombe,,True,3,2007-02;1997-04;1991-12,,"n=OP-akkco&ed=9&vol=0#148,201,225,231,232",
-E_OP_,Investigations for Unilateral Sudden Loss of Vision,,True,1,2006-02,A 60 year old man with complaints of unilateral sudden loss of vision.,,
-E_OP_,Differential Diagnosis of Red Eye,,True,1,2005-08,,"n=OP-akkco&ed=9&vol=0#61,150",
+- Ambiguous: May Refer to Hutchinson's Triad (or) Hutchinson's Rule in Herpes Zoster Ophthalmicus (or) Hutchinson's Pupil",True,1,2022-08,,"@book?n=OP-akkco&ed=9&vol=0#105,115,315"
+S_OP_,Causes of Coloured Halos,- Asked as a Short Answer,True,1,2022-08,,
+S_OP_,Evisceration,- Indications (Asked as a Short Answer),True,3,2022-04;2017-08;2015-02,,@book?n=OP-akkco&ed=9&vol=0#164
+S_OP_,Ocular Morbidities in School Children,,True,1,2021-09,,
+S_OP_,Iridodialysis,,True,1,2020-11,,
+S_OP_,Paracentesis,- Indications (Asked as a Short Answer),True,3,2020-02;2001-04;1996-10,,"@book?n=OP-akkco&ed=9&vol=0#99,252"
+S_OP_,Evaluation of Vision in Children,,True,1,2019-08,,
+S_OP_,Causes of Shallow Anterior Chamber,- Asked as a Short Answer,True,1,2014-02,,
+S_OP_,Gram Negative Microbes,- Asked as a Short Answer,True,1,2014-02,,
+S_OP_,Tubular Vision,- Asked as a Short Answer,True,4,2013-08;2012-02;2010-02;2009-08,,"@book?n=OP-akkco&ed=9&vol=0#220,268"
+S_OP_,Fincham's Test,- Asked as a Short Answer,True,1,2012-08,,@book?n=OP-akkco&ed=9&vol=0#228
+S_OP_,Sudden Painless Loss of Vision,- Asked as a Short Answer,True,1,2012-08,,
+S_OP_,Differential Diagnosis of Leucocoria,- Leucocoria in Children;- Pseudogliomas;- Yellowish-White Pupillary (or) Amaurotic Cat's Eye Reflex,True,4,2011-08;2008-08;2002-03;1998-10,,"@book?n=OP-akkco&ed=9&vol=0#157,176,182,242,266,267,285,287"
+S_OP_,Secondary Glaucoma in Iridocyclitis,- Causes for Variations in Intraocular Pressure,True,2,2009-08;2006-02,,@book?n=OP-akkco&ed=9&vol=0#232
+S_OP_,Causes of Defective Dark Adaptation,- Asked as a Short Answer,True,1,2008-08,,
+S_OP_,Iris Bombe,,True,3,2007-02;1997-04;1991-12,,"@book?n=OP-akkco&ed=9&vol=0#148,201,225,231,232"
+E_OP_,Investigations for Unilateral Sudden Loss of Vision,,True,1,2006-02,A 60 year old man with complaints of unilateral sudden loss of vision.,
+E_OP_,Differential Diagnosis of Red Eye,,True,1,2005-08,,"@book?n=OP-akkco&ed=9&vol=0#61,150"
 E_OP_,Gradual Loss of Vision in Old Age,"- Causes (in a Patient of Age 59)
-- Investigations",True,1,1995-11,,"n=OP-akkco&ed=9&vol=0#46,177,215,225,255,259,275",
+- Investigations",True,1,1995-11,,"@book?n=OP-akkco&ed=9&vol=0#46,177,215,225,255,259,275"

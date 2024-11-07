@@ -1,10 +1,10 @@
-Id,Title,Descriptions,HasPreviouslyBeenAsked,Importance,YearsAsked,ProbableCases,BookReferences,LinkReferences
-S_OP_,Chemical Injuries of Eye,,True,2,2023-06;2022-08,,n=OP-akkco&ed=9&vol=0#417,
-S_OP_,Orbital Cellulitis,,True,8,2023-02;2023-02;2018-02;2012-02;2010-02;2008-08;2001-11;2001-04,,n=OP-akkco&ed=9&vol=0#390,
-S_OP_,Manifestations of Contusion (or) Blunt Ocular Trauma,- Retinal Features of Blunt Trauma;- Vossius Ring (Asked as a Short Answer);- Commotio Retinae (or) Berlin's Edema (Asked as a Short Answer),True,4,2022-04;2013-02;2012-02;1998-10,,"n=OP-akkco&ed=9&vol=0#408,409,410",
-S_OP_,Thyroid Eye Disease (TED) (or) Endocrine (Malignant) Exophthalmos (or) Dysthyroid (or) Thyroid Associated (or) Grave's Ophthalmopathy (or) Ocular Grave's Disease (OGD),- Signs (Asked as a Short Answer),True,4,2022-02;2021-09;2019-02;2014-02,,n=OP-akkco&ed=9&vol=0#395,
-S_OP_,Sympathetic Ophthalmitis (or) Ophthalmia,,True,8,2020-02;2012-08;2010-08;2010-02;2008-02;2005-08;2003-10;2001-04,,n=OP-akkco&ed=9&vol=0#416,
-S_OP_,Proptosis,- Causes of Proptosis (Asked as a Short Answer),True,4,2020-02;2019-02;2012-02;2009-08,,n=OP-akkco&ed=9&vol=0#385,
-S_OP_,Intraocular Foreign Bodies,- Investigations (Asked as a Short Answer);- Chalcosis;- Siderosis and Chalcosis (Asked as a Short Answer);- Siderosis Bulbi (Asked as a Short Answer),True,4,2019-08;2018-02;2012-08;2011-08,,n=OP-akkco&ed=9&vol=0#412,
+Id,Title,Descriptions,HasPreviouslyBeenAsked,Importance,YearsAsked,ProbableCases,References
+S_OP_,Chemical Injuries of Eye,,True,2,2023-06;2022-08,,@book?n=OP-akkco&ed=9&vol=0#417
+S_OP_,Orbital Cellulitis,,True,8,2023-02;2023-02;2018-02;2012-02;2010-02;2008-08;2001-11;2001-04,,@book?n=OP-akkco&ed=9&vol=0#390
+S_OP_,Manifestations of Contusion (or) Blunt Ocular Trauma,- Retinal Features of Blunt Trauma;- Vossius Ring (Asked as a Short Answer);- Commotio Retinae (or) Berlin's Edema (Asked as a Short Answer),True,4,2022-04;2013-02;2012-02;1998-10,,"@book?n=OP-akkco&ed=9&vol=0#408,409,410"
+S_OP_,Thyroid Eye Disease (TED) (or) Endocrine (Malignant) Exophthalmos (or) Dysthyroid (or) Thyroid Associated (or) Grave's Ophthalmopathy (or) Ocular Grave's Disease (OGD),- Signs (Asked as a Short Answer),True,4,2022-02;2021-09;2019-02;2014-02,,@book?n=OP-akkco&ed=9&vol=0#395
+S_OP_,Sympathetic Ophthalmitis (or) Ophthalmia,,True,8,2020-02;2012-08;2010-08;2010-02;2008-02;2005-08;2003-10;2001-04,,@book?n=OP-akkco&ed=9&vol=0#416
+S_OP_,Proptosis,- Causes of Proptosis (Asked as a Short Answer),True,4,2020-02;2019-02;2012-02;2009-08,,@book?n=OP-akkco&ed=9&vol=0#385
+S_OP_,Intraocular Foreign Bodies,- Investigations (Asked as a Short Answer);- Chalcosis;- Siderosis and Chalcosis (Asked as a Short Answer);- Siderosis Bulbi (Asked as a Short Answer),True,4,2019-08;2018-02;2012-08;2011-08,,@book?n=OP-akkco&ed=9&vol=0#412
 E_OP_,Manifestations of Contusion (or) Blunt Ocular Trauma,"- Ocular Manifestations
-- Traumatic Cataract",True,3,2007-02;2006-08;2001-11,,n=OP-akkco&ed=9&vol=0#406,
+- Traumatic Cataract",True,3,2007-02;2006-08;2001-11,,@book?n=OP-akkco&ed=9&vol=0#406

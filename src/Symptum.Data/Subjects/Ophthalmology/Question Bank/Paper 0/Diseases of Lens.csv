@@ -1,19 +1,19 @@
-Id,Title,Descriptions,HasPreviouslyBeenAsked,Importance,YearsAsked,ProbableCases,BookReferences,LinkReferences
-S_OP_,Complicated Cataract,- Causes (Asked as a Short Answer);- Clinical Features (Asked as a Short Answer),True,10,2023-06;2018-08;2018-02;2016-08;2013-08;2013-02;2009-02;2008-02;2005-08;1995-04,,n=OP-akkco&ed=9&vol=0#184,
+Id,Title,Descriptions,HasPreviouslyBeenAsked,Importance,YearsAsked,ProbableCases,References
+S_OP_,Complicated Cataract,- Causes (Asked as a Short Answer);- Clinical Features (Asked as a Short Answer),True,10,2023-06;2018-08;2018-02;2016-08;2013-08;2013-02;2009-02;2008-02;2005-08;1995-04,,@book?n=OP-akkco&ed=9&vol=0#184
 E_OP_,Diabetic (or) Snowflake (or) Snowstorm Cataract,"- Diagnosis
 - Clinical Features
-- Management",True,1,2023-02,"A **65** year old **diabetic** patient with C/O both eye **progressive painless loss of vision** over the past one year. On Examination, there is a **greyish white reflex** in the pupillary area of the right eye.","n=OP-akkco&ed=9&vol=0#177,183",
-S_OP_,Counselling a Cataract Patient with Poor Visual Prognosis,- AETCOM,True,1,2023-02,,,
-S_OP_,Ectopia Lentis,- Asked as a Short Answer,True,1,2022-08,,n=OP-akkco&ed=9&vol=0#203,
-S_OP_,Biometry (or) Calculation of IOL Power,- Axial Length (or) A-scan Ultrasonic Biometry (Asked as a Short Answer);- Parameters Used (Asked as a Short Answer),True,4,2022-04;2022-02;2015-02;2008-08,,n=OP-akkco&ed=9&vol=0#198,
-S_OP_,Congenital Cataract,- Causes (Asked as a Short Answer);- Common Types (Asked as a Short Answer),True,3,2022-02;2014-02;2012-08,,n=OP-akkco&ed=9&vol=0#173,
-S_OP_,Nuclear Cataract,,True,1,2021-09,,"n=OP-akkco&ed=9&vol=0#174,179",
-S_OP_,Drug Induced Cataract,- Causes (Asked as a Short Answer),True,1,2021-09,,n=OP-akkco&ed=9&vol=0#184,
-S_OP_,Complications of Cataract Surgery,- Posterior Capsular Opacification (or) Secondary (or) After Cataract,True,5,2019-08;2014-02;2010-08;2010-02;2001-04,,"n=OP-akkco&ed=9&vol=0#199,202",
-S_OP_,Treatment of Posterior Capsular Opacification (or) Cataract,- Asked as a Short Answer,True,1,2019-08,,n=OP-akkco&ed=9&vol=0#185,
-S_OP_,Lamellar (or) Zonular Cataract,,True,3,2018-02;1993-11;1992-04,,n=OP-akkco&ed=9&vol=0#174,
-S_OP_,Hypermature Cataract,- Asked as a Short Answer,True,1,2017-02,,n=OP-akkco&ed=9&vol=0#178,
-S_OP_,Subluxation of Lens,- Associated Syndromes (Asked as a Short Answer),True,4,2016-02;2012-02;2009-02;2001-04,,n=OP-akkco&ed=9&vol=0#204,
+- Management",True,1,2023-02,"A **65** year old **diabetic** patient with C/O both eye **progressive painless loss of vision** over the past one year. On Examination, there is a **greyish white reflex** in the pupillary area of the right eye.","@book?n=OP-akkco&ed=9&vol=0#177,183"
+S_OP_,Counselling a Cataract Patient with Poor Visual Prognosis,- AETCOM,True,1,2023-02,,
+S_OP_,Ectopia Lentis,- Asked as a Short Answer,True,1,2022-08,,@book?n=OP-akkco&ed=9&vol=0#203
+S_OP_,Biometry (or) Calculation of IOL Power,- Axial Length (or) A-scan Ultrasonic Biometry (Asked as a Short Answer);- Parameters Used (Asked as a Short Answer),True,4,2022-04;2022-02;2015-02;2008-08,,@book?n=OP-akkco&ed=9&vol=0#198
+S_OP_,Congenital Cataract,- Causes (Asked as a Short Answer);- Common Types (Asked as a Short Answer),True,3,2022-02;2014-02;2012-08,,@book?n=OP-akkco&ed=9&vol=0#173
+S_OP_,Nuclear Cataract,,True,1,2021-09,,"@book?n=OP-akkco&ed=9&vol=0#174,179"
+S_OP_,Drug Induced Cataract,- Causes (Asked as a Short Answer),True,1,2021-09,,@book?n=OP-akkco&ed=9&vol=0#184
+S_OP_,Complications of Cataract Surgery,- Posterior Capsular Opacification (or) Secondary (or) After Cataract,True,5,2019-08;2014-02;2010-08;2010-02;2001-04,,"@book?n=OP-akkco&ed=9&vol=0#199,202"
+S_OP_,Treatment of Posterior Capsular Opacification (or) Cataract,- Asked as a Short Answer,True,1,2019-08,,@book?n=OP-akkco&ed=9&vol=0#185
+S_OP_,Lamellar (or) Zonular Cataract,,True,3,2018-02;1993-11;1992-04,,@book?n=OP-akkco&ed=9&vol=0#174
+S_OP_,Hypermature Cataract,- Asked as a Short Answer,True,1,2017-02,,@book?n=OP-akkco&ed=9&vol=0#178
+S_OP_,Subluxation of Lens,- Associated Syndromes (Asked as a Short Answer),True,4,2016-02;2012-02;2009-02;2001-04,,@book?n=OP-akkco&ed=9&vol=0#204
 E_OP_,Senile Cataract,"- Causes of Progressive Loss of Vision
 - Management of Senile Cortical Cataract;- Clinical Features
 - Diagnosis
@@ -23,16 +23,16 @@ E_OP_,Senile Cataract,"- Causes of Progressive Loss of Vision
 - Clinical Features
 - Management of Mature Cataract;- Acquired Cataracts
 - Management of Senile Cataract
-- Post-operative Complications",True,5,2015-02;2012-08;2008-02;2002-03;2001-11,,n=OP-akkco&ed=9&vol=0#177,
-S_OP_,Dislocation (or) Luxation of Lens,- Causes (Asked as a Short Answer),True,2,2013-08;2010-08,,n=OP-akkco&ed=9&vol=0#204,
-S_OP_,Cupuliform (Senile Posterior Subcapsular) vs Cuneiform (Senile Cortical) Cataract,- Asked as a Short Answer,True,1,2012-08,,n=OP-akkco&ed=9&vol=0#178,
-S_OP_,Phaecoemulsification,- Advantages (Asked as a Short Answer);- Asked as a Short Answer,True,4,2012-02;2011-08;2010-02;2009-02,,"n=OP-akkco&ed=9&vol=0#188,193",
-E_OP_,Pre-operative Investigations for Cataract Surgery,,True,1,2010-08,,n=OP-akkco&ed=9&vol=0#185,
-S_OP_,Intraocular Lenses (IOL),,True,3,2003-10;2000-10;1995-11,,n=OP-akkco&ed=9&vol=0#195,
+- Post-operative Complications",True,5,2015-02;2012-08;2008-02;2002-03;2001-11,,@book?n=OP-akkco&ed=9&vol=0#177
+S_OP_,Dislocation (or) Luxation of Lens,- Causes (Asked as a Short Answer),True,2,2013-08;2010-08,,@book?n=OP-akkco&ed=9&vol=0#204
+S_OP_,Cupuliform (Senile Posterior Subcapsular) vs Cuneiform (Senile Cortical) Cataract,- Asked as a Short Answer,True,1,2012-08,,@book?n=OP-akkco&ed=9&vol=0#178
+S_OP_,Phaecoemulsification,- Advantages (Asked as a Short Answer);- Asked as a Short Answer,True,4,2012-02;2011-08;2010-02;2009-02,,"@book?n=OP-akkco&ed=9&vol=0#188,193"
+E_OP_,Pre-operative Investigations for Cataract Surgery,,True,1,2010-08,,@book?n=OP-akkco&ed=9&vol=0#185
+S_OP_,Intraocular Lenses (IOL),,True,3,2003-10;2000-10;1995-11,,@book?n=OP-akkco&ed=9&vol=0#195
 E_OP_,Congenital Cataract,"- Causes of Leucocoria
 - Classification
 - Etiology
 - Clinical Features
-- Management",True,2,2001-11;1998-10,,n=OP-akkco&ed=9&vol=0#173,
+- Management",True,2,2001-11;1998-10,,@book?n=OP-akkco&ed=9&vol=0#173
 E_OP_,Cataract,"- Causes of Cataract
-- Management of Uniocular Cataract",True,1,1997-04,,"n=OP-akkco&ed=9&vol=0#173,177,185",
+- Management of Uniocular Cataract",True,1,1997-04,,"@book?n=OP-akkco&ed=9&vol=0#173,177,185"

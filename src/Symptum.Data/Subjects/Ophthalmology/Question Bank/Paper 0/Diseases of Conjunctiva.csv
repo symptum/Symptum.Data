@@ -1,24 +1,24 @@
-Id,Title,Descriptions,HasPreviouslyBeenAsked,Importance,YearsAsked,ProbableCases,BookReferences,LinkReferences
-S_OP_,Vernal Keratoconjunctivitis (VKC) (or) Spring Catarrh,,True,10,2024-02;2021-09;2018-02;2014-02;2013-08;2011-08;2009-02;2005-02;2004-08;2002-03;2001-11,,n=OP-akkco&ed=9&vol=0#75,
-S_OP_,Ophthalmia Neonatorum,,True,6,2024-02;2015-08;2012-08;2012-02;2010-08;2010-02,,n=OP-akkco&ed=9&vol=0#73,
+Id,Title,Descriptions,HasPreviouslyBeenAsked,Importance,YearsAsked,ProbableCases,References
+S_OP_,Vernal Keratoconjunctivitis (VKC) (or) Spring Catarrh,,True,10,2024-02;2021-09;2018-02;2014-02;2013-08;2011-08;2009-02;2005-02;2004-08;2002-03;2001-11,,@book?n=OP-akkco&ed=9&vol=0#75
+S_OP_,Ophthalmia Neonatorum,,True,6,2024-02;2015-08;2012-08;2012-02;2010-08;2010-02,,@book?n=OP-akkco&ed=9&vol=0#73
 S_OP_,Trachoma (or) Egyptian Ophthalmia,"- Clinical Features (Asked as a Short Answer);- WHO Classification;- Causes for Blindness
-- Management;- SAFE Strategy (Asked as a Short Answer)",True,8,2023-02;2022-02;2019-02;2012-08;2012-02;2008-08;2005-02;1996-10,,n=OP-akkco&ed=9&vol=0#64,
-S_OP_,Pterygium,- Pterygium vs Pseudopterygium (Asked as a Short Answer),True,6,2023-02;2012-08;2010-08;2010-02;2009-08;2007-02,,n=OP-akkco&ed=9&vol=0#82,
+- Management;- SAFE Strategy (Asked as a Short Answer)",True,8,2023-02;2022-02;2019-02;2012-08;2012-02;2008-08;2005-02;1996-10,,@book?n=OP-akkco&ed=9&vol=0#64
+S_OP_,Pterygium,- Pterygium vs Pseudopterygium (Asked as a Short Answer),True,6,2023-02;2012-08;2010-08;2010-02;2009-08;2007-02,,@book?n=OP-akkco&ed=9&vol=0#82
 S_OP_,Differential Diagnosis of Limbal Nodules,"- Asked as a Short Answer
-- Phlycten, Pinguecula, Early Pterygium, Foreign Body, Granuloma, Episcleritis, Scleritis, Limbal Dermoid, Malignancies, etc.",True,2,2022-04;2016-08,,"n=OP-akkco&ed=9&vol=0#78,81,82,87,134",
-S_OP_,Phlyctenular Keratoconjunctivitis (PKC),- Phlycten (Asked as a Short Answer);- Management of Fascicular Ulcer,True,3,2016-02;2014-02;2012-02,,n=OP-akkco&ed=9&vol=0#78,
+- Phlycten, Pinguecula, Early Pterygium, Foreign Body, Granuloma, Episcleritis, Scleritis, Limbal Dermoid, Malignancies, etc.",True,2,2022-04;2016-08,,"@book?n=OP-akkco&ed=9&vol=0#78,81,82,87,134"
+S_OP_,Phlyctenular Keratoconjunctivitis (PKC),- Phlycten (Asked as a Short Answer);- Management of Fascicular Ulcer,True,3,2016-02;2014-02;2012-02,,@book?n=OP-akkco&ed=9&vol=0#78
 E_OP_,Trachoma,"- Definition
 - Clinical Features
 - Management
 - Complications;- Etiology
 - Clinical Features
-- Management",True,2,2008-02;2006-08,,n=OP-akkco&ed=9&vol=0#64,
-S_OP_,Ecchymosis (or) Subconjunctival Hemorrhage,,True,1,2006-08,,n=OP-akkco&ed=9&vol=0#84,
-S_OP_,Allergic Conjunctivitis,,True,1,2003-10,,n=OP-akkco&ed=9&vol=0#74,
-S_OP_,Pneumococcal Conjunctivitis,,True,1,2003-10,,n=OP-akkco&ed=9&vol=0#60,
-S_OP_,Angular Conjunctivitis,,True,1,2002-03,,n=OP-akkco&ed=9&vol=0#63,
-S_OP_,Follicular Conjunctivitis,,True,1,2001-04,,n=OP-akkco&ed=9&vol=0#70,
+- Management",True,2,2008-02;2006-08,,@book?n=OP-akkco&ed=9&vol=0#64
+S_OP_,Ecchymosis (or) Subconjunctival Hemorrhage,,True,1,2006-08,,@book?n=OP-akkco&ed=9&vol=0#84
+S_OP_,Allergic Conjunctivitis,,True,1,2003-10,,@book?n=OP-akkco&ed=9&vol=0#74
+S_OP_,Pneumococcal Conjunctivitis,,True,1,2003-10,,@book?n=OP-akkco&ed=9&vol=0#60
+S_OP_,Angular Conjunctivitis,,True,1,2002-03,,@book?n=OP-akkco&ed=9&vol=0#63
+S_OP_,Follicular Conjunctivitis,,True,1,2001-04,,@book?n=OP-akkco&ed=9&vol=0#70
 E_OP_,Hyperacute Bacterial (or) Acute Purulent Conjunctivitis (or) Blenorrhea,"- Etiology
 - Clinical Features
 - Complications
-- Management",True,1,1998-04,,n=OP-akkco&ed=9&vol=0#62,
+- Management",True,1,1998-04,,@book?n=OP-akkco&ed=9&vol=0#62
