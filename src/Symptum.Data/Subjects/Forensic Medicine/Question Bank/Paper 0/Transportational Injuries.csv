@@ -1,2 +1,2 @@
-Id,Title,Descriptions,HasPreviouslyBeenAsked,Importance,YearsAsked,ProbableCases,BookReferences,LinkReferences
-S_FM_,Primary Impact Injuries,,True,1,1999-04,,n=FM-ignfmt&ed=5&vol=0#213,
+Id,Title,Descriptions,HasPreviouslyBeenAsked,Importance,YearsAsked,ProbableCases,References
+S_FM_,Primary Impact Injuries,,True,1,1999-04,,@book?n=FM-ignfmt&ed=5&vol=0#213
