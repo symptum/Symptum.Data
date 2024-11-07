@@ -1,7 +1,7 @@
-Id,Title,Descriptions,HasPreviouslyBeenAsked,Importance,YearsAsked,ProbableCases,BookReferences,LinkReferences
-S_PA_18.1.2,Leukemoid Reactions (or) Leukocytosis,,True,6,2012-08;2008-08;2005-08;2000-04;1999-04;1995-11,,n=PA-rbpbdsa&ed=10&vol=1#587;n=PA-rbpbdsa&ed=10&vol=1#102,
+Id,Title,Descriptions,HasPreviouslyBeenAsked,Importance,YearsAsked,ProbableCases,References
+S_PA_18.1.2,Leukemoid Reactions (or) Leukocytosis,,True,6,2012-08;2008-08;2005-08;2000-04;1999-04;1995-11,,@book?n=PA-rbpbdsa&ed=10&vol=1#587;@book?n=PA-rbpbdsa&ed=10&vol=1#102
 S_PA_18.2,Leukemia,"- Definition
-- FAB classification of leukemia",True,2,2009-08;2008-08,,n=PA-rbpbdsa&ed=10&vol=1#590,
+- FAB classification of leukemia",True,2,2009-08;2008-08,,@book?n=PA-rbpbdsa&ed=10&vol=1#590
 E_PA_18.2.2.1,Chronic Myeloid Leukemia (CML),"- Diagnosis
 - Peripheral smear findings
 - Course of disease
@@ -10,28 +10,28 @@ E_PA_18.2.2.1,Chronic Myeloid Leukemia (CML),"- Diagnosis
 - Clinical outcome; - Diagnosis
 - Molecular basis of this disease
 - Morphological features
-- Classify myeloproliferative neoplasms",True,4,2023-07;2012-08;2011-08;2009-08,"A 40 year old male with H/O chronic fatigue, weight loss since 6 months. O/E pallor, marked splenomegaly+, laboratory report shows Hb 10 gm%, Total leukocyte count 215000/cu.mm Platelets 4 lakhs/cu.mm.",n=PA-rbpbdsa&ed=10&vol=1#622,
+- Classify myeloproliferative neoplasms",True,4,2023-07;2012-08;2011-08;2009-08,"A 40 year old male with H/O chronic fatigue, weight loss since 6 months. O/E pallor, marked splenomegaly+, laboratory report shows Hb 10 gm%, Total leukocyte count 215000/cu.mm Platelets 4 lakhs/cu.mm.",@book?n=PA-rbpbdsa&ed=10&vol=1#622
 E_PA_18.2,Leukemia,"- Classify leukemias
 - Describe peripheral blood picture and bone marrow findings in CML;- Classify leukemias
 - Describe peripheral blood picture and bone marrow findings in ALL;- Classify leukemias
-- Describe blood and bone marrow findings in AML",True,7,2019-08;2010-02;2005-02;1995-11;1993-11;1993-01;1990-12,,n=PA-rbpbdsa&ed=10&vol=1#590;n=PA-rbpbdsa&ed=10&vol=1#594;n=PA-rbpbdsa&ed=10&vol=1#597;n=PA-rbpbdsa&ed=10&vol=1#617;n=PA-rbpbdsa&ed=10&vol=1#622,
-S_PA_19.4.1.1,Reed Sternberg Cell,- Variants;- Types,True,5,2023-02;2022-08;2016-08;2013-02;2010-08,,n=PA-rbpbdsa&ed=10&vol=1#612,
-S_PA_13.1,Leucocytes,- Morphological disorder;- Defects in leucocyte function,True,2,2012-02;1994-11,,n=PA-rbpbdsa&ed=10&vol=1#241,
-S_PA_18.2.1.1,Acute Myeloid Leukemia (AML),- Classification;- WHO Classification;- Morphological classification,True,3,2022-08;2013-08;1996-04,,n=PA-rbpbdsa&ed=10&vol=1#617,
-S_PA_18.2.1,Acute Leukemia,- Classification;- Cytochemistry;- FAB classification,True,4,2020-02;2011-02;2000-10;1997-04,,n=PA-rbpbdsa&ed=10&vol=1#594;n=PA-rbpbdsa&ed=10&vol=1#617,
+- Describe blood and bone marrow findings in AML",True,7,2019-08;2010-02;2005-02;1995-11;1993-11;1993-01;1990-12,,@book?n=PA-rbpbdsa&ed=10&vol=1#590;@book?n=PA-rbpbdsa&ed=10&vol=1#594;@book?n=PA-rbpbdsa&ed=10&vol=1#597;@book?n=PA-rbpbdsa&ed=10&vol=1#617;@book?n=PA-rbpbdsa&ed=10&vol=1#622
+S_PA_19.4.1.1,Reed Sternberg Cell,- Variants;- Types,True,5,2023-02;2022-08;2016-08;2013-02;2010-08,,@book?n=PA-rbpbdsa&ed=10&vol=1#612
+S_PA_13.1,Leucocytes,- Morphological disorder;- Defects in leucocyte function,True,2,2012-02;1994-11,,@book?n=PA-rbpbdsa&ed=10&vol=1#241
+S_PA_18.2.1.1,Acute Myeloid Leukemia (AML),- Classification;- WHO Classification;- Morphological classification,True,3,2022-08;2013-08;1996-04,,@book?n=PA-rbpbdsa&ed=10&vol=1#617
+S_PA_18.2.1,Acute Leukemia,- Classification;- Cytochemistry;- FAB classification,True,4,2020-02;2011-02;2000-10;1997-04,,@book?n=PA-rbpbdsa&ed=10&vol=1#594;@book?n=PA-rbpbdsa&ed=10&vol=1#617
 S_PA_18.2.2.1,Chronic Myeloid Leukemia (CML),"- Blood picture of CML;- Mutations in CML;- Diagnosis
 - Diagram of peripheral smear
-- Common genetic abnormality",True,5,2022-03;2020-11;2020-02;2016-08;1998-04,"A 30 year old male presented with massive splenomegaly, His total leukocyte count was 235,000 cells/cu.mm with more neutrophil precursors. Platelet count was 1,80,000 cells/cu.mm.",n=PA-rbpbdsa&ed=10&vol=1#622,
-S_PA_19.4.1.2,Nodular Sclerosis,,True,1,2006-02,,n=PA-rbpbdsa&ed=10&vol=1#612,
+- Common genetic abnormality",True,5,2022-03;2020-11;2020-02;2016-08;1998-04,"A 30 year old male presented with massive splenomegaly, His total leukocyte count was 235,000 cells/cu.mm with more neutrophil precursors. Platelet count was 1,80,000 cells/cu.mm.",@book?n=PA-rbpbdsa&ed=10&vol=1#622
+S_PA_19.4.1.2,Nodular Sclerosis,,True,1,2006-02,,@book?n=PA-rbpbdsa&ed=10&vol=1#612
 S_PA_18.1.1,Agranulocytosis,"- Diagnosis
-- Pathogenesis;- Definition",True,4,2022-08;2016-02;2013-02;1998-04,A 20 year old male following antibiotic intake had total leukocyte count of 1200 cells/cu.mm and absolute neutrophil count of 120 cells.,n=PA-rbpbdsa&ed=10&vol=1#586,
+- Pathogenesis;- Definition",True,4,2022-08;2016-02;2013-02;1998-04,A 20 year old male following antibiotic intake had total leukocyte count of 1200 cells/cu.mm and absolute neutrophil count of 120 cells.,@book?n=PA-rbpbdsa&ed=10&vol=1#586
 E_PA_18.2.1,Acute Myeloid Leukemia (AML),"- Etiopathogenesis
 - Clinical features
-- Lab investigations",True,1,2006-08,,n=PA-rbpbdsa&ed=10&vol=1#617,
-E_PA_18.2.2,Chronic Myeloproliferative Disorders,,True,1,2007-08,,n=PA-rbpbdsa&ed=10&vol=1#621,
-S_PA_13.1.1,Myelodysplastic Syndrome,,True,2,2016-02;2007-08,,n=PA-rbpbdsa&ed=10&vol=1#620,
-S_PA_19.4.1,Hodgkin's lymphoma,- Classification of Hodgkin's lymphoma;- Morphology and types;- Pathological types;- Subtypes of Hodgkin's lymphoma;- Molecular pathogenesis and Morphology;- AETCOM: Empathising and Supporting your friend (18/M) with Hodgkin's lymphoma,True,6,2022-08;2022-03;2021-09;2015-02;2013-08;2007-08,,n=PA-rbpbdsa&ed=10&vol=1#611,
-S_PA_20.1.1,Multiple Myeloma,- Blood and bone marrow picture;-Morphology,True,7,2023-07;2023-02;2022-03;2022-02;2019-02;2013-08;2011-08,A 70 year old woman admitted with worsening anemia and pathological fracture of the Humerus had an ESR of 120 mm/hr. Her peripheral smear showed increased Rouleaux formation. X-ray of skull showed multiple punched out osteolytic lesions.,n=PA-rbpbdsa&ed=10&vol=1#607,
+- Lab investigations",True,1,2006-08,,@book?n=PA-rbpbdsa&ed=10&vol=1#617
+E_PA_18.2.2,Chronic Myeloproliferative Disorders,,True,1,2007-08,,@book?n=PA-rbpbdsa&ed=10&vol=1#621
+S_PA_13.1.1,Myelodysplastic Syndrome,,True,2,2016-02;2007-08,,@book?n=PA-rbpbdsa&ed=10&vol=1#620
+S_PA_19.4.1,Hodgkin's lymphoma,- Classification of Hodgkin's lymphoma;- Morphology and types;- Pathological types;- Subtypes of Hodgkin's lymphoma;- Molecular pathogenesis and Morphology;- AETCOM: Empathising and Supporting your friend (18/M) with Hodgkin's lymphoma,True,6,2022-08;2022-03;2021-09;2015-02;2013-08;2007-08,,@book?n=PA-rbpbdsa&ed=10&vol=1#611
+S_PA_20.1.1,Multiple Myeloma,- Blood and bone marrow picture;-Morphology,True,7,2023-07;2023-02;2022-03;2022-02;2019-02;2013-08;2011-08,A 70 year old woman admitted with worsening anemia and pathological fracture of the Humerus had an ESR of 120 mm/hr. Her peripheral smear showed increased Rouleaux formation. X-ray of skull showed multiple punched out osteolytic lesions.,@book?n=PA-rbpbdsa&ed=10&vol=1#607
 E_PA_20.1.1,Multiple Myeloma,"- Diagnosis
 - Etiopathogenesis
 - Bone marrow changes
@@ -39,9 +39,9 @@ E_PA_20.1.1,Multiple Myeloma,"- Diagnosis
 - Complications;- Diagnosis
 - Molecular pathogenesis
 - Morphology
-- Clinical features",True,2,2012-02;2011-02,"A 60 year old male presented with normocytic normochromic anaemia, pathological fracture of femur and proteinuria. X-ray skull revealed punched out lesions in the calvarium and peripheral smear studied show rouleaux formation.;A 60 year old male presented with low back ache. He had multiple lytic lesions of bones on skeletal survey. Serum electrophoresis and bone narrow was done to establish diagnosis.",n=PA-rbpbdsa&ed=10&vol=1#607,
-S_PA_13.1.2,Primary Myelofibrosis,,True,2,2015-08;2012-02,,n=PA-rbpbdsa&ed=10&vol=1#626,
-S_PA_13.1.1,Pseudo Pelger-Huët Anomaly,,True,1,2012-02,,n=PA-rbpbdsa&ed=10&vol=1#620,
-S_PA_20.1.1.1,Russell Bodies,,True,2,2017-02;2014-08,,n=PA-rbpbdsa&ed=10&vol=1#608,
-S_PA_,Leucocyte Alkaline Phosphatase,,True,1,2014-08,,,
-S_PA_13.1.3,Langerhans Cell Histiocytosis,,True,1,2015-08,,n=PA-rbpbdsa&ed=10&vol=1#627,
+- Clinical features",True,2,2012-02;2011-02,"A 60 year old male presented with normocytic normochromic anaemia, pathological fracture of femur and proteinuria. X-ray skull revealed punched out lesions in the calvarium and peripheral smear studied show rouleaux formation.;A 60 year old male presented with low back ache. He had multiple lytic lesions of bones on skeletal survey. Serum electrophoresis and bone narrow was done to establish diagnosis.",@book?n=PA-rbpbdsa&ed=10&vol=1#607
+S_PA_13.1.2,Primary Myelofibrosis,,True,2,2015-08;2012-02,,@book?n=PA-rbpbdsa&ed=10&vol=1#626
+S_PA_13.1.1,Pseudo Pelger-Huët Anomaly,,True,1,2012-02,,@book?n=PA-rbpbdsa&ed=10&vol=1#620
+S_PA_20.1.1.1,Russell Bodies,,True,2,2017-02;2014-08,,@book?n=PA-rbpbdsa&ed=10&vol=1#608
+S_PA_,Leucocyte Alkaline Phosphatase,,True,1,2014-08,,
+S_PA_13.1.3,Langerhans Cell Histiocytosis,,True,1,2015-08,,@book?n=PA-rbpbdsa&ed=10&vol=1#627

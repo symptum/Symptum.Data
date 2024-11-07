@@ -1,21 +1,21 @@
-Id,Title,Descriptions,HasPreviouslyBeenAsked,Importance,YearsAsked,ProbableCases,BookReferences,LinkReferences
-S_PA_33.1,Osteomyelitis,- Acute Osteomyelitis;- Chronic Osteomyelitis,True,4,2022-08;2011-08;2006-08;2004-08,,n=PA-rbpbdsa&ed=10&vol=2#1185;n=PA-ramd&ed=4&vol=1#836,
-S_PA_33.1.1,Pyogenic Osteomyelitis,,True,1,2010-08,,n=PA-rbpbdsa&ed=10&vol=2#1185;n=PA-ramd&ed=4&vol=1#836,
-S_PA_33.1.2,Mycobacterial (or) Tuberculous Osteomyelitis,,True,1,1995-08,,n=PA-rbpbdsa&ed=10&vol=2#1186;n=PA-ramd&ed=4&vol=2#839,
-E_PA_33.2,Bone Tumors,- Classification;- Etiopathogenesis and Pathology of Osteogenic Sarcoma;- Genetic Alterations and Morphology of Osteosarcoma;- Radiological Findings in Various Bone Tumors,True,2,2023-02;2020-11,A 15 year old male presented with **lytic lesion lower end of femur**. X-Ray revealed **Codman’s triangle and sun ray appearance.**,n=PA-rbpbdsa&ed=10&vol=2#1187;n=PA-ramd&ed=4&vol=1#841,
-S_PA_33.2.1,Osteosarcoma (or) Osteogenic Sarcoma,,True,7,2020-02;2009-08;2007-08;2003-10;2000-10;1998-10;1991-12,A 15 year old male presented with **lytic lesion lower end of femur**. X-Ray revealed **Codman’s triangle and sun ray appearance.**,n=PA-rbpbdsa&ed=10&vol=2#1188,
-S_PA_33.2.2,Osteoclastoma (or) Giant Cell Tumor,,True,5,2023-12;2017-02;2012-02;2008-08;2002-03,A 30 year old female with **lytic lesion** in distal ulna and X-ray revealed **soap bubble appearance**.,n=PA-rbpbdsa&ed=10&vol=2#1193,
-S_PA_33.2.3,Ewing Sarcoma,,True,6,2023-12;2022-08;2014-02;2001-04;1997-10;1995-11,,n=PA-rbpbdsa&ed=10&vol=2#1192,
-S_PA_33.2.4,Osteochondroma,,True,2,2023-07;2013-02,,n=PA-rbpbdsa&ed=10&vol=2#1189,
-S_PA_33.2.5,Chondroblastoma,,True,4,2014-08;2011-08;2003-10;2002-03,,n=PA-rbpbdsa&ed=10&vol=2#1187,
-S_PA_33.2.6,Cartilage Forming (or) Chondrogenic Tumors,,True,4,2023-02;2015-02;2010-08;2009-08,,n=PA-rbpbdsa&ed=10&vol=2#1189,
-S_PA_33.3.1,Rhabdomyosarcoma,,True,3,2022-02;2014-08;1997-10,,n=PA-rbpbdsa&ed=10&vol=2#1212,
-S_PA_33.3.2,Leiomyoma,,True,1,2008-08,,n=PA-rbpbdsa&ed=10&vol=2#1213,
-S_PA_33.3.3,Liposarcoma,,True,1,2011-02,,n=PA-rbpbdsa&ed=10&vol=2#1209,
-S_PA_33.3.4,Lipoma,,False,1,,,n=PA-rbpbdsa&ed=10&vol=2#1209,
-S_PA_33.4,Paget Disease of Bone,,True,3,2011-02;2008-02;2008-02,,n=PA-rbpbdsa&ed=10&vol=2#1182,
-S_PA_33.5,Rheumatoid Arthritis,,True,1,2022-02,,n=PA-rbpbdsa&ed=10&vol=2#1199,
-S_PA_33.6,Osteonecrosis,,True,1,2011-02,,n=PA-rbpbdsa&ed=10&vol=2#1185,
-S_PA_33.7,Gout,,True,4,2019-02;2018-08;2016-02;2009-08,,n=PA-rbpbdsa&ed=10&vol=2#1204,
-S_PA_33.7,Adamantinoma Jaw,,True,1,2014-08,,,
-S_PA_,Fracture Healing,,True,2,2013-08;2012-08,,n=PA-rbpbdsa&ed=10&vol=2#1184,
+Id,Title,Descriptions,HasPreviouslyBeenAsked,Importance,YearsAsked,ProbableCases,References
+S_PA_33.1,Osteomyelitis,- Acute Osteomyelitis;- Chronic Osteomyelitis,True,4,2022-08;2011-08;2006-08;2004-08,,@book?n=PA-rbpbdsa&ed=10&vol=2#1185;@book?n=PA-ramd&ed=4&vol=1#836
+S_PA_33.1.1,Pyogenic Osteomyelitis,,True,1,2010-08,,@book?n=PA-rbpbdsa&ed=10&vol=2#1185;@book?n=PA-ramd&ed=4&vol=1#836
+S_PA_33.1.2,Mycobacterial (or) Tuberculous Osteomyelitis,,True,1,1995-08,,@book?n=PA-rbpbdsa&ed=10&vol=2#1186;@book?n=PA-ramd&ed=4&vol=2#839
+E_PA_33.2,Bone Tumors,- Classification;- Etiopathogenesis and Pathology of Osteogenic Sarcoma;- Genetic Alterations and Morphology of Osteosarcoma;- Radiological Findings in Various Bone Tumors,True,2,2023-02;2020-11,A 15 year old male presented with **lytic lesion lower end of femur**. X-Ray revealed **Codman’s triangle and sun ray appearance.**,@book?n=PA-rbpbdsa&ed=10&vol=2#1187;@book?n=PA-ramd&ed=4&vol=1#841
+S_PA_33.2.1,Osteosarcoma (or) Osteogenic Sarcoma,,True,7,2020-02;2009-08;2007-08;2003-10;2000-10;1998-10;1991-12,A 15 year old male presented with **lytic lesion lower end of femur**. X-Ray revealed **Codman’s triangle and sun ray appearance.**,@book?n=PA-rbpbdsa&ed=10&vol=2#1188
+S_PA_33.2.2,Osteoclastoma (or) Giant Cell Tumor,,True,5,2023-12;2017-02;2012-02;2008-08;2002-03,A 30 year old female with **lytic lesion** in distal ulna and X-ray revealed **soap bubble appearance**.,@book?n=PA-rbpbdsa&ed=10&vol=2#1193
+S_PA_33.2.3,Ewing Sarcoma,,True,6,2023-12;2022-08;2014-02;2001-04;1997-10;1995-11,,@book?n=PA-rbpbdsa&ed=10&vol=2#1192
+S_PA_33.2.4,Osteochondroma,,True,2,2023-07;2013-02,,@book?n=PA-rbpbdsa&ed=10&vol=2#1189
+S_PA_33.2.5,Chondroblastoma,,True,4,2014-08;2011-08;2003-10;2002-03,,@book?n=PA-rbpbdsa&ed=10&vol=2#1187
+S_PA_33.2.6,Cartilage Forming (or) Chondrogenic Tumors,,True,4,2023-02;2015-02;2010-08;2009-08,,@book?n=PA-rbpbdsa&ed=10&vol=2#1189
+S_PA_33.3.1,Rhabdomyosarcoma,,True,3,2022-02;2014-08;1997-10,,@book?n=PA-rbpbdsa&ed=10&vol=2#1212
+S_PA_33.3.2,Leiomyoma,,True,1,2008-08,,@book?n=PA-rbpbdsa&ed=10&vol=2#1213
+S_PA_33.3.3,Liposarcoma,,True,1,2011-02,,@book?n=PA-rbpbdsa&ed=10&vol=2#1209
+S_PA_33.3.4,Lipoma,,False,1,,,@book?n=PA-rbpbdsa&ed=10&vol=2#1209
+S_PA_33.4,Paget Disease of Bone,,True,3,2011-02;2008-02;2008-02,,@book?n=PA-rbpbdsa&ed=10&vol=2#1182
+S_PA_33.5,Rheumatoid Arthritis,,True,1,2022-02,,@book?n=PA-rbpbdsa&ed=10&vol=2#1199
+S_PA_33.6,Osteonecrosis,,True,1,2011-02,,@book?n=PA-rbpbdsa&ed=10&vol=2#1185
+S_PA_33.7,Gout,,True,4,2019-02;2018-08;2016-02;2009-08,,@book?n=PA-rbpbdsa&ed=10&vol=2#1204
+S_PA_33.7,Adamantinoma Jaw,,True,1,2014-08,,
+S_PA_,Fracture Healing,,True,2,2013-08;2012-08,,@book?n=PA-rbpbdsa&ed=10&vol=2#1184

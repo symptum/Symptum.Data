@@ -1,9 +1,9 @@
-Id,Title,Descriptions,HasPreviouslyBeenAsked,Importance,YearsAsked,ProbableCases,BookReferences,LinkReferences
+Id,Title,Descriptions,HasPreviouslyBeenAsked,Importance,YearsAsked,ProbableCases,References
 S_PA_11.2,Childhood Malignancies,"- Benign Tumors
-- Malignant Tumors",True,3,2019-02;2008-08;1993-11,,n=PA-rbpbdsa&ed=10&vol=1#475,
-S_PA_11.4,Wilms Tumor,- Asked in paper 2 as well,True,8,2023-12;2014-08;2010-08;2008-08;2004-08;2003-10;1999-10;1991-12,"A 3 year old child presented with a **unilateral, large abdominal mass** which extend down the pelvis. Histology show **sheets of blue cells**.",n=PA-rbpbdsa&ed=10&vol=1#480,
-S_PA_11.5,Homer Wright Pseudo Rosettes (Neuroblastoma Histology),,True,1,2008-04,A 2 year old child presented with a **large abdominal mass** and **weight loss**. He has **deep bluish discolouration of skin (Blueberry Muffin Baby)**. Blood - **Elevated levels of VMA (Vanillyl mandellic acid)**.,n=PA-rbpbdsa&ed=10&vol=1#478,
-S_PA_11.6,Cystic Fibrosis,- Etiopathogenesis,True,1,2011-02,A 10 year old child is hospitalized with **pneumonia** and **difficulty in breathing**. His stools are **large** and contains **undigested particles**. His **sweat chloride levels are elevated**.,n=PA-rbpbdsa&ed=10&vol=1#467,
-S_PA_11.7,Sudden Infant Death Syndrome (SIDS),,False,1,,"A 6 month old baby dies **suddenly** with **unexplained** cause even after **proper investigation, autopsy and clinical history**.",n=PA-rbpbdsa&ed=10&vol=1#473,
-S_PA_11.8,Phenylketonuria,,False,1,,A 6 month old baby has **reduced intellectual ability**. His blood sample shows **elevated levels of phenylalanine**.,n=PA-rbpbdsa&ed=10&vol=1#465,
-S_PA_11.4,Hemolytic Disease of Newborn (Fetal Hydrops),,True,2,2009-08;1996-04,,n=PA-rbpbdsa&ed=10&vol=1#462,
+- Malignant Tumors",True,3,2019-02;2008-08;1993-11,,@book?n=PA-rbpbdsa&ed=10&vol=1#475
+S_PA_11.4,Wilms Tumor,- Asked in paper 2 as well,True,8,2023-12;2014-08;2010-08;2008-08;2004-08;2003-10;1999-10;1991-12,"A 3 year old child presented with a **unilateral, large abdominal mass** which extend down the pelvis. Histology show **sheets of blue cells**.",@book?n=PA-rbpbdsa&ed=10&vol=1#480
+S_PA_11.5,Homer Wright Pseudo Rosettes (Neuroblastoma Histology),,True,1,2008-04,A 2 year old child presented with a **large abdominal mass** and **weight loss**. He has **deep bluish discolouration of skin (Blueberry Muffin Baby)**. Blood - **Elevated levels of VMA (Vanillyl mandellic acid)**.,@book?n=PA-rbpbdsa&ed=10&vol=1#478
+S_PA_11.6,Cystic Fibrosis,- Etiopathogenesis,True,1,2011-02,A 10 year old child is hospitalized with **pneumonia** and **difficulty in breathing**. His stools are **large** and contains **undigested particles**. His **sweat chloride levels are elevated**.,@book?n=PA-rbpbdsa&ed=10&vol=1#467
+S_PA_11.7,Sudden Infant Death Syndrome (SIDS),,False,1,,"A 6 month old baby dies **suddenly** with **unexplained** cause even after **proper investigation, autopsy and clinical history**.",@book?n=PA-rbpbdsa&ed=10&vol=1#473
+S_PA_11.8,Phenylketonuria,,False,1,,A 6 month old baby has **reduced intellectual ability**. His blood sample shows **elevated levels of phenylalanine**.,@book?n=PA-rbpbdsa&ed=10&vol=1#465
+S_PA_11.4,Hemolytic Disease of Newborn (Fetal Hydrops),,True,2,2009-08;1996-04,,@book?n=PA-rbpbdsa&ed=10&vol=1#462

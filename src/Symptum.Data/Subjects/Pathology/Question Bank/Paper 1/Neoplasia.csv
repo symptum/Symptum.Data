@@ -1,38 +1,38 @@
-Id,Title,Descriptions,HasPreviouslyBeenAsked,Importance,YearsAsked,ProbableCases,BookReferences,LinkReferences
+Id,Title,Descriptions,HasPreviouslyBeenAsked,Importance,YearsAsked,ProbableCases,References
 E_PA_7.1,Metastasis,"- Define Metastasis
-- Different Pathways of Spread",True,1,2008-07,,n=PA-rbpbdsa&ed=10&vol=1#273,
-S_PA_7.1,Metastasis,,True,2,2019-08;2011-02,,n=PA-rbpbdsa&ed=10&vol=1#273,
-S_PA_7.3.3,Oncogenic Viruses,,True,2,2013-02;2008-08,,n=PA-rbpbdsa&ed=10&vol=1#323,
-S_PA_7.6.1,Fine Needle Aspiration Cytology (FNAC),,True,2,2009-08;2008-08,,n=PA-rbpbdsa&ed=10&vol=1#331,
-S_PA_7.6,Lab Diagonosis of Cancer,,True,2,2019-02;2009-02,,n=PA-rbpbdsa&ed=10&vol=1#331,
-S_PA_7.7,Grading and Staging of Tumors,,True,1,2009-02,,n=PA-rbpbdsa&ed=10&vol=1#330,
-S_PA_,Automatic Tissue Processor,,True,1,2009-02,,,
+- Different Pathways of Spread",True,1,2008-07,,@book?n=PA-rbpbdsa&ed=10&vol=1#273
+S_PA_7.1,Metastasis,,True,2,2019-08;2011-02,,@book?n=PA-rbpbdsa&ed=10&vol=1#273
+S_PA_7.3.3,Oncogenic Viruses,,True,2,2013-02;2008-08,,@book?n=PA-rbpbdsa&ed=10&vol=1#323
+S_PA_7.6.1,Fine Needle Aspiration Cytology (FNAC),,True,2,2009-08;2008-08,,@book?n=PA-rbpbdsa&ed=10&vol=1#331
+S_PA_7.6,Lab Diagonosis of Cancer,,True,2,2019-02;2009-02,,@book?n=PA-rbpbdsa&ed=10&vol=1#331
+S_PA_7.7,Grading and Staging of Tumors,,True,1,2009-02,,@book?n=PA-rbpbdsa&ed=10&vol=1#330
+S_PA_,Automatic Tissue Processor,,True,1,2009-02,,
 E_PA_7.3.3.1,Oncogenic Viruses,"- Mention Oncogenic Viruses
-- Oncogenesis by Human Papilloma Virus",True,1,2009-08,,n=PA-rbpbdsa&ed=10&vol=1#324,
-S_PA_7.6.2,Tumour Markers,,True,4,2022-08;2018-08;2017-02;2009-08,,n=PA-rbpbdsa&ed=10&vol=1#335,
-S_PA_7.1,Difference Between Benign and Malignant Tumor,,True,3,2023-02;2016-08;2009-08,,n=PA-rbpbdsa&ed=10&vol=1#276,
-S_PA_7.2.1,Tumour Suppressor Genes,,True,2,2014-02;2010-02,,n=PA-rbpbdsa&ed=10&vol=1#291,
+- Oncogenesis by Human Papilloma Virus",True,1,2009-08,,@book?n=PA-rbpbdsa&ed=10&vol=1#324
+S_PA_7.6.2,Tumour Markers,,True,4,2022-08;2018-08;2017-02;2009-08,,@book?n=PA-rbpbdsa&ed=10&vol=1#335
+S_PA_7.1,Difference Between Benign and Malignant Tumor,,True,3,2023-02;2016-08;2009-08,,@book?n=PA-rbpbdsa&ed=10&vol=1#276
+S_PA_7.2.1,Tumour Suppressor Genes,,True,2,2014-02;2010-02,,@book?n=PA-rbpbdsa&ed=10&vol=1#291
 E_PA_7.3.1,Carcinogenic Agents,"- Various Carcinogenic Agents
 - Classify Chemical Carcinogens
-- Steps in Chemical Carcinogenesis",True,1,2010-08,,n=PA-rbpbdsa&ed=10&vol=1#321,
-S_PA_7.4,Paraneoplastic Syndromes,,True,3,2022-08;2014-02;2010-08,,n=PA-rbpbdsa&ed=10&vol=1#328,
-S_PA_7.2,Molecular Basis of Cancer,,True,1,2011-08,,n=PA-rbpbdsa&ed=10&vol=1#281,
-S_PA_,Hamartoma,,True,1,2011-08,,n=PA-rbpbdsa&ed=10&vol=1#269,
-S_PA_7.1.1,Difference Between Differentiation and Anaplasia,,True,1,2012-02,,n=PA-rbpbdsa&ed=10&vol=1#270,
+- Steps in Chemical Carcinogenesis",True,1,2010-08,,@book?n=PA-rbpbdsa&ed=10&vol=1#321
+S_PA_7.4,Paraneoplastic Syndromes,,True,3,2022-08;2014-02;2010-08,,@book?n=PA-rbpbdsa&ed=10&vol=1#328
+S_PA_7.2,Molecular Basis of Cancer,,True,1,2011-08,,@book?n=PA-rbpbdsa&ed=10&vol=1#281
+S_PA_,Hamartoma,,True,1,2011-08,,@book?n=PA-rbpbdsa&ed=10&vol=1#269
+S_PA_7.1.1,Difference Between Differentiation and Anaplasia,,True,1,2012-02,,@book?n=PA-rbpbdsa&ed=10&vol=1#270
 E_PA_7.3,Carcinogenesis,"- Physical, Chemical & Biological Carcinogenesis
-- Molecular Basis of Cancer",True,1,2012-08,,n=PA-rbpbdsa&ed=10&vol=1#320,
-S_PA_7.3.3.2,Epstein-Barr Virus,,True,2,2020-08;2014-08,,n=PA-rbpbdsa&ed=10&vol=1#325,
-S_PA_7.2.1,P53,,True,1,2014-08,,n=PA-rbpbdsa&ed=10&vol=1#294,
-S_PA_7.3.1,Chemical Carcinogenesis,,True,4,2023-02;2023-02;2020-11;2018-02,,n=PA-rbpbdsa&ed=10&vol=1#321,
+- Molecular Basis of Cancer",True,1,2012-08,,@book?n=PA-rbpbdsa&ed=10&vol=1#320
+S_PA_7.3.3.2,Epstein-Barr Virus,,True,2,2020-08;2014-08,,@book?n=PA-rbpbdsa&ed=10&vol=1#325
+S_PA_7.2.1,P53,,True,1,2014-08,,@book?n=PA-rbpbdsa&ed=10&vol=1#294
+S_PA_7.3.1,Chemical Carcinogenesis,,True,4,2023-02;2023-02;2020-11;2018-02,,@book?n=PA-rbpbdsa&ed=10&vol=1#321
 E_PA_7.1;7.2;7.3.2,Neoplasia,"- Define Neoplasia
 - Pathogenesis Pathophysiology of Radiation Carcinogenesis;- Define Neoplasia
 - Molecular Basis of Cancer;- Oncogenesis and Their Mode of Activation;- Define Neoplasms
 - Features of Anaplasia
-- Invasion and Metastasis",True,3,2021-09;2018-08;2015-08,,n=PA-rbpbdsa&ed=10&vol=1#323;n=PA-rbpbdsa&ed=10&vol=1#306;n=PA-rbpbdsa&ed=10&vol=1#268,
+- Invasion and Metastasis",True,3,2021-09;2018-08;2015-08,,@book?n=PA-rbpbdsa&ed=10&vol=1#323;@book?n=PA-rbpbdsa&ed=10&vol=1#306;@book?n=PA-rbpbdsa&ed=10&vol=1#268
 S_PA_7.3.3,Carcinogens,"- Types
-- Microbial Carcinogens",True,1,2023-07,,n=PA-rbpbdsa&ed=10&vol=1#323,
-S_PA_7.1.2,Dysplasia,,True,2,2018-08;1995-04,,n=PA-rbpbdsa&ed=10&vol=1#272,
-S_PA_7.2.2,Growth Factors,,True,2,2021-09;2015-02,,n=PA-rbpbdsa&ed=10&vol=1#286,
-S_PA_7.1.3,Carcinoma In Situ,,False,1,,,n=PA-rbpbdsa&ed=10&vol=1#272,
-S_PA_7.2.3,Tumour Antigen,,True,1,2013-02,,n=PA-rbpbdsa&ed=10&vol=1#309,
-S_PA_7.2.4,Warburg Effect,,True,1,2012-02,,n=PA-rbpbdsa&ed=10&vol=1#299,
+- Microbial Carcinogens",True,1,2023-07,,@book?n=PA-rbpbdsa&ed=10&vol=1#323
+S_PA_7.1.2,Dysplasia,,True,2,2018-08;1995-04,,@book?n=PA-rbpbdsa&ed=10&vol=1#272
+S_PA_7.2.2,Growth Factors,,True,2,2021-09;2015-02,,@book?n=PA-rbpbdsa&ed=10&vol=1#286
+S_PA_7.1.3,Carcinoma In Situ,,False,1,,,@book?n=PA-rbpbdsa&ed=10&vol=1#272
+S_PA_7.2.3,Tumour Antigen,,True,1,2013-02,,@book?n=PA-rbpbdsa&ed=10&vol=1#309
+S_PA_7.2.4,Warburg Effect,,True,1,2012-02,,@book?n=PA-rbpbdsa&ed=10&vol=1#299

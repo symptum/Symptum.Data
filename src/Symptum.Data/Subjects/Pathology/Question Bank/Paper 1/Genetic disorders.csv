@@ -1,19 +1,19 @@
-Id,Title,Descriptions,HasPreviouslyBeenAsked,Importance,YearsAsked,ProbableCases,BookReferences,LinkReferences
-S_PA_11.1.3.4,Turner's Syndrome,,True,7,2012-02;2007-02;2006-02;2003-10;1999-04;1994-11;1991-12,,n=PA-rbpbdsa&ed=10&vol=1#171,
-S_PA_11.1.3.4,Klinefelter Syndrome,,True,7,2023-02;2017-02;2012-08;2010-08;2008-08;1998-11;1995-04,,n=PA-rbpbdsa&ed=10&vol=1#170,
+Id,Title,Descriptions,HasPreviouslyBeenAsked,Importance,YearsAsked,ProbableCases,References
+S_PA_11.1.3.4,Turner's Syndrome,,True,7,2012-02;2007-02;2006-02;2003-10;1999-04;1994-11;1991-12,,@book?n=PA-rbpbdsa&ed=10&vol=1#171
+S_PA_11.1.3.4,Klinefelter Syndrome,,True,7,2023-02;2017-02;2012-08;2010-08;2008-08;1998-11;1995-04,,@book?n=PA-rbpbdsa&ed=10&vol=1#170
 S_PA_11.1.3.4,Disorders Involving Sex Chromosomes,"- Sex Chromatin
 - Klinefelter Syndrome
 - Turner Syndrome
 - Hermaphroditism
-- Pseudoaphroditism",True,4,2020-08;2017-04;2004-08;1997-11,,n=PA-rbpbdsa&ed=10&vol=1#170,
-S_PA_11.1.1.3,Marfan Syndrome,,True,1,1997-11,,n=PA-rbpbdsa&ed=10&vol=1#148,
-S_PA_11.1.1.5,Gaucher's Disease,- Stain Used To Identify,True,6,2023-07;2015-02;2014-08;2014-02;2008-02;2000-10,,n=PA-rbpbdsa&ed=10&vol=1#158,
-S_PA_11.1.3.3,Down Syndrome (Trisomy 21),,True,7,2019-08;2016-08;2014-08;2013-02;2010-02;2009-02;2006-08,,n=PA-rbpbdsa&ed=10&vol=1#166,
-S_PA_11.1.1.5,Niemann-Pick Disease,,True,1,2007-08,,n=PA-rbpbdsa&ed=10&vol=1#157,
-S_PA_11.1.3.2,Types of Chromosomal Rearrangements,,True,2,2019-02;2008-08,,n=PA-rbpbdsa&ed=10&vol=1#165,
-S_PA_11.1.4.2,Mitochondrial Inheritance,,True,1,2011-02,,n=PA-rbpbdsa&ed=10&vol=1#177,
-S_PA_11.1.5.3,Hybridisation Techniques To Detect Genomic Alterations,- Fluorescence In Situ Hybridisation,True,1,2011-02,,n=PA-rbpbdsa&ed=10&vol=1#180,
-S_PA_11.1.1.1,X-Linked Recessive Disorders,,True,3,2018-02;2011-02;2002-03,,n=PA-rbpbdsa&ed=10&vol=1#146,
-S_PA_11.1.1.5,Glycogen Storage Disorders,,True,1,2018-02,,n=PA-rbpbdsa&ed=10&vol=1#160,
-S_PA_11.1.1.1,Autosomal Recessive Disorders,,True,1,2018-08,,n=PA-rbpbdsa&ed=10&vol=1#145,
-S_PA_11.1.3.4,Barr body,,True,1,2023-07,,,
+- Pseudoaphroditism",True,4,2020-08;2017-04;2004-08;1997-11,,@book?n=PA-rbpbdsa&ed=10&vol=1#170
+S_PA_11.1.1.3,Marfan Syndrome,,True,1,1997-11,,@book?n=PA-rbpbdsa&ed=10&vol=1#148
+S_PA_11.1.1.5,Gaucher's Disease,- Stain Used To Identify,True,6,2023-07;2015-02;2014-08;2014-02;2008-02;2000-10,,@book?n=PA-rbpbdsa&ed=10&vol=1#158
+S_PA_11.1.3.3,Down Syndrome (Trisomy 21),,True,7,2019-08;2016-08;2014-08;2013-02;2010-02;2009-02;2006-08,,@book?n=PA-rbpbdsa&ed=10&vol=1#166
+S_PA_11.1.1.5,Niemann-Pick Disease,,True,1,2007-08,,@book?n=PA-rbpbdsa&ed=10&vol=1#157
+S_PA_11.1.3.2,Types of Chromosomal Rearrangements,,True,2,2019-02;2008-08,,@book?n=PA-rbpbdsa&ed=10&vol=1#165
+S_PA_11.1.4.2,Mitochondrial Inheritance,,True,1,2011-02,,@book?n=PA-rbpbdsa&ed=10&vol=1#177
+S_PA_11.1.5.3,Hybridisation Techniques To Detect Genomic Alterations,- Fluorescence In Situ Hybridisation,True,1,2011-02,,@book?n=PA-rbpbdsa&ed=10&vol=1#180
+S_PA_11.1.1.1,X-Linked Recessive Disorders,,True,3,2018-02;2011-02;2002-03,,@book?n=PA-rbpbdsa&ed=10&vol=1#146
+S_PA_11.1.1.5,Glycogen Storage Disorders,,True,1,2018-02,,@book?n=PA-rbpbdsa&ed=10&vol=1#160
+S_PA_11.1.1.1,Autosomal Recessive Disorders,,True,1,2018-08,,@book?n=PA-rbpbdsa&ed=10&vol=1#145
+S_PA_11.1.3.4,Barr body,,True,1,2023-07,,

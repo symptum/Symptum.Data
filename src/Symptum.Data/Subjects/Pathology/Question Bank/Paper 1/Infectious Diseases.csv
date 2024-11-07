@@ -1,10 +1,10 @@
-Id,Title,Descriptions,HasPreviouslyBeenAsked,Importance,YearsAsked,ProbableCases,BookReferences,LinkReferences
-S_PA_10.1,Malaria (or) Black Water Fever,,True,2,2023-02;2012-02,,n=PA-rbpbdsa&ed=10&vol=1#388,
-S_PA_10.2,Cysticercosis,,True,1,2018-02,,n=PA-rbpbdsa&ed=10&vol=1#395,
-S_PA_10.3,Leprosy,,True,4,2014-02;2012-08;2010-02;2009-08,,n=PA-rbpbdsa&ed=10&vol=1#374,
-S_PA_10.4,Dengue,,True,2,2020-02;2018-08,,n=PA-rbpbdsa&ed=10&vol=1#353,
-S_PA_10.5,Mucormycosis,,True,2,2022-02;2021-09,,n=PA-rbpbdsa&ed=10&vol=1#387,
-S_PA_10.6,Actinomycosis (or) Mycetoma Foot,,True,3,2018-08;2010-02;2009-02,,,
-S_PA_10.7,Viral Hemorrhagic Fever,,True,1,2012-02,,n=PA-rbpbdsa&ed=10&vol=1#352,
-S_PA_10.8,Tuberculosis,- Primary Pulmonary Tuberculosis;- Miliary Tuberculosis;- Extra-Pulmonary Tuberculosis,True,5,2023-07;2022-03;2019-08;2012-08;1995-04,"A 10 year old male with **evening rise of temperature, neck nodes**. His father was treated for **cough with expectoration for 6 months**.",n=PA-rbpbdsa&ed=10&vol=1#368,
-S_PA_10.8,Tertiary Syphilis,,True,1,2013-02,,n=PA-rbpbdsa&ed=10&vol=1#376,
+Id,Title,Descriptions,HasPreviouslyBeenAsked,Importance,YearsAsked,ProbableCases,References
+S_PA_10.1,Malaria (or) Black Water Fever,,True,2,2023-02;2012-02,,@book?n=PA-rbpbdsa&ed=10&vol=1#388
+S_PA_10.2,Cysticercosis,,True,1,2018-02,,@book?n=PA-rbpbdsa&ed=10&vol=1#395
+S_PA_10.3,Leprosy,,True,4,2014-02;2012-08;2010-02;2009-08,,@book?n=PA-rbpbdsa&ed=10&vol=1#374
+S_PA_10.4,Dengue,,True,2,2020-02;2018-08,,@book?n=PA-rbpbdsa&ed=10&vol=1#353
+S_PA_10.5,Mucormycosis,,True,2,2022-02;2021-09,,@book?n=PA-rbpbdsa&ed=10&vol=1#387
+S_PA_10.6,Actinomycosis (or) Mycetoma Foot,,True,3,2018-08;2010-02;2009-02,,
+S_PA_10.7,Viral Hemorrhagic Fever,,True,1,2012-02,,@book?n=PA-rbpbdsa&ed=10&vol=1#352
+S_PA_10.8,Tuberculosis,- Primary Pulmonary Tuberculosis;- Miliary Tuberculosis;- Extra-Pulmonary Tuberculosis,True,5,2023-07;2022-03;2019-08;2012-08;1995-04,"A 10 year old male with **evening rise of temperature, neck nodes**. His father was treated for **cough with expectoration for 6 months**.",@book?n=PA-rbpbdsa&ed=10&vol=1#368
+S_PA_10.8,Tertiary Syphilis,,True,1,2013-02,,@book?n=PA-rbpbdsa&ed=10&vol=1#376

@@ -1,13 +1,13 @@
-Id,Title,Descriptions,HasPreviouslyBeenAsked,Importance,YearsAsked,ProbableCases,BookReferences,LinkReferences
-S_PA_35.1,Meningitis,,True,1,2023-07,A 10 year old male child presented to paediatric OPD with complaints of **fever for the last 10 days** with **projectile vomiting** and **irritable mood**.,n=PA-rbpbdsa&ed=10&vol=2#1261,
-S_PA_35.1.1,Pyogenic Meningitis,,True,3,2014-02;2010-02;2009-02,,n=PA-rbpbdsa&ed=10&vol=2#1262,
-S_PA_35.1.2,Tuberculous Meningitis,,True,4,2011-08;2003-10;2001-11;1995-04,,n=PA-rbpbdsa&ed=10&vol=2#1263,
-S_PA_35.2,Brain Tumors,,True,1,1993-11,,n=PA-rbpbdsa&ed=10&vol=2#1293,
-S_PA_35.2.1,Meningioma,,True,10,2023-07;2017-08;2012-02;2008-02;2006-08;2005-02;2002-03;2001-04;2000-10;1997-10;1995-11,,n=PA-rbpbdsa&ed=10&vol=2#1300,
-S_PA_35.2.2,Astrocytoma,,True,3,2009-08;2005-08;1995-04,,n=PA-rbpbdsa&ed=10&vol=2#1293,
-S_PA_35.2.3,Pilocytic Astrocytoma,,True,2,2012-08;2010-08,,n=PA-rbpbdsa&ed=10&vol=2#1296,
-S_PA_35.2.4,Paraganglioma,,True,2,2022-02;2012-02,,n=PA-rbpbdsa&ed=10&vol=2#746,
-S_PA_35.2.5,Glioblastoma,,True,6,2023-12;2023-07;2019-08;2015-08;1998-10;1995-04,,n=PA-rbpbdsa&ed=10&vol=2#1293,
-S_PA_35.3,Prion Diseases (or) Creutzfeldt-Jakob (CJ) Disease,,True,2,2014-08;2013-08,,n=PA-rbpbdsa&ed=10&vol=2#1273,
-S_PA_35.4,Examination of CSF,,True,1,2001-04,,n=PA-rbpbdsa&ed=10&vol=2#1261,
-S_PA_35.2.6,Medulloblastoma,,True,1,2023-02,,n=PA-rbpbdsa&ed=10&vol=2#1298,
+Id,Title,Descriptions,HasPreviouslyBeenAsked,Importance,YearsAsked,ProbableCases,References
+S_PA_35.1,Meningitis,,True,1,2023-07,A 10 year old male child presented to paediatric OPD with complaints of **fever for the last 10 days** with **projectile vomiting** and **irritable mood**.,@book?n=PA-rbpbdsa&ed=10&vol=2#1261
+S_PA_35.1.1,Pyogenic Meningitis,,True,3,2014-02;2010-02;2009-02,,@book?n=PA-rbpbdsa&ed=10&vol=2#1262
+S_PA_35.1.2,Tuberculous Meningitis,,True,4,2011-08;2003-10;2001-11;1995-04,,@book?n=PA-rbpbdsa&ed=10&vol=2#1263
+S_PA_35.2,Brain Tumors,,True,1,1993-11,,@book?n=PA-rbpbdsa&ed=10&vol=2#1293
+S_PA_35.2.1,Meningioma,,True,10,2023-07;2017-08;2012-02;2008-02;2006-08;2005-02;2002-03;2001-04;2000-10;1997-10;1995-11,,@book?n=PA-rbpbdsa&ed=10&vol=2#1300
+S_PA_35.2.2,Astrocytoma,,True,3,2009-08;2005-08;1995-04,,@book?n=PA-rbpbdsa&ed=10&vol=2#1293
+S_PA_35.2.3,Pilocytic Astrocytoma,,True,2,2012-08;2010-08,,@book?n=PA-rbpbdsa&ed=10&vol=2#1296
+S_PA_35.2.4,Paraganglioma,,True,2,2022-02;2012-02,,@book?n=PA-rbpbdsa&ed=10&vol=2#746
+S_PA_35.2.5,Glioblastoma,,True,6,2023-12;2023-07;2019-08;2015-08;1998-10;1995-04,,@book?n=PA-rbpbdsa&ed=10&vol=2#1293
+S_PA_35.3,Prion Diseases (or) Creutzfeldt-Jakob (CJ) Disease,,True,2,2014-08;2013-08,,@book?n=PA-rbpbdsa&ed=10&vol=2#1273
+S_PA_35.4,Examination of CSF,,True,1,2001-04,,@book?n=PA-rbpbdsa&ed=10&vol=2#1261
+S_PA_35.2.6,Medulloblastoma,,True,1,2023-02,,@book?n=PA-rbpbdsa&ed=10&vol=2#1298

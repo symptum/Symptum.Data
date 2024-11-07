@@ -1,11 +1,11 @@
-Id,Title,Descriptions,HasPreviouslyBeenAsked,Importance,YearsAsked,ProbableCases,BookReferences,LinkReferences
+Id,Title,Descriptions,HasPreviouslyBeenAsked,Importance,YearsAsked,ProbableCases,References
 E_PA_29.1,Testicular tumour,"- Classification
-- Etiopathogenesis",True,1,2013-02,"A 50 year old male, presented with painless testicular swelling with loss of testicular sensation.",n=PA-rbpbdsa&ed=10&vol=2#969,
+- Etiopathogenesis",True,1,2013-02,"A 50 year old male, presented with painless testicular swelling with loss of testicular sensation.",@book?n=PA-rbpbdsa&ed=10&vol=2#969
 S_PA_29.1,Testicular Tumors,"- What are the differential diagnosis?
-- Draw the microscopic findings in this  condition",True,1,2022-03,"A 40 year old male, presented with testicular mass.",n=PA-rbpbdsa&ed=10&vol=2#969,
-S_PA_29.3,Benign Prostatic Hyperplasia (BPH),- Morphological findings in BPH,True,1,2022-08,"A 80 year old male, presented with history of dysuria & urgency of urine. USG Shows enlarged prostate with raised PSA level.",n=PA-rbpbdsa&ed=10&vol=2#976,
+- Draw the microscopic findings in this  condition",True,1,2022-03,"A 40 year old male, presented with testicular mass.",@book?n=PA-rbpbdsa&ed=10&vol=2#969
+S_PA_29.3,Benign Prostatic Hyperplasia (BPH),- Morphological findings in BPH,True,1,2022-08,"A 80 year old male, presented with history of dysuria & urgency of urine. USG Shows enlarged prostate with raised PSA level.",@book?n=PA-rbpbdsa&ed=10&vol=2#976
 S_PA_29.2,Carcinoma of Penis,"- Microscopic features 
-- Pre-neoplastic conditions",True,1,2023-02,"A 45 year old male, presented with cauliflower like growth in penis. Also had multiple inguinal nodes.",n=PA-rbpbdsa&ed=10&vol=2#964,
-S_PA_29.6,Cryptorchidism,,True,2,2020-02;2010-02,,n=PA-rbpbdsa&ed=10&vol=2#966,
-S_PA_29.1.1,Seminoma of Testis,- Define Seminoma and its types;- Spermatocytic Seminoma;- Gross and Microscopic picture of Seminoma,True,4,2023-01;2020-11;2014-02;2009-02,,n=PA-rbpbdsa&ed=10&vol=2#970,
-S_PA_29.2.1,Bowen's Disease of Skin,,True,2,2013-02;2012-08,,n=PA-rbpbdsa&ed=10&vol=2#965,
+- Pre-neoplastic conditions",True,1,2023-02,"A 45 year old male, presented with cauliflower like growth in penis. Also had multiple inguinal nodes.",@book?n=PA-rbpbdsa&ed=10&vol=2#964
+S_PA_29.6,Cryptorchidism,,True,2,2020-02;2010-02,,@book?n=PA-rbpbdsa&ed=10&vol=2#966
+S_PA_29.1.1,Seminoma of Testis,- Define Seminoma and its types;- Spermatocytic Seminoma;- Gross and Microscopic picture of Seminoma,True,4,2023-01;2020-11;2014-02;2009-02,,@book?n=PA-rbpbdsa&ed=10&vol=2#970
+S_PA_29.2.1,Bowen's Disease of Skin,,True,2,2013-02;2012-08,,@book?n=PA-rbpbdsa&ed=10&vol=2#965

@@ -1,4 +1,4 @@
-Id,Title,Descriptions,HasPreviouslyBeenAsked,Importance,YearsAsked,ProbableCases,BookReferences,LinkReferences
+Id,Title,Descriptions,HasPreviouslyBeenAsked,Importance,YearsAsked,ProbableCases,References
 E_PA_27.5,Myocardial Infarction,"- Ischemic Heart Disease
 - Etiology
 - Pathogenesis
@@ -6,24 +6,24 @@ E_PA_27.5,Myocardial Infarction,"- Ischemic Heart Disease
 - Microscopic Changes
 - Electron Microscope Changes
 - Complications
-- Investigations",True,8,2023-02;2022-08;2022-02;2017-02;2011-02;2007-08;1998-10;1991-12,"A 56 year old male experienced a **prolonged chest pain-stabbing in nature, radiating to the jaw and left arm and associated with profuse sweating.**;A 50 year old man collapses suddenly while **climbing the stairs with severe chest pain and profuse sweating**;A 47 year old male presented with acute onset of **dyspnea, profuse sweating and chest pain radiating to the left shoulder.** Lab investigation revealed **elevated troponin**;A 50 year old male admitted in emergency care with **chest pain, profuse sweating and Rapid pulse.**;A 75 year old male presented with dyspnea and sweating of sudden onset. He is a known **hypertensive and diabetic** for 15 years. On examination he has **weak pulse.**;A 45 year old male, **known smoker and alcoholic** with complaints of **chest pain** presented to the emergency ward. His **ECG was abnormal.**;A 50 year old male **sudden death**, autopsy of the heart revealed **gray white area in left ventricle**;A 45 year old male, known smoker and alcoholic with complaints of chest pain presented to the emergency ward. His ECG was abnormal;A 75 year old male presented with **dyspnea and sweating of sudden onset.** He is a known **hypertensive and diabetic** for 15 years. On examination he has weak pulse.",n=PA-rbpbdsa&ed=10&vol=1#543,
+- Investigations",True,8,2023-02;2022-08;2022-02;2017-02;2011-02;2007-08;1998-10;1991-12,"A 56 year old male experienced a **prolonged chest pain-stabbing in nature, radiating to the jaw and left arm and associated with profuse sweating.**;A 50 year old man collapses suddenly while **climbing the stairs with severe chest pain and profuse sweating**;A 47 year old male presented with acute onset of **dyspnea, profuse sweating and chest pain radiating to the left shoulder.** Lab investigation revealed **elevated troponin**;A 50 year old male admitted in emergency care with **chest pain, profuse sweating and Rapid pulse.**;A 75 year old male presented with dyspnea and sweating of sudden onset. He is a known **hypertensive and diabetic** for 15 years. On examination he has **weak pulse.**;A 45 year old male, **known smoker and alcoholic** with complaints of **chest pain** presented to the emergency ward. His **ECG was abnormal.**;A 50 year old male **sudden death**, autopsy of the heart revealed **gray white area in left ventricle**;A 45 year old male, known smoker and alcoholic with complaints of chest pain presented to the emergency ward. His ECG was abnormal;A 75 year old male presented with **dyspnea and sweating of sudden onset.** He is a known **hypertensive and diabetic** for 15 years. On examination he has weak pulse.",@book?n=PA-rbpbdsa&ed=10&vol=1#543
 E_PA_27.6,Infective Endocarditis,"- Definition
 - Risk Factors
 - Pathogenesis
 - Morphology
-- Non-Infective Vegetations",True,3,2018-08;2001-11;1999-10,,n=PA-rbpbdsa&ed=10&vol=1#563,
+- Non-Infective Vegetations",True,3,2018-08;2001-11;1999-10,,@book?n=PA-rbpbdsa&ed=10&vol=1#563
 E_PA_27.4,Rheumatic Heart Disease,"- Etiology
 - Pathogenesis
 - Lab Diagnosis
 - Morphology
-- Clinical Features",True,3,2012-08;2009-02;2005-02,,n=PA-rbpbdsa&ed=10&vol=1#560,
-S_PA_27.16,Hypertensive Heart Disease,,True,2,2023-02;1994-11,,n=PA-rbpbdsa&ed=10&vol=1#555,
-S_PA_27.9,Cardiomyopathy,,True,3,2020-11;2009-08;2007-08,,n=PA-rbpbdsa&ed=10&vol=1#567,
-S_PA_27.9.1,Dilated Cardiomyopathy,,True,1,2013-02,,n=PA-rbpbdsa&ed=10&vol=1#568,
-S_PA_27.6,Infective Endocarditis,,True,3,2022-08;2018-02;1991-01,,n=PA-rbpbdsa&ed=10&vol=1#563,
-S_PA_27.5,Morphological Changes in MI,,True,1,2023-02,,n=PA-rbpbdsa&ed=10&vol=1#547,
-S_PA_27.5,Complications of MI,,True,1,2014-02,,n=PA-rbpbdsa&ed=10&vol=1#551,
-S_PA_27.4,Rheumatic Fever,,True,4,2016-08;2003-10;1999-04;1992-04,,n=PA-rbpbdsa&ed=10&vol=1#560,
-S_PA_27.6,Vegetations of Heart,,True,1,2012-02,,n=PA-rbpbdsa&ed=10&vol=1#564,
-S_PA_27.5,Lab Investigations for MI,,True,3,2012-02;2006-02;1993-11,,n=PA-rbpbdsa&ed=10&vol=1#550,
-S_PA_27.15,Tetralogy of Fallot,,True,1,2000-04,,n=PA-rbpbdsa&ed=10&vol=1#538,
+- Clinical Features",True,3,2012-08;2009-02;2005-02,,@book?n=PA-rbpbdsa&ed=10&vol=1#560
+S_PA_27.16,Hypertensive Heart Disease,,True,2,2023-02;1994-11,,@book?n=PA-rbpbdsa&ed=10&vol=1#555
+S_PA_27.9,Cardiomyopathy,,True,3,2020-11;2009-08;2007-08,,@book?n=PA-rbpbdsa&ed=10&vol=1#567
+S_PA_27.9.1,Dilated Cardiomyopathy,,True,1,2013-02,,@book?n=PA-rbpbdsa&ed=10&vol=1#568
+S_PA_27.6,Infective Endocarditis,,True,3,2022-08;2018-02;1991-01,,@book?n=PA-rbpbdsa&ed=10&vol=1#563
+S_PA_27.5,Morphological Changes in MI,,True,1,2023-02,,@book?n=PA-rbpbdsa&ed=10&vol=1#547
+S_PA_27.5,Complications of MI,,True,1,2014-02,,@book?n=PA-rbpbdsa&ed=10&vol=1#551
+S_PA_27.4,Rheumatic Fever,,True,4,2016-08;2003-10;1999-04;1992-04,,@book?n=PA-rbpbdsa&ed=10&vol=1#560
+S_PA_27.6,Vegetations of Heart,,True,1,2012-02,,@book?n=PA-rbpbdsa&ed=10&vol=1#564
+S_PA_27.5,Lab Investigations for MI,,True,3,2012-02;2006-02;1993-11,,@book?n=PA-rbpbdsa&ed=10&vol=1#550
+S_PA_27.15,Tetralogy of Fallot,,True,1,2000-04,,@book?n=PA-rbpbdsa&ed=10&vol=1#538
