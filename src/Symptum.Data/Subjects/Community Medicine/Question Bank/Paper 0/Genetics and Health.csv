@@ -1,8 +1,8 @@
-﻿Id,Title,Descriptions,HasPreviouslyBeenAsked,Importance,YearsAsked,ProbableCases,BookReferences,LinkReferences
-S_CM_,Prevention of genetic disorders,,True,1,2017-08,,n=CM-parkpsm&ed=26&vol=1#922,
-S_CM_,Explain Advantages and Dangers of Genetic Engineering,,True,1,2020-11,,n=CM-parkpsm&ed=26&vol=1#921,
-S_CM_,Genetic Counselling,,True,7,1991-12;2005-07;2007-02;2011-08;2011-12;2014-08;2022-02,,n=CM-parkpsm&ed=26&vol=1#923,
-S_CM_,Prevention of Genetic diseases,,True,3,2002-03;2017-08;2022-04,,n=CM-parkpsm&ed=26&vol=1#922,
-S_CM_,Factors which influence the gene frequencies in human population,,True,1,2013-08,,n=CM-parkpsm&ed=26&vol=1#922,
-S_CM_,"Eugenics ",,True,1,2010-08,,n=CM-parkpsm&ed=26&vol=1#922,
-S_CM_,"Chromosomal abnormalities ",,True,1,2013-02,,n=CM-parkpsm&ed=26&vol=1#916,
+Id,Title,Descriptions,HasPreviouslyBeenAsked,Importance,YearsAsked,ProbableCases,References
+S_CM_,Prevention of genetic disorders,,True,1,2017-08,,@book?n=CM-parkpsm&ed=26&vol=1#922
+S_CM_,Explain Advantages and Dangers of Genetic Engineering,,True,1,2020-11,,@book?n=CM-parkpsm&ed=26&vol=1#921
+S_CM_,Genetic Counselling,,True,7,1991-12;2005-07;2007-02;2011-08;2011-12;2014-08;2022-02,,@book?n=CM-parkpsm&ed=26&vol=1#923
+S_CM_,Prevention of Genetic diseases,,True,3,2002-03;2017-08;2022-04,,@book?n=CM-parkpsm&ed=26&vol=1#922
+S_CM_,Factors which influence the gene frequencies in human population,,True,1,2013-08,,@book?n=CM-parkpsm&ed=26&vol=1#922
+S_CM_,"Eugenics ",,True,1,2010-08,,@book?n=CM-parkpsm&ed=26&vol=1#922
+S_CM_,"Chromosomal abnormalities ",,True,1,2013-02,,@book?n=CM-parkpsm&ed=26&vol=1#916

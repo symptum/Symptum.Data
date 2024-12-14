@@ -1,35 +1,35 @@
-﻿Id,Title,Descriptions,HasPreviouslyBeenAsked,Importance,YearsAsked,ProbableCases,BookReferences,LinkReferences
-S_CM_,Injectable Hormonal Contraceptives and Contraindications,,True,4,2001-04;2018-02;2018-08;2023-02,,n=CM-parkpsm&ed=27&vol=1#577,
-S_CM_,Fertility related statistics,,True,1,2001-04,,n=CM-parkpsm&ed=27&vol=1#563,
-S_CM_,Condoms,,True,1,2001-11,,n=CM-parkpsm&ed=27&vol=1#569,
-S_CM_,"National Population policy ",,True,3,2001-11;2002-03;2009-02,,n=CM-parkpsm&ed=27&vol=1#568,
-S_CM_,National demographic goals,,True,1,2002-03,,,
-S_CM_,Age pyramids,,True,1,2003-10,,n=CM-parkpsm&ed=27&vol=1#557,
-S_CM_,Natural family planning methods,,True,3,2004-08;2013-08;2017-02,,n=CM-parkpsm&ed=27&vol=1#582,
-S_CM_,Fertility indices,,True,3,2005-02;2018-02;2023-02,,n=CM-parkpsm&ed=27&vol=1#563,
-S_CM_,Eligible couples,,True,4,2005-08;2008-08;2013-08;2019-08,,n=CM-parkpsm&ed=27&vol=1#567,
-S_CM_,MTP,,True,7,2007-02;2014-02;2017-08;2019-08;1995-11;2000-10;2023-06,,n=CM-parkpsm&ed=27&vol=1#580,
-S_CM_,Factors affecting fertility in India,,True,5,2007-08;2014-02;2003-10;2017-02;2022-04,,n=CM-parkpsm&ed=27&vol=1#562,
-S_CM_,Advantages and Contraindications of IUDs,,True,1,2008-02,,n=CM-parkpsm&ed=27&vol=1#572,
-S_CM_,Ideal candidate for IUD,,True,3,2007-08;2014-02;2024-02,,n=CM-parkpsm&ed=27&vol=1#572,
-S_CM_,Contraindications of OCPs,,True,1,2008-08,,n=CM-parkpsm&ed=27&vol=1#577,
-S_CM_,Pearl index,,True,6,2010-02;2011-08;2013-02;2014-08;2017-08;2021-09,,n=CM-parkpsm&ed=27&vol=1#585,
-S_CM_,Demographic cycle,,True,9,2010-02;2011-02;2013-02;2016-08;1995-04;1998-10;2002-03;2019-08;2021-09,,n=CM-parkpsm&ed=27&vol=1#554,
-S_CM_,Demographic Gap,,True,2,2010-08;2023-06,,,
-S_CM_,No Scalpel vasectomy,,True,3,2010-08;2016-08;2018-08,,n=CM-parkpsm&ed=27&vol=1#584,
-S_CM_,Eligible couple and Target couple,,True,4,2011-02;2022-08;2020-11;2023-02,,n=CM-parkpsm&ed=27&vol=1#567,
-S_CM_,Conventional Contraceptives,,True,1,2011-02,,n=CM-parkpsm&ed=27&vol=1#569,
-S_CM_,Net Reproduction Rate,,True,2,2011-02;1995-11,,n=CM-parkpsm&ed=27&vol=1#564,
-S_CM_,Combined OCPs,,True,1,2011-08,,n=CM-parkpsm&ed=27&vol=1#574,
-S_CM_,"Couple protection rate ",,True,3,2011-08;2015-02;2019-02,,n=CM-parkpsm&ed=27&vol=1#567,
-S_CM_,Post Coital Contraceptives,,True,3,2012-02;2012-08;2001-11,,n=CM-parkpsm&ed=27&vol=1#579,
-S_CM_,Define sex ratio.What are the measures taken by Government pertaining to this indicator.,,True,3,2014-02;2014-08;2019-02,,n=CM-parkpsm&ed=27&vol=1#558,
-S_CM_,Postoperative advice after vasectomy,,True,1,2015-02,,n=CM-parkpsm&ed=27&vol=1#584,
-S_CM_,OCPs,,True,3,2018-08;2001-04;2020-02,,n=CM-parkpsm&ed=27&vol=1#574,
-S_CM_,Demographic profile of india,,True,1,2016-02,,n=CM-parkpsm&ed=27&vol=1#556,
-E_CM_,"Describe the salient points of National Population Policy 2000,Government of India. What are the common fertility related statistics used in Family Welfare Programme.Write Briefly on Postpartum program.",,True,1,1993-04,,n=CM-parkpsm&ed=27&vol=1#568,
-E_CM_,Define and classify Hormonal Contraceptives.What are its risk and benefits?Write in detail about Depot Formulations.,,True,1,1992-04,,n=CM-parkpsm&ed=27&vol=1#574,
-S_CM_,Incentives and Disincentives in Family planning,,True,1,1995-04,,,
-S_CM_,Community Needs assessment,,True,1,2022-02,,n=CM-parkpsm&ed=27&vol=1#590,
-S_CM_,Demographic Bonus,,True,1,2024-02,,,
-S_CM_,Define Net reproduction rate and Couple Protection Rate.Explain the relationship between the two.,,True,1,2024-02,,n=CM-parkpsm&ed=27&vol=1#564,
+Id,Title,Descriptions,HasPreviouslyBeenAsked,Importance,YearsAsked,ProbableCases,References
+S_CM_,Injectable Hormonal Contraceptives and Contraindications,,True,4,2001-04;2018-02;2018-08;2023-02,,@book?n=CM-parkpsm&ed=27&vol=1#577
+S_CM_,Fertility related statistics,,True,1,2001-04,,@book?n=CM-parkpsm&ed=27&vol=1#563
+S_CM_,Condoms,,True,1,2001-11,,@book?n=CM-parkpsm&ed=27&vol=1#569
+S_CM_,"National Population policy ",,True,3,2001-11;2002-03;2009-02,,@book?n=CM-parkpsm&ed=27&vol=1#568
+S_CM_,National demographic goals,,True,1,2002-03,,
+S_CM_,Age pyramids,,True,1,2003-10,,@book?n=CM-parkpsm&ed=27&vol=1#557
+S_CM_,Natural family planning methods,,True,3,2004-08;2013-08;2017-02,,@book?n=CM-parkpsm&ed=27&vol=1#582
+S_CM_,Fertility indices,,True,3,2005-02;2018-02;2023-02,,@book?n=CM-parkpsm&ed=27&vol=1#563
+S_CM_,Eligible couples,,True,4,2005-08;2008-08;2013-08;2019-08,,@book?n=CM-parkpsm&ed=27&vol=1#567
+S_CM_,MTP,,True,7,2007-02;2014-02;2017-08;2019-08;1995-11;2000-10;2023-06,,@book?n=CM-parkpsm&ed=27&vol=1#580
+S_CM_,Factors affecting fertility in India,,True,5,2007-08;2014-02;2003-10;2017-02;2022-04,,@book?n=CM-parkpsm&ed=27&vol=1#562
+S_CM_,Advantages and Contraindications of IUDs,,True,1,2008-02,,@book?n=CM-parkpsm&ed=27&vol=1#572
+S_CM_,Ideal candidate for IUD,,True,3,2007-08;2014-02;2024-02,,@book?n=CM-parkpsm&ed=27&vol=1#572
+S_CM_,Contraindications of OCPs,,True,1,2008-08,,@book?n=CM-parkpsm&ed=27&vol=1#577
+S_CM_,Pearl index,,True,6,2010-02;2011-08;2013-02;2014-08;2017-08;2021-09,,@book?n=CM-parkpsm&ed=27&vol=1#585
+S_CM_,Demographic cycle,,True,9,2010-02;2011-02;2013-02;2016-08;1995-04;1998-10;2002-03;2019-08;2021-09,,@book?n=CM-parkpsm&ed=27&vol=1#554
+S_CM_,Demographic Gap,,True,2,2010-08;2023-06,,
+S_CM_,No Scalpel vasectomy,,True,3,2010-08;2016-08;2018-08,,@book?n=CM-parkpsm&ed=27&vol=1#584
+S_CM_,Eligible couple and Target couple,,True,4,2011-02;2022-08;2020-11;2023-02,,@book?n=CM-parkpsm&ed=27&vol=1#567
+S_CM_,Conventional Contraceptives,,True,1,2011-02,,@book?n=CM-parkpsm&ed=27&vol=1#569
+S_CM_,Net Reproduction Rate,,True,2,2011-02;1995-11,,@book?n=CM-parkpsm&ed=27&vol=1#564
+S_CM_,Combined OCPs,,True,1,2011-08,,@book?n=CM-parkpsm&ed=27&vol=1#574
+S_CM_,"Couple protection rate ",,True,3,2011-08;2015-02;2019-02,,@book?n=CM-parkpsm&ed=27&vol=1#567
+S_CM_,Post Coital Contraceptives,,True,3,2012-02;2012-08;2001-11,,@book?n=CM-parkpsm&ed=27&vol=1#579
+S_CM_,Define sex ratio.What are the measures taken by Government pertaining to this indicator.,,True,3,2014-02;2014-08;2019-02,,@book?n=CM-parkpsm&ed=27&vol=1#558
+S_CM_,Postoperative advice after vasectomy,,True,1,2015-02,,@book?n=CM-parkpsm&ed=27&vol=1#584
+S_CM_,OCPs,,True,3,2018-08;2001-04;2020-02,,@book?n=CM-parkpsm&ed=27&vol=1#574
+S_CM_,Demographic profile of india,,True,1,2016-02,,@book?n=CM-parkpsm&ed=27&vol=1#556
+E_CM_,"Describe the salient points of National Population Policy 2000,Government of India. What are the common fertility related statistics used in Family Welfare Programme.Write Briefly on Postpartum program.",,True,1,1993-04,,@book?n=CM-parkpsm&ed=27&vol=1#568
+E_CM_,Define and classify Hormonal Contraceptives.What are its risk and benefits?Write in detail about Depot Formulations.,,True,1,1992-04,,@book?n=CM-parkpsm&ed=27&vol=1#574
+S_CM_,Incentives and Disincentives in Family planning,,True,1,1995-04,,
+S_CM_,Community Needs assessment,,True,1,2022-02,,@book?n=CM-parkpsm&ed=27&vol=1#590
+S_CM_,Demographic Bonus,,True,1,2024-02,,
+S_CM_,Define Net reproduction rate and Couple Protection Rate.Explain the relationship between the two.,,True,1,2024-02,,@book?n=CM-parkpsm&ed=27&vol=1#564

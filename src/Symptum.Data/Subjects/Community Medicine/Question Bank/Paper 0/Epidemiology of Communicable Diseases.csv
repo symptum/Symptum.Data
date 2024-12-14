@@ -1,93 +1,93 @@
-ï»¿Id,Title,Descriptions,HasPreviouslyBeenAsked,Importance,YearsAsked,ProbableCases,BookReferences,LinkReferences
+Id,Title,Descriptions,HasPreviouslyBeenAsked,Importance,YearsAsked,ProbableCases,References
 E_CM_,Rabies,"-Etiology
 -Pathophysiology
 -Epidemiology
 -Clinical Features
 -Prevention and Control of Rabies
 -Rabies Management
--Post Exposure Prohylaxis",TRUE,4,1990-12;1998-10;2011-08;2018-02,,n=CM-parkpsm&ed=27&vol=1#322,
-S_CM_,Management of Tuberculosis,- Multi Drug Therapy,TRUE,3,1991-12;1999-04;2024-02,,n=CM-parkpsm&ed=27&vol=1#222,
-S_CM_,Small pox,-Epidemiological Factors leading to Eradication of Small Pox,TRUE,1,1992-04,,n=CM-parkpsm&ed=27&vol=1#159,
+-Post Exposure Prohylaxis",True,4,1990-12;1998-10;2011-08;2018-02,,@book?n=CM-parkpsm&ed=27&vol=1#322
+S_CM_,Management of Tuberculosis,- Multi Drug Therapy,True,3,1991-12;1999-04;2024-02,,@book?n=CM-parkpsm&ed=27&vol=1#222
+S_CM_,Small pox,-Epidemiological Factors leading to Eradication of Small Pox,True,1,1992-04,,@book?n=CM-parkpsm&ed=27&vol=1#159
 E_CM_,AIDS,"-Epidemiological Factors
 -Categories of Clinical Manifestations
 -Criteria of Diagnosis
 -Prevention and Control of AIDS
--National AIDS control programme",TRUE,2,1993-01;2017-08,,n=CM-parkpsm&ed=27&vol=1#392,
+-National AIDS control programme",True,2,1993-01;2017-08,,@book?n=CM-parkpsm&ed=27&vol=1#392
 E_CM_,Malaria,"-Epidemiology
 -Prevention and Control of malaria
--Integrated Vector Control ",TRUE,2,2007-02;1993-11,,n=CM-parkpsm&ed=27&vol=1#299,
+-Integrated Vector Control ",True,2,2007-02;1993-11,,@book?n=CM-parkpsm&ed=27&vol=1#299
 E_CM_,Filariasis,"-Epidemiology
 -Prevention and Control
--National Filaria Control Programme",TRUE,3,1994-11;2024-04;2008-02,,n=CM-parkpsm&ed=27&vol=1#315,
-S_CM_,MDT in Leprosy treatment,,TRUE,3,1994-11;1995-11;2001-11,,n=CM-parkpsm&ed=27&vol=1#370,
+-National Filaria Control Programme",True,3,1994-11;2024-04;2008-02,,@book?n=CM-parkpsm&ed=27&vol=1#315
+S_CM_,MDT in Leprosy treatment,,True,3,1994-11;1995-11;2001-11,,@book?n=CM-parkpsm&ed=27&vol=1#370
 E_CM_,Tuberculosis,"-Epidemiology
 -Clinical Features
 -Laboratory Diagnosis
 -Treatment
--National Programmes for Eradication of Tuberculosis",TRUE,7,1999-04;1995-04;2001-04;2006-08;2011-02;2017-02;2021-09,,n=CM-parkpsm&ed=27&vol=1#207,
-S_CM_,Strategies For Polio Eradication in India ,,TRUE,2,1998-10;2011-02,,n=CM-parkpsm&ed=27&vol=1#241,
-S_CM_,Acute Respiratory Infection Control Program,,TRUE,1,1999-04,,n=CM-parkpsm&ed=27&vol=1#185,
-E_CM_,Poliomyelitis ,"-Epidemiology
+-National Programmes for Eradication of Tuberculosis",True,7,1999-04;1995-04;2001-04;2006-08;2011-02;2017-02;2021-09,,@book?n=CM-parkpsm&ed=27&vol=1#207
+S_CM_,"Strategies For Polio Eradication in India ",,True,2,1998-10;2011-02,,@book?n=CM-parkpsm&ed=27&vol=1#241
+S_CM_,Acute Respiratory Infection Control Program,,True,1,1999-04,,@book?n=CM-parkpsm&ed=27&vol=1#185
+E_CM_,"Poliomyelitis ","-Epidemiology
 -Prevention and Control of Poliomyelitis
--Oral and Injectable Polio Vaccine ",TRUE,5,2000-04;2004-08;2007-08;2012-08;2018-08,,n=CM-parkpsm&ed=27&vol=1#240,
-E_CM_,Ankylostomiasis /Hookworm Infection ,"-Epidemiology
--Prevention and Control ",TRUE,2,2000-10;2014-08,,n=CM-parkpsm&ed=27&vol=1#285,
-S_CM_,Pulse Polio Immunisation programme,,TRUE,4,2000-10;2002-03;2008-08;2015-08,,n=CM-parkpsm&ed=27&vol=1#247,
-S_CM_,Prevention of Hepatitis B,,TRUE,1,2000-10,,n=CM-parkpsm&ed=27&vol=1#254,
-S_CM_,Universal Precautions to Prevent HIV infection,,TRUE,1,2001-04,,n=CM-parkpsm&ed=27&vol=1#401,
-S_CM_,Radical Treatment of malaria,,TRUE,1,2001-04,,n=CM-parkpsm&ed=27&vol=1#308,
+-Oral and Injectable Polio Vaccine ",True,5,2000-04;2004-08;2007-08;2012-08;2018-08,,@book?n=CM-parkpsm&ed=27&vol=1#240
+E_CM_,"Ankylostomiasis /Hookworm Infection ","-Epidemiology
+-Prevention and Control ",True,2,2000-10;2014-08,,@book?n=CM-parkpsm&ed=27&vol=1#285
+S_CM_,Pulse Polio Immunisation programme,,True,4,2000-10;2002-03;2008-08;2015-08,,@book?n=CM-parkpsm&ed=27&vol=1#247
+S_CM_,Prevention of Hepatitis B,,True,1,2000-10,,@book?n=CM-parkpsm&ed=27&vol=1#254
+S_CM_,Universal Precautions to Prevent HIV infection,,True,1,2001-04,,@book?n=CM-parkpsm&ed=27&vol=1#401
+S_CM_,Radical Treatment of malaria,,True,1,2001-04,,@book?n=CM-parkpsm&ed=27&vol=1#308
 S_CM_,Neonatal Tetanus,"-Etiopathogenesis
 -Clinical Features
 -Treatment
--Prevention",TRUE,4,2002-03;2007-02;2009-08;2017-02,,n=CM-parkpsm&ed=27&vol=1#360,
-S_CM_,Cultural Factors in Diarrheal Disease,,TRUE,1,2003-10,,n=CM-parkpsm&ed=27&vol=1#265,
-S_CM_,Acute Flaccid Paralysis,,TRUE,1,2003-10,,n=CM-parkpsm&ed=27&vol=1#241,
-S_CM_,Dengue Fever,,TRUE,3,2004-08;2007-08;2018-08,,n=CM-parkpsm&ed=27&vol=1#288,
-S_CM_,Filarial Indices,,TRUE,2,2004-08;2006-08,,n=CM-parkpsm&ed=27&vol=1#318,
+-Prevention",True,4,2002-03;2007-02;2009-08;2017-02,,@book?n=CM-parkpsm&ed=27&vol=1#360
+S_CM_,Cultural Factors in Diarrheal Disease,,True,1,2003-10,,@book?n=CM-parkpsm&ed=27&vol=1#265
+S_CM_,Acute Flaccid Paralysis,,True,1,2003-10,,@book?n=CM-parkpsm&ed=27&vol=1#241
+S_CM_,Dengue Fever,,True,3,2004-08;2007-08;2018-08,,@book?n=CM-parkpsm&ed=27&vol=1#288
+S_CM_,Filarial Indices,,True,2,2004-08;2006-08,,@book?n=CM-parkpsm&ed=27&vol=1#318
 E_CM_,Dengue Fever,"-Classification of Arbovirus
 -Epidemiology 
--Prevention and control",TRUE,5,2005-08;2016-08;2019-08;2023-02;2023-06,,n=CM-parkpsm&ed=27&vol=1#288,
-S_CM_,Detection of Typhoid Carriers,,TRUE,1,2005-08,,n=CM-parkpsm&ed=27&vol=1#279,
-E_CM_,Measles ,"-Epidemiology
--prevention and control",TRUE,1,2006-02,,n=CM-parkpsm&ed=27&vol=1#164,
-S_CM_,Surveillance Of Malaria,,TRUE,2,2006-02;2008-08,,n=CM-parkpsm&ed=27&vol=1#306,
-S_CM_,Opportunistic Infection in AIDS,,TRUE,2,2006-02;2015-02,,n=CM-parkpsm&ed=27&vol=1#399,
-S_CM_,Measles Vaccination,,TRUE,1,2006-08,,n=CM-parkpsm&ed=27&vol=1#166,
-S_CM_,Congenital Rubellar Syndrome,,TRUE,2,2007-02;2011-08,,n=CM-parkpsm&ed=27&vol=1#169,
-S_CM_,Directly Observed Treatment Short course (DOTS),,TRUE,1,2007-08,,n=CM-parkpsm&ed=27&vol=1#219,
-S_CM_,Control and Prevention of AIDS,,TRUE,2,2007-08;2009-02,,n=CM-parkpsm&ed=27&vol=1#401,
+-Prevention and control",True,5,2005-08;2016-08;2019-08;2023-02;2023-06,,@book?n=CM-parkpsm&ed=27&vol=1#288
+S_CM_,Detection of Typhoid Carriers,,True,1,2005-08,,@book?n=CM-parkpsm&ed=27&vol=1#279
+E_CM_,"Measles ","-Epidemiology
+-prevention and control",True,1,2006-02,,@book?n=CM-parkpsm&ed=27&vol=1#164
+S_CM_,Surveillance Of Malaria,,True,2,2006-02;2008-08,,@book?n=CM-parkpsm&ed=27&vol=1#306
+S_CM_,Opportunistic Infection in AIDS,,True,2,2006-02;2015-02,,@book?n=CM-parkpsm&ed=27&vol=1#399
+S_CM_,Measles Vaccination,,True,1,2006-08,,@book?n=CM-parkpsm&ed=27&vol=1#166
+S_CM_,Congenital Rubellar Syndrome,,True,2,2007-02;2011-08,,@book?n=CM-parkpsm&ed=27&vol=1#169
+S_CM_,Directly Observed Treatment Short course (DOTS),,True,1,2007-08,,@book?n=CM-parkpsm&ed=27&vol=1#219
+S_CM_,Control and Prevention of AIDS,,True,2,2007-08;2009-02,,@book?n=CM-parkpsm&ed=27&vol=1#401
 E_CM_,Leprosy,"-Epidemiology
 -Prevention and Control
 -National Leprosy Eradication Programme
-- Disability Limitation and Rehabilitation ",TRUE,2,2008-08;2015-02,,n=CM-parkpsm&ed=27&vol=1#362,
-S_CM_,Anti rabies Vaccine,,TRUE,1,2009-02,,n=CM-parkpsm&ed=27&vol=1#324,
-S_CM_,Elimination of Leprosy,,TRUE,2,2009-02;2018-02,,n=CM-parkpsm&ed=27&vol=1#378,
-S_CM_,Diagnosis and Prevention of Swine Flu,,TRUE,1,2009-08,,n=CM-parkpsm&ed=27&vol=1#175,
-S_CM_,Social Pathology in Leprosy,,TRUE,1,2009-08,,n=CM-parkpsm&ed=27&vol=1#364,
-E_CM_,Tetanus,-Epidemiology,TRUE,1,2010-02,,n=CM-parkpsm&ed=27&vol=1#358,
+- Disability Limitation and Rehabilitation ",True,2,2008-08;2015-02,,@book?n=CM-parkpsm&ed=27&vol=1#362
+S_CM_,Anti rabies Vaccine,,True,1,2009-02,,@book?n=CM-parkpsm&ed=27&vol=1#324
+S_CM_,Elimination of Leprosy,,True,2,2009-02;2018-02,,@book?n=CM-parkpsm&ed=27&vol=1#378
+S_CM_,Diagnosis and Prevention of Swine Flu,,True,1,2009-08,,@book?n=CM-parkpsm&ed=27&vol=1#175
+S_CM_,Social Pathology in Leprosy,,True,1,2009-08,,@book?n=CM-parkpsm&ed=27&vol=1#364
+E_CM_,Tetanus,-Epidemiology,True,1,2010-02,,@book?n=CM-parkpsm&ed=27&vol=1#358
 E_CM_,Japanese Encephalitis,"-List the Arboviral Disease
 -Epidemiology
 -Clinical features
--Control",TRUE,2,2010-08;2015-08,,n=CM-parkpsm&ed=27&vol=1#331,
-S_CM_,Natural History of Measles,,TRUE,1,2010-08,,n=CM-parkpsm&ed=27&vol=1#164,
-S_CM_,Contact Tracing in STD,,TRUE,1,2010-08,,n=CM-parkpsm&ed=27&vol=1#388,
-S_CM_,Syndromic Approach in Sexually Transmitted Diseases,,TRUE,1,2011-02,,n=CM-parkpsm&ed=27&vol=1#381,
-S_CM_,Elimination of Lymphatic Filariasis,,TRUE,2,2011-08;2013-02,,n=CM-parkpsm&ed=27&vol=1#319,
-S_CM_,Control of Japanese Encephalitis,,TRUE,1,2013-02,,n=CM-parkpsm&ed=27&vol=1#332,
-S_CM_,Management of Cases and carriers in Diphtheria ,,TRUE,1,2013-02,,n=CM-parkpsm&ed=27&vol=1#180,
-S_CM_,Agent and Host Factors in Leprosy,,TRUE,1,2013-02,,n=CM-parkpsm&ed=27&vol=1#363,
+-Control",True,2,2010-08;2015-08,,@book?n=CM-parkpsm&ed=27&vol=1#331
+S_CM_,Natural History of Measles,,True,1,2010-08,,@book?n=CM-parkpsm&ed=27&vol=1#164
+S_CM_,Contact Tracing in STD,,True,1,2010-08,,@book?n=CM-parkpsm&ed=27&vol=1#388
+S_CM_,Syndromic Approach in Sexually Transmitted Diseases,,True,1,2011-02,,@book?n=CM-parkpsm&ed=27&vol=1#381
+S_CM_,Elimination of Lymphatic Filariasis,,True,2,2011-08;2013-02,,@book?n=CM-parkpsm&ed=27&vol=1#319
+S_CM_,Control of Japanese Encephalitis,,True,1,2013-02,,@book?n=CM-parkpsm&ed=27&vol=1#332
+S_CM_,"Management of Cases and carriers in Diphtheria ",,True,1,2013-02,,@book?n=CM-parkpsm&ed=27&vol=1#180
+S_CM_,Agent and Host Factors in Leprosy,,True,1,2013-02,,@book?n=CM-parkpsm&ed=27&vol=1#363
 E_CM_,Typhoid fever,"-Epidemiology
--Prevention and Control",TRUE,2,2013-08;2016-02,,n=CM-parkpsm&ed=27&vol=1#276,
-S_CM_,Scrub Tyhphus,,TRUE,2,2013-08;2015-08,,n=CM-parkpsm&ed=27&vol=1#347,
-S_CM_,Case Finding Methods in Leprosy,,TRUE,1,2014-08,,n=CM-parkpsm&ed=27&vol=1#369,
-S_CM_,Control and Prevention of Yellow Fever,,TRUE,2,2014-08;2019-02,,n=CM-parkpsm&ed=27&vol=1#328,
-S_CM_,Vaccine Associated Paralytic Polio,,TRUE,1,2014-08,,n=CM-parkpsm&ed=27&vol=1#242,
-S_CM_,Epidemiology and Prevention of Ebola Virus Disease,,TRUE,1,2016-02,,,
-S_CM_,Post Exposure Prophylaxis in Rabies,,TRUE,2,2016-08;2024-02,,n=CM-parkpsm&ed=27&vol=1#324,
+-Prevention and Control",True,2,2013-08;2016-02,,@book?n=CM-parkpsm&ed=27&vol=1#276
+S_CM_,Scrub Tyhphus,,True,2,2013-08;2015-08,,@book?n=CM-parkpsm&ed=27&vol=1#347
+S_CM_,Case Finding Methods in Leprosy,,True,1,2014-08,,@book?n=CM-parkpsm&ed=27&vol=1#369
+S_CM_,Control and Prevention of Yellow Fever,,True,2,2014-08;2019-02,,@book?n=CM-parkpsm&ed=27&vol=1#328
+S_CM_,Vaccine Associated Paralytic Polio,,True,1,2014-08,,@book?n=CM-parkpsm&ed=27&vol=1#242
+S_CM_,Epidemiology and Prevention of Ebola Virus Disease,,True,1,2016-02,,
+S_CM_,Post Exposure Prophylaxis in Rabies,,True,2,2016-08;2024-02,,@book?n=CM-parkpsm&ed=27&vol=1#324
 E_CM_,Acute Respiratory Illness(ARI),"-Diagnosis
 -Management according to IMNCI guidelines 
--Vaccines used to prevent ARI",TRUE,2,2019-08;2024-02,-A mother of 8 months old male child brought him to the PHC with complaints of breathlessness for one day.The baby had history of fever and cough for 4 days without any treatment. On examination baby has temperature 101*F and RR 64/min without acute chest drawing  ,n=CM-parkpsm&ed=27&vol=1#185,
+-Vaccines used to prevent ARI",True,2,2019-08;2024-02,"-A mother of 8 months old male child brought him to the PHC with complaints of breathlessness for one day.The baby had history of fever and cough for 4 days without any treatment. On examination baby has temperature 101*F and RR 64/min without acute chest drawing  ",@book?n=CM-parkpsm&ed=27&vol=1#185
 E_CM_,Leptospirosis,"-Name Some Zoonotic Disease
 -Epidemiology
--Prevention and Control",TRUE,1,2024-02,,n=CM-parkpsm&ed=27&vol=1#338,
-S_CM_,Post Exposure Prophylaxis in HIV,,TRUE,1,2023-02,,n=CM-parkpsm&ed=27&vol=1#405,
+-Prevention and Control",True,1,2024-02,,@book?n=CM-parkpsm&ed=27&vol=1#338
+S_CM_,Post Exposure Prophylaxis in HIV,,True,1,2023-02,,@book?n=CM-parkpsm&ed=27&vol=1#405

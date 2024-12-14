@@ -1,23 +1,23 @@
-﻿Id,Title,Descriptions,HasPreviouslyBeenAsked,Importance,YearsAsked,ProbableCases,BookReferences,LinkReferences
-E_CM_,ESI act,,True,4,2005-02;2005-08;2003-10;2000-04,,n=CM-parkpsm&ed=27&vol=1#943,
-S_CM_,Bagassosis,,True,1,2010-02,,n=CM-parkpsm&ed=27&vol=1#934,
-S_CM_,Benefits of ESI scheme,,True,8,2010-02;2014-02;2012-08;2001-11;1995-11;2000-10;2018-02;2024-02,,n=CM-parkpsm&ed=27&vol=1#943,
-S_CM_,Ergonomics,,True,8,2010-02;2011-08;2014-08;2001-04;2002-03;1999-04;2018-02;2024-02,,n=CM-parkpsm&ed=27&vol=1#930,
-S_CM_,Lead poisoning,,True,8,2009-08;2010-02;2011-02;2014-08;2001-11;2017-02;2018-08;2002-08,,n=CM-parkpsm&ed=27&vol=1#934,
-E_CM_,Pneumoconiosis,,True,3,2010-08;2006-08;2022-02,,n=CM-parkpsm&ed=27&vol=1#933,
-S_CM_,Anthracosis,,True,1,2011-02,,n=CM-parkpsm&ed=27&vol=1#933,
-S_CM_,Byssinosis,,True,1,2011-08,,n=CM-parkpsm&ed=27&vol=1#933,
-S_CM_,Occupational cancer,,True,8,2013-02;2014-08;2009-08;1999-04;2005-02;2005-08;2017-08;2021-09,,n=CM-parkpsm&ed=27&vol=1#935,
-S_CM_,Occupational hazards of agricultural workers,,True,4,2016-08;2013-02;2005-08;2023-06,,n=CM-parkpsm&ed=27&vol=1#936,
-S_CM_,Silicosis,,True,3,2014-02;2004-08;2002-03,,n=CM-parkpsm&ed=27&vol=1#933,
-S_CM_,Medical measures for prevention of occupational diseases,,True,3,2014-02;2006-02;2022-04,,n=CM-parkpsm&ed=27&vol=1#939,
-S_CM_,Sickness absenteeism,,True,2,2014-08;2009-02,,n=CM-parkpsm&ed=27&vol=1#937,
-S_CM_,Factories Act,,True,1,2001-11,,n=CM-parkpsm&ed=27&vol=1#942,
-E_CM_,Classify Occupational diseases. Describe the measures for prevention of occupational diseases.,,True,1,2016-02,,n=CM-parkpsm&ed=27&vol=1#932,
-S_CM_,Asbestosis,,True,2,2002-03;2008-08,,n=CM-parkpsm&ed=27&vol=1#937,
-S_CM_,Preplacement and periodic examination,,True,3,2005-08;1997-10;2023-02,,n=CM-parkpsm&ed=27&vol=1#939,
-S_CM_,Hazards of occupation,,True,1,2008-08,,n=CM-parkpsm&ed=27&vol=1#931,
-S_CM_,Farmer's Lung,,True,1,2009-02,,n=CM-parkpsm&ed=27&vol=1#934,
-E_CM_,"Enlist the occupational Pneumoconiosis. Describe the pathogenesis, clinical features and prevention of silicosis.",,True,1,2018-08,,n=CM-parkpsm&ed=27&vol=1#933,
-E_CM_,Enumerate various occupational hazards. Discuss in detail about the prevention and control of occupational diseases.,,True,1,2023-02,,n=CM-parkpsm&ed=27&vol=1#931,
-E_CM_,What is social security? what are the social security measures provided to factory workers? Describe the benefits under ESI scheme.,,True,1,1997-04,,n=CM-parkpsm&ed=27&vol=1#943,
+Id,Title,Descriptions,HasPreviouslyBeenAsked,Importance,YearsAsked,ProbableCases,References
+E_CM_,ESI act,,True,4,2005-02;2005-08;2003-10;2000-04,,@book?n=CM-parkpsm&ed=27&vol=1#943
+S_CM_,Bagassosis,,True,1,2010-02,,@book?n=CM-parkpsm&ed=27&vol=1#934
+S_CM_,Benefits of ESI scheme,,True,8,2010-02;2014-02;2012-08;2001-11;1995-11;2000-10;2018-02;2024-02,,@book?n=CM-parkpsm&ed=27&vol=1#943
+S_CM_,Ergonomics,,True,8,2010-02;2011-08;2014-08;2001-04;2002-03;1999-04;2018-02;2024-02,,@book?n=CM-parkpsm&ed=27&vol=1#930
+S_CM_,Lead poisoning,,True,8,2009-08;2010-02;2011-02;2014-08;2001-11;2017-02;2018-08;2002-08,,@book?n=CM-parkpsm&ed=27&vol=1#934
+E_CM_,Pneumoconiosis,,True,3,2010-08;2006-08;2022-02,,@book?n=CM-parkpsm&ed=27&vol=1#933
+S_CM_,Anthracosis,,True,1,2011-02,,@book?n=CM-parkpsm&ed=27&vol=1#933
+S_CM_,Byssinosis,,True,1,2011-08,,@book?n=CM-parkpsm&ed=27&vol=1#933
+S_CM_,Occupational cancer,,True,8,2013-02;2014-08;2009-08;1999-04;2005-02;2005-08;2017-08;2021-09,,@book?n=CM-parkpsm&ed=27&vol=1#935
+S_CM_,Occupational hazards of agricultural workers,,True,4,2016-08;2013-02;2005-08;2023-06,,@book?n=CM-parkpsm&ed=27&vol=1#936
+S_CM_,Silicosis,,True,3,2014-02;2004-08;2002-03,,@book?n=CM-parkpsm&ed=27&vol=1#933
+S_CM_,Medical measures for prevention of occupational diseases,,True,3,2014-02;2006-02;2022-04,,@book?n=CM-parkpsm&ed=27&vol=1#939
+S_CM_,Sickness absenteeism,,True,2,2014-08;2009-02,,@book?n=CM-parkpsm&ed=27&vol=1#937
+S_CM_,Factories Act,,True,1,2001-11,,@book?n=CM-parkpsm&ed=27&vol=1#942
+E_CM_,Classify Occupational diseases. Describe the measures for prevention of occupational diseases.,,True,1,2016-02,,@book?n=CM-parkpsm&ed=27&vol=1#932
+S_CM_,Asbestosis,,True,2,2002-03;2008-08,,@book?n=CM-parkpsm&ed=27&vol=1#937
+S_CM_,Preplacement and periodic examination,,True,3,2005-08;1997-10;2023-02,,@book?n=CM-parkpsm&ed=27&vol=1#939
+S_CM_,Hazards of occupation,,True,1,2008-08,,@book?n=CM-parkpsm&ed=27&vol=1#931
+S_CM_,Farmer's Lung,,True,1,2009-02,,@book?n=CM-parkpsm&ed=27&vol=1#934
+E_CM_,"Enlist the occupational Pneumoconiosis. Describe the pathogenesis, clinical features and prevention of silicosis.",,True,1,2018-08,,@book?n=CM-parkpsm&ed=27&vol=1#933
+E_CM_,Enumerate various occupational hazards. Discuss in detail about the prevention and control of occupational diseases.,,True,1,2023-02,,@book?n=CM-parkpsm&ed=27&vol=1#931
+E_CM_,What is social security? what are the social security measures provided to factory workers? Describe the benefits under ESI scheme.,,True,1,1997-04,,@book?n=CM-parkpsm&ed=27&vol=1#943

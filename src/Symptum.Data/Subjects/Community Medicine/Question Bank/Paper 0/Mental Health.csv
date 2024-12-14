@@ -1,5 +1,5 @@
-Id,Title,Descriptions,HasPreviouslyBeenAsked,Importance,YearsAsked,ProbableCases,BookReferences,LinkReferences
-E_CM_,Drug Dependance,"- Epidemiology- Prevention- Comprehensive Mental health program",True,3,2024-02;2000-10;2001-04,,n=CM-parkpsm&ed=270&vol=0#960,
-S_CM_,Drug Addiction,"- Drug Abuse- Drug Dependence;- Drug Dependence- Prevention;- Factors associated with High Risk for Drug Abuse- Symptoms",True,6,2009-08;2011-02;2013-02;2013-08;2014-02;2015-08,,n=CM-parkpsm&ed=27&vol=0#960,
-S_CM_,Life Cycle of Man,,True,2,2009-08;2011-08,,n=CM-parkpsm&ed=27&vol=0#959,
-S_CM_,Mental Ill health,- Causes;- Warning Signs,True,4,2008-02;2011-08;2013-02;2002-03,,n=CM-parkpsm&ed=27&vol=0#958,
+Id,Title,Descriptions,HasPreviouslyBeenAsked,Importance,YearsAsked,ProbableCases,References
+E_CM_,Drug Dependance,"- Epidemiology- Prevention- Comprehensive Mental health program",True,3,2024-02;2000-10;2001-04,,@book?n=CM-parkpsm&ed=270&vol=0#960
+S_CM_,Drug Addiction,"- Drug Abuse- Drug Dependence;- Drug Dependence- Prevention;- Factors associated with High Risk for Drug Abuse- Symptoms",True,6,2009-08;2011-02;2013-02;2013-08;2014-02;2015-08,,@book?n=CM-parkpsm&ed=27&vol=0#960
+S_CM_,Life Cycle of Man,,True,2,2009-08;2011-08,,@book?n=CM-parkpsm&ed=27&vol=0#959
+S_CM_,Mental Ill health,- Causes;- Warning Signs,True,4,2008-02;2011-08;2013-02;2002-03,,@book?n=CM-parkpsm&ed=27&vol=0#958

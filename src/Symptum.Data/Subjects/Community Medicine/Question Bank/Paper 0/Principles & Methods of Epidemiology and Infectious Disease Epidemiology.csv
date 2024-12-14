@@ -1,4 +1,4 @@
-﻿Id,Title,Descriptions,HasPreviouslyBeenAsked,Importance,YearsAsked,ProbableCases,BookReferences,LinkReferences
+Id,Title,Descriptions,HasPreviouslyBeenAsked,Importance,YearsAsked,ProbableCases,References
 E_CM_,Cohort Study,"- Classification of epidemiological studies
 - Steps of cohort study
 - Strength of association;- Types of analytical epidemiological studies
@@ -10,7 +10,7 @@ E_CM_,Cohort Study,"- Classification of epidemiological studies
 - Cohort study in detail
 - Merits and demerits;- Definition
 - Types
-- Steps",True,6,2024-02;2021-09;1999-04;2011-02;2002-03;2007-02,,n=CM-parkpsm&ed=27&vol=1#83,
+- Steps",True,6,2024-02;2021-09;1999-04;2011-02;2002-03;2007-02,,@book?n=CM-parkpsm&ed=27&vol=1#83
 E_CM_,Case Control Study,"- Types of analytical epidemiological studies
 - Steps of case control study;- Definition of epidemiology
 - Steps
@@ -18,118 +18,118 @@ E_CM_,Case Control Study,"- Types of analytical epidemiological studies
 - Steps
 - Merits and demerits;- Definition of epidemiology
 - Types of epidemiological study
-- Steps",True,6,2023-02;2022-08;2009-08;2011-08;2015-02;2012-02,,n=CM-parkpsm&ed=27&vol=1#79,
+- Steps",True,6,2023-02;2022-08;2009-08;2011-08;2015-02;2012-02,,@book?n=CM-parkpsm&ed=27&vol=1#79
 E_CM_,Randomized Controlled Trials,"- Definition of epidemiology
 - Types of epidemiological studies
-- Steps",True,1,2023-02,,n=CM-parkpsm&ed=27&vol=1#89,
+- Steps",True,1,2023-02,,@book?n=CM-parkpsm&ed=27&vol=1#89
 E_CM_,Association and Causation,"- Definition of epidemiology
 - Epidemiological methods
 - Differentiate associated factor and causative factor with examples
-- Relative risk and attributable risk and it's applications in public health",True,1,2018-02,,"n=CM-parkpsm&ed=27&vol=1#95,86",
+- Relative risk and attributable risk and it's applications in public health",True,1,2018-02,,"@book?n=CM-parkpsm&ed=27&vol=1#95,86"
 E_CM_,Acute Events Following Immunization,"- Classification
-- Steps in investigation",True,1,2019-02,,n=CM-parkpsm&ed=27&vol=1#123,
+- Steps in investigation",True,1,2019-02,,@book?n=CM-parkpsm&ed=27&vol=1#123
 E_CM_,Epidemic Investigation,"- Definition
 - Steps;- Types of epidemiological studies
 - Steps;- Objectives
 - Steps
-- Uses of epidemiology",True,5,2024-02;2020-02;2007-08;1992-04;2004-08,,n=CM-parkpsm&ed=27&vol=1#147,
+- Uses of epidemiology",True,5,2024-02;2020-02;2007-08;1992-04;2004-08,,@book?n=CM-parkpsm&ed=27&vol=1#147
 E_CM_,Epidemic,"- Definition of pandemic
-- Phases of an epidemic when entire susceptible population exposed to a case",True,1,2020-11,,"n=CM-parkpsm&ed=27&vol=1#101,72",
+- Phases of an epidemic when entire susceptible population exposed to a case",True,1,2020-11,,"@book?n=CM-parkpsm&ed=27&vol=1#101,72"
 E_CM_,Measurement of Mortality,"- Mortality rates
 - Mortality ratios
 - Uses
-- Limitations",True,1,2022-04,,n=CM-parkpsm&ed=27&vol=1#64,
+- Limitations",True,1,2022-04,,@book?n=CM-parkpsm&ed=27&vol=1#64
 E_CM_,Cold Chain,"- National Immunization Schedule
 - Cold chain
-- Implementation at primary care level",True,1,2005-08,,"n=CM-parkpsm&ed=27&vol=1#136,116",
+- Implementation at primary care level",True,1,2005-08,,"@book?n=CM-parkpsm&ed=27&vol=1#136,116"
 E_CM_,Epidemiology,"- Definition
 - Epidemiological methods
-- Uses of epidemiology with examples",True,1,1995-11,,"n=CM-parkpsm&ed=27&vol=1#60,70,99",
+- Uses of epidemiology with examples",True,1,1995-11,,"@book?n=CM-parkpsm&ed=27&vol=1#60,70,99"
 E_CM_,Non Randomized Trials,"- Definition
 - Types
 - Explain three with examples
-- Advantages over randomized controlled trials",True,1,1996-04,,n=CM-parkpsm&ed=27&vol=1#93,
+- Advantages over randomized controlled trials",True,1,1996-04,,@book?n=CM-parkpsm&ed=27&vol=1#93
 E_CM_,Distribution of Disease,"- Various trends
 - Illustrations
-- Examples",True,1,1998-04,,n=CM-parkpsm&ed=27&vol=1#73,
+- Examples",True,1,1998-04,,@book?n=CM-parkpsm&ed=27&vol=1#73
 E_CM_,Disease Transmission,"- Source of infection
 - Reservoir of infection
-- Dynamics and modes of disease transmission",True,2,2008-08;2013-02,,n=CM-parkpsm&ed=27&vol=1#102,
+- Dynamics and modes of disease transmission",True,2,2008-08;2013-02,,@book?n=CM-parkpsm&ed=27&vol=1#102
 E_CM_,Case Control Vs Cohort Study,"- Define epidemiology
 - Compare and contrast case control and cohort
-- Uses of epidemiology",True,1,2003-10,,"n=CM-parkpsm&ed=27&vol=1#87,99",
+- Uses of epidemiology",True,1,2003-10,,"@book?n=CM-parkpsm&ed=27&vol=1#87,99"
 E_CM_,Descriptive Epidemiological Study,"- Definition of epidemiology
 - Epidemiological approach
-- Descriptive epidemiology in detail",True,1,2006-08,,n=CM-parkpsm&ed=27&vol=1#71,
+- Descriptive epidemiology in detail",True,1,2006-08,,@book?n=CM-parkpsm&ed=27&vol=1#71
 S_CM_,Herd Immunity,"- Definition
-- Importance in disease control;- Compare herd immunity for measles and tetanus;- Factors contributing to herd immunity",True,8,2023-02;2018-08;2020-02;2023-06;2011-02;2012-08;2005-08;1997-10,,n=CM-parkpsm&ed=27&vol=1#110,
+- Importance in disease control;- Compare herd immunity for measles and tetanus;- Factors contributing to herd immunity",True,8,2023-02;2018-08;2020-02;2023-06;2011-02;2012-08;2005-08;1997-10,,@book?n=CM-parkpsm&ed=27&vol=1#110
 S_CM_,Mortality Data,"- Uses
-- Limitations",True,2,2023-02;2015-08,,n=CM-parkpsm&ed=27&vol=1#64,
+- Limitations",True,2,2023-02;2015-08,,@book?n=CM-parkpsm&ed=27&vol=1#64
 S_CM_,Cold chain,"- Plan model at primary health centre for routine immunization;- Maintenance
-- Equipments",True,10,2023-02;2010-02;2018-02;2017-08;2022-02;2001-11;2008-08;2001-04;2004-08;2007-08,,n=CM-parkpsm&ed=27&vol=1#116,
+- Equipments",True,10,2023-02;2010-02;2018-02;2017-08;2022-02;2001-11;2008-08;2001-04;2004-08;2007-08,,@book?n=CM-parkpsm&ed=27&vol=1#116
 S_CM_,Bias,"- Bias in case control study
 - Examples
-- Methods to overcome bias",True,6,2023-06;2019-08;2005-08;2016-02;2014-02;1997-04,,n=CM-parkpsm&ed=27&vol=1#81,
+- Methods to overcome bias",True,6,2023-06;2019-08;2005-08;2016-02;2014-02;1997-04,,@book?n=CM-parkpsm&ed=27&vol=1#81
 S_CM_,Descriptive Study,"- Procedures
-- Common source epidemic;- Uses",True,2,2024-02;2005-08,,n=CM-parkpsm&ed=27&vol=1#71,
-S_CM_,Bradford Hill's Criteria for Association and Causation,,True,2,2024-02;2022-04,,n=CM-parkpsm&ed=27&vol=1#97,
-S_CM_,Emporiatrics,- Significance,True,6,2019-02;2022-02;2023-02;2014-02;2015-02;2010-02,,n=CM-parkpsm&ed=27&vol=1#140,
-S_CM_,National Immunization Schedule,,True,4,2019-08;2017-02;1992-04;2010-08,,n=CM-parkpsm&ed=27&vol=1#136,
-S_CM_,Disease Control,- International health regulations,True,1,2020-02,,n=CM-parkpsm&ed=27&vol=1#131,
+- Common source epidemic;- Uses",True,2,2024-02;2005-08,,@book?n=CM-parkpsm&ed=27&vol=1#71
+S_CM_,Bradford Hill's Criteria for Association and Causation,,True,2,2024-02;2022-04,,@book?n=CM-parkpsm&ed=27&vol=1#97
+S_CM_,Emporiatrics,- Significance,True,6,2019-02;2022-02;2023-02;2014-02;2015-02;2010-02,,@book?n=CM-parkpsm&ed=27&vol=1#140
+S_CM_,National Immunization Schedule,,True,4,2019-08;2017-02;1992-04;2010-08,,@book?n=CM-parkpsm&ed=27&vol=1#136
+S_CM_,Disease Control,- International health regulations,True,1,2020-02,,@book?n=CM-parkpsm&ed=27&vol=1#131
 S_CM_,Case Fatality Rate,"- Definition
 - Example;- Definition
-- Significance",True,3,2017-02;2005-08;2008-08,,n=CM-parkpsm&ed=27&vol=1#66,
-S_CM_,Epidemic Curve,,True,2,2017-08;2010-08,,n=CM-parkpsm&ed=27&vol=1#72,
-S_CM_,Isolation and Quarantine,- Quarantine;- Differences,True,7,2017-08;2002-03;2019-08;2022-04;2023-06;2004-08;2001-04,,n=CM-parkpsm&ed=27&vol=1#133,
-S_CM_,Relative Risk and Attributable Risk,- Differences;- Attributable risk;- Relative risk,True,8,2017-08;2003-10;2011-08;2019-08;2005-02;2015-08;2001-11;2003-10,,n=CM-parkpsm&ed=27&vol=1#86,
-S_CM_,Primary Case and Index Case,- Differences;- Index case,True,2,2018-02;2013-08,,n=CM-parkpsm&ed=27&vol=1#103,
+- Significance",True,3,2017-02;2005-08;2008-08,,@book?n=CM-parkpsm&ed=27&vol=1#66
+S_CM_,Epidemic Curve,,True,2,2017-08;2010-08,,@book?n=CM-parkpsm&ed=27&vol=1#72
+S_CM_,Isolation and Quarantine,- Quarantine;- Differences,True,7,2017-08;2002-03;2019-08;2022-04;2023-06;2004-08;2001-04,,@book?n=CM-parkpsm&ed=27&vol=1#133
+S_CM_,Relative Risk and Attributable Risk,- Differences;- Attributable risk;- Relative risk,True,8,2017-08;2003-10;2011-08;2019-08;2005-02;2015-08;2001-11;2003-10,,@book?n=CM-parkpsm&ed=27&vol=1#86
+S_CM_,Primary Case and Index Case,- Differences;- Index case,True,2,2018-02;2013-08,,@book?n=CM-parkpsm&ed=27&vol=1#103
 S_CM_,Spot Map,"- Definition
-- Uses in epidemiological investigations",True,3,2018-02;2018-08;1996-04,,n=CM-parkpsm&ed=27&vol=1#74,
-S_CM_,Epidemic Investigation,- Steps,True,4,2019-02;2015-02;2006-02;2002-03,,n=CM-parkpsm&ed=27&vol=1#147,
-S_CM_,Softwares Used in Epidemiology,,True,1,2019-02,,,
+- Uses in epidemiological investigations",True,3,2018-02;2018-08;1996-04,,@book?n=CM-parkpsm&ed=27&vol=1#74
+S_CM_,Epidemic Investigation,- Steps,True,4,2019-02;2015-02;2006-02;2002-03,,@book?n=CM-parkpsm&ed=27&vol=1#147
+S_CM_,Softwares Used in Epidemiology,,True,1,2019-02,,
 S_CM_,Migration Studies,"- Definition
-- Uses",True,2,2022-04;2019-08,,n=CM-parkpsm&ed=27&vol=1#75,
-S_CM_,Survival Rate,,True,2,2019-08;2011-02,,n=CM-parkpsm&ed=27&vol=1#66,
-S_CM_,Disinfection,- Concurrent disinfection;- Precurrent disinfection;- Types,True,6,2020-02;2014-02;2022-04;2011-08;2010-02;2004-08,,n=CM-parkpsm&ed=27&vol=1#141,
+- Uses",True,2,2022-04;2019-08,,@book?n=CM-parkpsm&ed=27&vol=1#75
+S_CM_,Survival Rate,,True,2,2019-08;2011-02,,@book?n=CM-parkpsm&ed=27&vol=1#66
+S_CM_,Disinfection,- Concurrent disinfection;- Precurrent disinfection;- Types,True,6,2020-02;2014-02;2022-04;2011-08;2010-02;2004-08,,@book?n=CM-parkpsm&ed=27&vol=1#141
 S_CM_,Randomized Controlled Trials,"- Steps
-- Example",True,3,2022-02;2010-08;2014-02,,n=CM-parkpsm&ed=27&vol=1#89,
-S_CM_,Open Vial Policy,,True,1,2022-04,,n=CM-parkpsm&ed=27&vol=1#121,
-S_CM_,Personal Protective Equipment,,True,1,2022-04,,n=CM-parkpsm&ed=27&vol=1#146,
-S_CM_,Blinding techniques,- Types,True,1,2023-02,,n=CM-parkpsm&ed=27&vol=1#91,
+- Example",True,3,2022-02;2010-08;2014-02,,@book?n=CM-parkpsm&ed=27&vol=1#89
+S_CM_,Open Vial Policy,,True,1,2022-04,,@book?n=CM-parkpsm&ed=27&vol=1#121
+S_CM_,Personal Protective Equipment,,True,1,2022-04,,@book?n=CM-parkpsm&ed=27&vol=1#146
+S_CM_,Blinding techniques,- Types,True,1,2023-02,,@book?n=CM-parkpsm&ed=27&vol=1#91
 S_CM_,Prevalence,"- Point prevalence
-- Period prevalence;- Point prevalence",True,2,2023-06;2014-02,,n=CM-parkpsm&ed=27&vol=1#69,
+- Period prevalence;- Point prevalence",True,2,2023-06;2014-02,,@book?n=CM-parkpsm&ed=27&vol=1#69
 S_CM_,Adverse Events Following Immunization,"- Adverse events following immunization
-- Investigation",True,2,2023-06;2014-02,,n=CM-parkpsm&ed=27&vol=1#123,
-S_CM_,Case Control Vs Cohort Study,,True,1,2024-02,,n=CM-parkpsm&ed=27&vol=1#87,
-S_CM_,Cohort Study,- Elements of cohort study;- Advantages of cohort study;- Merits and demerits,True,7,2001-04;1993-11;2009-08;2005-02;2010-08;2013-02;2008-08,,"n=CM-parkpsm&ed=27&vol=1#83,84,87",
-S_CM_,Uses of Epidemiology,,True,7,2013-08;2005-02;2010-02;2009-08;1999-04;2013-08;2016-08,,n=CM-parkpsm&ed=27&vol=1#99,
-S_CM_,Standardized Death Rate,,True,1,1991-12,,n=CM-parkpsm&ed=27&vol=1#67,
-S_CM_,International Death Certificate,,True,1,1993-01,,n=CM-parkpsm&ed=27&vol=1#64,
-S_CM_,Population Attributable Risk,,True,2,2010-02;1993-01,,n=CM-parkpsm&ed=27&vol=1#86,
-S_CM_,Retrospective Cohort Studies,,True,1,1993-01,,n=CM-parkpsm&ed=27&vol=1#84,
-S_CM_,ODDS Ratio(Cross Product Ratio),,True,1,1993-01,,n=CM-parkpsm&ed=27&vol=1#81,
-S_CM_,Measurement of Morbidity,,True,2,2010-02;1997-04,,n=CM-parkpsm&ed=27&vol=1#62,
-S_CM_,Biological Transmission,,True,1,2000-04,,n=CM-parkpsm&ed=27&vol=1#106,
-S_CM_,Case Control Study,- Steps;- Advantages,True,3,2000-04;2012-08;2006-02,,n=CM-parkpsm&ed=27&vol=1#79,
-S_CM_,Generation Time,,True,2,2013-08;2009-08,,n=CM-parkpsm&ed=27&vol=1#108,
-S_CM_,Vaccine Vial Monitor(VVM),,True,2,2010-08;2005-02,,n=CM-parkpsm&ed=27&vol=1#122,
-S_CM_,Association and Causation,,True,1,2003-10,,n=CM-parkpsm&ed=27&vol=1#95,
-S_CM_,Proportional Mortality Rate,,True,1,2009-02,,n=CM-parkpsm&ed=27&vol=1#66,
-S_CM_,Epidemiology,- Definition,True,2,2009-02;2013-08,,n=CM-parkpsm&ed=27&vol=1#60,
-S_CM_,Tools of Measurement in Epidemiology,,True,2,2011-02;2009-08,,n=CM-parkpsm&ed=27&vol=1#62,
-S_CM_,Aims of Epidemiology,,True,1,2009-08,,n=CM-parkpsm&ed=27&vol=1#61,
-S_CM_,Secular Trend,,True,2,2011-08;2009-08,,n=CM-parkpsm&ed=27&vol=1#74,
-S_CM_,Serial Interval,,True,1,2009-08,,n=CM-parkpsm&ed=27&vol=1#108,
-S_CM_,Secondary Attack Rate,,True,1,2010-08,,n=CM-parkpsm&ed=27&vol=1#108,
-S_CM_,Endemic Index,,True,1,2011-02,,,
-S_CM_,Confounding Factor,,True,1,2011-08,,n=CM-parkpsm&ed=27&vol=1#96,
-S_CM_,Direct Standardization,,True,1,2012-02,,n=CM-parkpsm&ed=27&vol=1#66,
-S_CM_,Pandemic,,True,1,2012-02,,n=CM-parkpsm&ed=27&vol=1#101,
-S_CM_,Pentavalent Vaccine,,True,1,2012-02,,n=CM-parkpsm&ed=27&vol=1#136,
-S_CM_,Common Source Epidemic,,True,1,2014-02,,n=CM-parkpsm&ed=27&vol=1#72,
-S_CM_,Carriers,- Chronic carriers,True,3,2015-02;2003-10;2002-03,,n=CM-parkpsm&ed=27&vol=1#103,
-S_CM_,Incubation Period,- Uses;- Extrinsic incubation period;- Mean incubation period,True,4,2015-02;2012-02;2011-02;2006-02,,n=CM-parkpsm&ed=27&vol=1#107,
+- Investigation",True,2,2023-06;2014-02,,@book?n=CM-parkpsm&ed=27&vol=1#123
+S_CM_,Case Control Vs Cohort Study,,True,1,2024-02,,@book?n=CM-parkpsm&ed=27&vol=1#87
+S_CM_,Cohort Study,- Elements of cohort study;- Advantages of cohort study;- Merits and demerits,True,7,2001-04;1993-11;2009-08;2005-02;2010-08;2013-02;2008-08,,"@book?n=CM-parkpsm&ed=27&vol=1#83,84,87"
+S_CM_,Uses of Epidemiology,,True,7,2013-08;2005-02;2010-02;2009-08;1999-04;2013-08;2016-08,,@book?n=CM-parkpsm&ed=27&vol=1#99
+S_CM_,Standardized Death Rate,,True,1,1991-12,,@book?n=CM-parkpsm&ed=27&vol=1#67
+S_CM_,International Death Certificate,,True,1,1993-01,,@book?n=CM-parkpsm&ed=27&vol=1#64
+S_CM_,Population Attributable Risk,,True,2,2010-02;1993-01,,@book?n=CM-parkpsm&ed=27&vol=1#86
+S_CM_,Retrospective Cohort Studies,,True,1,1993-01,,@book?n=CM-parkpsm&ed=27&vol=1#84
+S_CM_,ODDS Ratio(Cross Product Ratio),,True,1,1993-01,,@book?n=CM-parkpsm&ed=27&vol=1#81
+S_CM_,Measurement of Morbidity,,True,2,2010-02;1997-04,,@book?n=CM-parkpsm&ed=27&vol=1#62
+S_CM_,Biological Transmission,,True,1,2000-04,,@book?n=CM-parkpsm&ed=27&vol=1#106
+S_CM_,Case Control Study,- Steps;- Advantages,True,3,2000-04;2012-08;2006-02,,@book?n=CM-parkpsm&ed=27&vol=1#79
+S_CM_,Generation Time,,True,2,2013-08;2009-08,,@book?n=CM-parkpsm&ed=27&vol=1#108
+S_CM_,Vaccine Vial Monitor(VVM),,True,2,2010-08;2005-02,,@book?n=CM-parkpsm&ed=27&vol=1#122
+S_CM_,Association and Causation,,True,1,2003-10,,@book?n=CM-parkpsm&ed=27&vol=1#95
+S_CM_,Proportional Mortality Rate,,True,1,2009-02,,@book?n=CM-parkpsm&ed=27&vol=1#66
+S_CM_,Epidemiology,- Definition,True,2,2009-02;2013-08,,@book?n=CM-parkpsm&ed=27&vol=1#60
+S_CM_,Tools of Measurement in Epidemiology,,True,2,2011-02;2009-08,,@book?n=CM-parkpsm&ed=27&vol=1#62
+S_CM_,Aims of Epidemiology,,True,1,2009-08,,@book?n=CM-parkpsm&ed=27&vol=1#61
+S_CM_,Secular Trend,,True,2,2011-08;2009-08,,@book?n=CM-parkpsm&ed=27&vol=1#74
+S_CM_,Serial Interval,,True,1,2009-08,,@book?n=CM-parkpsm&ed=27&vol=1#108
+S_CM_,Secondary Attack Rate,,True,1,2010-08,,@book?n=CM-parkpsm&ed=27&vol=1#108
+S_CM_,Endemic Index,,True,1,2011-02,,
+S_CM_,Confounding Factor,,True,1,2011-08,,@book?n=CM-parkpsm&ed=27&vol=1#96
+S_CM_,Direct Standardization,,True,1,2012-02,,@book?n=CM-parkpsm&ed=27&vol=1#66
+S_CM_,Pandemic,,True,1,2012-02,,@book?n=CM-parkpsm&ed=27&vol=1#101
+S_CM_,Pentavalent Vaccine,,True,1,2012-02,,@book?n=CM-parkpsm&ed=27&vol=1#136
+S_CM_,Common Source Epidemic,,True,1,2014-02,,@book?n=CM-parkpsm&ed=27&vol=1#72
+S_CM_,Carriers,- Chronic carriers,True,3,2015-02;2003-10;2002-03,,@book?n=CM-parkpsm&ed=27&vol=1#103
+S_CM_,Incubation Period,- Uses;- Extrinsic incubation period;- Mean incubation period,True,4,2015-02;2012-02;2011-02;2006-02,,@book?n=CM-parkpsm&ed=27&vol=1#107
 S_CM_,Incidence and Prevalence,"- Differences;- Incidence
 - Incidence rate
-- Uses",True,3,2010-08;2009-02;2007-02,,"n=CM-parkpsm&ed=27&vol=1#68,69",
-S_CM_,Safe Injection Practises,,True,1,2008-02,,,
+- Uses",True,3,2010-08;2009-02;2007-02,,"@book?n=CM-parkpsm&ed=27&vol=1#68,69"
+S_CM_,Safe Injection Practises,,True,1,2008-02,,

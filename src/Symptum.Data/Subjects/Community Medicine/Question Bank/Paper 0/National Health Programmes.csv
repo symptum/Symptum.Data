@@ -1,32 +1,32 @@
-Id,Title,Descriptions,HasPreviouslyBeenAsked,Importance,YearsAsked,ProbableCases,BookReferences,LinkReferences
-S_CM_,Adolescent Health Schemes in India,,True,4,2023-06;2023-06;2023-02;2018-08,,n=CM-parkpsm&ed=27&vol=0#532,
-S_CM_,Swachh Bharat Mission,,True,2,2023-06;2018-02,,n=CM-parkpsm&ed=27&vol=0#550,
-S_CM_,Rashtriya Bal Swasthya Karyakram (RBSK),- Diseases screened under the programme,True,2,2023-02;2019-02,,n=CM-parkpsm&ed=27&vol=0#529,
-S_CM_,National Programme for Healthcare of the Elderly,- Initiatives,True,1,2021-09,,n=CM-parkpsm&ed=27&vol=0#540,
-S_CM_,Mission Indradhanush,,True,1,2022-02,,n=CM-parkpsm&ed=27&vol=0#508,
-S_CM_,Nutritional Rehabilitation Centres,,True,1,2022-02,,n=CM-parkpsm&ed=27&vol=0#523,
-S_CM_,"National program for prevention and control of cancer, diabetes, cardiovascular diseases and stroke (NPCDCS)","- Consequences of Untreated Hypertension- Control of it under NPCDCS",True,2,2022-02;2020-11,,n=CM-parkpsm&ed=27&vol=0#541,
-E_CM_,National Urban Health Mission (NUHM),"- Scope- Services- Infrastructure- Targets",True,2,2023-02;2022-02,,n=CM-parkpsm&ed=27&vol=0#512,
-E_CM_,Revised National Tuberculosis Programme (RNTCP) or National Tuberculosis Elimination Programme (NTEP),"- Objectives- Diagnosis- Categorization- Treatment of Tuberculosis;- Epidemiology- Prevention of Pulmonary Tuberculosis- Objectives- Strategies- Newer Initiatives under NTEP",True,5,2021-09;2017-02;2011-02;2001-04;1995-04,,n=CM-parkpsm&ed=27&vol=0#485,
-E_CM_,National AIDS Control Programme (NACP),"- Vertical Transmission of HIV- Prevention of Vertical Transmission",True,2,2017-08;1993-01,,n=CM-parkpsm&ed=27&vol=0#494,
-S_CM_,National Vector Borne Diseases Control programme (NVBDCP),- Stratergies;- National Malaria Eradication Programme,True,2,2020-02;2003-10,,n=CM-parkpsm&ed=27&vol=0#472,
-S_CM_,Revised National Tuberculosis Control Programme (RNTCP),- Objectives;- Drug Supply for Management of Pediatric TB,True,3,2024-02;2012-08;2004-08,,n=CM-parkpsm&ed=27&vol=0#485,
-E_CM_,National Vector Borne Disease Control Programme (NVBDCP),"-Describe and discuss National Anti-Malaria Programme;- Epidemiology of Dengue Fever- Prevention as per NVBDCP",True,5,2016-08;2009-08;2002-03;2001-04;1993-11,,n=CM-parkpsm&ed=27&vol=0#472,
-S_CM_,Vision 2020,,True,2,2016-02;2010-08,,n=CM-parkpsm&ed=27&vol=0#503,
-S_CM_,National Leprosy Eradication Programme (NLEP),"- Case Finding Methods- Social Pathology;- Elimination",True,3,2014-08;2009-08;2009-02,,n=CM-parkpsm&ed=27&vol=0#481,
-E_CM_,National Leprosy Eradication Programme (NLEP),"- Common Disabilities - Disability Limiting and Rehabilitative measures or Disability Prevention and Rehabilitation (DPMR)",True,2,2015-02;2008-08,,n=CM-parkpsm&ed=27&vol=0#481,
-S_CM_,Surveillance in Malaria,,True,2,2008-08;2006-02,,n=CM-parkpsm&ed=27&vol=0#476,
-E_CM_,National Rural Health Mission (NRHM),,True,1,2009-02,,n=CM-parkpsm&ed=27&vol=0#515,
-S_CM_,Health Problem in Urban Slums,,True,4,2010-08;2010-02;2004-08;2000-10,,n=CM-parkpsm&ed=27&vol=0#512,
-S_CM_,Iodine Deficiency Disorders Control Programme,,True,2,2016-02;2013-08,,n=CM-parkpsm&ed=27&vol=0#505,
-S_CM_,Pulse Polio Immunisation Programme,,True,2,2002-03;2000-10,,n=CM-parkpsm&ed=27&vol=0#507,
-S_CM_,Universal Immunisation Programme,,True,1,1992-04,,n=CM-parkpsm&ed=27&vol=0#505,
-S_CM_,Guinea-worm Eradication Programme,,True,1,2003-10,,n=CM-parkpsm&ed=27&vol=0#548,
-S_CM_,Minimum Needs Programme,,True,1,2009-02,,n=CM-parkpsm&ed=27&vol=0#551,
-S_CM_,Janani Suraksha Yojana (JSY),,False,1,,,n=CM-parkpsm&ed=27&vol=0#521,
-S_CM_,Janani Shishu Suraksha Karyakram (JSSK),,False,1,,,n=CM-parkpsm&ed=27&vol=0#522,
-S_CM_,LAQSHYA Programme,,False,1,,,n=CM-parkpsm&ed=27&vol=0#522,
-S_CM_,Integrated Management of Neonatal and Childhood Illness (IMNCI),,False,1,,,n=CM-parkpsm&ed=27&vol=0#525,
-S_CM_,"Reproductive, Maternal, Newborn, Child and Adolescent Health Strategy (RMNCH+A)",,False,1,,,n=CM-parkpsm&ed=27&vol=0#530,
-S_CM_,National Mental Health Programme (NMHP),,False,1,,,n=CM-parkpsm&ed=27&vol=0#544,
-S_CM_,Ayushmaan Bharat Programme,,False,1,,,n=CM-parkpsm&ed=27&vol=0#547,
+Id,Title,Descriptions,HasPreviouslyBeenAsked,Importance,YearsAsked,ProbableCases,References
+S_CM_,Adolescent Health Schemes in India,,True,4,2023-06;2023-06;2023-02;2018-08,,@book?n=CM-parkpsm&ed=27&vol=0#532
+S_CM_,Swachh Bharat Mission,,True,2,2023-06;2018-02,,@book?n=CM-parkpsm&ed=27&vol=0#550
+S_CM_,Rashtriya Bal Swasthya Karyakram (RBSK),- Diseases screened under the programme,True,2,2023-02;2019-02,,@book?n=CM-parkpsm&ed=27&vol=0#529
+S_CM_,National Programme for Healthcare of the Elderly,- Initiatives,True,1,2021-09,,@book?n=CM-parkpsm&ed=27&vol=0#540
+S_CM_,Mission Indradhanush,,True,1,2022-02,,@book?n=CM-parkpsm&ed=27&vol=0#508
+S_CM_,Nutritional Rehabilitation Centres,,True,1,2022-02,,@book?n=CM-parkpsm&ed=27&vol=0#523
+S_CM_,"National program for prevention and control of cancer, diabetes, cardiovascular diseases and stroke (NPCDCS)","- Consequences of Untreated Hypertension- Control of it under NPCDCS",True,2,2022-02;2020-11,,@book?n=CM-parkpsm&ed=27&vol=0#541
+E_CM_,National Urban Health Mission (NUHM),"- Scope- Services- Infrastructure- Targets",True,2,2023-02;2022-02,,@book?n=CM-parkpsm&ed=27&vol=0#512
+E_CM_,Revised National Tuberculosis Programme (RNTCP) or National Tuberculosis Elimination Programme (NTEP),"- Objectives- Diagnosis- Categorization- Treatment of Tuberculosis;- Epidemiology- Prevention of Pulmonary Tuberculosis- Objectives- Strategies- Newer Initiatives under NTEP",True,5,2021-09;2017-02;2011-02;2001-04;1995-04,,@book?n=CM-parkpsm&ed=27&vol=0#485
+E_CM_,National AIDS Control Programme (NACP),"- Vertical Transmission of HIV- Prevention of Vertical Transmission",True,2,2017-08;1993-01,,@book?n=CM-parkpsm&ed=27&vol=0#494
+S_CM_,National Vector Borne Diseases Control programme (NVBDCP),- Stratergies;- National Malaria Eradication Programme,True,2,2020-02;2003-10,,@book?n=CM-parkpsm&ed=27&vol=0#472
+S_CM_,Revised National Tuberculosis Control Programme (RNTCP),- Objectives;- Drug Supply for Management of Pediatric TB,True,3,2024-02;2012-08;2004-08,,@book?n=CM-parkpsm&ed=27&vol=0#485
+E_CM_,National Vector Borne Disease Control Programme (NVBDCP),"-Describe and discuss National Anti-Malaria Programme;- Epidemiology of Dengue Fever- Prevention as per NVBDCP",True,5,2016-08;2009-08;2002-03;2001-04;1993-11,,@book?n=CM-parkpsm&ed=27&vol=0#472
+S_CM_,Vision 2020,,True,2,2016-02;2010-08,,@book?n=CM-parkpsm&ed=27&vol=0#503
+S_CM_,National Leprosy Eradication Programme (NLEP),"- Case Finding Methods- Social Pathology;- Elimination",True,3,2014-08;2009-08;2009-02,,@book?n=CM-parkpsm&ed=27&vol=0#481
+E_CM_,National Leprosy Eradication Programme (NLEP),"- Common Disabilities - Disability Limiting and Rehabilitative measures or Disability Prevention and Rehabilitation (DPMR)",True,2,2015-02;2008-08,,@book?n=CM-parkpsm&ed=27&vol=0#481
+S_CM_,Surveillance in Malaria,,True,2,2008-08;2006-02,,@book?n=CM-parkpsm&ed=27&vol=0#476
+E_CM_,National Rural Health Mission (NRHM),,True,1,2009-02,,@book?n=CM-parkpsm&ed=27&vol=0#515
+S_CM_,Health Problem in Urban Slums,,True,4,2010-08;2010-02;2004-08;2000-10,,@book?n=CM-parkpsm&ed=27&vol=0#512
+S_CM_,Iodine Deficiency Disorders Control Programme,,True,2,2016-02;2013-08,,@book?n=CM-parkpsm&ed=27&vol=0#505
+S_CM_,Pulse Polio Immunisation Programme,,True,2,2002-03;2000-10,,@book?n=CM-parkpsm&ed=27&vol=0#507
+S_CM_,Universal Immunisation Programme,,True,1,1992-04,,@book?n=CM-parkpsm&ed=27&vol=0#505
+S_CM_,Guinea-worm Eradication Programme,,True,1,2003-10,,@book?n=CM-parkpsm&ed=27&vol=0#548
+S_CM_,Minimum Needs Programme,,True,1,2009-02,,@book?n=CM-parkpsm&ed=27&vol=0#551
+S_CM_,Janani Suraksha Yojana (JSY),,False,1,,,@book?n=CM-parkpsm&ed=27&vol=0#521
+S_CM_,Janani Shishu Suraksha Karyakram (JSSK),,False,1,,,@book?n=CM-parkpsm&ed=27&vol=0#522
+S_CM_,LAQSHYA Programme,,False,1,,,@book?n=CM-parkpsm&ed=27&vol=0#522
+S_CM_,Integrated Management of Neonatal and Childhood Illness (IMNCI),,False,1,,,@book?n=CM-parkpsm&ed=27&vol=0#525
+S_CM_,"Reproductive, Maternal, Newborn, Child and Adolescent Health Strategy (RMNCH+A)",,False,1,,,@book?n=CM-parkpsm&ed=27&vol=0#530
+S_CM_,National Mental Health Programme (NMHP),,False,1,,,@book?n=CM-parkpsm&ed=27&vol=0#544
+S_CM_,Ayushmaan Bharat Programme,,False,1,,,@book?n=CM-parkpsm&ed=27&vol=0#547
