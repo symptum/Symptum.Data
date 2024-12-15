@@ -1,0 +1,22 @@
+{
+  "$feature": "subject",
+  "SubjectCode": 0,
+  "Contents": [
+    "$questionBank\\Forensic Medicine\\Question Bank.json"
+  ],
+  "Description": "Forensic Medicine Subject Package",
+  "Version": "0.0.0.1",
+  "Authors": [
+    "Umashankar B \u003Cshankarbus04082001@hotmail.com\u003E",
+    "Surya J \u003Cwww.drsurya1000@gmail.com\u003E",
+    "Poonthalir M A \u003Cpoonthalir.ma@gmail.com\u003E"
+  ],
+  "Tags": [
+    "fm",
+    "forensic",
+    "forensic medicine"
+  ],
+  "Title": "Forensic Medicine",
+  "Id": "Symptum.Subjects.ForensicMedicine",
+  "Uri": "symptum://subjects/forensicmedicine"
+}

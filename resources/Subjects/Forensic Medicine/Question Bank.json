@@ -1,0 +1,207 @@
+{
+  "SubjectCode": 0,
+  "Papers": [
+    {
+      "Topics": [
+        {
+          "FilePath": "\\Forensic Medicine\\Question Bank\\Paper 0\\Legal Procedures.csv",
+          "Authors": [
+            "Umashankar B \u003Cshankarbus04082001@hotmail.com\u003E"
+          ],
+          "Title": "Legal Procedures",
+          "Id": "Symptum.Subjects.ForensicMedicine.QuestionBank.Paper0.LegalProcedures",
+          "Uri": "symptum://subjects/forensicmedicine/questionbank/paper0/legalprocedures"
+        },
+        {
+          "FilePath": "\\Forensic Medicine\\Question Bank\\Paper 0\\Medical Law and Ethics.csv",
+          "Authors": [
+            "Umashankar B \u003Cshankarbus04082001@hotmail.com\u003E"
+          ],
+          "Title": "Medical Law and Ethics",
+          "Id": "Symptum.Subjects.ForensicMedicine.QuestionBank.Paper0.MedicalLawandEthics",
+          "Uri": "symptum://subjects/forensicmedicine/questionbank/paper0/medicallawandethics"
+        },
+        {
+          "FilePath": "\\Forensic Medicine\\Question Bank\\Paper 0\\Identification.csv",
+          "Authors": [
+            "Poonthalir M A \u003Cpoonthalir.ma@gmail.com\u003E",
+            "Umashankar B \u003Cshankarbus04082001@hotmail.com\u003E"
+          ],
+          "Title": "Identification",
+          "Id": "Symptum.Subjects.ForensicMedicine.QuestionBank.Paper0.Identification",
+          "Uri": "symptum://subjects/forensicmedicine/questionbank/paper0/identification"
+        },
+        {
+          "FilePath": "\\Forensic Medicine\\Question Bank\\Paper 0\\Medicolegal Autopsy.csv",
+          "Authors": [
+            "Umashankar B \u003Cshankarbus04082001@hotmail.com\u003E"
+          ],
+          "Title": "Medicolegal Autopsy",
+          "Id": "Symptum.Subjects.ForensicMedicine.QuestionBank.Paper0.MedicolegalAutopsy",
+          "Uri": "symptum://subjects/forensicmedicine/questionbank/paper0/medicolegalautopsy"
+        },
+        {
+          "FilePath": "\\Forensic Medicine\\Question Bank\\Paper 0\\Death and Post-mortem Changes.csv",
+          "Authors": [
+            "Umashankar B \u003Cshankarbus04082001@hotmail.com\u003E"
+          ],
+          "Title": "Death and Post-mortem Changes",
+          "Id": "Symptum.Subjects.ForensicMedicine.QuestionBank.Paper0.DeathandPost-mortemChanges",
+          "Uri": "symptum://subjects/forensicmedicine/questionbank/paper0/deathandpost-mortemchanges"
+        },
+        {
+          "FilePath": "\\Forensic Medicine\\Question Bank\\Paper 0\\Mechanical Injuries.csv",
+          "Authors": [
+            "Surya J \u003Cwww.drsurya1000@gmail.com\u003E",
+            "Umashankar B \u003Cshankarbus04082001@hotmail.com\u003E"
+          ],
+          "Title": "Mechanical Injuries",
+          "Id": "Symptum.Subjects.ForensicMedicine.QuestionBank.Paper0.MechanicalInjuries",
+          "Uri": "symptum://subjects/forensicmedicine/questionbank/paper0/mechanicalinjuries"
+        },
+        {
+          "FilePath": "\\Forensic Medicine\\Question Bank\\Paper 0\\Gunshot and Explosion Injuries.csv",
+          "Authors": [
+            "Surya J \u003Cwww.drsurya1000@gmail.com\u003E",
+            "Umashankar B \u003Cshankarbus04082001@hotmail.com\u003E"
+          ],
+          "Title": "Gunshot and Explosion Injuries",
+          "Id": "Symptum.Subjects.ForensicMedicine.QuestionBank.Paper0.GunshotandExplosionInjuries",
+          "Uri": "symptum://subjects/forensicmedicine/questionbank/paper0/gunshotandexplosioninjuries"
+        },
+        {
+          "FilePath": "\\Forensic Medicine\\Question Bank\\Paper 0\\Regional Injuries.csv",
+          "Authors": [
+            "Umashankar B \u003Cshankarbus04082001@hotmail.com\u003E"
+          ],
+          "Title": "Regional Injuries",
+          "Id": "Symptum.Subjects.ForensicMedicine.QuestionBank.Paper0.RegionalInjuries",
+          "Uri": "symptum://subjects/forensicmedicine/questionbank/paper0/regionalinjuries"
+        },
+        {
+          "FilePath": "\\Forensic Medicine\\Question Bank\\Paper 0\\Transportational Injuries.csv",
+          "Authors": [
+            "Umashankar B \u003Cshankarbus04082001@hotmail.com\u003E"
+          ],
+          "Title": "Transportational Injuries",
+          "Id": "Symptum.Subjects.ForensicMedicine.QuestionBank.Paper0.TransportationalInjuries",
+          "Uri": "symptum://subjects/forensicmedicine/questionbank/paper0/transportationalinjuries"
+        },
+        {
+          "FilePath": "\\Forensic Medicine\\Question Bank\\Paper 0\\Thermal Injuries.csv",
+          "Authors": [
+            "Umashankar B \u003Cshankarbus04082001@hotmail.com\u003E"
+          ],
+          "Title": "Thermal Injuries",
+          "Id": "Symptum.Subjects.ForensicMedicine.QuestionBank.Paper0.ThermalInjuries",
+          "Uri": "symptum://subjects/forensicmedicine/questionbank/paper0/thermalinjuries"
+        },
+        {
+          "FilePath": "\\Forensic Medicine\\Question Bank\\Paper 0\\Electrical Injuries, Lightning and Radiation.csv",
+          "Authors": [
+            "Umashankar B \u003Cshankarbus04082001@hotmail.com\u003E"
+          ],
+          "Title": "Electrical Injuries, Lightning and Radiation",
+          "Id": "Symptum.Subjects.ForensicMedicine.QuestionBank.Paper0.ElectricalInjuriesLightningandRadiation",
+          "Uri": "symptum://subjects/forensicmedicine/questionbank/paper0/electricalinjurieslightningandradiation"
+        },
+        {
+          "FilePath": "\\Forensic Medicine\\Question Bank\\Paper 0\\Medicolegal Aspects of Injuries.csv",
+          "Authors": [
+            "Umashankar B \u003Cshankarbus04082001@hotmail.com\u003E"
+          ],
+          "Title": "Medicolegal Aspects of Injuries",
+          "Id": "Symptum.Subjects.ForensicMedicine.QuestionBank.Paper0.MedicolegalAspectsofInjuries",
+          "Uri": "symptum://subjects/forensicmedicine/questionbank/paper0/medicolegalaspectsofinjuries"
+        },
+        {
+          "FilePath": "\\Forensic Medicine\\Question Bank\\Paper 0\\Asphyxial Death.csv",
+          "Authors": [
+            "Umashankar B \u003Cshankarbus04082001@hotmail.com\u003E"
+          ],
+          "Title": "Asphyxial Death",
+          "Id": "Symptum.Subjects.ForensicMedicine.QuestionBank.Paper0.AsphyxialDeath",
+          "Uri": "symptum://subjects/forensicmedicine/questionbank/paper0/asphyxialdeath"
+        },
+        {
+          "FilePath": "\\Forensic Medicine\\Question Bank\\Paper 0\\Sterility, Virginity, Pregnancy, Delivery and Legitimacy.csv",
+          "Authors": [
+            "Umashankar B \u003Cshankarbus04082001@hotmail.com\u003E"
+          ],
+          "Title": "Sterility, Virginity, Pregnancy, Delivery and Legitimacy",
+          "Id": "Symptum.Subjects.ForensicMedicine.QuestionBank.Paper0.SterilityVirginityPregnancyDeliveryandLegitimacy",
+          "Uri": "symptum://subjects/forensicmedicine/questionbank/paper0/sterilityvirginitypregnancydeliveryandlegitimacy"
+        },
+        {
+          "FilePath": "\\Forensic Medicine\\Question Bank\\Paper 0\\Sexual Offences.csv",
+          "Authors": [
+            "Umashankar B \u003Cshankarbus04082001@hotmail.com\u003E"
+          ],
+          "Title": "Sexual Offences",
+          "Id": "Symptum.Subjects.ForensicMedicine.QuestionBank.Paper0.SexualOffences",
+          "Uri": "symptum://subjects/forensicmedicine/questionbank/paper0/sexualoffences"
+        },
+        {
+          "FilePath": "\\Forensic Medicine\\Question Bank\\Paper 0\\Abortion and Infant Deaths.csv",
+          "Authors": [
+            "Umashankar B \u003Cshankarbus04082001@hotmail.com\u003E"
+          ],
+          "Title": "Abortion and Infant Deaths",
+          "Id": "Symptum.Subjects.ForensicMedicine.QuestionBank.Paper0.AbortionandInfantDeaths",
+          "Uri": "symptum://subjects/forensicmedicine/questionbank/paper0/abortionandinfantdeaths"
+        },
+        {
+          "FilePath": "\\Forensic Medicine\\Question Bank\\Paper 0\\Stains, Artefacts and FS Lab.csv",
+          "Authors": [
+            "Umashankar B \u003Cshankarbus04082001@hotmail.com\u003E"
+          ],
+          "Title": "Stains, Artefacts and FS Lab",
+          "Id": "Symptum.Subjects.ForensicMedicine.QuestionBank.Paper0.StainsArtefactsandFSLab",
+          "Uri": "symptum://subjects/forensicmedicine/questionbank/paper0/stainsartefactsandfslab"
+        },
+        {
+          "FilePath": "\\Forensic Medicine\\Question Bank\\Paper 0\\Forensic Psychiatry.csv",
+          "Authors": [
+            "Umashankar B \u003Cshankarbus04082001@hotmail.com\u003E"
+          ],
+          "Title": "Forensic Psychiatry",
+          "Id": "Symptum.Subjects.ForensicMedicine.QuestionBank.Paper0.ForensicPsychiatry",
+          "Uri": "symptum://subjects/forensicmedicine/questionbank/paper0/forensicpsychiatry"
+        },
+        {
+          "FilePath": "\\Forensic Medicine\\Question Bank\\Paper 0\\Toxicology.csv",
+          "Authors": [
+            "Umashankar B \u003Cshankarbus04082001@hotmail.com\u003E"
+          ],
+          "Title": "Toxicology",
+          "Id": "Symptum.Subjects.ForensicMedicine.QuestionBank.Paper0.Toxicology",
+          "Uri": "symptum://subjects/forensicmedicine/questionbank/paper0/toxicology"
+        },
+        {
+          "FilePath": "\\Forensic Medicine\\Question Bank\\Paper 0\\Recent Advances.csv",
+          "Authors": [
+            "Umashankar B \u003Cshankarbus04082001@hotmail.com\u003E"
+          ],
+          "Title": "Recent Advances",
+          "Id": "Symptum.Subjects.ForensicMedicine.QuestionBank.Paper0.RecentAdvances",
+          "Uri": "symptum://subjects/forensicmedicine/questionbank/paper0/recentadvances"
+        },
+        {
+          "FilePath": "\\Forensic Medicine\\Question Bank\\Paper 0\\Miscellaneous.csv",
+          "Authors": [
+            "Umashankar B \u003Cshankarbus04082001@hotmail.com\u003E"
+          ],
+          "Title": "Miscellaneous",
+          "Id": "Symptum.Subjects.ForensicMedicine.QuestionBank.Paper0.Miscellaneous",
+          "Uri": "symptum://subjects/forensicmedicine/questionbank/paper0/miscellaneous"
+        }
+      ],
+      "Title": "Paper 0",
+      "Id": "Symptum.Subjects.ForensicMedicine.QuestionBank.Paper0",
+      "Uri": "symptum://subjects/forensicmedicine/questionbank/paper0"
+    }
+  ],
+  "Title": "Question Bank",
+  "Id": "Symptum.Subjects.ForensicMedicine.QuestionBank",
+  "Uri": "symptum://subjects/forensicmedicine/questionbank"
+}
