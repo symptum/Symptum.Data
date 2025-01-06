@@ -1,6 +1,6 @@
 {
   "$feature": "subject",
-  "SubjectCode": 0,
+  "SubjectCode": "ForensicMedicine",
   "Contents": [
     "$questionBank\\Forensic Medicine\\Question Bank.json"
   ],
