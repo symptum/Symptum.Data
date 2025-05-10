@@ -1,0 +1,4 @@
+Id,Title,Descriptions,HasPreviouslyBeenAsked,Importance,YearsAsked,ProbableCases,References
+S_SU_,Damage Control Surgery,,True,1,2025-03,,@book?n=SU-srbmos&ed=7&vol=0#34
+E_SU_,Burns,"- Calculate the Burns Body Surface Area- Management",True,1,2024-05,"A 40 year old female was brought to Emergency Department with burns injury of **head, neck, chest, abdomen and both upper limbs**.",@book?n=SU-srbmos&ed=7&vol=0#122
+S_SU_,Diagnostic Peritoneal Lavage (DPL),,True,1,2024-03,,@book?n=SU-srbmos&ed=7&vol=0#40

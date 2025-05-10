@@ -1,0 +1,8 @@
+Id,Title,Descriptions,HasPreviouslyBeenAsked,Importance,YearsAsked,ProbableCases,References
+S_SU_,Amoebic Liver Abscess,,True,2,2025-03;2024-03,,@book?n=SU-srbmos&ed=7&vol=0#647
+S_SU_,Hydatid Cyst,,True,1,2025-03,,@book?n=SU-srbmos&ed=7&vol=0#652
+E_SU_,Acute Pancreatitis,"- Differential Diagnosis- Pathophysiology- Investigations- Scoring System;- Differential Diagnosis- Etiology- Clinical Features- Management",True,2,2024-05;2024-03,A 30 year old male alcoholic had a **binge of alcohol** for the past one week presented with severe **abdominal pain and distention**.;A 45 year old man who is a known alcoholic for the past 15 years presented to Emergency Department with **upper abdominal pain and vomiting**.,@book?n=SU-srbmos&ed=7&vol=0#738
+S_SU_,Pyogenic Liver Abscess,,True,1,2024-05,,@book?n=SU-srbmos&ed=7&vol=0#651
+S_SU_,Splenic Injury,,True,1,2024-05,,@book?n=SU-srbmos&ed=7&vol=0#722
+E_SU_,Choledocholithiasis,"- Differential Diagnosis- Investigations- Treatment",True,1,2024-03,A 50 year old female admitted with complaints of **abdominal pain and jaundice** for two months with **intrahepatic biliary radical dilatation** on USG.,@book?n=SU-srbmos&ed=7&vol=0#702
+S_SU_,Hypersplenism,,True,1,2024-03,,@book?n=SU-srbmos&ed=7&vol=0#733
