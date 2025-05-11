@@ -1,2 +1,6 @@
 Id,Title,Descriptions,HasPreviouslyBeenAsked,Importance,YearsAsked,ProbableCases,References
-S_SU_,Sebaceous Cyst,,True,1,2025-03,,@book?n=SU-srbmos&ed=7&vol=0#163
+S_SU_,Sebaceous Cyst,- Cock's Peculiar Tumour (Asked as a Short Answer),True,2,2025-03;2018-02,,@book?n=SU-srbmos&ed=7&vol=0#163
+S_SU_,Dermoid Cyst,- Asked as a Short Answer,True,3,2024-08;2022-04;2020-08,,@book?n=SU-srbmos&ed=7&vol=0#160
+S_SU_,Marjolin's Ulcer,,True,2,2023-08;2018-02,,"@book?n=SU-srbmos&ed=7&vol=0#143,323"
+S_SU_,Trophic Ulcer (or) Pressure Sore (or) Decubitus Ulcer,- Asked as a Short Answer,True,2,2020-08;2018-02,,@book?n=SU-srbmos&ed=7&vol=0#141
+S_SU_,Neurofibroma,- Plexiform Neurofibroma (Asked as a Short Answer),True,1,2019-08,,@book?n=SU-srbmos&ed=7&vol=0#166

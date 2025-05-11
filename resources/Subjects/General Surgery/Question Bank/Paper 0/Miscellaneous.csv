@@ -1,3 +1,9 @@
 Id,Title,Descriptions,HasPreviouslyBeenAsked,Importance,YearsAsked,ProbableCases,References
 S_SU_,Can a Doctor accept gifts from Pharmaceutical Industry? Explain your choice,- AETCOM,True,1,2025-03,,
 S_SU_,Conflicts in a Professional Relationship,- AETCOM,True,1,2024-05,,
+S_SU_,Fluorosis of Bone and Teeth,- TODO: Ortho or Dental?,True,1,2024-05,,
+S_SU_,Saint's Triad,- Asked as a Short Answer,True,2,2023-08;2017-08,,"@book?n=SU-srbmos&ed=7&vol=0#692,851,947"
+S_SU_,Confidentiality,- AETCOM (Asked as a Short Answer),True,1,2021-04,,
+S_SU_,Virchow's Triad,- Asked as a Short Answer,True,1,2021-04,,
+S_SU_,Transudate vs Exudate,- Asked as a Short Answer,True,1,2020-02,,
+S_SU_,Patient Controlled Analgesia (PCA),,True,1,2017-08,,@book?n=SU-srbmos&ed=7&vol=0#381

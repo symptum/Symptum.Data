@@ -1,0 +1,12 @@
+Id,Title,Descriptions,HasPreviouslyBeenAsked,Importance,YearsAsked,ProbableCases,References
+S_SU_,Doppler Ultrasound,- Asked as a Short Answer,True,2,2021-08;2020-08,,@book?n=SU-srbmos&ed=7&vol=0#1213
+S_SU_,Diagnostic Laparoscopy,,True,1,2021-04,,@book?n=SU-srbmos&ed=7&vol=0#1235
+S_SU_,Day Case (or) Care Surgery (DCS),,True,1,2020-08,,@book?n=SU-srbmos&ed=7&vol=0#1238
+S_SU_,Brachytherapy,,True,2,2020-02;2017-08,,@book?n=SU-srbmos&ed=7&vol=0#1201
+S_SU_,Neo-adjuvant Chemotherapy,,True,2,2019-08;2017-02,,@book?n=SU-srbmos&ed=7&vol=0#1202
+S_SU_,Magnetic Resonance Imaging (MRI),,True,1,2019-02,,@book?n=SU-srbmos&ed=7&vol=0#1215
+S_SU_,Ryle's Tube,- Asked as a Short Answer,True,1,2019-02,,@book?n=SU-srbmos&ed=7&vol=0#1225
+S_SU_,Ultrasound (USG),,True,1,2018-08,,@book?n=SU-srbmos&ed=7&vol=0#1211
+S_SU_,Lasers in Surgery,,True,1,2017-08,,@book?n=SU-srbmos&ed=7&vol=0#1232
+S_SU_,Therapeutic Endoscopy,- Asked as a Short Answer,True,1,2017-08,,
+S_SU_,Minimal Access Surgery,,True,1,2017-02,,

@@ -1,4 +1,12 @@
 Id,Title,Descriptions,HasPreviouslyBeenAsked,Importance,YearsAsked,ProbableCases,References
-S_SU_,Differential Diagnosis of Acute Appendicitis,"- In Children- In Adults",True,1,2025-03,,@book?n=SU-srbmos&ed=7&vol=0#1000
-S_SU_,Appendicular Mass (or) Periappendicular Phlegmon,,True,2,2024-05;2024-03,,@book?n=SU-srbmos&ed=7&vol=0#1005
+S_SU_,Differential Diagnosis of Acute Appendicitis,"- In Children- In Adults",True,2,2025-03;2020-11,,@book?n=SU-srbmos&ed=7&vol=0#1000
+S_SU_,Appendicular Mass (or) Periappendicular Phlegmon,- Ochsner-Sherren Regimen (Asked as a Short Answer),True,3,2024-05;2024-03;2020-02,,@book?n=SU-srbmos&ed=7&vol=0#1005
 S_SU_,Anal Fissure (or) Fissure-in-ano,,True,2,2024-05;2024-03,,@book?n=SU-srbmos&ed=7&vol=0#1036
+E_SU_,Acute Appendicitis,"- Etiology- Pathophysiology- Clinical Features- Investigations- Treatment",True,1,2023-08,,@book?n=SU-srbmos&ed=7&vol=0#997
+E_SU_,Carcinoma Rectum,"- Etiology- Types- Clinical Features- Investigations- Treatment",True,1,2022-08,,@book?n=SU-srbmos&ed=7&vol=0#1015
+S_SU_,Fistula-in-ano,- Good Sall's Rule (Asked as a Short Answer),True,3,2022-08;2019-02;2017-02,,"@book?n=SU-srbmos&ed=7&vol=0#1040,1042"
+S_SU_,Maydl's Hernia,- Asked as a Short Answer,True,1,2022-04,,@book?n=SU-srbmos&ed=7&vol=0#824
+S_SU_,Staging of Carcinoma Rectum,- Asked as a Short Answer,True,1,2021-04,,@book?n=SU-srbmos&ed=7&vol=0#962
+S_SU_,Haemorrhoids (or) Piles,,True,1,2020-11,,@book?n=SU-srbmos&ed=7&vol=0#1030
+E_SU_,Appendicular Mass (or) Periappendicular Phlegmon,"- Differential Diagnosis of Right Iliac Fossa Mass- Clinical Features- Management",True,1,2019-08,,"@book?n=SU-srbmos&ed=7&vol=0#1005,787"
+S_SU_,Pilonidal Sinus (or) Jeep (or) Driver's Bottom,,True,1,2018-02,,@book?n=SU-srbmos&ed=7&vol=0#1027

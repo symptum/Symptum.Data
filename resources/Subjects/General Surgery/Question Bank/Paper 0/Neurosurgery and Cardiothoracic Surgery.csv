@@ -1,3 +1,11 @@
 Id,Title,Descriptions,HasPreviouslyBeenAsked,Importance,YearsAsked,ProbableCases,References
-S_SU_,Extradural Hematoma,,True,1,2024-05,,@book?n=SU-srbmos&ed=7&vol=0#1155
-S_SU_,Subdural Hematoma,,True,1,2024-03,,@book?n=SU-srbmos&ed=7&vol=0#1156
+S_SU_,Extradural Hematoma,,True,2,2024-05;2019-02,,@book?n=SU-srbmos&ed=7&vol=0#1155
+S_SU_,Subdural Hematoma,,True,2,2024-03;2019-08,,@book?n=SU-srbmos&ed=7&vol=0#1156
+S_SU_,Flail Chest,,True,3,2024-08;2023-08;2018-02,,@book?n=SU-srbmos&ed=7&vol=0#1174
+S_SU_,Battle's Sign,- Asked as a Short Answer,True,1,2024-08,,"@book?n=SU-srbmos&ed=7&vol=0#1152,1242"
+S_SU_,Pneumothorax,- Tension Pneumothorax,True,2,2022-08;2020-02,,@book?n=SU-srbmos&ed=7&vol=0#1174
+S_SU_,Diaphragmatic Hernia,,True,2,2022-08;2018-08,,@book?n=SU-srbmos&ed=7&vol=0#1187
+S_SU_,Intercostal Tub Drainage (ICD),- Indications (Asked as a Short Answer),True,1,2021-08,,@book?n=SU-srbmos&ed=7&vol=0#1179
+S_SU_,Glasgow Coma Scale (GCS),,True,2,2021-04;2018-08,,@book?n=SU-srbmos&ed=7&vol=0#1153
+S_SU_,Hydrocephalus,- Ventriculoperitoneal Shunt,True,2,2020-11;2017-02,,@book?n=SU-srbmos&ed=7&vol=0#1159
+S_SU_,Patent Ductus Arteriosus (PDA),- Asked as a Short Answer,True,1,2017-02,,@book?n=SU-srbmos&ed=7&vol=0#1193

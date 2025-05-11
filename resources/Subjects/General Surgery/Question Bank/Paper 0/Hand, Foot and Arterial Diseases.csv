@@ -1,3 +1,19 @@
 Id,Title,Descriptions,HasPreviouslyBeenAsked,Importance,YearsAsked,ProbableCases,References
-S_SU_,Dry Gangrene,,True,1,2025-03,,@book?n=SU-srbmos&ed=7&vol=0#231
-E_SU_,Peripheral Vascular Occlusive Disease,"- Diagnosis- Risk Factors- Differentiation of Thromboangiitis Obliterans (TAO) and Atherosclerosis- Management of PVD due to Atherosclerosis",True,1,2024-05,A 42 year old male presented with complaints of **pain in the right leg while walking for a short distance** and **blackish discolouration of right 2nd toe**.,"@book?n=SU-srbmos&ed=7&vol=0#193, 200, 203-214"
+S_SU_,Gangrene,- Dry Gangrene;- Definition and Types (Asked as a Short Answer),True,2,2025-03;2023-03,,"@book?n=SU-srbmos&ed=7&vol=0#195,231"
+E_SU_,Peripheral Vascular Occlusive Disease,"- Diagnosis
+- Risk Factors
+- Differentiation of Thromboangiitis Obliterans (TAO) and Atherosclerosis
+- Management of PVD due to Atherosclerosis;- Etiology
+- Clinical Features
+- Investigations
+- Treatment of Chronic Lower Limb Ischemia",True,2,2024-05;2017-08,A 42 year old male presented with complaints of **pain in the right leg while walking for a short distance** and **blackish discolouration of right 2nd toe**.,"@book?n=SU-srbmos&ed=7&vol=0#193,200,203-214"
+S_SU_,Claudication,"- Difference Between Arterial, Venous and Neural Claudication",True,2,2023-08;2019-08,,@book?n=SU-srbmos&ed=7&vol=0#193
+S_SU_,Diabetic Foot and Gangrene,- Grading,True,3,2023-03;2020-08;2018-02,,@book?n=SU-srbmos&ed=7&vol=0#232
+S_SU_,Vascular Grafts,- Asked as a Short Answer,True,1,2021-08,,@book?n=SU-srbmos&ed=7&vol=0#211
+S_SU_,Acute Paronychia,- Asked as a Short Answer,True,1,2019-08,,@book?n=SU-srbmos&ed=7&vol=0#179
+S_SU_,Cirsoid Aneurysm,- Asked as a Short Answer,True,1,2019-08,,@book?n=SU-srbmos&ed=7&vol=0#241
+E_SU_,Thromboangiitis Obliterans (TAO) (or) Buerger's Disease,"- Etiology
+- Clinical Features
+- Investigations
+- Treatment",True,1,2019-02,,@book?n=SU-srbmos&ed=7&vol=0#203
+S_SU_,Ingrowing Toe Nail (or) Onychocryptosis,- Asked as a Short Answer,True,1,2019-02,,@book?n=SU-srbmos&ed=7&vol=0#189

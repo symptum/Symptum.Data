@@ -1,0 +1,11 @@
+Id,Title,Descriptions,HasPreviouslyBeenAsked,Importance,YearsAsked,ProbableCases,References
+S_SU_,Damage Control Surgery,,True,2,2025-03;2020-08,,@book?n=SU-srbmos&ed=7&vol=0#34
+E_SU_,Burns,"- Calculate the Burns Body Surface Area- Management",True,1,2024-05,"A 40 year old female was brought to Emergency Department with burns injury of **head, neck, chest, abdomen and both upper limbs**.",@book?n=SU-srbmos&ed=7&vol=0#122
+S_SU_,Diagnostic Peritoneal Lavage (DPL),,True,1,2024-03,,@book?n=SU-srbmos&ed=7&vol=0#40
+S_SU_,Complications of Blood Transfusion,,True,2,2024-08;2020-08,,@book?n=SU-srbmos&ed=7&vol=0#98
+S_SU_,Escharotomy,- Asked as a Short Answer,True,1,2024-08,,@book?n=SU-srbmos&ed=7&vol=0#129
+S_SU_,Systemic Inflammatory Response Syndrome (SIRS),,True,2,2023-08;2019-02,,@book?n=SU-srbmos&ed=7&vol=0#90
+E_SU_,Hypovolaemic Shock,"- Definition and Classification of Shock- Management;- Etiology- Pathogenesis- Clinical Features- Management",True,2,2023-03;2022-08,,"@book?n=SU-srbmos&ed=7&vol=0#83,87"
+S_SU_,Causes of Acute Kidney Injury in Surgical Wards,- Asked as a Short Answer,True,1,2023-03,,@book?n=SU-srbmos&ed=7&vol=0#90
+S_SU_,Focused Assessment with Sonography in Trauma (FAST),- Asked as a Short Answer,True,1,2020-11,,@book?n=SU-srbmos&ed=7&vol=0#40
+S_SU_,Electrical Burns,,True,1,2017-02,,@book?n=SU-srbmos&ed=7&vol=0#131

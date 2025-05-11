@@ -1,3 +1,13 @@
 Id,Title,Descriptions,HasPreviouslyBeenAsked,Importance,YearsAsked,ProbableCases,References
-S_SU_,Carbuncle,,True,1,2024-05,,@book?n=SU-srbmos&ed=7&vol=0#58
+S_SU_,Carbuncle,,True,2,2024-05;2017-02,,@book?n=SU-srbmos&ed=7&vol=0#58
 S_SU_,Surgical Site Infection (SSI),- AETCOM: Showing Empathy towards a patient who developed SSI following a Breast Conservation Surgery,True,1,2024-03,,@book?n=SU-srbmos&ed=7&vol=0#76
+S_SU_,Hidradenitis Suppurativa,- Asked as a Short Answer,True,1,2022-08,,"@book?n=SU-srbmos&ed=7&vol=0#57,1048"
+S_SU_,Mycetoma (or) Madura Foot,,True,2,2022-04;2020-02,,@book?n=SU-srbmos&ed=7&vol=0#68
+S_SU_,Keloid,- Asked as a Short Answer,True,2,2022-04;2017-02,,@book?n=SU-srbmos&ed=7&vol=0#26
+S_SU_,Gas Gangrene (or) Oedematous Myonecrosis,,True,2,2021-04;2017-02,,@book?n=SU-srbmos&ed=7&vol=0#64
+S_SU_,Factors Influencing Wound Healing,,True,1,2021-04,,@book?n=SU-srbmos&ed=7&vol=0#21
+S_SU_,Pyogenic Granuloma,- Asked as a Short Answer,True,1,2021-04,,@book?n=SU-srbmos&ed=7&vol=0#59
+S_SU_,Tetanus,,True,1,2020-02,,@book?n=SU-srbmos&ed=7&vol=0#60
+S_SU_,Necrotising Fasciitis,,True,1,2019-02,,@book?n=SU-srbmos&ed=7&vol=0#73
+S_SU_,Nosocomial (or) Hospital Acquired Infections,- Asked as a Short Answer,True,1,2018-08,,@book?n=SU-srbmos&ed=7&vol=0#73
+E_SU_,Wound Healing,"- Classification of Wounds- Wound Healing- Factors Affecting Wound Healing",True,1,2017-02,,@book?n=SU-srbmos&ed=7&vol=0#15

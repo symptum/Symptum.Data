@@ -1,0 +1,35 @@
+Id,Title,Descriptions,HasPreviouslyBeenAsked,Importance,YearsAsked,ProbableCases,References
+S_SU_,Primary Hyperparathyroidism,- Technetium-99m Labelled Sestamibi Isotope Scan (Asked as a Short Answer),True,2,2025-03;2023-03,,"@book?n=SU-srbmos&ed=7&vol=0#542,544"
+S_SU_,Branchial Cyst,,True,2,2025-03;2017-02,,@book?n=SU-srbmos&ed=7&vol=0#445
+S_SU_,Management of Toxic Nodular Goitre,,True,1,2024-05,,@book?n=SU-srbmos&ed=7&vol=0#508
+S_SU_,Carotid Body Tumour (or) Potato Tumor (or) Chemodectoma (or) Nonchromaffin Paraganglioma,,True,2,2024-03;2018-08,,@book?n=SU-srbmos&ed=7&vol=0#453
+S_SU_,Tuberculous Cervical Lymphadenitis,,True,1,2023-03,,@book?n=SU-srbmos&ed=7&vol=0#457
+S_SU_,Retrosternal Goitre,,True,2,2023-08;2017-08,,@book?n=SU-srbmos&ed=7&vol=0#506
+S_SU_,Complications of Thyroidectomy,,True,1,2023-03,,@book?n=SU-srbmos&ed=7&vol=0#533
+S_SU_,Phaeochromocytoma,,True,1,2023-03,,@book?n=SU-srbmos&ed=7&vol=0#553
+E_SU_,Thyrotoxicosis (or) Hyperthyroidism,"- Definition of Goitre
+- Clinical Features
+- Management of Primary Thyrotoxicosis;- Etiology
+- Clinical Features
+- Investigations
+- Treatment of Grave's Disease",True,3,2022-04;2020-08;2018-08,,@book?n=SU-srbmos&ed=7&vol=0#508
+S_SU_,Radioisotope Thyroid Scan,- Asked as a Short Answer,True,1,2022-04,,@book?n=SU-srbmos&ed=7&vol=0#513
+S_SU_,Role of Ultrasound in Thyroid,,True,1,2021-08,,@book?n=SU-srbmos&ed=7&vol=0#504
+S_SU_,Thyroid Function Test,- Asked as a Short Answer,True,1,2021-08,,@book?n=SU-srbmos&ed=7&vol=0#498
+S_SU_,Multiple Endocrine Neoplasia (MEN),- Asked as a Short Answer,True,1,2021-04,,@book?n=SU-srbmos&ed=7&vol=0#547
+E_SU_,Papillary Carcinoma of Thyroid,"- Classification of Thyroid Neoplasms
+- Clinical Features
+- Diagnosis
+- Management",True,1,2020-11,,"@book?n=SU-srbmos&ed=7&vol=0#517,518"
+E_SU_,Medullary Carcinoma of Thyroid,"- Classification of Goitre
+- Clinical Features
+- Management",True,1,2020-08,,"@book?n=SU-srbmos&ed=7&vol=0#499,526"
+S_SU_,Thyroiditis,,True,2,2020-08;2019-02,,@book?n=SU-srbmos&ed=7&vol=0#528
+S_SU_,Tetany,- Asked as a Short Answer,True,1,2020-02,,@book?n=SU-srbmos&ed=7&vol=0#548
+S_SU_,Cystic Hygroma (or) Cavernous Lymphangioma,- Asked as a Short Answer,True,2,2020-02;2017-02,,@book?n=SU-srbmos&ed=7&vol=0#449
+S_SU_,Collar Stud Abscess,- Asked as a Short Answer,True,1,2019-02,,"@book?n=SU-srbmos&ed=7&vol=0#181,460"
+S_SU_,Solitary Nodular Goitre (SNG),,True,1,2019-02,,@book?n=SU-srbmos&ed=7&vol=0#503
+S_SU_,Ludwig's Angina,,True,1,2018-08,,@book?n=SU-srbmos&ed=7&vol=0#451
+S_SU_,Pretibial Myxoedema,- Asked as a Short Answer,True,1,2018-08,,@book?n=SU-srbmos&ed=7&vol=0#512
+S_SU_,Thyroglossal Cyst,,True,1,2018-02,,@book?n=SU-srbmos&ed=7&vol=0#496
+S_SU_,Radioactive Iodine,- Asked as a Short Answer,True,1,2017-02,,@book?n=SU-srbmos&ed=7&vol=0#516

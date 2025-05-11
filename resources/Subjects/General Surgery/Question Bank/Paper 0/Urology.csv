@@ -2,3 +2,22 @@ Id,Title,Descriptions,HasPreviouslyBeenAsked,Importance,YearsAsked,ProbableCases
 S_SU_,Epididymo-Orchitis,,True,1,2025-03,,@book?n=SU-srbmos&ed=7&vol=0#1148
 S_SU_,Classification of Testicular Tumours,,True,1,2024-05,,@book?n=SU-srbmos&ed=7&vol=0#1143
 S_SU_,Wilms' Tumour (or) Nephroblastoma,,True,1,2024-03,,@book?n=SU-srbmos&ed=7&vol=0#1083
+S_SU_,Rupture of Membranous Urethra,,True,1,2024-08,,@book?n=SU-srbmos&ed=7&vol=0#1111
+S_SU_,Staghorn Calculus,,True,2,2024-08;2019-08,,@book?n=SU-srbmos&ed=7&vol=0#1082
+E_SU_,Testicular Tumours,"- Classification- Clinical Features- Investigations- Staging- Treatment;- Classification- Management of Seminoma Testis",True,2,2023-08;2019-02,,@book?n=SU-srbmos&ed=7&vol=0#1143
+S_SU_,Pyelonephritis,,True,1,2023-08,,
+S_SU_,Peyronie's Disease,- Asked as a Short Answer,True,1,2023-08,,@book?n=SU-srbmos&ed=7&vol=0#1122
+E_SU_,Carcinoma Penis,"- Premalignant Conditions- Clinical Features- Investigations- Treatment;- Premalignant Conditions- Etiology- Pathogenesis- Staging- Management",True,3,2023-03;2021-04;2018-08,,@book?n=SU-srbmos&ed=7&vol=0#1123
+S_SU_,Polycystic Kidney Disease (PKD),- Autosomal Dominant PKD,True,1,2022-08,,@book?n=SU-srbmos&ed=7&vol=0#1065
+S_SU_,Torsion of Testes,,True,3,2022-08;2019-08;2017-02,,@book?n=SU-srbmos&ed=7&vol=0#1142
+S_SU_,Hypospadiasis,,True,1,2022-04,,@book?n=SU-srbmos&ed=7&vol=0#1115
+S_SU_,Hydrocele,- Causes of Secondary Hydrocele (Asked as a Short Answer);- Encysted Hydrocele of the Cord (Asked as a Short Answer),True,2,2021-08;2018-02,,@book?n=SU-srbmos&ed=7&vol=0#1131
+S_SU_,Cryptorchidism (or) Undescended Testes,,True,3,2021-04;2018-08;2017-08,,@book?n=SU-srbmos&ed=7&vol=0#1139
+S_SU_,Prostate Specific Antigen (PSA),- Asked as a Short Answer,True,2,2020-11;2018-02,,@book?n=SU-srbmos&ed=7&vol=0#1103
+E_SU_,Renal Cell Carcinoma (RCC),"- Etiology- Pathogenesis- Clinical Features- Management",True,2,2020-11;2019-08,,@book?n=SU-srbmos&ed=7&vol=0#1084
+S_SU_,Paraphimosis,- Asked as a Short Answer,True,1,2020-08,,@book?n=SU-srbmos&ed=7&vol=0#1120
+S_SU_,Erythroplasia of Queyrat,- Asked as a Short Answer,True,1,2020-02,,"@book?n=SU-srbmos&ed=7&vol=0#320,1123"
+S_SU_,Fournier's Gangrene,,True,1,2020-02,,@book?n=SU-srbmos&ed=7&vol=0#1128
+S_SU_,Phimosis,- Asked as a Short Answer,True,1,2019-02,,@book?n=SU-srbmos&ed=7&vol=0#1119
+E_SU_,Renal and Vesical Calculi,"- Etiopathogenesis of Renal Calculus- Management of Vesical Calculus",True,1,2018-02,,"@book?n=SU-srbmos&ed=7&vol=0#1076,1090"
+S_SU_,Intravenous Pyelogram (or) Urogram (IVP/IVU),- Asked as a Short Answer,True,1,2018-02,,@book?n=SU-srbmos&ed=7&vol=0#1057

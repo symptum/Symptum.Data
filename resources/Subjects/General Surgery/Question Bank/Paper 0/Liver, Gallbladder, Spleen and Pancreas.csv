@@ -1,8 +1,28 @@
 Id,Title,Descriptions,HasPreviouslyBeenAsked,Importance,YearsAsked,ProbableCases,References
-S_SU_,Amoebic Liver Abscess,,True,2,2025-03;2024-03,,@book?n=SU-srbmos&ed=7&vol=0#647
-S_SU_,Hydatid Cyst,,True,1,2025-03,,@book?n=SU-srbmos&ed=7&vol=0#652
+S_SU_,Amoebic Liver Abscess,,True,3,2025-03;2024-03;2019-08,,@book?n=SU-srbmos&ed=7&vol=0#647
+S_SU_,Hydatid Cyst,,True,4,2025-03;2023-08;2021-08;2020-08,,@book?n=SU-srbmos&ed=7&vol=0#652
 E_SU_,Acute Pancreatitis,"- Differential Diagnosis- Pathophysiology- Investigations- Scoring System;- Differential Diagnosis- Etiology- Clinical Features- Management",True,2,2024-05;2024-03,A 30 year old male alcoholic had a **binge of alcohol** for the past one week presented with severe **abdominal pain and distention**.;A 45 year old man who is a known alcoholic for the past 15 years presented to Emergency Department with **upper abdominal pain and vomiting**.,@book?n=SU-srbmos&ed=7&vol=0#738
 S_SU_,Pyogenic Liver Abscess,,True,1,2024-05,,@book?n=SU-srbmos&ed=7&vol=0#651
-S_SU_,Splenic Injury,,True,1,2024-05,,@book?n=SU-srbmos&ed=7&vol=0#722
-E_SU_,Choledocholithiasis,"- Differential Diagnosis- Investigations- Treatment",True,1,2024-03,A 50 year old female admitted with complaints of **abdominal pain and jaundice** for two months with **intrahepatic biliary radical dilatation** on USG.,@book?n=SU-srbmos&ed=7&vol=0#702
+S_SU_,Splenic Injury,,True,2,2024-05;2022-08,,@book?n=SU-srbmos&ed=7&vol=0#722
+E_SU_,Choledocholithiasis (or) Common Bile Duct Stones,"- Differential Diagnosis- Investigations- Treatment;- Etiology of Obstructive Jaundice- Clinical Features- Diagnosis- Management",True,2,2024-03;2024-08,A 50 year old female admitted with complaints of **abdominal pain and jaundice** for two months with **intrahepatic biliary radical dilatation** on USG.,"@book?n=SU-srbmos&ed=7&vol=0#702,706"
 S_SU_,Hypersplenism,,True,1,2024-03,,@book?n=SU-srbmos&ed=7&vol=0#733
+S_SU_,Endoscopic Retrograde Cholangiopancreatography (ERCP),- Therapeutic Uses (Asked as a Short Answer),True,2,2024-08;2023-03,,@book?n=SU-srbmos&ed=7&vol=0#684
+S_SU_,Caroli's Disease,- Asked as a Short Answer,True,1,2024-08,,@book?n=SU-srbmos&ed=7&vol=0#689
+S_SU_,Gall Stones,- Complications;- Porcelain Gallbladder (Asked as a Short Answer);- Seagull Sign (Asked as a Short Answer),True,3,2023-08;2020-11;2019-08,,@book?n=SU-srbmos&ed=7&vol=0#690
+S_SU_,Choledocholithiasis (or) Common Bile Duct Stones,- Charcot's Triad (Asked as a Short Answer),True,1,2022-08,,@book?n=SU-srbmos&ed=7&vol=0#702
+S_SU_,Choledochal Cyst,,True,1,2022-04,,@book?n=SU-srbmos&ed=7&vol=0#687
+S_SU_,Ranson's Criteria,- Asked as a Short Answer,True,1,2022-04,,@book?n=SU-srbmos&ed=7&vol=0#742
+S_SU_,Complications of Liver Injury,,True,1,2021-08,,@book?n=SU-srbmos&ed=7&vol=0#647
+S_SU_,Secondaries in the Liver,,True,1,2020-11,,@book?n=SU-srbmos&ed=7&vol=0#662
+S_SU_,Complications of Pancreatitis,,True,1,2020-11,,@book?n=SU-srbmos&ed=7&vol=0#745
+S_SU_,T-Tube Drainage,- Asked as a Short Answer,True,1,2020-08,,
+E_SU_,Acute Cholecystitis,"- Etiology of Gall Stones- Clinical Features- Management",True,1,2020-02,,@book?n=SU-srbmos&ed=7&vol=0#694
+S_SU_,Liver Biopsy,,True,1,2020-02,,@book?n=SU-srbmos&ed=7&vol=0#644
+E_SU_,Obstructive (or) Surgical Jaundice,"- Diagnosis- Etiology- Pathogenesis- Investigations- Treatment",True,1,2019-08,A **60 year old** man presenting with **palpable lump in right hypochondrium with yellowish discolouration of eyes**.,"@book?n=SU-srbmos&ed=7&vol=0#706,710,712"
+S_SU_,Pseudocyst of Pancreas,,True,1,2019-08,,@book?n=SU-srbmos&ed=7&vol=0#746
+S_SU_,Laparoscopic Cholecystectomy,,True,1,2019-08,,@book?n=SU-srbmos&ed=7&vol=0#716
+E_SU_,Hydatid Cyst,"- Etiology- Pathogenesis- Clinical Features- Management",True,1,2019-02,,@book?n=SU-srbmos&ed=7&vol=0#652
+S_SU_,Murphy's Sign,- Asked as a Short Answer,True,1,2018-08,,@book?n=SU-srbmos&ed=7&vol=0#699
+S_SU_,Clinical Features of Acute Pancreatitis,- Grey-Turner's Sign (Asked as a Short Answer),True,1,2018-08,,@book?n=SU-srbmos&ed=7&vol=0#740
+S_SU_,Transjugular Intrahepatic Portosystemic Stent/Shunt (TIPSS),- Asked as a Short Answer,True,1,2018-02,,@book?n=SU-srbmos&ed=7&vol=0#673
+S_SU_,Anatomy of Gallbladder,- Calot's Triangle (Asked as a Short Answer),True,1,2017-08,,@book?n=SU-srbmos&ed=7&vol=0#682
