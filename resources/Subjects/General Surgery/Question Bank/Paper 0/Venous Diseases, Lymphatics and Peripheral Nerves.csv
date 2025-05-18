@@ -1,13 +1,18 @@
 Id,Title,Descriptions,HasPreviouslyBeenAsked,Importance,YearsAsked,ProbableCases,References
-E_SU_,Varicose Veins,"- Diagnosis- Investigations- Treatment- Minimally Invasive Procedures;- CEAP Classification- Etiology- Pathogenesis- Clinical Features- Investigations- Treatment",True,2,2025-03;2022-04,A conductor presented with **dilated tortuous swelling** on the left leg with an **ulcer in ankle**.,@book?n=SU-srbmos&ed=7&vol=0#252
-S_SU_,Deep Vein Thrombosis (DVT),- Prophylaxis,True,3,2024-05;2024-08;2020-11,,@book?n=SU-srbmos&ed=7&vol=0#248
+E_SU_,Varicose Veins,"- Diagnosis- Investigations- Treatment- Minimally Invasive Procedures;- CEAP Classification- Etiology- Pathogenesis- Clinical Features- Investigations- Treatment",True,4,2025-03;2022-04;2012-08;2010-08,A conductor presented with **dilated tortuous swelling** on the left leg with an **ulcer in ankle**.,@book?n=SU-srbmos&ed=7&vol=0#252
+S_SU_,Deep Vein Thrombosis (DVT),- Prophylaxis,True,6,2024-05;2024-08;2020-11;2013-02;2011-08;2010-08,,@book?n=SU-srbmos&ed=7&vol=0#248
 S_SU_,Endovenous Laser Ablation (EVLA),- Asked as a Short Answer,True,1,2024-08,,@book?n=SU-srbmos&ed=7&vol=0#264
-S_SU_,Venous Ulcer (or) Gravitational Ulcer,- Gaiter's Area (Asked as a Short Answer);- Management (Asked as a Short Answer);- Bisgaard Regimen (Asked as a Short Answer),True,4,2023-08;2022-08;2022-04;2017-08,,@book?n=SU-srbmos&ed=7&vol=0#265
+S_SU_,Venous Ulcer (or) Gravitational Ulcer,- Gaiter's Area (Asked as a Short Answer);- Management (Asked as a Short Answer);- Bisgaard Regimen (Asked as a Short Answer),True,6,2023-08;2022-08;2022-04;2017-08;2013-02;2011-02,,@book?n=SU-srbmos&ed=7&vol=0#265
 S_SU_,Filariasis (or) Filarial Lymphedema (or) Elephantiasis,- Podoconiosis (or) Endemic Elephantiasis,True,2,2022-08;2020-08,,"@book?n=SU-srbmos&ed=7&vol=0#276,278"
 S_SU_,Radiofrequency Ablation (RFA),,True,1,2021-08,,@book?n=SU-srbmos&ed=7&vol=0#264
 S_SU_,Modified Well's Criteria,,True,1,2021-08,,@book?n=SU-srbmos&ed=7&vol=0#251
-S_SU_,Clinical Features of Venous Hypertension,,True,1,2021-08,,@book?n=SU-srbmos&ed=7&vol=0#255
-S_SU_,Complications of Varicose Veins,,True,1,2021-04,,@book?n=SU-srbmos&ed=7&vol=0#265
+S_SU_,Clinical Features of Venous Hypertension,- Saphena Varix (Asked as a Short Answer);- Modified Perthe's Test (Asked as a Short Answer),True,3,2021-08;2013-08;2008-08,,@book?n=SU-srbmos&ed=7&vol=0#255
+S_SU_,Complications of Varicose Veins,- Lipodermatosclerosis (Asked as a Short Answer),True,4,2021-04;2016-08;2014-08;2012-02,,@book?n=SU-srbmos&ed=7&vol=0#257
 S_SU_,CEAP Classification,,True,1,2020-08,,@book?n=SU-srbmos&ed=7&vol=0#253
-S_SU_,Hemangioma,,True,1,2017-08,,@book?n=SU-srbmos&ed=7&vol=0#238
+S_SU_,Hemangioma,,True,4,2017-08;2014-02;2011-08;2009-02,,@book?n=SU-srbmos&ed=7&vol=0#238
 E_SU_,Hodgkin's Lymphoma (HL),"- Classification of Lymphoma- Clinical Features- Diagnosis- Management of Hodgkin's Lymphoma",True,1,2017-02,,@book?n=SU-srbmos&ed=7&vol=0#283
+S_SU_,Trendelenburg Operation (or) Crossectomy,- Asked as a Short Answer,True,1,2016-02,,@book?n=SU-srbmos&ed=7&vol=0#261
+S_SU_,Arterio-venous (AV) Fistula,- Asked as a Short Answer;- Nicoladoni-Branham's sign (Asked as a Short Answer),True,2,2013-02;2008-08,,@book?n=SU-srbmos&ed=7&vol=0#242
+S_SU_,Claw Hand,- Asked as a Short Answer,True,1,2012-08,,@book?n=SU-srbmos&ed=7&vol=0#297
+S_SU_,Hodgkin's Lymphoma,,True,2,2011-02;2010-08,,@book?n=SU-srbmos&ed=7&vol=0#283
+S_SU_,Tinel's Sign,- Asked as a Short Answer,True,1,2009-02,,@book?n=SU-srbmos&ed=7&vol=0#294

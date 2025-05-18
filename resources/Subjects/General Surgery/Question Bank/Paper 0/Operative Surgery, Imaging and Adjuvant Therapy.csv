@@ -1,12 +1,23 @@
 Id,Title,Descriptions,HasPreviouslyBeenAsked,Importance,YearsAsked,ProbableCases,References
-S_SU_,Doppler Ultrasound,- Asked as a Short Answer,True,2,2021-08;2020-08,,@book?n=SU-srbmos&ed=7&vol=0#1213
+S_SU_,Doppler Ultrasound and Duplex Imaging,,True,3,2021-08;2020-08;2010-08,,@book?n=SU-srbmos&ed=7&vol=0#1213
 S_SU_,Diagnostic Laparoscopy,,True,1,2021-04,,@book?n=SU-srbmos&ed=7&vol=0#1235
-S_SU_,Day Case (or) Care Surgery (DCS),,True,1,2020-08,,@book?n=SU-srbmos&ed=7&vol=0#1238
+S_SU_,Day Case (or) Care Surgery (DCS),,True,4,2020-08;2013-08;2012-08;2010-08,,@book?n=SU-srbmos&ed=7&vol=0#1238
 S_SU_,Brachytherapy,,True,2,2020-02;2017-08,,@book?n=SU-srbmos&ed=7&vol=0#1201
-S_SU_,Neo-adjuvant Chemotherapy,,True,2,2019-08;2017-02,,@book?n=SU-srbmos&ed=7&vol=0#1202
-S_SU_,Magnetic Resonance Imaging (MRI),,True,1,2019-02,,@book?n=SU-srbmos&ed=7&vol=0#1215
-S_SU_,Ryle's Tube,- Asked as a Short Answer,True,1,2019-02,,@book?n=SU-srbmos&ed=7&vol=0#1225
-S_SU_,Ultrasound (USG),,True,1,2018-08,,@book?n=SU-srbmos&ed=7&vol=0#1211
+S_SU_,Neo-adjuvant Chemotherapy,,True,4,2019-08;2017-02;2014-08;2011-08,,@book?n=SU-srbmos&ed=7&vol=0#1202
+S_SU_,Magnetic Resonance Imaging (MRI),,True,3,2019-02;2013-02;2011-08,,@book?n=SU-srbmos&ed=7&vol=0#1215
+S_SU_,Ryle's Tube,- Asked as a Short Answer,True,2,2019-02;2011-02,,@book?n=SU-srbmos&ed=7&vol=0#1225
+S_SU_,Ultrasound (USG),,True,2,2018-08;2016-08,,@book?n=SU-srbmos&ed=7&vol=0#1211
 S_SU_,Lasers in Surgery,,True,1,2017-08,,@book?n=SU-srbmos&ed=7&vol=0#1232
 S_SU_,Therapeutic Endoscopy,- Asked as a Short Answer,True,1,2017-08,,
 S_SU_,Minimal Access Surgery,,True,1,2017-02,,
+S_SU_,Immunosuppressive Therapy,,True,1,2016-08,,@book?n=SU-srbmos&ed=7&vol=0#1203
+S_SU_,Flexible Endoscopy,- Asked as a Short Answer,True,1,2014-08,,
+S_SU_,Sclerotherapy,- Sclerosing Agents (Asked as a Short Answer),True,1,2013-08,,"@book?n=SU-srbmos&ed=7&vol=0#259,671"
+S_SU_,Tracheostomy,,True,1,2013-08,,@book?n=SU-srbmos&ed=7&vol=0#1230
+S_SU_,Suture Materials,- Types (Asked as a Short Answer),True,1,2013-08,,@book?n=SU-srbmos&ed=7&vol=0#1226
+S_SU_,Postoperative Care for Abdominal Sugery,,True,1,2011-08,,@book?n=SU-srbmos&ed=7&vol=0#619
+S_SU_,Radiotherapy,- Radiosensitive Tumours (Asked as a Short Answer),True,1,2011-08,,@book?n=SU-srbmos&ed=7&vol=0#1199
+S_SU_,Laparoscopic Surgery,- Asked as a Short Answer,True,1,2011-08,,@book?n=SU-srbmos&ed=7&vol=0#1234
+S_SU_,Radioisotopes in Diagnosis of Surgical Conditions,- Asked as a Short Answer,True,1,2009-08,,
+S_SU_,Drains,- Indications for using Romovac Suction Drain (Asked as a Short Answer),True,1,2009-02,,@book?n=SU-srbmos&ed=7&vol=0#1224
+S_SU_,Disinfection,,True,1,2008-02,,@book?n=SU-srbmos&ed=7&vol=0#1218

@@ -1,8 +1,28 @@
 Id,Title,Descriptions,HasPreviouslyBeenAsked,Importance,YearsAsked,ProbableCases,References
-E_SU_,Melanoma,"- Diagnosis- Types- Staging- Management;- Etiology- Pathophysiology- Types- Investigations- Staging- Management;- Classification of Skin Malignancies- Premalignant Conditions- Malignant Melanoma",True,3,2024-03;2024-08;2017-08,A 50 year old man who works as agricultural labour has a **blackish raised lesion** of 5 cm on the **sole of the foot**.,@book?n=SU-srbmos&ed=7&vol=0#327
-S_SU_,Fine Needle Aspiration Cytology (FNAC),- Asked as a Short Answer,True,1,2024-08,,@book?n=SU-srbmos&ed=7&vol=0#306
-S_SU_,Basal Cell Carcinoma (BCC) (or) Rodent Ulcer,,True,2,2023-03;2022-08,,@book?n=SU-srbmos&ed=7&vol=0#323
-S_SU_,Core Needle (or) Trucut Biopsy,,True,1,2022-08,,@book?n=SU-srbmos&ed=7&vol=0#306
+E_SU_,Melanoma,"- Diagnosis
+- Types
+- Staging
+- Management;- Etiology
+- Pathophysiology
+- Types
+- Investigations
+-_SU_ging
+- Management;- Classification of Skin Malignancies
+- Premalignant Conditions
+- Malignant Melanoma",True,3,2024-03;2024-08;2017-08,A 50 year old man who works as agricultural labour has a **blackish raised lesion** of 5 cm on the **sole of the foot**.,@book?n=SU-srbmos&ed=7&vol=0#327
+S_SU_,Fine Needle Aspiration Cytology (FNAC),,True,5,2024-08;2013-02;2011-02;2009-08;2009-02,,@book?n=SU-srbmos&ed=7&vol=0#306
+S_SU_,Basal Cell Carcinoma (BCC) (or) Rodent Ulcer,,True,7,2023-03;2022-08;2015-02;2012-08;2011-02;2010-02;2009-02,,@book?n=SU-srbmos&ed=7&vol=0#323
+S_SU_,Core Needle (or) Trucut Biopsy,,True,2,2022-08;2014-02,,@book?n=SU-srbmos&ed=7&vol=0#306
 S_SU_,Sentinel Lymph Node Biopsy (SLNB),,True,1,2021-08,,@book?n=SU-srbmos&ed=7&vol=0#333
-E_SU_,Basal Cell Carcinoma (BCC) (or) Rodent Ulcer,"- Layers of Skin- Premalignant Lesions of Skin- Epidemiology- Pathogenesis- Clinical Features- Management of Carcinoma Breast",True,1,2021-08,,@book?n=SU-srbmos&ed=7&vol=0#323
+E_SU_,Basal Cell Carcinoma (BCC) (or) Rodent Ulcer,"- Layers of Skin
+- Premalignant Lesions of Skin
+- Epidemiology
+- Pathogenesis
+- Clinical Features
+- Management of Carcinoma Breast",True,1,2021-08,,@book?n=SU-srbmos&ed=7&vol=0#323
 S_SU_,Pain Relief in Malignancy,,True,1,2021-04,,@book?n=SU-srbmos&ed=7&vol=0#382
+S_SU_,Kaposi's Sarcoma,- Asked as a Short Answer,True,1,2014-02,,@book?n=SU-srbmos&ed=7&vol=0#346
+S_SU_,Melanoma,,True,3,2013-08;2011-02;2010-08,,@book?n=SU-srbmos&ed=7&vol=0#327
+S_SU_,Squamous Cell Carcinoma (SCC) (or) Epithelioma,,True,3,2012-08;2009-08;2009-02,,@book?n=SU-srbmos&ed=7&vol=0#320
+S_SU_,Excision Biopsy,- Asked as a Short Answer,True,1,2009-08,,@book?n=SU-srbmos&ed=7&vol=0#306
+S_SU_,Spread of Malignant Tumours,- Sarcomas Spreading through Lymphatics (Asked as a Short Answer),True,1,2008-08,,@book?n=SU-srbmos&ed=7&vol=0#302
