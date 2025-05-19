@@ -10,8 +10,8 @@ E_SU_,Melanoma,"- Diagnosis
 - Management;- Classification of Skin Malignancies
 - Premalignant Conditions
 - Malignant Melanoma;- Clinical Features- Diagnosis- Investigations- Management",True,5,2024-03;2024-08;2017-08;2007-02;2005-08,A 50 year old man who works as agricultural labour has a **blackish raised lesion** of 5 cm on the **sole of the foot**.,@book?n=SU-srbmos&ed=7&vol=0#327
-S_SU_,Fine Needle Aspiration Cytology (FNAC),,True,7,2024-08;2013-02;2011-02;2009-08;2009-02;2007-02;2003-10,,@book?n=SU-srbmos&ed=7&vol=0#306
-S_SU_,Basal Cell Carcinoma (BCC) (or) Rodent Ulcer,,True,9,2023-03;2022-08;2015-02;2012-08;2011-02;2010-02;2009-02;2003-10;2002-03,,@book?n=SU-srbmos&ed=7&vol=0#323
+S_SU_,Fine Needle Aspiration Cytology (FNAC),,True,8,2024-08;2013-02;2011-02;2009-08;2009-02;2007-02;2003-10;1993-11,,@book?n=SU-srbmos&ed=7&vol=0#306
+S_SU_,Basal Cell Carcinoma (BCC) (or) Rodent Ulcer,,True,10,2023-03;2022-08;2015-02;2012-08;2011-02;2010-02;2009-02;2003-10;2002-03;1998-04;1997-10;1992-04;1990-12,,@book?n=SU-srbmos&ed=7&vol=0#323
 S_SU_,Core Needle (or) Trucut Biopsy,,True,2,2022-08;2014-02,,@book?n=SU-srbmos&ed=7&vol=0#306
 S_SU_,Sentinel Lymph Node Biopsy (SLNB),,True,1,2021-08,,@book?n=SU-srbmos&ed=7&vol=0#333
 E_SU_,Basal Cell Carcinoma (BCC) (or) Rodent Ulcer,"- Layers of Skin
@@ -22,7 +22,7 @@ E_SU_,Basal Cell Carcinoma (BCC) (or) Rodent Ulcer,"- Layers of Skin
 - Management of Carcinoma Breast",True,1,2021-08,,@book?n=SU-srbmos&ed=7&vol=0#323
 S_SU_,Pain Relief in Malignancy,,True,1,2021-04,,@book?n=SU-srbmos&ed=7&vol=0#382
 S_SU_,Kaposi's Sarcoma,- Asked as a Short Answer,True,1,2014-02,,@book?n=SU-srbmos&ed=7&vol=0#346
-S_SU_,Melanoma,,True,4,2013-08;2011-02;2010-08;2005-08,,@book?n=SU-srbmos&ed=7&vol=0#327
+S_SU_,Melanoma,,True,7,2013-08;2011-02;2010-08;2005-08;1999-10;1999-04;1993-01,,@book?n=SU-srbmos&ed=7&vol=0#327
 S_SU_,Squamous Cell Carcinoma (SCC) (or) Epithelioma,,True,5,2012-08;2009-08;2009-02;2003-10;2003-10,,@book?n=SU-srbmos&ed=7&vol=0#320
 S_SU_,Excision Biopsy,- Asked as a Short Answer,True,1,2009-08,,@book?n=SU-srbmos&ed=7&vol=0#306
 S_SU_,Spread of Malignant Tumours,- Sarcomas Spreading through Lymphatics (Asked as a Short Answer),True,1,2008-08,,@book?n=SU-srbmos&ed=7&vol=0#302

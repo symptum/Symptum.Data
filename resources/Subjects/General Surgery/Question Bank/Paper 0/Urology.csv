@@ -1,9 +1,9 @@
 Id,Title,Descriptions,HasPreviouslyBeenAsked,Importance,YearsAsked,ProbableCases,References
 S_SU_,Epididymo-Orchitis,,True,2,2025-03;2009-02,,@book?n=SU-srbmos&ed=7&vol=0#1148
 S_SU_,Classification of Testicular Tumours,,True,1,2024-05,,@book?n=SU-srbmos&ed=7&vol=0#1143
-S_SU_,Wilms' Tumour (or) Nephroblastoma,,True,4,2024-03;2014-02;2011-08;2008-08,,@book?n=SU-srbmos&ed=7&vol=0#1083
-S_SU_,Urethral Injury,- Rupture of Membranous Urethra,True,2,2024-08;2015-02,,@book?n=SU-srbmos&ed=7&vol=0#1111
-S_SU_,Staghorn Calculus,,True,3,2024-08;2019-08;2012-08,,@book?n=SU-srbmos&ed=7&vol=0#1082
+S_SU_,Wilms' Tumour (or) Nephroblastoma,,True,5,2024-03;2014-02;2011-08;2008-08;2000-10,,@book?n=SU-srbmos&ed=7&vol=0#1083
+S_SU_,Urethral Injury (or) Rupture of Urethra,- Rupture of Membranous Urethra,True,3,2024-08;2015-02;1994-04,,@book?n=SU-srbmos&ed=7&vol=0#1111
+S_SU_,Staghorn Calculus,,True,4,2024-08;2019-08;2012-08;1999-10,,@book?n=SU-srbmos&ed=7&vol=0#1082
 E_SU_,Testicular Tumours,"- Classification
 - Clinical Features
 - Investigations
@@ -14,7 +14,7 @@ E_SU_,Testicular Tumours,"- Classification
 - Pathogenesis
 - Clinical Features
 - Investigations
-- Treatment of Teratoma",True,7,2023-08;2019-02;2012-02;2010-02;2007-08;2004-08;2001-11,,@book?n=SU-srbmos&ed=7&vol=0#1143
+- Treatment of Teratoma",True,8,2023-08;2019-02;2012-02;2010-02;2007-08;2004-08;2001-11;2000-04,,@book?n=SU-srbmos&ed=7&vol=0#1143
 S_SU_,Pyelonephritis,,True,1,2023-08,,
 S_SU_,Peyronie's Disease,,True,3,2023-08;2013-08;2003-10,,@book?n=SU-srbmos&ed=7&vol=0#1122
 E_SU_,Carcinoma Penis,"- Premalignant Conditions
@@ -24,18 +24,18 @@ E_SU_,Carcinoma Penis,"- Premalignant Conditions
 - Etiology
 - Pathogenesis
 - Staging
-- Management",True,5,2023-03;2021-04;2018-08;2013-02;2011-08,,@book?n=SU-srbmos&ed=7&vol=0#1123
-S_SU_,Polycystic Kidney Disease (PKD),- Autosomal Dominant PKD,True,2,2022-08;2015-08,,@book?n=SU-srbmos&ed=7&vol=0#1065
+- Management",True,6,2023-03;2021-04;2018-08;2013-02;2011-08;1990-12,,@book?n=SU-srbmos&ed=7&vol=0#1123
+S_SU_,Polycystic Kidney Disease (PKD),- Autosomal Dominant PKD,True,3,2022-08;2015-08;1994-11,,@book?n=SU-srbmos&ed=7&vol=0#1065
 S_SU_,Torsion of Testes,,True,8,2022-08;2019-08;2017-02;2014-08;2012-08;2011-08;2010-02;2006-02,,@book?n=SU-srbmos&ed=7&vol=0#1142
 S_SU_,Hypospadiasis,,True,2,2022-04;2002-03,,@book?n=SU-srbmos&ed=7&vol=0#1115
-S_SU_,Hydrocele,- Causes of Secondary Hydrocele (Asked as a Short Answer);- Encysted Hydrocele of the Cord (Asked as a Short Answer);- Complications (Asked as a Short Answer);- Congenital Hydrocele,True,5,2021-08;2018-02;2013-08;2010-02;2009-08,,@book?n=SU-srbmos&ed=7&vol=0#1131
+S_SU_,Hydrocele,- Causes of Secondary Hydrocele (Asked as a Short Answer);- Encysted Hydrocele of the Cord (Asked as a Short Answer);- Complications (Asked as a Short Answer);- Congenital Hydrocele,True,6,2021-08;2018-02;2013-08;2010-02;2009-08;1991-12,,@book?n=SU-srbmos&ed=7&vol=0#1131
 S_SU_,Cryptorchidism (or) Undescended Testes,,True,5,2021-04;2018-08;2017-08;2013-02;2003-10,,@book?n=SU-srbmos&ed=7&vol=0#1139
 S_SU_,Prostate Specific Antigen (PSA),,True,4,2020-11;2018-02;2016-08;2009-08,,@book?n=SU-srbmos&ed=7&vol=0#1103
 E_SU_,Renal Cell Carcinoma (RCC) (or) Hypernephroma,"- Etiology
 - Pathogenesis
 - Clinical Features
-- Management;- Causes of Haematuria- Etiology- Pathogenesis- Clinical Features- Management;- Classification of Renal Tumours- Clinical Features- Management",True,4,2020-11;2019-08;2003-10;2002-03,,@book?n=SU-srbmos&ed=7&vol=0#1084
-S_SU_,Paraphimosis,,True,3,2020-08;2010-02;2004-08,,@book?n=SU-srbmos&ed=7&vol=0#1120
+- Management;- Causes of Haematuria- Etiology- Pathogenesis- Clinical Features- Management;- Classification of Renal Tumours- Clinical Features- Management",True,5,2020-11;2019-08;2003-10;2002-03;1993-11,,@book?n=SU-srbmos&ed=7&vol=0#1084
+S_SU_,Paraphimosis,,True,4,2020-08;2010-02;2004-08;1996-04,,@book?n=SU-srbmos&ed=7&vol=0#1120
 S_SU_,Premalignant Lesions of Carcinoma Penis,- Erythroplasia of Queyrat (Asked as a Short Answer),True,4,2020-02;2016-02;2009-02;2005-08,,"@book?n=SU-srbmos&ed=7&vol=0#320,1123"
 S_SU_,Fournier's Gangrene,,True,1,2020-02,,@book?n=SU-srbmos&ed=7&vol=0#1128
 S_SU_,Phimosis,- Asked as a Short Answer,True,7,2019-02;2013-08;2013-02;2010-08;2009-02;2004-08;2002-03,,@book?n=SU-srbmos&ed=7&vol=0#1119
@@ -53,16 +53,12 @@ S_SU_,Investigations of Testicular Tumours,- Tumour Markers (Asked as a Short An
 S_SU_,Circumcision,,True,2,2014-08;2003-10,,@book?n=SU-srbmos&ed=7&vol=0#1120
 S_SU_,Foley's Catheter,- Catheterization (Asked as a Short Answer),True,1,2014-08,,@book?n=SU-srbmos&ed=7&vol=0#1061
 S_SU_,Pyocele,- Complications (Asked as a Short Answer),True,1,2014-08,,@book?n=SU-srbmos&ed=7&vol=0#1134
-S_SU_,Hematuria,,True,2,2014-02;2008-02,,@book?n=SU-srbmos&ed=7&vol=0#1064
+S_SU_,Hematuria,,True,3,2014-02;2008-02;1992-04,,@book?n=SU-srbmos&ed=7&vol=0#1064
 S_SU_,Teratoma Testis,,True,1,2014-02,,@book?n=SU-srbmos&ed=7&vol=0#1144
 S_SU_,Renal Tuberculosis,,True,1,2013-08,,@book?n=SU-srbmos&ed=7&vol=0#1069
-S_SU_,Vesical Calculus,,True,2,2013-02;2004-08,,@book?n=SU-srbmos&ed=7&vol=0#1090
-E_SU_,Wilms' Tumour (or) Nephroblastoma,"- Pathology
-- Management",True,1,2012-08,,@book?n=SU-srbmos&ed=7&vol=0#1083
-E_SU_,Benign Prostatic Hyperplasia (BPH) (or) Enlargement of Prostate (BEP),"- Etiology
-- Pathogenesis
-- Clinical Features
-- Management;- Causes of Acute Retention of Urine- Clinical Features- Management",True,2,2010-08;2007-08,,@book?n=SU-srbmos&ed=7&vol=0#1104
+S_SU_,Vesical Calculus,,True,3,2013-02;2004-08;1991-01,,@book?n=SU-srbmos&ed=7&vol=0#1090
+E_SU_,Wilms' Tumour (or) Nephroblastoma,"- Pathology- Clinical Features- Management",True,3,2012-08;1999-10;1992-04,,@book?n=SU-srbmos&ed=7&vol=0#1083
+E_SU_,Benign Prostatic Hyperplasia (BPH) (or) Enlargement of Prostate (BEP),"- Etiology- Pathogenesis- Clinical Features- Investigations- Treatment;- Causes of Acute Retention of Urine- Clinical Features- Management",True,4,2010-08;2007-08;1997-10;1994-04,,@book?n=SU-srbmos&ed=7&vol=0#1104
 S_SU_,Horse Shoe Kidney,- Asked as a Short Answer,True,1,2010-02,,@book?n=SU-srbmos&ed=7&vol=0#1064
 S_SU_,Extracorporeal Shock Wave Lithotripsy (ESWL),- Asked as a Short Answer,True,1,2010-02,,@book?n=SU-srbmos&ed=7&vol=0#1078
 S_SU_,Urinary Diversion,- Indications (Asked as a Short Answer),True,1,2009-08,,@book?n=SU-srbmos&ed=7&vol=0#1101
@@ -70,10 +66,15 @@ S_SU_,Renal Cell Carcinoma (RCC) (or) Hypernephroma,,True,2,2009-02;2005-08,,@bo
 S_SU_,Epididymal Cyst,- Asked as a Short Answer,True,1,2008-08,,@book?n=SU-srbmos&ed=7&vol=0#1135
 E_SU_,Hydronephrosis,"- Etiology
 - Clinical Features
-- Management",True,3,2008-02;2006-02;2005-08,,@book?n=SU-srbmos&ed=7&vol=0#1071
+- Management",True,5,2008-02;2006-02;2005-08;1999-04;1996-04,,@book?n=SU-srbmos&ed=7&vol=0#1071
 S_SU_,Retention of Urine,,True,1,2007-08,,@book?n=SU-srbmos&ed=7&vol=0#1118
 E_SU_,Cryptorchidism (or) Undescended Testes,"- Etiology- Clinical Features- Management",True,1,2007-02,,@book?n=SU-srbmos&ed=7&vol=0#1139
 E_SU_,Renal Tuberculosis,"- Surgical Anatomy of Kidney- Etiology- Clinical Features- Treatment",True,1,2007-02,,@book?n=SU-srbmos&ed=7&vol=0#1069
 S_SU_,Dietl's Crisis,,True,1,2006-02,,@book?n=SU-srbmos&ed=7&vol=0#1072
 E_SU_,Rupture of Bladder,"- Types- Clinical Features- Diagnosis- Management",True,1,2002-03,,@book?n=SU-srbmos&ed=7&vol=0#1097
 S_SU_,Carcinoma Prostate,,True,1,2001-11,,@book?n=SU-srbmos&ed=7&vol=0#1108
+S_SU_,Urethral Diverticula,,True,1,1999-10,,
+S_SU_,Ectopic Testis,,True,1,1998-10,,@book?n=SU-srbmos&ed=7&vol=0#1141
+S_SU_,Renal Calculus,,True,1,1998-04,,@book?n=SU-srbmos&ed=7&vol=0#1076
+E_SU_,Hematuria,- Differential Diagnosis in a Geriatric Patient,True,1,1993-04,,@book?n=SU-srbmos&ed=7&vol=0#1064
+E_SU_,Renal Injury,"- Etiology- Clinical Features- Investigations- Treatment",True,1,1991-12,,@book?n=SU-srbmos&ed=7&vol=0#1068

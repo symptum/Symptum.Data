@@ -1,17 +1,14 @@
 Id,Title,Descriptions,HasPreviouslyBeenAsked,Importance,YearsAsked,ProbableCases,References
 S_SU_,Amoebic Liver Abscess,,True,5,2025-03;2024-03;2019-08;2016-02;2011-08,,@book?n=SU-srbmos&ed=7&vol=0#647
-S_SU_,Hydatid Cyst,,True,10,2025-03;2023-08;2021-08;2020-08;2015-08;2011-08;2010-08;2008-02;2005-08;2003-10;2001-04,,@book?n=SU-srbmos&ed=7&vol=0#652
+S_SU_,Hydatid Cyst,,True,10,2025-03;2023-08;2021-08;2020-08;2015-08;2011-08;2010-08;2008-02;2005-08;2003-10;2001-04;1994-04,,@book?n=SU-srbmos&ed=7&vol=0#652
 E_SU_,Acute Pancreatitis,"- Differential Diagnosis
 - Pathophysiology
 - Investigations
-- Scoring System;- Differential Diagnosis
-- Etiology
-- Clinical Features
-- Management;- Etiology
+- Scoring System;- Differential Diagnosis- Etiology- Clinical Features- Management;- Etiology
 - Pathogenesis
 - Clinical Features
 - Management
-- Complications",True,4,2024-05;2024-03;2016-02;2013-08,A 30 year old male alcoholic had a **binge of alcohol** for the past one week presented with severe **abdominal pain and distention**.;A 45 year old man who is a known alcoholic for the past 15 years presented to Emergency Department with **upper abdominal pain and vomiting**.,@book?n=SU-srbmos&ed=7&vol=0#738
+- Complications",True,7,2024-05;2024-03;2016-02;2013-08;2000-10;1995-11;1994-04,A 30 year old male alcoholic had a **binge of alcohol** for the past one week presented with severe **abdominal pain and distention**.;A 45 year old man who is a known alcoholic for the past 15 years presented to Emergency Department with **upper abdominal pain and vomiting**.,@book?n=SU-srbmos&ed=7&vol=0#738
 S_SU_,Pyogenic Liver Abscess,,True,1,2024-05,,@book?n=SU-srbmos&ed=7&vol=0#651
 S_SU_,Splenic Injury,,True,4,2024-05;2022-08;2016-02;2003-10,,@book?n=SU-srbmos&ed=7&vol=0#722
 E_SU_,Choledocholithiasis (or) Common Bile Duct Stones,"- Differential Diagnosis
@@ -23,8 +20,8 @@ E_SU_,Choledocholithiasis (or) Common Bile Duct Stones,"- Differential Diagnosis
 S_SU_,Hypersplenism,,True,2,2024-03;2016-08,,@book?n=SU-srbmos&ed=7&vol=0#733
 S_SU_,Endoscopic Retrograde Cholangiopancreatography (ERCP),- Therapeutic Uses (Asked as a Short Answer),True,3,2024-08;2023-03;2014-02,,@book?n=SU-srbmos&ed=7&vol=0#684
 S_SU_,Caroli's Disease,- Asked as a Short Answer,True,1,2024-08,,@book?n=SU-srbmos&ed=7&vol=0#689
-S_SU_,Gall Stones,- Complications;- Porcelain Gallbladder (Asked as a Short Answer);- Seagull Sign (Asked as a Short Answer),True,6,2023-08;2020-11;2019-08;2014-02;2010-08;2003-10,,@book?n=SU-srbmos&ed=7&vol=0#690
-S_SU_,Choledocholithiasis (or) Common Bile Duct Stones,- Charcot's Triad (Asked as a Short Answer),True,4,2022-08;2016-02;2005-08;2001-11,,@book?n=SU-srbmos&ed=7&vol=0#702
+S_SU_,Gall Stones,- Complications;- Porcelain Gallbladder (Asked as a Short Answer);- Seagull Sign (Asked as a Short Answer);- Pigment Stones,True,7,2023-08;2020-11;2019-08;2014-02;2010-08;2003-10;1999-10,,@book?n=SU-srbmos&ed=7&vol=0#690
+S_SU_,Choledocholithiasis (or) Common Bile Duct Stones,- Charcot's Triad (Asked as a Short Answer),True,5,2022-08;2016-02;2005-08;2001-11;1998-10,,@book?n=SU-srbmos&ed=7&vol=0#702
 S_SU_,Choledochal Cyst,,True,4,2022-04;2015-02;2013-02;2002-03,,@book?n=SU-srbmos&ed=7&vol=0#687
 S_SU_,Ranson's Criteria,,True,2,2022-04;2014-02,,@book?n=SU-srbmos&ed=7&vol=0#742
 S_SU_,Complications of Liver Injury,,True,1,2021-08,,@book?n=SU-srbmos&ed=7&vol=0#647
@@ -47,17 +44,18 @@ E_SU_,Obstructive (or) Surgical Jaundice,"- Diagnosis
 - Investigations
 - Treatment;- Etiology
 - Clinical Features
-- Management",True,3,2019-08;2014-08;2011-02,A **60 year old** man presenting with **palpable lump in right hypochondrium with yellowish discolouration of eyes**.,"@book?n=SU-srbmos&ed=7&vol=0#706,710,712"
-S_SU_,Pseudocyst of Pancreas,,True,10,2019-08;2016-08;2016-02;2014-08;2012-08;2010-02;2008-08;2006-08;2005-08;2004-08;2002-03,,@book?n=SU-srbmos&ed=7&vol=0#746
+- Management",True,4,2019-08;2014-08;2011-02;1999-04,A **60 year old** man presenting with **palpable lump in right hypochondrium with yellowish discolouration of eyes**.,"@book?n=SU-srbmos&ed=7&vol=0#706,710,712"
+S_SU_,Pseudocyst of Pancreas,,True,10,2019-08;2016-08;2016-02;2014-08;2012-08;2010-02;2008-08;2006-08;2005-08;2004-08;2002-03;1998-10,,@book?n=SU-srbmos&ed=7&vol=0#746
 S_SU_,Laparoscopic Cholecystectomy,,True,1,2019-08,,@book?n=SU-srbmos&ed=7&vol=0#716
 E_SU_,Hydatid Cyst,"- Etiology
 - Pathogenesis
 - Clinical Features
 - Complications
-- Management",True,2,2019-02;2008-08,,@book?n=SU-srbmos&ed=7&vol=0#652
+- Management",True,3,2019-02;2008-08;1992-04,,@book?n=SU-srbmos&ed=7&vol=0#652
 S_SU_,Murphy's Sign,- Asked as a Short Answer,True,1,2018-08,,@book?n=SU-srbmos&ed=7&vol=0#699
 S_SU_,Acute Pancreatitis,- Grey-Turner's Sign (Asked as a Short Answer),True,2,2018-08;2009-02,,@book?n=SU-srbmos&ed=7&vol=0#738
-S_SU_,Portal Hypertension,- Transjugular Intrahepatic Portosystemic Stent/Shunt (TIPSS) (Asked as a Short Answer);- Sites of Portosystemic Anastomosis (Asked as a Short Answer),True,2,2018-02;2013-08,,"@book?n=SU-srbmos&ed=7&vol=0#665,666,673"
+E_SU_,Oesophageal Varices,"- Causes of Hematemesis- Clinical Features of Portal Hypertension- Investigations- Management",True,2,2018-02;1998-04,,@book?n=SU-srbmos&ed=7&vol=0#668
+S_SU_,Portal Hypertension,- Transjugular Intrahepatic Portosystemic Stent/Shunt (TIPSS) (Asked as a Short Answer);- Sites of Portosystemic Anastomosis;- Etiology,True,4,2018-02;2013-08;1997-10;1990-12,,"@book?n=SU-srbmos&ed=7&vol=0#665,666,673"
 S_SU_,Anatomy of Gallbladder,- Calot's Triangle (Asked as a Short Answer),True,6,2017-08;2014-08;2013-08;2012-08;2010-02;2008-08,,@book?n=SU-srbmos&ed=7&vol=0#682
 S_SU_,Insulinomas,- Whipple's Triad (Asked as a Short Answer),True,2,2016-02;2008-08,,@book?n=SU-srbmos&ed=7&vol=0#766
 E_SU_,Carcinoma Pancreas,"- Etiology
@@ -78,7 +76,7 @@ S_SU_,Oesophageal Varices,- Asked as a Short Answer,True,1,2014-08,,@book?n=SU-s
 S_SU_,Sengstaken-Blakemoore Tube,,True,1,2014-02,,@book?n=SU-srbmos&ed=7&vol=0#671
 S_SU_,Gallstone Ileus,,True,1,2013-08,,@book?n=SU-srbmos&ed=7&vol=0#700
 S_SU_,Splenectomy,- Indications (Asked as a Short Answer);- Complications,True,4,2013-08;2010-02;2007-08;2004-08,,@book?n=SU-srbmos&ed=7&vol=0#730
-S_SU_,Courvoisier's Law (or) Sign,- Asked as a Short Answer,True,1,2012-08,,@book?n=SU-srbmos&ed=7&vol=0#705
+S_SU_,Courvoisier's Law (or) Sign,,True,2,2012-08;1998-04,,@book?n=SU-srbmos&ed=7&vol=0#705
 S_SU_,Splenomegaly,- Four Causes (Asked as a Short Answer),True,1,2010-08,,@book?n=SU-srbmos&ed=7&vol=0#726
 S_SU_,Biliary Atresia,,True,1,2009-08,,@book?n=SU-srbmos&ed=7&vol=0#689
 E_SU_,Splenic Injury (or) Rupture of Spleen,"- Surgical Anatomy of Spleen
@@ -87,10 +85,12 @@ E_SU_,Splenic Injury (or) Rupture of Spleen,"- Surgical Anatomy of Spleen
 - Management;- Causes of Haemoperitoneum
 - Clinical Features
 - Diagnosis
-- Management",True,3,2008-02;2006-08;2002-03,,@book?n=SU-srbmos&ed=7&vol=0#722
+- Management;- Classification of Hemorrhage- Clinical Features- Management- Sequelae",True,5,2008-02;2006-08;2002-03;1999-04;1996-10,,@book?n=SU-srbmos&ed=7&vol=0#722
 E_SU_,Amoebic Liver Abscess,"- Physiology of Liver
 - Liver Function Tests
 - Clinical Features
-- Management",True,1,2002-03,,"@book?n=SU-srbmos&ed=7&vol=0#643,647"
-S_SU_,Mucocele of Gallbladder (or) Hydrops Gallbladder,,True,1,2001-11,,@book?n=SU-srbmos&ed=7&vol=0#698
+- Management;- Surgical Anatomy of Liver- Pathology- Clinical Features- Investigations- Treatment",True,2,2002-03;1999-10,,"@book?n=SU-srbmos&ed=7&vol=0#643,647"
+S_SU_,Mucocele of Gallbladder (or) Hydrops Gallbladder,,True,2,2001-11;1998-04,,@book?n=SU-srbmos&ed=7&vol=0#698
 S_SU_,Cholangiocarcinoma (or) Carcinoma Bile Duct,,True,1,2001-04,,@book?n=SU-srbmos&ed=7&vol=0#712
+E_SU_,Chronic Cholecystitis,"- Etiopathogenesis of Cholelithiasis- Investigations- Complications- Treatment of Chronic Cholecystitis",True,1,1994-11,,"@book?n=SU-srbmos&ed=7&vol=0#690,699"
+S_SU_,Oral Cholecystogram,,True,1,1990-12,,@book?n=SU-srbmos&ed=7&vol=0#684

@@ -1,26 +1,27 @@
 Id,Title,Descriptions,HasPreviouslyBeenAsked,Importance,YearsAsked,ProbableCases,References
-S_SU_,Doppler Ultrasound and Duplex Imaging,,True,3,2021-08;2020-08;2010-08,,@book?n=SU-srbmos&ed=7&vol=0#1213
+S_SU_,Doppler Ultrasound and Duplex Imaging,,True,4,2021-08;2020-08;2010-08;1991-12,,@book?n=SU-srbmos&ed=7&vol=0#1213
 S_SU_,Diagnostic Laparoscopy,,True,1,2021-04,,@book?n=SU-srbmos&ed=7&vol=0#1235
 S_SU_,Day Case (or) Care Surgery (DCS),,True,4,2020-08;2013-08;2012-08;2010-08,,@book?n=SU-srbmos&ed=7&vol=0#1238
 S_SU_,Brachytherapy,,True,2,2020-02;2017-08,,@book?n=SU-srbmos&ed=7&vol=0#1201
 S_SU_,Neo-adjuvant Chemotherapy,,True,4,2019-08;2017-02;2014-08;2011-08,,@book?n=SU-srbmos&ed=7&vol=0#1202
 S_SU_,Magnetic Resonance Imaging (MRI),,True,4,2019-02;2013-02;2011-08;2002-03,,@book?n=SU-srbmos&ed=7&vol=0#1215
 S_SU_,Ryle's Tube,- Asked as a Short Answer,True,2,2019-02;2011-02,,@book?n=SU-srbmos&ed=7&vol=0#1225
-S_SU_,Ultrasound (USG),,True,3,2018-08;2016-08;2007-08,,@book?n=SU-srbmos&ed=7&vol=0#1211
-S_SU_,Lasers in Surgery,,True,1,2017-08,,@book?n=SU-srbmos&ed=7&vol=0#1232
-S_SU_,Therapeutic Endoscopy,- Asked as a Short Answer,True,1,2017-08,,
+S_SU_,Ultrasound (USG),,True,4,2018-08;2016-08;2007-08;1994-11,,@book?n=SU-srbmos&ed=7&vol=0#1211
+S_SU_,Lasers in Surgery,,True,2,2017-08;1994-04,,@book?n=SU-srbmos&ed=7&vol=0#1232
+S_SU_,Endoscopy,- Therapeutic Endoscopy (Asked as a Short Answer);- Flexible Endoscopy (Asked as a Short Answer),True,3,2017-08;2014-08;1991-01,,
 S_SU_,Minimal Access Surgery,,True,1,2017-02,,
 S_SU_,Immunosuppressive Therapy,,True,1,2016-08,,@book?n=SU-srbmos&ed=7&vol=0#1203
-S_SU_,Flexible Endoscopy,- Asked as a Short Answer,True,1,2014-08,,
-S_SU_,Sclerotherapy,- Sclerosing Agents (Asked as a Short Answer),True,1,2013-08,,"@book?n=SU-srbmos&ed=7&vol=0#259,671"
-S_SU_,Tracheostomy,,True,1,2013-08,,@book?n=SU-srbmos&ed=7&vol=0#1230
-S_SU_,Suture Materials,- Types (Asked as a Short Answer),True,1,2013-08,,@book?n=SU-srbmos&ed=7&vol=0#1226
+S_SU_,Sclerotherapy,- Sclerosing Agents (Asked as a Short Answer),True,2,2013-08;1992-04,,"@book?n=SU-srbmos&ed=7&vol=0#259,671"
+S_SU_,Tracheostomy,,True,3,2013-08;1998-10;1994-11,,@book?n=SU-srbmos&ed=7&vol=0#1230
+S_SU_,Suture Materials,- Types (Asked as a Short Answer),True,3,2013-08;2000-04;1993-01,,@book?n=SU-srbmos&ed=7&vol=0#1226
 S_SU_,Postoperative Care for Abdominal Sugery,,True,1,2011-08,,@book?n=SU-srbmos&ed=7&vol=0#619
-S_SU_,Radiotherapy,- Radiosensitive Tumours (Asked as a Short Answer),True,1,2011-08,,@book?n=SU-srbmos&ed=7&vol=0#1199
+S_SU_,Radiotherapy,- Radiosensitive Tumours (Asked as a Short Answer),True,2,2011-08;1993-04,,@book?n=SU-srbmos&ed=7&vol=0#1199
 S_SU_,Laparoscopic Surgery,,True,2,2011-08;2005-08,,@book?n=SU-srbmos&ed=7&vol=0#1234
 S_SU_,Radioisotopes in Diagnosis of Surgical Conditions,- Asked as a Short Answer,True,1,2009-08,,
 S_SU_,Drains,- Indications for using Romovac Suction Drain (Asked as a Short Answer),True,1,2009-02,,@book?n=SU-srbmos&ed=7&vol=0#1224
-S_SU_,Disinfection,,True,1,2008-02,,@book?n=SU-srbmos&ed=7&vol=0#1218
-S_SU_,Vasectomy,,True,1,2007-08,,@book?n=SU-srbmos&ed=7&vol=0#1229
+S_SU_,Disinfection and Sterilization,,True,2,2008-02;1999-10,,@book?n=SU-srbmos&ed=7&vol=0#1218
+S_SU_,Vasectomy,,True,4,2007-08;1997-10;1991-01;1990-12,,@book?n=SU-srbmos&ed=7&vol=0#1229
 S_SU_,Barium Meal Study,,True,1,2004-08,,@book?n=SU-srbmos&ed=7&vol=0#874
 S_SU_,Computerized Tomography (CT) Scan,,True,1,2001-11,,@book?n=SU-srbmos&ed=7&vol=0#1213
+S_SU_,Cryosurgery,,True,2,1995-11;1993-04,,@book?n=SU-srbmos&ed=7&vol=0#1232
+S_SU_,Chemotherapy,,True,1,1991-01,,@book?n=SU-srbmos&ed=7&vol=0#1201

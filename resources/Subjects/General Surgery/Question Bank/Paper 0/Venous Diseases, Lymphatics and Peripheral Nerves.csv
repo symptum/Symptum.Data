@@ -1,5 +1,5 @@
 Id,Title,Descriptions,HasPreviouslyBeenAsked,Importance,YearsAsked,ProbableCases,References
-E_SU_,Varicose Veins,"- Diagnosis- Investigations- Treatment- Minimally Invasive Procedures;- CEAP Classification- Etiology- Pathogenesis- Clinical Features- Investigations- Treatment;- Etiology- Types- Clinical Features- Complications- Management;- Etiology- Clinical Examination- Pathology- Management of Varicose Ulcers",True,6,2025-03;2022-04;2012-08;2010-08;2006-02;2004-08,A conductor presented with **dilated tortuous swelling** on the left leg with an **ulcer in ankle**.,@book?n=SU-srbmos&ed=7&vol=0#252
+E_SU_,Varicose Veins,"- Diagnosis- Investigations- Treatment- Minimally Invasive Procedures;- CEAP Classification- Etiology- Pathogenesis- Clinical Features- Investigations- Treatment;- Etiology- Types- Clinical Features- Complications- Management;- Etiology- Clinical Examination- Pathology- Management of Varicose Ulcers",True,7,2025-03;2022-04;2012-08;2010-08;2006-02;2004-08;1997-04,A conductor presented with **dilated tortuous swelling** on the left leg with an **ulcer in ankle**.,@book?n=SU-srbmos&ed=7&vol=0#252
 S_SU_,Deep Vein Thrombosis (DVT),- Prophylaxis,True,6,2024-05;2024-08;2020-11;2013-02;2011-08;2010-08,,@book?n=SU-srbmos&ed=7&vol=0#248
 S_SU_,Endovenous Laser Ablation (EVLA),- Asked as a Short Answer,True,1,2024-08,,@book?n=SU-srbmos&ed=7&vol=0#264
 S_SU_,Venous Ulcer (or) Gravitational Ulcer,- Gaiter's Area (Asked as a Short Answer);- Management (Asked as a Short Answer);- Bisgaard Regimen (Asked as a Short Answer),True,10,2023-08;2022-08;2022-04;2017-08;2013-02;2011-02;2005-08;2003-10;2003-10;2002-03;2001-11,,@book?n=SU-srbmos&ed=7&vol=0#265
@@ -7,12 +7,12 @@ S_SU_,Filariasis (or) Filarial Lymphedema (or) Elephantiasis,- Podoconiosis (or)
 S_SU_,Radiofrequency Ablation (RFA),,True,1,2021-08,,@book?n=SU-srbmos&ed=7&vol=0#264
 S_SU_,Modified Well's Criteria,,True,1,2021-08,,@book?n=SU-srbmos&ed=7&vol=0#251
 S_SU_,Clinical Features of Venous Hypertension,- Saphena Varix (Asked as a Short Answer);- Modified Perthe's Test (Asked as a Short Answer),True,3,2021-08;2013-08;2008-08,,@book?n=SU-srbmos&ed=7&vol=0#255
-S_SU_,Complications of Varicose Veins,- Lipodermatosclerosis (Asked as a Short Answer),True,4,2021-04;2016-08;2014-08;2012-02,,@book?n=SU-srbmos&ed=7&vol=0#257
+S_SU_,Complications of Varicose Veins,- Lipodermatosclerosis (Asked as a Short Answer),True,5,2021-04;2016-08;2014-08;2012-02;1990-12,,@book?n=SU-srbmos&ed=7&vol=0#257
 S_SU_,CEAP Classification,,True,1,2020-08,,@book?n=SU-srbmos&ed=7&vol=0#253
-S_SU_,Hemangioma,,True,5,2017-08;2014-02;2011-08;2009-02;2003-10,,@book?n=SU-srbmos&ed=7&vol=0#238
+S_SU_,Hemangioma,- Cavernous Hemangioma,True,6,2017-08;2014-02;2011-08;2009-02;2003-10;1993-11,,@book?n=SU-srbmos&ed=7&vol=0#238
 E_SU_,Hodgkin's Lymphoma (HL),"- Classification of Lymphoma- Clinical Features- Diagnosis- Management of Hodgkin's Lymphoma",True,1,2017-02,,@book?n=SU-srbmos&ed=7&vol=0#283
 S_SU_,Trendelenburg Operation (or) Crossectomy,- Asked as a Short Answer,True,1,2016-02,,@book?n=SU-srbmos&ed=7&vol=0#261
-S_SU_,Arterio-venous (AV) Fistula,- Nicoladoni-Branham's sign (Asked as a Short Answer),True,3,2013-02;2008-08;2005-08,,@book?n=SU-srbmos&ed=7&vol=0#242
+S_SU_,Arterio-venous (AV) Fistula,- Nicoladoni-Branham's sign (Asked as a Short Answer),True,4,2013-02;2008-08;2005-08;1995-11,,@book?n=SU-srbmos&ed=7&vol=0#242
 S_SU_,Claw Hand,- Asked as a Short Answer,True,1,2012-08,,@book?n=SU-srbmos&ed=7&vol=0#297
 S_SU_,Hodgkin's Lymphoma,,True,2,2011-02;2010-08,,@book?n=SU-srbmos&ed=7&vol=0#283
 S_SU_,Tinel's Sign,- Asked as a Short Answer,True,1,2009-02,,@book?n=SU-srbmos&ed=7&vol=0#294
@@ -20,3 +20,4 @@ E_SU_,Filariasis (or) Filarial Lymphedema (or) Elephantiasis,"- Causes of Lymphe
 S_SU_,Wrist Drop,,True,1,2006-08,,@book?n=SU-srbmos&ed=7&vol=0#298
 S_SU_,Peripheral Nerve Injury,,True,1,2003-10,,@book?n=SU-srbmos&ed=7&vol=0#292
 E_SU_,Venous Ulcer (or) Gravitational Ulcer,"- Classification of Ulcers- Pathogenesis- Clinical Features- Investigations- Treatment",True,1,2001-04,,@book?n=SU-srbmos&ed=7&vol=0#265
+E_SU_,Deep Vein Thrombosis (DVT),"- Etiology- Pathogenesis- Clinical Features- Investigations- Prevention- Treatment",True,1,1996-04,,@book?n=SU-srbmos&ed=7&vol=0#248

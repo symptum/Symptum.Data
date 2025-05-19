@@ -1,21 +1,21 @@
 Id,Title,Descriptions,HasPreviouslyBeenAsked,Importance,YearsAsked,ProbableCases,References
-S_SU_,Ameloblastoma (or) Adamantinoma (or) Eve's Disease (or) Multilocular Cystic Disease of the Jaw,,True,7,2025-03;2022-08;2020-11;2015-08;2013-02;2005-08;2004-08,,@book?n=SU-srbmos&ed=7&vol=0#396
+S_SU_,Ameloblastoma (or) Adamantinoma (or) Eve's Disease (or) Multilocular Cystic Disease of the Jaw,,True,8,2025-03;2022-08;2020-11;2015-08;2013-02;2005-08;2004-08;1997-10,,@book?n=SU-srbmos&ed=7&vol=0#396
 S_SU_,Oral Squamous Cell Carcinoma,,True,1,2025-03,,@book?n=SU-srbmos&ed=7&vol=0#406
-S_SU_,Pleomorphic Adenoma (or) Mixed Salivary Tumour,,True,7,2024-05;2023-03;2022-04;2013-02;2011-08;2005-08;2004-08,,@book?n=SU-srbmos&ed=7&vol=0#478
+S_SU_,Pleomorphic Adenoma (or) Mixed Salivary Tumour,- Dumbbell Parotid Tumour,True,9,2024-05;2023-03;2022-04;2013-02;2011-08;2005-08;2004-08;1996-04;1995-11,,@book?n=SU-srbmos&ed=7&vol=0#478
 E_SU_,Malignant Parotid Tumours,"- Classification of Salivary Neoplasms
 - Clinical Features
 - Investigations
 - Treatment",True,3,2024-08;2020-02;2015-08,,"@book?n=SU-srbmos&ed=7&vol=0#477,482"
-S_SU_,Warthin's Tumour (or) Adenolymphoma (or) Papillary Cystadenoma Lymphomatosum,,True,5,2023-08;2018-08;2014-02;2008-08;2004-08,,@book?n=SU-srbmos&ed=7&vol=0#481
+S_SU_,Warthin's Tumour (or) Adenolymphoma (or) Papillary Cystadenoma Lymphomatosum,,True,6,2023-08;2018-08;2014-02;2008-08;2004-08;1992-04,,@book?n=SU-srbmos&ed=7&vol=0#481
 S_SU_,Alveolar (or) Dental Abscess,,True,2,2021-08;2001-11,,@book?n=SU-srbmos&ed=7&vol=0#398
-S_SU_,Salivary Calculus,,True,2,2021-04;2016-08,,@book?n=SU-srbmos&ed=7&vol=0#473
-S_SU_,Ranula,- Plunging Ranula (Asked as a Short Answer),True,5,2020-08;2019-08;2014-02;2013-02;2002-03,,@book?n=SU-srbmos&ed=7&vol=0#401
+S_SU_,Salivary Calculus (or) Sialolithasis,,True,3,2021-04;2016-08;1993-04,,@book?n=SU-srbmos&ed=7&vol=0#473
+S_SU_,Ranula,- Plunging Ranula (Asked as a Short Answer),True,6,2020-08;2019-08;2014-02;2013-02;2002-03;1998-10,,@book?n=SU-srbmos&ed=7&vol=0#401
 E_SU_,Carcinoma Tongue,"- Etiology
 - Pathogenesis
 - Clinical Features
 - Investigations
-- Management",True,3,2020-08;2016-02;2014-02,,@book?n=SU-srbmos&ed=7&vol=0#428
-S_SU_,Dentigerous Cyst (or) Follicular Odontome,,True,4,2019-08;2018-02;2017-08;2014-02,,@book?n=SU-srbmos&ed=7&vol=0#397
+- Management;- Differential Diagnosis of Tongue Ulcer- Investigations- Treatment",True,4,2020-08;2016-02;2014-02;1991-01,,@book?n=SU-srbmos&ed=7&vol=0#428
+S_SU_,Dentigerous Cyst (or) Follicular Odontome,,True,5,2019-08;2018-02;2017-08;2014-02;1998-10,,@book?n=SU-srbmos&ed=7&vol=0#397
 S_SU_,Frey's Syndrome (or) Auriculotemporal Syndrome (or) Gustatory Sweating,- Asked as a Short Answer;- Management (Asked as a Short Answer),True,4,2019-02;2014-08;2013-02;2011-02,,@book?n=SU-srbmos&ed=7&vol=0#489
 S_SU_,Dental (or) Radicular (or) Periapical Cyst,,True,4,2019-02;2018-08;2003-10;2002-03,,@book?n=SU-srbmos&ed=7&vol=0#397
 S_SU_,Cleft Lip,- Asked as a Short Answer,True,1,2016-08,,@book?n=SU-srbmos&ed=7&vol=0#383
@@ -34,3 +34,4 @@ S_SU_,Tongue Ulcer,- Differential Diagnosis (Asked as a Short Answer),True,1,200
 S_SU_,Identification of Facial Nerve During Parotid Surgery,- Asked as a Short Answer,True,1,2009-08,,@book?n=SU-srbmos&ed=7&vol=0#489
 S_SU_,Parotid Abscess (or) Suppurative Parotitis,,True,1,2003-10,,@book?n=SU-srbmos&ed=7&vol=0#475
 S_SU_,Management of Carcinoma Tongue,,True,1,2001-04,,@book?n=SU-srbmos&ed=7&vol=0#430
+S_SU_,Epulis,,True,1,2000-10,,@book?n=SU-srbmos&ed=7&vol=0#395

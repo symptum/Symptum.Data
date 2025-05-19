@@ -1,18 +1,18 @@
 Id,Title,Descriptions,HasPreviouslyBeenAsked,Importance,YearsAsked,ProbableCases,References
-S_SU_,Sebaceous Cyst,- Cock's Peculiar Tumour (Asked as a Short Answer),True,2,2025-03;2018-02,,@book?n=SU-srbmos&ed=7&vol=0#163
-S_SU_,Dermoid Cyst,,True,6,2024-08;2022-04;2020-08;2016-02;2009-08;2004-08,,@book?n=SU-srbmos&ed=7&vol=0#160
+S_SU_,Sebaceous Cyst,- Cock's Peculiar Tumour (Asked as a Short Answer),True,3,2025-03;2018-02;1991-01,,@book?n=SU-srbmos&ed=7&vol=0#163
+S_SU_,Dermoid Cyst,- Implantation Dermoid;- External Angular Dermoid,True,8,2024-08;2022-04;2020-08;2016-02;2009-08;2004-08;1991-12;1990-12,,@book?n=SU-srbmos&ed=7&vol=0#160
 S_SU_,Diabetic Foot and Gangrene,- Grading,True,4,2023-03;2020-08;2018-02;2011-02,,"@book?n=SU-srbmos&ed=7&vol=0#145,232"
-S_SU_,Marjolin's Ulcer,,True,5,2023-08;2018-02;2014-02;2013-08;2010-08,,"@book?n=SU-srbmos&ed=7&vol=0#143,323"
-S_SU_,Trophic Ulcer (or) Pressure Sore (or) Decubitus Ulcer,,True,5,2020-08;2018-02;2016-08;2011-02;2008-08,,@book?n=SU-srbmos&ed=7&vol=0#141
-S_SU_,Neurofibroma,- Plexiform Neurofibroma (Asked as a Short Answer),True,3,2019-08;2013-02;2008-08,,@book?n=SU-srbmos&ed=7&vol=0#166
+S_SU_,Marjolin's Ulcer,,True,8,2023-08;2018-02;2014-02;2013-08;2010-08;2000-10;1997-04;1991-12,,"@book?n=SU-srbmos&ed=7&vol=0#143,323"
+S_SU_,Trophic Ulcer (or) Pressure Sore (or) Decubitus Ulcer,,True,6,2020-08;2018-02;2016-08;2011-02;2008-08;1995-11,,@book?n=SU-srbmos&ed=7&vol=0#141
+S_SU_,Neurofibroma,- Plexiform Neurofibroma (Asked as a Short Answer),True,4,2019-08;2013-02;2008-08;1994-04,,@book?n=SU-srbmos&ed=7&vol=0#166
 S_SU_,Epidermoid (or) Epidermal Cyst,,True,2,2016-08;2014-02,,@book?n=SU-srbmos&ed=7&vol=0#165
 E_SU_,Ulcer,"- Evaluation
 - Treatment",True,1,2015-02,A patient has an ulcer near right medial malleolus.,@book?n=SU-srbmos&ed=7&vol=0#134
-S_SU_,Lipoma,- Adiposa Dolorosa (or) Dercum's Disease (Asked as a Short Answer),True,6,2013-08;2013-02;2012-08;2012-02;2010-02;2009-02,,@book?n=SU-srbmos&ed=7&vol=0#156
-S_SU_,Ganglion Cyst,,True,2,2013-02;2004-08,,@book?n=SU-srbmos&ed=7&vol=0#168
+S_SU_,Lipoma,- Adiposa Dolorosa (or) Dercum's Disease (Asked as a Short Answer),True,7,2013-08;2013-02;2012-08;2012-02;2010-02;2009-02;1993-01,,@book?n=SU-srbmos&ed=7&vol=0#156
+S_SU_,Ganglion Cyst,,True,3,2013-02;2004-08;1997-04,,@book?n=SU-srbmos&ed=7&vol=0#168
 S_SU_,Lymphangioma,- Asked as a Short Answer,True,1,2013-02,,@book?n=SU-srbmos&ed=7&vol=0#173
 S_SU_,Lymph Cyst,,True,2,2012-08;2005-08,,@book?n=SU-srbmos&ed=7&vol=0#174
 S_SU_,Ulcer Edges,,True,2,2012-08;2006-02,,@book?n=SU-srbmos&ed=7&vol=0#134
 S_SU_,Cross-Fluctuant Swellings,- Asked as a Short Answer,True,1,2008-08,,@book?n=SU-srbmos&ed=7&vol=0#175
 S_SU_,Classification of Cysts,,True,1,2003-10,,@book?n=SU-srbmos&ed=7&vol=0#159
-S_SU_,Syphilitic (or) Gummatous Ulcer,,True,1,2001-11,,@book?n=SU-srbmos&ed=7&vol=0#149
+S_SU_,Syphilitic Ulcer,- Gummatous Ulcer;- Hunterian (or) Hard Chancre,True,3,2001-11;1999-04;1994-04,,@book?n=SU-srbmos&ed=7&vol=0#149
