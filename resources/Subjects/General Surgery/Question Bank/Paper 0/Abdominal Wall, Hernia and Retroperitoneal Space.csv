@@ -1,7 +1,7 @@
 Id,Title,Descriptions,HasPreviouslyBeenAsked,Importance,YearsAsked,ProbableCases,References
 E_SU_,Strangulated Hernia,"- Differential Diagnosis of Inguinoscrotal Swellings
-- Management",True,1,2025-03,"A 35 year old man presented with **painful, non-reducible groin swelling** for the past 2 days.",@book?n=SU-srbmos&ed=7&vol=0#824
-S_SU_,Femoral Hernia,,True,7,2024-05;2023-03;2021-08;2020-02;2013-08;2011-02;2010-08,,@book?n=SU-srbmos&ed=7&vol=0#827
+- Management;- Complications of Inguinal Hernia- Diagnosis- Treatment",True,2,2025-03;2006-08,"A 35 year old man presented with **painful, non-reducible groin swelling** for the past 2 days.",@book?n=SU-srbmos&ed=7&vol=0#824
+S_SU_,Femoral Hernia,- Obstructed Femoral Hernia,True,9,2024-05;2023-03;2021-08;2020-02;2013-08;2011-02;2010-08;2002-03;2001-04,,@book?n=SU-srbmos&ed=7&vol=0#827
 S_SU_,Totally Extraperitoneal Hernia Repair (TEP),- Asked as a Short Answer,True,1,2023-08,,@book?n=SU-srbmos&ed=7&vol=0#822
 S_SU_,Maydl's Hernia,- Asked as a Short Answer,True,1,2022-04,,@book?n=SU-srbmos&ed=7&vol=0#824
 S_SU_,Obstructed Hernia,- Clinical Features (Asked as a Short Answer),True,1,2021-08,,@book?n=SU-srbmos&ed=7&vol=0#806
@@ -15,10 +15,10 @@ E_SU_,Obstructed Inguinal Hernia,"- Etiology
 - Pathogenesis
 - Clinical Features
 - Management",True,1,2014-02,,@book?n=SU-srbmos&ed=7&vol=0#807
-S_SU_,Epigastric Hernia (or) Fatty Hernia of Linea Alba,,True,3,2014-02;2010-02;2009-02,,@book?n=SU-srbmos&ed=7&vol=0#835
-S_SU_,Desmoid Tumour,- Asked as a Short Answer,True,3,2014-02;2012-08;2010-02,,@book?n=SU-srbmos&ed=7&vol=0#799
+S_SU_,Epigastric Hernia (or) Fatty Hernia of Linea Alba,,True,4,2014-02;2010-02;2009-02;2004-08,,@book?n=SU-srbmos&ed=7&vol=0#835
+S_SU_,Desmoid Tumour,,True,5,2014-02;2012-08;2010-02;2006-02;2001-11,,@book?n=SU-srbmos&ed=7&vol=0#799
 S_SU_,Umbilical Hernia,,True,2,2013-02;2010-02,,@book?n=SU-srbmos&ed=7&vol=0#883
-S_SU_,Spigelian Hernia,- Asked as a Short Answer,True,1,2012-08,,@book?n=SU-srbmos&ed=7&vol=0#836
+S_SU_,Spigelian Hernia,,True,2,2012-08;2005-08,,@book?n=SU-srbmos&ed=7&vol=0#836
 S_SU_,Retroperitoneal Tumours,,True,1,2012-02,,@book?n=SU-srbmos&ed=7&vol=0#774
 S_SU_,Umbilical Granuloma,- Asked as a Short Answer,True,1,2012-02,,@book?n=SU-srbmos&ed=7&vol=0#794
 S_SU_,Anatomy of Inguinal Canal,- Asked as a Short Answer,True,1,2010-08,,@book?n=SU-srbmos&ed=7&vol=0#807

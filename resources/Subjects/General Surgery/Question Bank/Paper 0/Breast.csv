@@ -10,9 +10,9 @@ E_SU_,Carcinoma Breast,"- Etiology
 - Clinical Features
 - Management;- Clinical Features
 - Pathology
-- Management",True,5,2023-08;2021-08;2015-02;2012-08;2009-02,,"@book?n=SU-srbmos&ed=7&vol=0#574,601"
-S_SU_,Phyllodes Tumour (or) Cystosarcoma Phyllodes (or) Serocystic Disease of Brodie,,True,6,2023-08;2014-08;2011-08;2010-08;2010-02;2009-02,,@book?n=SU-srbmos&ed=7&vol=0#564
-S_SU_,Nipple Retraction,- Asked as a Short Answer,True,1,2023-03,,
+- Management;- Lymphatic Drainage of Breast- Etiology- Clinical Features- Staging;- Benign Lesions- Clinical Features- Pathology- Management",True,7,2023-08;2021-08;2015-02;2012-08;2009-02;2007-02;2001-11,,"@book?n=SU-srbmos&ed=7&vol=0#574,601"
+S_SU_,Phyllodes Tumour (or) Cystosarcoma Phyllodes (or) Serocystic Disease of Brodie,,True,7,2023-08;2014-08;2011-08;2010-08;2010-02;2009-02;2003-10,,@book?n=SU-srbmos&ed=7&vol=0#564
+S_SU_,Nipple Retraction,,True,2,2023-03;2006-02,,
 E_SU_,Phyllodes Tumour (or) Cystosarcoma Phyllodes (or) Serocystic Disease of Brodie,"- Benign Breast Diseases
 - Phyllodes Tumour",True,1,2021-04,,"@book?n=SU-srbmos&ed=7&vol=0#560,564"
 S_SU_,Mammography,,True,3,2021-04;2018-08;2017-02,,@book?n=SU-srbmos&ed=7&vol=0#559
@@ -21,10 +21,11 @@ S_SU_,Gynaecomastia,,True,2,2020-08;2010-02,,@book?n=SU-srbmos&ed=7&vol=0#572
 S_SU_,Chemotherapy and Hormone Therapy for Breast Cancer,- CMF Regimen (Asked as a Short Answer);- Tamoxifen,True,2,2020-02;2017-08,,"@book?n=SU-srbmos&ed=7&vol=0#598,600"
 S_SU_,Inflammatory Carcinoma of Breast,,True,1,2018-08,,@book?n=SU-srbmos&ed=7&vol=0#602
 S_SU_,Mastalgia,,True,1,2015-02,,@book?n=SU-srbmos&ed=7&vol=0#565
-S_SU_,Fibroadenoma (or) Breast Mouse,,True,5,2014-08;2014-08;2012-08;2011-08;2008-08,,@book?n=SU-srbmos&ed=7&vol=0#560
+S_SU_,Fibroadenoma (or) Breast Mouse,,True,6,2014-08;2014-08;2012-08;2011-08;2008-08;2003-10,,@book?n=SU-srbmos&ed=7&vol=0#560
 S_SU_,QUART Therapy,- Asked as a Short Answer,True,3,2014-08;2012-08;2011-02,,@book?n=SU-srbmos&ed=7&vol=0#594
 S_SU_,Galactocele,- Asked as a Short Answer,True,1,2014-02,,@book?n=SU-srbmos&ed=7&vol=0#566
-S_SU_,Breast Abscess,,True,2,2013-02;2009-02,,@book?n=SU-srbmos&ed=7&vol=0#567
-S_SU_,Antibioma,- Asked as a Short Answer,True,2,2012-08;2009-08,,@book?n=SU-srbmos&ed=7&vol=0#569
+S_SU_,Mastitis and Breast Abscess,,True,4,2013-02;2009-02;2005-08;2004-08,,@book?n=SU-srbmos&ed=7&vol=0#567
+S_SU_,Antibioma,,True,4,2012-08;2009-08;2005-08;2001-11,,@book?n=SU-srbmos&ed=7&vol=0#569
 S_SU_,Anatomy of Breast,- Lymphatic Drainage (Asked as a Short Answer),True,1,2010-08,,@book?n=SU-srbmos&ed=7&vol=0#556
 S_SU_,Mondor's Disease,- Asked as a Short Answer,True,1,2008-08,,@book?n=SU-srbmos&ed=7&vol=0#569
+E_SU_,Fibroadenosis,"- Surgical Anatomy of Breast- Etiology- Pathology- Clinical Features- Treatment",True,1,2002-03,,@book?n=SU-srbmos&ed=7&vol=0#560

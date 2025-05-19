@@ -1,6 +1,6 @@
 Id,Title,Descriptions,HasPreviouslyBeenAsked,Importance,YearsAsked,ProbableCases,References
 S_SU_,Damage Control Surgery,,True,2,2025-03;2020-08,,@book?n=SU-srbmos&ed=7&vol=0#34
-E_SU_,Burns,"- Calculate the Burns Body Surface Area- Management;- Pathophysiology- Management of 30% BSA Burns- Post-Burns Sequelae",True,2,2024-05;2009-08,"A 40 year old female was brought to Emergency Department with burns injury of **head, neck, chest, abdomen and both upper limbs**.",@book?n=SU-srbmos&ed=7&vol=0#122
+E_SU_,Burns,"- Calculate the Burns Body Surface Area- Management;- Pathophysiology- Management of 30% BSA Burns- Post-Burns Sequelae;",True,4,2024-05;2009-08;2007-08;2005-08,"A 40 year old female was brought to Emergency Department with burns injury of **head, neck, chest, abdomen and both upper limbs**.",@book?n=SU-srbmos&ed=7&vol=0#122
 S_SU_,Diagnostic Peritoneal Lavage (DPL),,True,1,2024-03,,@book?n=SU-srbmos&ed=7&vol=0#40
 S_SU_,Blood Transfusion,- Complications;- Indications (Asked as a Short Answer);- Transfusion Reactions,True,8,2024-08;2020-08;2015-08;2015-02;2013-08;2010-02;2010-02;2008-08,,@book?n=SU-srbmos&ed=7&vol=0#98
 S_SU_,Escharotomy,- Asked as a Short Answer,True,1,2024-08,,@book?n=SU-srbmos&ed=7&vol=0#129
@@ -13,7 +13,8 @@ S_SU_,Fluid Resuscitation in Burns,- Parkland Regimen (Asked as a Short Answer),
 S_SU_,Cardiac Arrest,- Cardiopulmonary Resuscitation (CPR) (Asked as a Short Answer),True,1,2011-02,,@book?n=SU-srbmos&ed=7&vol=0#91
 S_SU_,Oxygen Therapy,- Asked as a Short Answer,True,1,2011-02,,@book?n=SU-srbmos&ed=7&vol=0#90
 S_SU_,Multiple Organ Dysfunction Syndrome (MODS),,True,1,2010-02,,@book?n=SU-srbmos&ed=7&vol=0#90
-S_SU_,Septic (or) Septicaemic Shock,,True,1,2009-08,,@book?n=SU-srbmos&ed=7&vol=0#86
+S_SU_,Septic (or) Septicaemic Shock,,True,2,2009-08;2007-08,,@book?n=SU-srbmos&ed=7&vol=0#86
 S_SU_,Rh Incompatibility,,True,1,2009-02,,
 S_SU_,Inhalational Injury,,True,1,2008-08,,@book?n=SU-srbmos&ed=7&vol=0#132
-S_SU_,Reactionary Hemorrhage,,True,1,2008-02,,
+S_SU_,Reactionary Hemorrhage,,True,2,2008-02;2005-08,,
+E_SU_,Septic Shock,"- Definition- Types of Shock- Etiology- Pathophysiology- Management",True,2,2004-08;2003-10,,@book?n=SU-srbmos&ed=7&vol=0#86

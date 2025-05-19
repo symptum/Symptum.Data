@@ -4,9 +4,9 @@ S_SU_,Diagnostic Laparoscopy,,True,1,2021-04,,@book?n=SU-srbmos&ed=7&vol=0#1235
 S_SU_,Day Case (or) Care Surgery (DCS),,True,4,2020-08;2013-08;2012-08;2010-08,,@book?n=SU-srbmos&ed=7&vol=0#1238
 S_SU_,Brachytherapy,,True,2,2020-02;2017-08,,@book?n=SU-srbmos&ed=7&vol=0#1201
 S_SU_,Neo-adjuvant Chemotherapy,,True,4,2019-08;2017-02;2014-08;2011-08,,@book?n=SU-srbmos&ed=7&vol=0#1202
-S_SU_,Magnetic Resonance Imaging (MRI),,True,3,2019-02;2013-02;2011-08,,@book?n=SU-srbmos&ed=7&vol=0#1215
+S_SU_,Magnetic Resonance Imaging (MRI),,True,4,2019-02;2013-02;2011-08;2002-03,,@book?n=SU-srbmos&ed=7&vol=0#1215
 S_SU_,Ryle's Tube,- Asked as a Short Answer,True,2,2019-02;2011-02,,@book?n=SU-srbmos&ed=7&vol=0#1225
-S_SU_,Ultrasound (USG),,True,2,2018-08;2016-08,,@book?n=SU-srbmos&ed=7&vol=0#1211
+S_SU_,Ultrasound (USG),,True,3,2018-08;2016-08;2007-08,,@book?n=SU-srbmos&ed=7&vol=0#1211
 S_SU_,Lasers in Surgery,,True,1,2017-08,,@book?n=SU-srbmos&ed=7&vol=0#1232
 S_SU_,Therapeutic Endoscopy,- Asked as a Short Answer,True,1,2017-08,,
 S_SU_,Minimal Access Surgery,,True,1,2017-02,,
@@ -17,7 +17,10 @@ S_SU_,Tracheostomy,,True,1,2013-08,,@book?n=SU-srbmos&ed=7&vol=0#1230
 S_SU_,Suture Materials,- Types (Asked as a Short Answer),True,1,2013-08,,@book?n=SU-srbmos&ed=7&vol=0#1226
 S_SU_,Postoperative Care for Abdominal Sugery,,True,1,2011-08,,@book?n=SU-srbmos&ed=7&vol=0#619
 S_SU_,Radiotherapy,- Radiosensitive Tumours (Asked as a Short Answer),True,1,2011-08,,@book?n=SU-srbmos&ed=7&vol=0#1199
-S_SU_,Laparoscopic Surgery,- Asked as a Short Answer,True,1,2011-08,,@book?n=SU-srbmos&ed=7&vol=0#1234
+S_SU_,Laparoscopic Surgery,,True,2,2011-08;2005-08,,@book?n=SU-srbmos&ed=7&vol=0#1234
 S_SU_,Radioisotopes in Diagnosis of Surgical Conditions,- Asked as a Short Answer,True,1,2009-08,,
 S_SU_,Drains,- Indications for using Romovac Suction Drain (Asked as a Short Answer),True,1,2009-02,,@book?n=SU-srbmos&ed=7&vol=0#1224
 S_SU_,Disinfection,,True,1,2008-02,,@book?n=SU-srbmos&ed=7&vol=0#1218
+S_SU_,Vasectomy,,True,1,2007-08,,@book?n=SU-srbmos&ed=7&vol=0#1229
+S_SU_,Barium Meal Study,,True,1,2004-08,,@book?n=SU-srbmos&ed=7&vol=0#874
+S_SU_,Computerized Tomography (CT) Scan,,True,1,2001-11,,@book?n=SU-srbmos&ed=7&vol=0#1213

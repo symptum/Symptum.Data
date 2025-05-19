@@ -1,17 +1,20 @@
 Id,Title,Descriptions,HasPreviouslyBeenAsked,Importance,YearsAsked,ProbableCases,References
-S_SU_,Extradural Hematoma,- Lucid Interval (Asked as a Short Answer),True,5,2024-05;2019-02;2010-02;2008-08;2008-02,,@book?n=SU-srbmos&ed=7&vol=0#1155
-S_SU_,Subdural Hematoma,,True,2,2024-03;2019-08,,@book?n=SU-srbmos&ed=7&vol=0#1156
-S_SU_,Flail Chest and Stove-In Chest,,True,9,2024-08;2023-08;2018-02;2016-02;2015-08;2014-08;2013-02;2011-08;2010-02,,@book?n=SU-srbmos&ed=7&vol=0#1174
+S_SU_,Extradural Hematoma,- Lucid Interval,True,7,2024-05;2019-02;2010-02;2008-08;2008-02;2004-08;2003-10,,@book?n=SU-srbmos&ed=7&vol=0#1155
+S_SU_,Subdural Hematoma,,True,3,2024-03;2019-08;2001-04,,@book?n=SU-srbmos&ed=7&vol=0#1156
+S_SU_,Flail Chest and Stove-In Chest,,True,10,2024-08;2023-08;2018-02;2016-02;2015-08;2014-08;2013-02;2011-08;2010-02;2003-10;2001-11,,@book?n=SU-srbmos&ed=7&vol=0#1174
 S_SU_,Battle's Sign,- Asked as a Short Answer,True,1,2024-08,,"@book?n=SU-srbmos&ed=7&vol=0#1152,1242"
 S_SU_,Pneumothorax,- Tension Pneumothorax,True,6,2022-08;2020-02;2015-08;2012-08;2010-08;2010-02,,@book?n=SU-srbmos&ed=7&vol=0#1174
 S_SU_,Diaphragmatic Hernia,,True,2,2022-08;2018-08,,@book?n=SU-srbmos&ed=7&vol=0#1187
 S_SU_,Intercostal Tub Drainage (ICD),- Indications (Asked as a Short Answer),True,1,2021-08,,@book?n=SU-srbmos&ed=7&vol=0#1179
-S_SU_,Glasgow Coma Scale (GCS),,True,7,2021-04;2018-08;2016-02;2013-08;2011-02;2010-08;2009-08,,@book?n=SU-srbmos&ed=7&vol=0#1153
+S_SU_,Glasgow Coma Scale (GCS),,True,9,2021-04;2018-08;2016-02;2013-08;2011-02;2010-08;2009-08;2007-08;2002-03,,@book?n=SU-srbmos&ed=7&vol=0#1153
 S_SU_,Hydrocephalus,- Ventriculoperitoneal Shunt,True,2,2020-11;2017-02,,@book?n=SU-srbmos&ed=7&vol=0#1159
 S_SU_,Patent Ductus Arteriosus (PDA),,True,2,2017-02;2010-08,,@book?n=SU-srbmos&ed=7&vol=0#1193
 S_SU_,Open Chest Injuries,,True,1,2014-02,,@book?n=SU-srbmos&ed=7&vol=0#1171
-S_SU_,Bronchial Cyst,,True,1,2009-08,,
+S_SU_,Bronchial Cyst,,True,2,2009-08;2001-11,,
 S_SU_,Pyothorax,- Asked as a Short Answer,True,1,2009-08,,
 S_SU_,Intracranial Aneurysm,- Berry Aneurysm,True,1,2009-08,,@book?n=SU-srbmos&ed=7&vol=0#1161
 S_SU_,Astrocytoma,,True,1,2009-02,,@book?n=SU-srbmos&ed=7&vol=0#1161
 S_SU_,Haemopneumothorax,,True,1,2009-02,,@book?n=SU-srbmos&ed=7&vol=0#1176
+S_SU_,Empyema Thoracis,,True,1,2005-08,,@book?n=SU-srbmos&ed=7&vol=0#1177
+S_SU_,Cardiac Tamponade,,True,1,2003-10,,@book?n=SU-srbmos&ed=7&vol=0#1187
+S_SU_,Coarctation of Aorta,,True,1,2002-03,,@book?n=SU-srbmos&ed=7&vol=0#1193

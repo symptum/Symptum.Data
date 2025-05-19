@@ -7,20 +7,18 @@ E_SU_,Carcinoma Stomach,"- Diagnosis
 - Classification
 - Clinical Features
 - Diagnosis
-- Management;- Definition of Early Gastric Cancer
-- Investigation
-- Management of Carcinoma of Pyloric Antrum",True,7,2025-03;2022-04;2020-02;2018-02;2013-08;2010-02;2008-08,"A 60 year old man presented with weakness and anemia, associated with **vomiting indigested food**. He has **abdominal distention**.",@book?n=SU-srbmos&ed=7&vol=0#901
+- Management;- Definition of Early Gastric Cancer- Investigation- Treatment of Carcinoma of Pyloric Antrum;- Lymphatic Drainage of Stomach- Clinical Features- Investigations- Treatment of Linitis Plastica;- Surgical Anatomy of Stomach- Etiology- Pathogenesis- Clinical Features- Investigations- Treatment",True,9,2025-03;2022-04;2020-02;2018-02;2013-08;2010-02;2008-08;2006-02;2003-10,"A 60 year old man presented with weakness and anemia, associated with **vomiting indigested food**. He has **abdominal distention**.",@book?n=SU-srbmos&ed=7&vol=0#901
 S_SU_,Upper Gastro-Intestinal Scopy (or) Gastroscopy,,True,1,2024-05,,"@book?n=SU-srbmos&ed=7&vol=0#845,875"
 S_SU_,Dumping Syndrome (or) Postcibal Syndrome,,True,2,2024-05;2020-02,,@book?n=SU-srbmos&ed=7&vol=0#896
-S_SU_,Congenital (or) Infantile Hypertrophic Pyloric Stenosis,,True,3,2024-03;2022-04;2016-02,,@book?n=SU-srbmos&ed=7&vol=0#877
+S_SU_,Congenital (or) Infantile Hypertrophic Pyloric Stenosis,,True,4,2024-03;2022-04;2016-02;2002-03,,@book?n=SU-srbmos&ed=7&vol=0#877
 S_SU_,Linitis Plastica (or) Leather Bottle Stomach,,True,3,2024-08;2013-02;2011-08,,@book?n=SU-srbmos&ed=7&vol=0#906
 S_SU_,Barret's Oesophagus,,True,2,2023-08;2021-04,,@book?n=SU-srbmos&ed=7&vol=0#852
 E_SU_,Upper Gastrointestinal (UGI) Bleeding (or) Hematemesis,"- Causes
 - Investigation
 - Treatment;- Causes of Hematemesis
-- Treatment of Oesophageal Varices",True,4,2023-03;2022-08;2018-02;2010-02,,"@book?n=SU-srbmos&ed=7&vol=0#668,858,860,878,882,887,890,893,1049"
+- Treatment of Oesophageal Varices;- Causes of Hematemesis- Management of Bleeding Peptic Ulcer",True,6,2023-03;2022-08;2018-02;2010-02;2007-08;2005-08,,"@book?n=SU-srbmos&ed=7&vol=0#668,858,860,878,882,887,890,893,1049"
 S_SU_,Gastrointestinal Stromal Tumours (GIST),,True,1,2023-03,,@book?n=SU-srbmos&ed=7&vol=0#914
-S_SU_,Plummer-Vinson (or) Paterson-Brown-Kelly Syndrome,- Asked as a Short Answer,True,1,2023-03,,@book?n=SU-srbmos&ed=7&vol=0#856
+S_SU_,Plummer-Vinson (or) Paterson-Brown-Kelly Syndrome,,True,2,2023-03;2006-08,,@book?n=SU-srbmos&ed=7&vol=0#856
 S_SU_,Gastro-Oesophageal Reflux Disease (GORD/GERD),,True,1,2022-04,,@book?n=SU-srbmos&ed=7&vol=0#846
 S_SU_,Boerhaave's Syndrome,- Asked as a Short Answer,True,1,2022-04,,@book?n=SU-srbmos&ed=7&vol=0#858
 E_SU_,Gastric Outlet Obstruction (GOO),"- Clinical Features
@@ -32,19 +30,22 @@ E_SU_,Achalasia Cardia,"- Causes for Dysphagia
 - Clinical Features
 - Management;- Motility Disorders of Oesophagus
 - Achalasia Cardia",True,2,2021-04;2017-02,,@book?n=SU-srbmos&ed=7&vol=0#853
-S_SU_,Helicobacter pylori,,True,2,2020-11;2018-08,,@book?n=SU-srbmos&ed=7&vol=0#876
+S_SU_,Helicobacter pylori,,True,3,2020-11;2018-08;2002-03,,@book?n=SU-srbmos&ed=7&vol=0#876
 S_SU_,Gastric Volvulus,- Asked as a Short Answer,True,1,2020-11,,@book?n=SU-srbmos&ed=7&vol=0#899
 S_SU_,Metabolic Complications of Gastric Outlet Obstruction,,True,1,2019-08,,@book?n=SU-srbmos&ed=7&vol=0#886
 S_SU_,Anatomy of Stomach,- Blood Supply of Stomach (Asked as a Short Answer),True,1,2019-02,,@book?n=SU-srbmos&ed=7&vol=0#871
-S_SU_,Gastrectomy,- Billroth II Gastrectomy (Asked as a Short Answer),True,1,2017-08,,@book?n=SU-srbmos&ed=7&vol=0#916
+S_SU_,Gastrectomy,- Billroth II Gastrectomy (Asked as a Short Answer);- Complications,True,2,2017-08;2001-04,,@book?n=SU-srbmos&ed=7&vol=0#916
 E_SU_,Perforated Peptic Ulcer,"- Complications of Acid Peptic Disease
-- Perforated Peptic Ulcer",True,1,2017-08,,"@book?n=SU-srbmos&ed=7&vol=0#881,882,886"
+- Perforated Peptic Ulcer;- Surgical Anatomy of Duodenum- Clinical Features- Investigations- Management of Perforated Duodenal Ulcer",True,2,2017-08;2001-11,,"@book?n=SU-srbmos&ed=7&vol=0#881,882,886"
 S_SU_,Upper Gastrointestinal (UGI) Bleeding (or) Hematemesis,,True,2,2016-08;2009-08,,@book?n=SU-srbmos&ed=7&vol=0#893
 S_SU_,Etiology of Carcinoma Stomach,,True,1,2015-02,,@book?n=SU-srbmos&ed=7&vol=0#902
 S_SU_,Early Stomach Cancer,,True,1,2014-02,,@book?n=SU-srbmos&ed=7&vol=0#903
 S_SU_,Vagotomy,- Complications,True,1,2013-08,,@book?n=SU-srbmos&ed=7&vol=0#917
 S_SU_,Chronic Duodenal Ileus (or) Wilkie's Syndrome,- Asked as a Short Answer,True,1,2013-08,,@book?n=SU-srbmos&ed=7&vol=0#898
-S_SU_,Achalasia Cardia,,True,1,2011-08,,@book?n=SU-srbmos&ed=7&vol=0#853
-S_SU_,Complications of Gastric Ulcer,- Hour Glass Stomach (Asked as a Short Answer),True,1,2011-08,,@book?n=SU-srbmos&ed=7&vol=0#881
+S_SU_,Achalasia Cardia,,True,3,2011-08;2006-02;2005-08,,@book?n=SU-srbmos&ed=7&vol=0#853
+S_SU_,Complications of Peptic Ulcer,- Hour Glass Stomach (Asked as a Short Answer),True,2,2011-08;2006-02,,@book?n=SU-srbmos&ed=7&vol=0#881
 S_SU_,Perforated Duodenal Ulcer,- Stages of Peritonitis (Asked as a Short Answer),True,1,2011-08,,@book?n=SU-srbmos&ed=7&vol=0#887
 S_SU_,Hiatus Hernia,,True,2,2008-08;2008-02,,@book?n=SU-srbmos&ed=7&vol=0#850
+E_SU_,Chronic Duodenal Ulcer,"- Complications- Clinical Features- Investigations- Management",True,1,2007-02,,@book?n=SU-srbmos&ed=7&vol=0#882
+E_SU_,Carcinoma Oesophagus,"- Etiology- Clinical Features- Diagnosis- Management",True,1,2003-10,,@book?n=SU-srbmos&ed=7&vol=0#860
+E_SU_,Benign Gastric Ulcer,"- Surgical Anatomy of Stomach- Etiology- Pathogenesis- Clinical Features- Investigations- Treatment",True,1,2002-03,,@book?n=SU-srbmos&ed=7&vol=0#879
