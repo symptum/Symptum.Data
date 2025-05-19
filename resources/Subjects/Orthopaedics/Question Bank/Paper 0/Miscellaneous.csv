@@ -2,4 +2,15 @@ Id,Title,Descriptions,HasPreviouslyBeenAsked,Importance,YearsAsked,ProbableCases
 S_OR_,Diaphyseal Aclasis (or) Multiple Exostoses,,True,1,2024-05,,@book?n=OR-mahesh&ed=7&vol=0#308
 S_OR_,Fluorosis,,True,1,2024-05,,@book?n=OR-mahesh&ed=7&vol=0#304
 S_OR_,Carpal Tunnel Syndrome,,True,1,2024-08,,@book?n=OR-mahesh&ed=7&vol=0#295
-S_OR_,Trigger Finger,- Asked as a Short Answer,True,1,2024-08,,@book?n=OR-mahesh&ed=7&vol=0#295
+S_OR_,Trigger Finger,,True,2,2024-08;2020-02,,@book?n=OR-mahesh&ed=7&vol=0#295
+S_OR_,Golfer's Elbow (or) Medial Epicondylitis,- Asked as a Short Answer,True,1,2023-08,,@book?n=OR-mahesh&ed=7&vol=0#295
+S_OR_,Tennis Elbow (or) Lateral Epicondylitis,,True,4,2022-08;2020-02;2019-08;2017-02,,@book?n=OR-mahesh&ed=7&vol=0#294
+S_OR_,Gout,- Crystal Arthropathy (Asked as a Short Answer),True,2,2022-04;2021-04,,@book?n=OR-mahesh&ed=7&vol=0#286
+S_OR_,Management of Rickets,,True,1,2022-04,,@book?n=OR-mahesh&ed=7&vol=0#302
+S_OR_,Genu Valgum (or) Knock Knees,,True,1,2021-04,,@book?n=OR-mahesh&ed=7&vol=0#315
+S_OR_,Slipped Capital Femoral Epiphysis,,True,1,2020-02,,@book?n=OR-mahesh&ed=7&vol=0#314
+S_OR_,Total Hip Replacement,- Asked as a Short Answer,True,1,2019-08,,@book?n=OR-mahesh&ed=7&vol=0#330
+S_OR_,Synovial Chondromatosis,- Asked as a Short Answer,True,1,2019-08,,
+E_OR_,Osteoarthritis (OA),"- Clinical Examination- Investigations- Treatment of OA Knee",True,1,2019-02,A **65 year old obese individual** has come with complaints of **pain** in both knees.,@book?n=OR-mahesh&ed=7&vol=0#288
+S_OR_,Paget's Disease (or) Osteitis Deformans,,True,1,2019-02,,@book?n=OR-mahesh&ed=7&vol=0#308
+S_OR_,Pes Cavus (or) High Arched Foot,- Asked as a Short Answer,True,1,2018-08,,

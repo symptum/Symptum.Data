@@ -1,1 +1,15 @@
 Id,Title,Descriptions,HasPreviouslyBeenAsked,Importance,YearsAsked,ProbableCases,References
+S_OR_,Compartment Syndrome,,True,3,2023-08;2020-11;2018-02,,@book?n=OR-mahesh&ed=7&vol=0#47
+S_OR_,Anatomy of Bones,- Blood Supply of Long Bones,True,1,2023-08,,@book?n=OR-mahesh&ed=7&vol=0#8
+S_OR_,Plaster of Paris (POP),- Asked as a Short Answer,True,1,2023-03,,@book?n=OR-mahesh&ed=7&vol=0#18
+S_OR_,Seddon's Classification of Nerve Injuries,- Asked as a Short Answer,True,2,2023-03;2017-08,,@book?n=OR-mahesh&ed=7&vol=0#63
+S_OR_,Non-union,,True,1,2022-08,,@book?n=OR-mahesh&ed=7&vol=0#48
+S_OR_,Ulnar Claw Hand,,True,1,2022-08,,"@book?n=OR-mahesh&ed=7&vol=0#63,66"
+S_OR_,Epiphyseal Injuries,- Thurston Holland Sign (Asked as a Short Answer),True,4,2022-04;2021-08;2020-08;2017-02,,@book?n=OR-mahesh&ed=7&vol=0#58
+E_OR_,Open (or) Compound Fracture,"- Definition- Classification- Investigations- Management",True,1,2021-04,,"@book?n=OR-mahesh&ed=7&vol=0#2,21"
+S_OR_,Ulnar Paradox,- Asked as a Short Answer,True,1,2021-04,,@book?n=OR-mahesh&ed=7&vol=0#64
+S_OR_,Radial Nerve Injury (or) Wrist Drop,- Cock-up Splint (Asked as a Short Answer),True,3,2020-11;2020-02;2018-02,,"@book?n=OR-mahesh&ed=7&vol=0#63,65"
+S_OR_,Green Stick Fracture,- Asked as a Short Answer,True,1,2020-11,,@book?n=OR-mahesh&ed=7&vol=0#58
+S_OR_,Myositis Ossificans (or) Post-Traumatic Ossification,,True,2,2020-08;2017-08,,@book?n=OR-mahesh&ed=7&vol=0#52
+E_OR_,Road Traffic Accident,"- Examination- Assessment- Immediate Resuscitation",True,1,2019-08,,@book?n=OR-mahesh&ed=7&vol=0#14
+S_OR_,Volkmann's Ischemic Contracture,,True,1,2017-02,,@book?n=OR-mahesh&ed=7&vol=0#98

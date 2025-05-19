@@ -1,4 +1,10 @@
 Id,Title,Descriptions,HasPreviouslyBeenAsked,Importance,YearsAsked,ProbableCases,References
-S_OR_,Radiological Features of Tuberculosis of the Spine (or) Pott's Disease,,True,1,2024-05,,@book?n=OR-mahesh&ed=7&vol=0#183
-S_OR_,Brodie's Abscess,,True,1,2024-03,,@book?n=OR-mahesh&ed=7&vol=0#173
+S_OR_,Tuberculosis of the Spine (or) Pott's Disease,- Radiological Features,True,3,2024-05;2023-08;2021-04,,@book?n=OR-mahesh&ed=7&vol=0#183
+S_OR_,Brodie's Abscess,,True,2,2024-03;2020-08,,@book?n=OR-mahesh&ed=7&vol=0#173
 S_OR_,Sequestrum,- Asked as a Short Answer,True,1,2024-08,,@book?n=OR-mahesh&ed=7&vol=0#170
+E_OR_,Acute Osteomyelitis,"- Etiology- Pathogenesis- Clinical Features- Investigations- Treatment",True,1,2023-03,,@book?n=OR-mahesh&ed=7&vol=0#166
+S_OR_,Garre's Osteomyelitis,- Asked as a Short Answer,True,2,2022-04;2021-08,,@book?n=OR-mahesh&ed=7&vol=0#173
+S_OR_,Tuberculosis of the Knee,,True,1,2020-08,,@book?n=OR-mahesh&ed=7&vol=0#197
+E_OR_,Tuberculosis of the Spine (or) Pott's Disease,"- Differential Diagnosis- Etiology- Pathogenesis- Clinical Features- Radiological Features- Investigations- Treatment- Complications",True,1,2018-08,,@book?n=OR-mahesh&ed=7&vol=0#183
+S_OR_,Tuberculosis of the Hip,- Deformities (Asked as a Short Answer),True,2,2018-02;2017-02,,@book?n=OR-mahesh&ed=7&vol=0#192
+E_OR_,Chronic Osteomyelitis,"- Etiology- Pathogenesis- Clinical Features- Management- Complications",True,1,2017-08,,@book?n=OR-mahesh&ed=7&vol=0#170
