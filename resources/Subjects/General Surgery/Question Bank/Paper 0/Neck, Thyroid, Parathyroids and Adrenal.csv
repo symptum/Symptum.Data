@@ -1,0 +1,56 @@
+Id,Title,Descriptions,HasPreviouslyBeenAsked,Importance,YearsAsked,ProbableCases,References
+S_SU_,Primary Hyperparathyroidism (or) Parathyroid Adenoma,- Technetium-99m Labelled Sestamibi Isotope Scan (Asked as a Short Answer);- Causes of Hypercalcaemia (Asked as a Short Answer);- Differential Diagnosis,True,5,2025-03;2023-03;2009-08;2002-03;2001-04,,"@book?n=SU-srbmos&ed=7&vol=0#542,544"
+S_SU_,Branchial Cyst,,True,4,2025-03;2017-02;2011-02;2010-08,,@book?n=SU-srbmos&ed=7&vol=0#445
+S_SU_,Management of Toxic Nodular Goitre,,True,1,2024-05,,@book?n=SU-srbmos&ed=7&vol=0#508
+S_SU_,Carotid Body Tumour (or) Potato Tumor (or) Chemodectoma (or) Nonchromaffin Paraganglioma,,True,3,2024-03;2018-08;2001-04,,@book?n=SU-srbmos&ed=7&vol=0#453
+S_SU_,Tuberculous Cervical Lymphadenitis,,True,6,2023-03;2014-08;2011-02;2009-02;2008-02;1991-01,,@book?n=SU-srbmos&ed=7&vol=0#457
+S_SU_,Retrosternal Goitre,,True,3,2023-08;2017-08;2007-02,,@book?n=SU-srbmos&ed=7&vol=0#506
+S_SU_,Complications of Thyroidectomy,,True,4,2023-03;2013-02;2010-08;2004-08,,@book?n=SU-srbmos&ed=7&vol=0#533
+S_SU_,Phaeochromocytoma,,True,2,2023-03;2007-08,,@book?n=SU-srbmos&ed=7&vol=0#553
+E_SU_,Thyrotoxicosis (or) Hyperthyroidism,"- Definition of Goitre
+- Clinical Features
+- Management of Primary Thyrotoxicosis;- Etiology
+- Clinical Features
+- Investigations
+- Treatment of Grave's Disease;- Classification of Goitre- Etiology- Pathogenesis- Clinical Features- Management- Complications of Thyroidectomy;- Classification of Goitre- Clinical Features- Investigations- Treatment of Secondary Thyrotoxicosis",True,9,2022-04;2020-08;2018-08;2011-02;2006-08;2001-04;1998-10;1994-11;1992-04,,@book?n=SU-srbmos&ed=7&vol=0#508
+S_SU_,Radioisotope Thyroid Scan,- Asked as a Short Answer,True,1,2022-04,,@book?n=SU-srbmos&ed=7&vol=0#513
+S_SU_,Role of Ultrasound in Thyroid,,True,1,2021-08,,@book?n=SU-srbmos&ed=7&vol=0#504
+S_SU_,Thyroid Function Test,- Asked as a Short Answer,True,1,2021-08,,@book?n=SU-srbmos&ed=7&vol=0#498
+S_SU_,Multiple Endocrine Neoplasia (MEN),- Asked as a Short Answer;- MEN Type II (Asked as a Short Answer),True,2,2021-04;2009-08,,@book?n=SU-srbmos&ed=7&vol=0#547
+E_SU_,Papillary Carcinoma of Thyroid,"- Classification of Thyroid Neoplasms
+- Clinical Features
+- Diagnosis
+- Management",True,2,2020-11;1990-12,,"@book?n=SU-srbmos&ed=7&vol=0#517,518"
+E_SU_,Medullary Carcinoma of Thyroid,"- Classification of Goitre
+- Clinical Features
+- Management",True,1,2020-08,,"@book?n=SU-srbmos&ed=7&vol=0#499,526"
+S_SU_,Thyroiditis,- Hashimoto's Thyroiditis;- Riedel's (or) Woody (or) Ligneous Thyroiditis,True,9,2020-08;2019-02;2015-08;2011-08;2007-02;2006-08;2004-08;2004-08;1994-04,,@book?n=SU-srbmos&ed=7&vol=0#528
+S_SU_,Tetany,- Asked as a Short Answer,True,2,2020-02;2011-08,,@book?n=SU-srbmos&ed=7&vol=0#548
+S_SU_,Cystic Hygroma (or) Cavernous Lymphangioma,,True,10,2020-02;2017-02;2015-08;2011-02;2010-02;2004-08;1999-10;1999-04;1996-04;1990-12,,@book?n=SU-srbmos&ed=7&vol=0#449
+S_SU_,Cold Abscess (or) Collar Stud Abscess,,True,10,2019-02;2014-08;2012-08;2007-02;2004-08;2002-03;2001-11;1998-10;1998-04;1996-10,,"@book?n=SU-srbmos&ed=7&vol=0#181,458,460"
+S_SU_,Solitary Nodular Goitre (SNG),- Hot Nodule,True,5,2019-02;2014-08;2010-08;2005-08;1997-10,,@book?n=SU-srbmos&ed=7&vol=0#503
+S_SU_,Ludwig's Angina,,True,4,2018-08;2013-02;2005-08;2002-03,,@book?n=SU-srbmos&ed=7&vol=0#451
+S_SU_,Clinical Features of Thyrotoxicosis,- Pretibial Myxoedema (Asked as a Short Answer);- Exophthalmos (Asked as a Short Answer),True,4,2018-08;2015-02;2014-02;2013-08,,"@book?n=SU-srbmos&ed=7&vol=0#509,511,512"
+S_SU_,Thyroglossal Cyst,,True,10,2018-02;2014-02;2013-08;2012-08;2011-02;2009-02;2008-08;2001-11;1999-10;1997-10;1992-04;1990-12,,@book?n=SU-srbmos&ed=7&vol=0#496
+S_SU_,Radioactive Iodine,,True,5,2017-02;2015-08;2012-08;2011-02;1999-04,,@book?n=SU-srbmos&ed=7&vol=0#516
+E_SU_,Multinodular Goitre (MNG),"- Clinical Features
+- Management",True,2,2014-08;2011-08,,@book?n=SU-srbmos&ed=7&vol=0#500
+S_SU_,Thyroid Crisis (or) Storm,,True,1,2014-02,,@book?n=SU-srbmos&ed=7&vol=0#533
+S_SU_,Lateral Aberrant Thyroid,- Asked as a Short Answer,True,1,2013-08,,@book?n=SU-srbmos&ed=7&vol=0#498
+S_SU_,Lingual Thyroid,- Asked as a Short Answer,True,3,2012-08;2012-02;2011-02,,@book?n=SU-srbmos&ed=7&vol=0#495
+E_SU_,Secondaries in Neck Lymph Nodes,"- Clinical Features
+- Management",True,1,2011-08,,@book?n=SU-srbmos&ed=7&vol=0#461
+S_SU_,Antithyroid Drugs,- Asked as a Short Answer,True,1,2011-02,,@book?n=SU-srbmos&ed=7&vol=0#513
+S_SU_,Anatomy of Neck,- Branches of External Carotid Artery (Asked as a Short Answer),True,1,2010-08,,
+S_SU_,Branchial Fistula,,True,1,2010-02,,@book?n=SU-srbmos&ed=7&vol=0#446
+E_SU_,Primary Hyperparathyroidism (or) Parathyroid Adenoma,"- Etiology
+- Pathogenesis
+- Clinical Features
+- Management",True,1,2009-02,,@book?n=SU-srbmos&ed=7&vol=0#541
+E_SU_,Solitary Nodular Goitre (SNG),"- Surgical Anatomy of Thyroid- Etiology- Clinical Features- Management",True,1,2007-08,,@book?n=SU-srbmos&ed=7&vol=0#503
+S_SU_,Apudomas (or) APUD Cell Tumours,,True,2,2006-02;1995-11,,"@book?n=SU-srbmos&ed=7&vol=0#547,765"
+S_SU_,Papillary Carcinoma of Thyroid,,True,1,2002-03,,@book?n=SU-srbmos&ed=7&vol=0#518
+S_SU_,Cervical Rib,,True,2,2001-11;1994-11,,@book?n=SU-srbmos&ed=7&vol=0#442
+S_SU_,Conn's Syndrome,,True,1,2000-04,,@book?n=SU-srbmos&ed=7&vol=0#551
+S_SU_,Thyroid Malignancy,"- Etiology- Pathogenesis- Clinical Features- Investigations- Treatment",True,1,1997-04,,@book?n=SU-srbmos&ed=7&vol=0#517
+S_SU_,Pharyngeal Pouch (or) Zenker's Diverticulum,,True,1,1995-11,,@book?n=SU-srbmos&ed=7&vol=0#447

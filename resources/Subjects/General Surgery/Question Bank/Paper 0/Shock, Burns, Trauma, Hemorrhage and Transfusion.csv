@@ -1,0 +1,25 @@
+Id,Title,Descriptions,HasPreviouslyBeenAsked,Importance,YearsAsked,ProbableCases,References
+S_SU_,Damage Control Surgery,,True,2,2025-03;2020-08,,@book?n=SU-srbmos&ed=7&vol=0#34
+E_SU_,Burns,"- Calculate the Burns Body Surface Area- Management;- Pathophysiology- Management of 30% BSA Burns- Post-Burns Sequelae",True,5,2024-05;2009-08;2007-08;2005-08;2000-10,"A 40 year old female was brought to Emergency Department with burns injury of **head, neck, chest, abdomen and both upper limbs**.;A 40 year old man was brought with 50% partial thickness burns with deep circumferential burns of right upper limb.",@book?n=SU-srbmos&ed=7&vol=0#122
+S_SU_,Diagnostic Peritoneal Lavage (DPL),,True,1,2024-03,,@book?n=SU-srbmos&ed=7&vol=0#40
+S_SU_,Blood Transfusion,- Complications;- Indications (Asked as a Short Answer);- Transfusion Reactions,True,9,2024-08;2020-08;2015-08;2015-02;2013-08;2010-02;2010-02;2008-08;1998-04,,@book?n=SU-srbmos&ed=7&vol=0#98
+S_SU_,Escharotomy,- Asked as a Short Answer,True,1,2024-08,,@book?n=SU-srbmos&ed=7&vol=0#129
+S_SU_,Systemic Inflammatory Response Syndrome (SIRS),,True,2,2023-08;2019-02,,@book?n=SU-srbmos&ed=7&vol=0#90
+E_SU_,Hypovolaemic Shock,"- Definition and Classification of Shock- Clinical Features- Investigations- Management;- Etiology- Pathogenesis- Clinical Features- Management",True,3,2023-03;2022-08;2016-08,,"@book?n=SU-srbmos&ed=7&vol=0#83,87"
+S_SU_,Causes of Acute Kidney Injury in Surgical Wards,- Asked as a Short Answer,True,1,2023-03,,@book?n=SU-srbmos&ed=7&vol=0#90
+S_SU_,Focused Assessment with Sonography in Trauma (FAST),- Asked as a Short Answer,True,1,2020-11,,@book?n=SU-srbmos&ed=7&vol=0#40
+S_SU_,Electrical Burns,,True,1,2017-02,,@book?n=SU-srbmos&ed=7&vol=0#131
+S_SU_,Fluid Resuscitation in Burns,- Parkland Regimen (Asked as a Short Answer),True,2,2013-08;2011-08,,@book?n=SU-srbmos&ed=7&vol=0#127
+S_SU_,Cardiac Arrest,- Cardiopulmonary Resuscitation (CPR),True,5,2011-02;1998-10;1997-10;1995-11;1993-04,,@book?n=SU-srbmos&ed=7&vol=0#91
+S_SU_,Oxygen Therapy,- Asked as a Short Answer,True,1,2011-02,,@book?n=SU-srbmos&ed=7&vol=0#90
+S_SU_,Multiple Organ Dysfunction Syndrome (MODS),,True,1,2010-02,,@book?n=SU-srbmos&ed=7&vol=0#90
+S_SU_,Septic (or) Septicaemic Shock,,True,2,2009-08;2007-08,,@book?n=SU-srbmos&ed=7&vol=0#86
+S_SU_,Rh Incompatibility,,True,1,2009-02,,
+S_SU_,Inhalational Injury,,True,1,2008-08,,@book?n=SU-srbmos&ed=7&vol=0#132
+S_SU_,Reactionary Hemorrhage,,True,2,2008-02;2005-08,,@book?n=SU-srbmos&ed=7&vol=0#93
+E_SU_,Septic Shock,"- Definition- Types of Shock- Etiology- Pathophysiology- Management",True,2,2004-08;2003-10,,@book?n=SU-srbmos&ed=7&vol=0#86
+S_SU_,Radiation Burns,,True,1,1999-04,,
+S_SU_,Blast Injuries,,True,1,1993-01,,@book?n=SU-srbmos&ed=7&vol=0#36
+E_SU_,Hemorrhage,"- Classification- Treatment",True,1,1992-04,,@book?n=SU-srbmos&ed=7&vol=0#93
+S_SU_,Classification of Burns,,True,1,1992-04,,@book?n=SU-srbmos&ed=7&vol=0#122
+S_SU_,Central Venous Pressure (CVP),,True,1,1990-12,,@book?n=SU-srbmos&ed=7&vol=0#89

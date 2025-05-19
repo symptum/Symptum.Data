@@ -1,0 +1,36 @@
+Id,Title,Descriptions,HasPreviouslyBeenAsked,Importance,YearsAsked,ProbableCases,References
+S_SU_,Meckel's Diverticulum,,True,10,2025-03;2024-03;2019-08;2018-02;2012-08;2004-08;2001-11;1999-10;1999-04;1994-04;1992-04,,@book?n=SU-srbmos&ed=7&vol=0#920
+S_SU_,Intussusception,,True,7,2024-03;2015-02;2014-02;2012-08;2008-08;2003-10;2001-04,,@book?n=SU-srbmos&ed=7&vol=0#987
+S_SU_,Clinical Features and Management of Ulcerative Colitis,,True,1,2024-03,,@book?n=SU-srbmos&ed=7&vol=0#951
+S_SU_,Carcinoid Tumours (or) Neuroendocrine Tumours,- Carcinoid Tumour of Appendix,True,10,2024-03;2022-04;2021-08;2018-02;2014-08;2013-02;2007-02;2003-10;2001-11;1997-04;1993-11,,@book?n=SU-srbmos&ed=7&vol=0#935
+S_SU_,Capsule Endoscopy,- Asked as a Short Answer,True,1,2023-03,,@book?n=SU-srbmos&ed=7&vol=0#938
+S_SU_,Hirschsprung's Disease (or) Congenital Megacolon,,True,2,2022-08;1996-10,,@book?n=SU-srbmos&ed=7&vol=0#945
+S_SU_,Hereditary Non-Polyposis Colon Cancer (HNPCC) (or) Lynch Syndrome,- Asked as a Short Answer,True,1,2022-08,,@book?n=SU-srbmos&ed=7&vol=0#960
+E_SU_,Sigmoid Volvulus,"- Causes of Acute Intestinal Obstruction
+- Etiology
+- Pathogenesis
+- Clinical Features
+- Management",True,2,2020-11;2014-02,,"@book?n=SU-srbmos&ed=7&vol=0#976,990"
+S_SU_,Peutz-Jegher's Syndrome,- Asked as a Short Answer,True,2,2020-02;2006-08,,@book?n=SU-srbmos&ed=7&vol=0#957
+E_SU_,Carcinoma Colon,"- Etiology
+- Clinical Features
+- Management;- Differential Diagnosis of Mass in Right Iliac Fossa- Clinical Features- Diagnosis- Management of Carcinoma Caecum",True,2,2018-08;2004-08,,"@book?n=SU-srbmos&ed=7&vol=0#787,959"
+S_SU_,Crohn's Disease (or) Regional Enteritis,,True,1,2018-08,,@book?n=SU-srbmos&ed=7&vol=0#922
+S_SU_,Premalignant Lesions of Colon and Rectum,,True,1,2017-02,,@book?n=SU-srbmos&ed=7&vol=0#958-960
+S_SU_,Colonoscopy,,True,2,2016-02;2010-02,,@book?n=SU-srbmos&ed=7&vol=0#1015
+E_SU_,Intestinal Obstruction,"- Causes
+- Management;- Etiology
+- Pathogenesis
+- Clinical Features
+- Management of Acute Intestinal Obstruction",True,2,2016-02;2010-08,,@book?n=SU-srbmos&ed=7&vol=0#976
+S_SU_,Colostomy,- Temporary Colostomy (Asked as a Short Answer),True,3,2014-08;2009-08;1998-10,,@book?n=SU-srbmos&ed=7&vol=0#969
+S_SU_,Enteric (or) Gastrointestinal Fistula,- Orocutaneous Fistula (Asked as a Short Answer);- Duodenal Fistula,True,2,2012-02;2001-11,,@book?n=SU-srbmos&ed=7&vol=0#939
+S_SU_,Tumors (or) Polyps of Colon,,True,3,2011-02;2007-02;2006-02,,@book?n=SU-srbmos&ed=7&vol=0#957
+S_SU_,Paralytic Ileus (or) Adynamic Intestinal Obstruction,- Treatment (Asked as a Short Answer),True,1,2010-08,,@book?n=SU-srbmos&ed=7&vol=0#992
+S_SU_,Intestinal Pseudo-Obstruction (IPO),,True,1,2009-08,,
+S_SU_,Surgical Complications of Enteric Fever (or) Typhoid,- Asked as a Short Answer,True,2,2009-08;2008-08,,@book?n=SU-srbmos&ed=7&vol=0#925
+S_SU_,Sigmoid Volvulus,- Predisposing Factors (Asked as a Short Answer);- Ileosigmoid Knotting,True,2,2008-08;1995-11,,@book?n=SU-srbmos&ed=7&vol=0#990
+S_SU_,Barium Enema,,True,1,2003-10,,@book?n=SU-srbmos&ed=7&vol=0#974
+S_SU_,Familial Adenomatous Polyposis (FAP),,True,1,1998-04,,@book?n=SU-srbmos&ed=7&vol=0#958
+E_SU_,Intussusception,"- Differential Diagnosis of Acute Abdomen- Clinical Features- Investigations- Treatment",True,1,1997-10,,@book?n=SU-srbmos&ed=7&vol=0#987
+S_SU_,Duke's Staging of Colorectal Cancer,,True,1,1990-12,,@book?n=SU-srbmos&ed=7&vol=0#962
