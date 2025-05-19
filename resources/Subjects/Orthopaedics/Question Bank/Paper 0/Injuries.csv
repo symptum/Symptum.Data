@@ -1,0 +1,15 @@
+Id,Title,Descriptions,HasPreviouslyBeenAsked,Importance,YearsAsked,ProbableCases,References
+S_OR_,Fractures of the Patella,,True,1,2025-03,,@book?n=OR-mahesh&ed=7&vol=0#145
+E_OR_,Supracondylar Fracture of Humerus,"- Probable Diagnosis
+- Clinical Diagnosis
+- Investigations
+- Treatment
+- Complications",True,1,2024-05,"An 8 year old boy sustained a **fall on the out-stretched hand** and sustained injury near the elbow presenting with **pain, swelling and S shaped deformity** near the elbow.",@book?n=OR-mahesh&ed=7&vol=0#94
+E_OR_,Fracture of the Proximal Humerus,"- Mechanism of Injury
+- Clinical Features
+- Investigations
+- Classification
+- Treatment",True,1,2024-03,,@book?n=OR-mahesh&ed=7&vol=0#90
+S_OR_,Colles' Fracture,"- Probable Diagnosis- Investigations- Immediate Management- Treatment- Complications",True,1,2024-03,"A 60 year old female had a **fall and pain, swelling over the wrist with difficulty in using it**.",@book?n=OR-mahesh&ed=7&vol=0#109
+E_OR_,Colles' Fracture,"- Fractures Occurring due to Fall on Outstretched Hand- Clinical Features- Investigations- Treatment- Complications",True,1,2024-08,,@book?n=OR-mahesh&ed=7&vol=0#109
+S_OR_,Scaphoid Fracture,,True,1,2024-08,,@book?n=OR-mahesh&ed=7&vol=0#112

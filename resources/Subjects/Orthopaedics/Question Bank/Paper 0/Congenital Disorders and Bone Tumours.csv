@@ -1,0 +1,15 @@
+Id,Title,Descriptions,HasPreviouslyBeenAsked,Importance,YearsAsked,ProbableCases,References
+E_OR_,Congenital Dislocation of Hip (CDH) (or) Developmental Dysplasia of Hip (DDH),"- Etiology
+- Pathogenesis
+- Clinical Features
+- Radiological Features
+- Management",True,1,2025-03,,@book?n=OR-mahesh&ed=7&vol=0#214
+S_OR_,Congenital Talipes Equino Varus (CTEV),,True,1,2025-03,,@book?n=OR-mahesh&ed=7&vol=0#206
+S_OR_,Radiological Features of Giant Cell Tumour (or) Osteoclastoma,,True,1,2025-03,,@book?n=OR-mahesh&ed=7&vol=0#232
+E_OR_,Osteosarcoma,"- Classification of Bone Malignancies
+- Etiology
+- Pathogenesis
+- Clinical Features
+- Radiological Features",True,1,2024-05,,@book?n=OR-mahesh&ed=7&vol=0#234
+S_OR_,Radiological Features of Osteosarcoma,,True,1,2024-03,,@book?n=OR-mahesh&ed=7&vol=0#234
+S_OR_,Osteochondroma,,True,1,2024-08,,@book?n=OR-mahesh&ed=7&vol=0#242
