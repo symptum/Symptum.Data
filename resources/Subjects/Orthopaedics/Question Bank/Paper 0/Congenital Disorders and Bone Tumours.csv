@@ -4,22 +4,22 @@ E_OR_,Congenital Dislocation of Hip (CDH) (or) Developmental Dysplasia of Hip (D
 - Clinical Features
 - Radiological Features
 - Management",True,1,2025-03,,@book?n=OR-mahesh&ed=7&vol=0#214
-S_OR_,Congenital Talipes Equino Varus (CTEV) (or) Club Foot,- Deformities (Asked as a Short Answer);- CTEV Shoe (Asked as a Short Answer),True,10,2025-03;2023-08;2021-08;2017-08;2017-02;2014-02;2013-08;2012-08;2010-02;2009-02;2006-08;2003-10;2002-03,,@book?n=OR-mahesh&ed=7&vol=0#206
-S_OR_,Giant Cell Tumour (or) Osteoclastoma,- Radiological Features;- Clinical Features (Asked as a Short Answer),True,8,2025-03;2020-02;2013-08;2012-08;2010-02;2009-02;2004-08;2001-04,,@book?n=OR-mahesh&ed=7&vol=0#232
+S_OR_,Congenital Talipes Equino Varus (CTEV) (or) Club Foot,- Deformities (Asked as a Short Answer);- CTEV Shoe (Asked as a Short Answer),True,10,2025-03;2023-08;2021-08;2017-08;2017-02;2014-02;2013-08;2012-08;2010-02;2009-02;2006-08;2003-10;2002-03;2000-10;1999-10,,@book?n=OR-mahesh&ed=7&vol=0#206
+S_OR_,Giant Cell Tumour (or) Osteoclastoma,- Radiological Features;- Clinical Features (Asked as a Short Answer),True,10,2025-03;2020-02;2013-08;2012-08;2010-02;2009-02;2004-08;2001-04;1993-01;1991-12,,@book?n=OR-mahesh&ed=7&vol=0#232
 E_OR_,Osteosarcoma (or) Osteogenic Sarcoma,"- Classification of Bone Malignancies
 - Etiology
 - Pathogenesis
 - Clinical Features
-- Radiological Features;- Definition- Etiology- Pathology- Pathogenesis- Clinical Features- Investigations- Complications- Treatment",True,6,2024-05;2023-08;2017-02;2015-08;2011-02;2007-02,,@book?n=OR-mahesh&ed=7&vol=0#234
+- Radiological Features;- Definition- Etiology- Pathology- Pathogenesis- Clinical Features- Investigations- Complications- Treatment;- Classification of Bone Tumours- Clinical Features- Investigations- Treatment- Radiological Features of Osteosarcoma vs Osteoclastoma",True,8,2024-05;2023-08;2017-02;2015-08;2011-02;2007-02;1997-10;1996-10,,@book?n=OR-mahesh&ed=7&vol=0#234
 S_OR_,Osteosarcoma (or) Osteogenic Sarcoma,- Radiological Features: Codman's Triangle,True,8,2024-03;2017-08;2014-02;2013-02;2012-08;2012-02;2010-08;2008-08,,@book?n=OR-mahesh&ed=7&vol=0#234
-S_OR_,Osteochondroma,,True,6,2024-08;2023-03;2022-08;2018-02;2014-02;2007-08,,@book?n=OR-mahesh&ed=7&vol=0#242
-S_OR_,Clinical Features of Congenital Dislocation of Hip (CDH) (or) Developmental Dysplasia of Hip (DDH),- Galeazzi Test (or) Sign (Asked as a Short Answer);- Ortolani Test,True,6,2022-08;2020-08;2016-02;2013-08;2013-02;2008-08,,@book?n=OR-mahesh&ed=7&vol=0#216
-S_OR_,Ewing's Sarcoma,- Microscopic Pathology (Asked as a Short Answer),True,6,2022-04;2021-08;2014-02;2013-02;2006-08;2002-03,,@book?n=OR-mahesh&ed=7&vol=0#236
+S_OR_,Osteochondroma,,True,7,2024-08;2023-03;2022-08;2018-02;2014-02;2007-08;1992-04,,@book?n=OR-mahesh&ed=7&vol=0#242
+S_OR_,Congenital Dislocation of Hip (CDH) (or) Developmental Dysplasia of Hip (DDH),- Galeazzi Test (or) Sign (Asked as a Short Answer);- Ortolani Test,True,8,2022-08;2020-08;2016-02;2013-08;2013-02;2008-08;1996-10;1993-01,,@book?n=OR-mahesh&ed=7&vol=0#216
+S_OR_,Ewing's Sarcoma,- Microscopic Pathology (Asked as a Short Answer),True,8,2022-04;2021-08;2014-02;2013-02;2006-08;2002-03;2000-04;1995-11,,@book?n=OR-mahesh&ed=7&vol=0#236
 S_OR_,Aneurysmal Bone Cyst,,True,1,2021-04,,@book?n=OR-mahesh&ed=7&vol=0#243
 E_OR_,Giant Cell Tumour (or) Osteoclastoma,"- Classification of Bone Tumours- Etiology- Clinical Features- Investigations- Treatment",True,2,2020-11;2003-10,,@book?n=OR-mahesh&ed=7&vol=0#232
 S_OR_,Bone Metastasis (or) Secondary Deposits,,True,4,2019-08;2011-02;2010-08;2005-08,,@book?n=OR-mahesh&ed=7&vol=0#241
 S_OR_,Fibrous Dysplasia,,True,1,2019-02,,@book?n=OR-mahesh&ed=7&vol=0#243
-S_OR_,Osteoid Osteoma,,True,4,2018-08;2014-08;2012-08;2001-11,,@book?n=OR-mahesh&ed=7&vol=0#230
-S_OR_,Simple Bone Cyst,- Radiological Features (Asked as a Short Answer),True,1,2013-02,,@book?n=OR-mahesh&ed=7&vol=0#243
+S_OR_,Osteoid Osteoma,,True,5,2018-08;2014-08;2012-08;2001-11;1998-10,,@book?n=OR-mahesh&ed=7&vol=0#230
+S_OR_,Simple Bone Cyst,- Radiological Features (Asked as a Short Answer),True,2,2013-02;1998-04,,@book?n=OR-mahesh&ed=7&vol=0#243
 S_OR_,Chondromsarcoma,- Treatment of Chondrosarcoma of Proximal Femur (Asked as a Short Answer),True,2,2013-02;2004-08,,@book?n=OR-mahesh&ed=7&vol=0#240
 E_SU_,Ewing's Sarcoma,"- Classification of Bone Tumours- Clinical Features- Investigations- Treatment",True,2,2005-08;2001-11,,@book?n=OR-mahesh&ed=7&vol=0#236
