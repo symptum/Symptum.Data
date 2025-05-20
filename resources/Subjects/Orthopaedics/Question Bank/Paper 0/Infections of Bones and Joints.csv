@@ -1,10 +1,17 @@
 Id,Title,Descriptions,HasPreviouslyBeenAsked,Importance,YearsAsked,ProbableCases,References
-S_OR_,Tuberculosis of the Spine (or) Pott's Disease,- Radiological Features,True,3,2024-05;2023-08;2021-04,,@book?n=OR-mahesh&ed=7&vol=0#183
-S_OR_,Brodie's Abscess,,True,2,2024-03;2020-08,,@book?n=OR-mahesh&ed=7&vol=0#173
-S_OR_,Sequestrum,- Asked as a Short Answer,True,1,2024-08,,@book?n=OR-mahesh&ed=7&vol=0#170
+S_OR_,Tuberculosis of the Spine (or) Pott's Disease,- Radiological Features;- Complications,True,5,2024-05;2023-08;2021-04;2012-02;2010-08,,@book?n=OR-mahesh&ed=7&vol=0#183
+S_OR_,Brodie's Abscess,,True,3,2024-03;2020-08;2014-02,,@book?n=OR-mahesh&ed=7&vol=0#173
+S_OR_,Sequestrum,,True,3,2024-08;2012-08;2010-08,,@book?n=OR-mahesh&ed=7&vol=0#170
 E_OR_,Acute Osteomyelitis,"- Etiology- Pathogenesis- Clinical Features- Investigations- Treatment",True,1,2023-03,,@book?n=OR-mahesh&ed=7&vol=0#166
 S_OR_,Garre's Osteomyelitis,- Asked as a Short Answer,True,2,2022-04;2021-08,,@book?n=OR-mahesh&ed=7&vol=0#173
 S_OR_,Tuberculosis of the Knee,,True,1,2020-08,,@book?n=OR-mahesh&ed=7&vol=0#197
 E_OR_,Tuberculosis of the Spine (or) Pott's Disease,"- Differential Diagnosis- Etiology- Pathogenesis- Clinical Features- Radiological Features- Investigations- Treatment- Complications",True,1,2018-08,,@book?n=OR-mahesh&ed=7&vol=0#183
 S_OR_,Tuberculosis of the Hip,- Deformities (Asked as a Short Answer),True,2,2018-02;2017-02,,@book?n=OR-mahesh&ed=7&vol=0#192
 E_OR_,Chronic Osteomyelitis,"- Etiology- Pathogenesis- Clinical Features- Management- Complications",True,1,2017-08,,@book?n=OR-mahesh&ed=7&vol=0#170
+S_OR_,Chronic Osteomyelitis,,True,3,2016-08;2009-08;2008-02,,@book?n=OR-mahesh&ed=7&vol=0#170
+S_OR_,Neuropathic (or) Charcot's Joint,,True,2,2015-08;2013-08,,@book?n=OR-mahesh&ed=7&vol=0#176
+S_OR_,Septic (or) Pyogenic Arthritis,,True,3,2015-02;2010-02;2008-08,,@book?n=OR-mahesh&ed=7&vol=0#174
+S_OR_,Acute Osteomyelitis,,True,4,2014-02;2013-08;2012-08;2012-02,,@book?n=OR-mahesh&ed=7&vol=0#166
+S_OR_,Madura Foot,,True,1,2011-08,,@book?n=OR-mahesh&ed=7&vol=0#176
+S_OR_,Web Space Infection of the Hand,- Asked as a Short Answer,True,1,2010-08,,@book?n=OR-mahesh&ed=7&vol=0#203
+S_OR_,Tuberculous Arthritis,,True,1,2009-02,,@book?n=OR-mahesh&ed=7&vol=0#180
