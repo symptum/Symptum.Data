@@ -11,14 +11,21 @@ S_OR_,Genu Valgum (or) Knock Knees,,True,6,2021-04;2011-02;2007-02;2004-08;2003-
 S_OR_,Slipped Capital Femoral Epiphysis,,True,2,2020-02;2013-08,,@book?n=OR-mahesh&ed=7&vol=0#314
 S_OR_,Arthroplasty,- Total Hip Replacement (Asked as a Short Answer);- Hemiarthroplasty (or) Partial Joint Replacement (Asked as a Short Answer),True,3,2019-08;2016-08;1992-04,,@book?n=OR-mahesh&ed=7&vol=0#330
 S_OR_,Synovial Chondromatosis,- Asked as a Short Answer,True,1,2019-08,,
-E_OR_,Osteoarthritis (OA),"- Clinical Examination- Investigations- Treatment of OA Knee",True,1,2019-02,A **65 year old obese individual** has come with complaints of **pain** in both knees.,@book?n=OR-mahesh&ed=7&vol=0#288
+E_OR_,Osteoarthritis (OA),"- Clinical Examination
+- Investigations
+- Treatment of OA Knee",True,1,2019-02,A **65 year old obese individual** has come with complaints of **pain** in both knees.,@book?n=OR-mahesh&ed=7&vol=0#288
 S_OR_,Paget's Disease (or) Osteitis Deformans,,True,6,2019-02;2013-08;2009-02;2006-08;2001-11;1994-04,,@book?n=OR-mahesh&ed=7&vol=0#308
 S_OR_,Pes Cavus (or) High Arched Foot and Pes Planus (or) Flat Foot,,True,3,2018-08;2009-02;1995-11,,@book?n=OR-mahesh&ed=7&vol=0#317
-E_OR_,Rickets,"- Etiology- Clinical Features- Management",True,1,2016-08,,@book?n=OR-mahesh&ed=7&vol=0#301
+E_OR_,Rickets,"- Etiology
+- Clinical Features
+- Management",True,1,2016-08,,@book?n=OR-mahesh&ed=7&vol=0#301
 S_OR_,Plantar Fascitis,,True,2,2016-08;2002-03,,@book?n=OR-mahesh&ed=7&vol=0#296
 S_OR_,de Quervain's Tenosynovitis,,True,4,2016-02;2014-08;2011-08;1991-12,,@book?n=OR-mahesh&ed=7&vol=0#295
 S_OR_,Chronic Synovitis of the Knee Joint,- Asked as a Short Answer,True,2,2016-02;2013-02,,
-E_OR_,Genu Valgum (or) Knock Knees,"- Etiology- Pathoanatomy- Clinical Features- Management",True,1,2015-02,,@book?n=OR-mahesh&ed=7&vol=0#315
+E_OR_,Genu Valgum (or) Knock Knees,"- Etiology
+- Pathoanatomy
+- Clinical Features
+- Management",True,1,2015-02,,@book?n=OR-mahesh&ed=7&vol=0#315
 S_OR_,Ganglion,,True,4,2015-02;2010-08;2006-08;2005-08,,@book?n=OR-mahesh&ed=7&vol=0#295
 S_OR_,Orthoses,- Asked as a Short Answer,True,1,2015-02,,@book?n=OR-mahesh&ed=7&vol=0#323
 S_OR_,Rheumatoid Arthritis (RA),,True,1,2014-08,,@book?n=OR-mahesh&ed=7&vol=0#279
@@ -39,10 +46,11 @@ S_OR_,Nerves Injured in Golfer's Elbow (Medial Epicondylitis) and Tennis Elbow (
 S_OR_,Osteoporosis,,True,1,2008-08,,@book?n=OR-mahesh&ed=7&vol=0#299
 S_OR_,Definition of Spondylolysis and Spondylolisthesis,- Asked as a Short Answer,True,1,2008-08,,@book?n=OR-mahesh&ed=7&vol=0#276
 S_OR_,Osteochondritis,- Perthes' Disease (Osteochondritis of Femoral Head) and Keinbock's Disease (Lunate Bone) (Asked as a Short Answer);- Perthes' Disease (or) Coxa Plana (or) Pseudocoxalgia;- Keinbock's Disease,True,4,2008-08;2006-08;2006-08;1999-04,,@book?n=OR-mahesh&ed=7&vol=0#309
-E_SU_,Rheumatoid Arthritis (RA),"- Clinical Features- Complications",True,1,2006-08,,@book?n=OR-mahesh&ed=7&vol=0#279
-S_SU_,Arthroscopy,,True,1,2006-08,,@book?n=OR-mahesh&ed=7&vol=0#325
-S_SU_,Frozen Shoulder (or) Periarthritis of the Shoulder,,True,1,2002-03,,@book?n=OR-mahesh&ed=7&vol=0#296
-S_SU_,Calcitonin,,True,1,2001-11,,@book?n=OR-mahesh&ed=7&vol=0#298
+E_OR_,Rheumatoid Arthritis (RA),"- Clinical Features
+- Complications",True,1,2006-08,,@book?n=OR-mahesh&ed=7&vol=0#279
+S_OR_,Arthroscopy,,True,1,2006-08,,@book?n=OR-mahesh&ed=7&vol=0#325
+S_OR_,Frozen Shoulder (or) Periarthritis of the Shoulder,,True,1,2002-03,,@book?n=OR-mahesh&ed=7&vol=0#296
+S_OR_,Calcitonin,,True,1,2001-11,,@book?n=OR-mahesh&ed=7&vol=0#298
 S_OR_,Cervical Rib,,True,1,2000-10,,@book?n=OR-mahesh&ed=7&vol=0#313
 S_OR_,Acute Poliomyelitis,,True,1,1999-10,,@book?n=OR-mahesh&ed=7&vol=0#221
 S_OR_,Bone Cement,,True,1,1998-10,,@book?n=OR-mahesh&ed=7&vol=0#366
@@ -50,6 +58,9 @@ S_OR_,Hallux Valgus,,True,1,1998-10,,@book?n=OR-mahesh&ed=7&vol=0#318
 S_OR_,Below Knee Amputation,,True,1,1997-10,,@book?n=OR-mahesh&ed=7&vol=0#320
 S_OR_,Ideal Stump,,True,1,1996-10,,@book?n=OR-mahesh&ed=7&vol=0#320
 S_OR_,Lumbar Disc Prolapse,,True,1,1993-01,,@book?n=OR-mahesh&ed=7&vol=0#246
-E_OR_,Perthes' Disease (or) Coxa Plana (or) Pseudocoxalgia,"- Etiology- Clinical Features- Differential Diagnosis- Radiological Features",True,1,1991-12,,@book?n=OR-mahesh&ed=7&vol=0#309
+E_OR_,Perthes' Disease (or) Coxa Plana (or) Pseudocoxalgia,"- Etiology
+- Clinical Features
+- Differential Diagnosis
+- Radiological Features",True,1,1991-12,,@book?n=OR-mahesh&ed=7&vol=0#309
 S_OR_,Tenosynovitis,- Compound Palmar Ganglion,True,1,1991-12,,@book?n=OR-mahesh&ed=7&vol=0#293
 S_OR_,Causalgia,,True,1,1991-12,,
