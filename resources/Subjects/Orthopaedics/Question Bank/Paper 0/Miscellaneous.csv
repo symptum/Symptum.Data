@@ -4,33 +4,33 @@ S_OR_,Fluorosis,,True,1,2024-05,,@book?n=OR-mahesh&ed=7&vol=0#304
 S_OR_,Carpal Tunnel Syndrome,,True,3,2024-08;2014-08;2009-08,,@book?n=OR-mahesh&ed=7&vol=0#295
 S_OR_,Trigger Finger,,True,2,2024-08;2020-02,,@book?n=OR-mahesh&ed=7&vol=0#295
 S_OR_,Golfer's Elbow (or) Medial Epicondylitis,,True,2,2023-08;2011-02,,@book?n=OR-mahesh&ed=7&vol=0#295
-S_OR_,Tennis Elbow (or) Lateral Epicondylitis,,True,6,2022-08;2020-02;2019-08;2017-02;2015-08;2011-08,,@book?n=OR-mahesh&ed=7&vol=0#294
-S_OR_,Gout,- Crystal Arthropathy (Asked as a Short Answer),True,3,2022-04;2021-04;2015-02,,@book?n=OR-mahesh&ed=7&vol=0#286
+S_OR_,Tennis Elbow (or) Lateral Epicondylitis,,True,7,2022-08;2020-02;2019-08;2017-02;2015-08;2011-08;2001-11,,@book?n=OR-mahesh&ed=7&vol=0#294
+S_OR_,Gout,- Crystal Arthropathy (Asked as a Short Answer),True,4,2022-04;2021-04;2015-02;2006-08,,@book?n=OR-mahesh&ed=7&vol=0#286
 S_OR_,Management of Rickets,,True,1,2022-04,,@book?n=OR-mahesh&ed=7&vol=0#302
-S_OR_,Genu Valgum (or) Knock Knees,,True,2,2021-04;2011-02,,@book?n=OR-mahesh&ed=7&vol=0#315
+S_OR_,Genu Valgum (or) Knock Knees,,True,5,2021-04;2011-02;2007-02;2004-08;2003-10,,@book?n=OR-mahesh&ed=7&vol=0#315
 S_OR_,Slipped Capital Femoral Epiphysis,,True,2,2020-02;2013-08,,@book?n=OR-mahesh&ed=7&vol=0#314
 S_OR_,Total Hip Replacement,- Asked as a Short Answer,True,1,2019-08,,@book?n=OR-mahesh&ed=7&vol=0#330
 S_OR_,Synovial Chondromatosis,- Asked as a Short Answer,True,1,2019-08,,
 E_OR_,Osteoarthritis (OA),"- Clinical Examination- Investigations- Treatment of OA Knee",True,1,2019-02,A **65 year old obese individual** has come with complaints of **pain** in both knees.,@book?n=OR-mahesh&ed=7&vol=0#288
-S_OR_,Paget's Disease (or) Osteitis Deformans,,True,3,2019-02;2013-08;2009-02,,@book?n=OR-mahesh&ed=7&vol=0#308
+S_OR_,Paget's Disease (or) Osteitis Deformans,,True,5,2019-02;2013-08;2009-02;2006-08;2001-11,,@book?n=OR-mahesh&ed=7&vol=0#308
 S_OR_,Pes Cavus (or) High Arched Foot and Pes Planus (or) Flat Foot,- Asked as a Short Answer,True,2,2018-08;2009-02,,@book?n=OR-mahesh&ed=7&vol=0#317
 E_OR_,Rickets,"- Etiology- Clinical Features- Management",True,1,2016-08,,@book?n=OR-mahesh&ed=7&vol=0#301
-S_OR_,Plantar Fascitis,- Asked as a Short Answer,True,1,2016-08,,@book?n=OR-mahesh&ed=7&vol=0#296
+S_OR_,Plantar Fascitis,,True,2,2016-08;2002-03,,@book?n=OR-mahesh&ed=7&vol=0#296
 S_OR_,Hemiarthroplasty (or) Partial Joint Replacement,- Asked as a Short Answer,True,1,2016-08,,@book?n=OR-mahesh&ed=7&vol=0#329
 S_OR_,de Quervain's Tenosynovitis,,True,3,2016-02;2014-08;2011-08,,@book?n=OR-mahesh&ed=7&vol=0#295
 S_OR_,Chronic Synovitis of the Knee Joint,- Asked as a Short Answer,True,2,2016-02;2013-02,,
 E_OR_,Genu Valgum (or) Knock Knees,"- Etiology- Pathoanatomy- Clinical Features- Management",True,1,2015-02,,@book?n=OR-mahesh&ed=7&vol=0#315
-S_OR_,Ganglion,- Asked as a Short Answer,True,2,2015-02;2010-08,,@book?n=OR-mahesh&ed=7&vol=0#295
+S_OR_,Ganglion,,True,4,2015-02;2010-08;2006-08;2005-08,,@book?n=OR-mahesh&ed=7&vol=0#295
 S_OR_,Orthoses,- Asked as a Short Answer,True,1,2015-02,,@book?n=OR-mahesh&ed=7&vol=0#323
 S_OR_,Rheumatoid Arthritis (RA),,True,1,2014-08,,@book?n=OR-mahesh&ed=7&vol=0#279
-S_OR_,Torticollis (or) Wry Neck,- Asked as a Short Answer,True,1,2014-08,,@book?n=OR-mahesh&ed=7&vol=0#312
+S_OR_,Torticollis (or) Wry Neck,- Asked as a Short Answer,True,2,2014-08;2001-11,,@book?n=OR-mahesh&ed=7&vol=0#312
 S_OR_,Kyphosis,- Gibbus Deformity (Asked as a Short Answer),True,1,2013-08,,@book?n=OR-mahesh&ed=7&vol=0#276
 S_OR_,Preservation of Amputated Finger for Transport,- Asked as a Short Answer,True,1,2013-02,,
 S_OR_,Synovial Membrane,- Asked as a Short Answer,True,1,2012-02,,
-S_OR_,Ankylosis,- Asked as a Short Answer,True,1,2011-08,,@book?n=OR-mahesh&ed=7&vol=0#337
-S_OR_,Haemarthrosis,- Asked as a Short Answer,True,1,2011-08,,@book?n=OR-mahesh&ed=7&vol=0#175
+S_OR_,Ankylosis,,True,2,2011-08;2005-08,,@book?n=OR-mahesh&ed=7&vol=0#337
+S_OR_,Haemarthrosis,,True,2,2011-08;2005-08,,@book?n=OR-mahesh&ed=7&vol=0#175
 S_OR_,Phantom Limb (or) Sensation,- Asked as a Short Answer,True,1,2011-02,,@book?n=OR-mahesh&ed=7&vol=0#321
-S_OR_,Morrant-Baker's (or) Popliteal Cyst,,True,1,2010-08,,@book?n=OR-mahesh&ed=7&vol=0#317
+S_OR_,Morrant-Baker's (or) Popliteal Cyst,,True,2,2010-08;2001-11,,@book?n=OR-mahesh&ed=7&vol=0#317
 S_OR_,Bryant's Triangle,- Asked as a Short Answer,True,1,2010-08,,@book?n=OR-mahesh&ed=7&vol=0#344
 S_OR_,Spondylolisthesis,,True,1,2010-02,,@book?n=OR-mahesh&ed=7&vol=0#276
 S_OR_,Dupuytren's Contracture,- Asked as a Short Answer,True,1,2010-02,,@book?n=OR-mahesh&ed=7&vol=0#294
@@ -39,4 +39,8 @@ S_OR_,Spina Bifida,- Meningomyelocele,True,2,2009-02;2008-08,,@book?n=OR-mahesh&
 S_OR_,Nerves Injured in Golfer's Elbow (Medial Epicondylitis) and Tennis Elbow (Lateral Epicondylitis),- Asked as a Short Answer,True,1,2009-02,,@book?n=OR-mahesh&ed=7&vol=0#294
 S_OR_,Osteoporosis,,True,1,2008-08,,@book?n=OR-mahesh&ed=7&vol=0#299
 S_OR_,Definition of Spondylolysis and Spondylolisthesis,- Asked as a Short Answer,True,1,2008-08,,@book?n=OR-mahesh&ed=7&vol=0#276
-S_OR_,Osteochondritis of Femoral Head and Lunate Bone,- Asked as a Short Answer,True,1,2008-08,,@book?n=OR-mahesh&ed=7&vol=0#309
+S_OR_,Osteochondritis,- Perthes' Disease (Osteochondritis of Femoral Head) and Keinbock's Disease (Lunate Bone) (Asked as a Short Answer);- Perthes' Disease (or) Coxa Plana (or) Pseudocoxalgia;- Keinbock's Disease,True,3,2008-08;2006-08;2006-08,,@book?n=OR-mahesh&ed=7&vol=0#309
+E_SU_,Rheumatoid Arthritis (RA),"- Clinical Features- Complications",True,1,2006-08,,@book?n=OR-mahesh&ed=7&vol=0#279
+S_SU_,Arthroscopy,,True,1,2006-08,,@book?n=OR-mahesh&ed=7&vol=0#325
+S_SU_,Frozen Shoulder (or) Periarthritis of the Shoulder,,True,1,2002-03,,@book?n=OR-mahesh&ed=7&vol=0#296
+S_SU_,Calcitonin,,True,1,2001-11,,@book?n=OR-mahesh&ed=7&vol=0#298
