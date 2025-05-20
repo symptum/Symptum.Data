@@ -1,7 +1,7 @@
 Id,Title,Descriptions,HasPreviouslyBeenAsked,Importance,YearsAsked,ProbableCases,References
 S_SU_,Meckel's Diverticulum,,True,10,2025-03;2024-03;2019-08;2018-02;2012-08;2004-08;2001-11;1999-10;1999-04;1994-04;1992-04,,@book?n=SU-srbmos&ed=7&vol=0#920
 S_SU_,Intussusception,,True,7,2024-03;2015-02;2014-02;2012-08;2008-08;2003-10;2001-04,,@book?n=SU-srbmos&ed=7&vol=0#987
-S_SU_,Clinical Features and Management of Ulcerative Colitis,,True,1,2024-03,,@book?n=SU-srbmos&ed=7&vol=0#951
+S_SU_,Ulcerative Colitis,,True,1,2024-03,,@book?n=SU-srbmos&ed=7&vol=0#951
 S_SU_,Carcinoid Tumours (or) Neuroendocrine Tumours,- Carcinoid Tumour of Appendix,True,10,2024-03;2022-04;2021-08;2018-02;2014-08;2013-02;2007-02;2003-10;2001-11;1997-04;1993-11,,@book?n=SU-srbmos&ed=7&vol=0#935
 S_SU_,Capsule Endoscopy,- Asked as a Short Answer,True,1,2023-03,,@book?n=SU-srbmos&ed=7&vol=0#938
 S_SU_,Hirschsprung's Disease (or) Congenital Megacolon,,True,2,2022-08;1996-10,,@book?n=SU-srbmos&ed=7&vol=0#945
