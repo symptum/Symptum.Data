@@ -1,0 +1,40 @@
+Id,Title,Descriptions,HasPreviouslyBeenAsked,Importance,YearsAsked,ProbableCases,References
+S_OR_,Compartment Syndrome,,True,4,2023-08;2020-11;2018-02;2013-08,,@book?n=OR-mahesh&ed=7&vol=0#47
+S_OR_,Anatomy of Bones,- Blood Supply of Long Bones,True,1,2023-08,,@book?n=OR-mahesh&ed=7&vol=0#8
+S_OR_,Plaster of Paris (POP),- Uses,True,7,2023-03;2016-02;2014-02;2010-08;2007-02;2003-10;1990-12,,@book?n=OR-mahesh&ed=7&vol=0#18
+S_OR_,Nerve Injuries,- Seddon's Classification (Asked as a Short Answer),True,4,2023-03;2017-08;2010-02;2002-03,,"@book?n=OR-mahesh&ed=7&vol=0#60,63"
+S_OR_,Non-union,- Treatment of Hypertrophic Non-union,True,6,2022-08;2012-08;2010-02;2009-08;2001-04;1992-04,,@book?n=OR-mahesh&ed=7&vol=0#48
+S_OR_,Ulnar Nerve Palsy (or) Claw Hand,,True,8,2022-08;2015-08;2013-08;2012-02;2011-08;2009-08;2008-02;2004-08,,"@book?n=OR-mahesh&ed=7&vol=0#63,66"
+S_OR_,Epiphyseal Injuries,- Thurston Holland Sign (Asked as a Short Answer);- Salter and Harris Classification (Asked as a Short Answer),True,6,2022-04;2021-08;2020-08;2017-02;2012-08;2012-02,,@book?n=OR-mahesh&ed=7&vol=0#58
+E_OR_,Open (or) Compound Fracture,"- Definition
+- Classification
+- Investigations
+- Management",True,1,2021-04,,"@book?n=OR-mahesh&ed=7&vol=0#2,21"
+S_OR_,Ulnar Paradox,- Asked as a Short Answer,True,2,2021-04;2011-08,,@book?n=OR-mahesh&ed=7&vol=0#64
+S_OR_,Radial Nerve Palsy,- Cock-up Splint (Asked as a Short Answer);- Wrist Drop;- Saturday Night Palsy,True,9,2020-11;2020-02;2018-02;2013-02;2011-02;2008-02;2005-08;2003-10;2000-10,,"@book?n=OR-mahesh&ed=7&vol=0#63,65"
+S_OR_,Green Stick Fracture,- Asked as a Short Answer,True,2,2020-11;2014-02,,@book?n=OR-mahesh&ed=7&vol=0#58
+S_OR_,Myositis Ossificans (or) Post-Traumatic Ossification,,True,4,2020-08;2017-08;2011-02;1999-10,,@book?n=OR-mahesh&ed=7&vol=0#52
+E_OR_,Road Traffic Accident,"- Examination
+- Assessment
+- Immediate Resuscitation",True,1,2019-08,,@book?n=OR-mahesh&ed=7&vol=0#14
+S_OR_,Volkmann's Ischemic Contracture,,True,6,2017-02;2011-08;2009-08;2004-08;2000-04;1998-10,,@book?n=OR-mahesh&ed=7&vol=0#98
+S_OR_,Erb's Palsy (or) Policeman Tip Deformity,,True,4,2016-08;2010-02;1992-04;1990-12,,@book?n=OR-mahesh&ed=7&vol=0#64
+S_OR_,Pathological Fractures,,True,3,2016-02;2009-08;2007-08,,@book?n=OR-mahesh&ed=7&vol=0#3
+S_OR_,Open (or) Compound Fracture,,True,3,2014-08;2003-10;1990-12,,"@book?n=OR-mahesh&ed=7&vol=0#2,21"
+S_OR_,Ilizarov's Technique (or) Fixator,- Asked as a Short Answer,True,1,2014-08,,@book?n=OR-mahesh&ed=7&vol=0#35
+S_OR_,Common Peroneal (or) Lateral Popliteal Nerve Palsy (or) Foot Drop,,True,5,2014-02;2010-08;2005-08;2001-11;1998-04,,@book?n=OR-mahesh&ed=7&vol=0#63
+S_OR_,Fat Embolism,,True,1,2013-02,,@book?n=OR-mahesh&ed=7&vol=0#44
+S_OR_,External Fixator,,True,1,2012-08,,@book?n=OR-mahesh&ed=7&vol=0#20
+S_OR_,Malunion,,True,4,2012-02;2011-08;2008-02;2002-03,,@book?n=OR-mahesh&ed=7&vol=0#50
+S_OR_,Tardy Ulnar Nerve Palsy,,True,2,2011-02;2003-10,,@book?n=OR-mahesh&ed=7&vol=0#101
+S_OR_,Bone Grafting,,True,3,2009-08;2007-08;1999-10,,@book?n=OR-mahesh&ed=7&vol=0#82
+S_OR_,Median Nerve Palsy (or) Ape Thumb Deformity,- Asked as a Short Answer,True,1,2009-08,,@book?n=OR-mahesh&ed=7&vol=0#64
+S_OR_,Tinel's Sign,,True,1,2008-02,,@book?n=OR-mahesh&ed=7&vol=0#69
+S_OR_,Thomas Knee-Bed Splint,,True,2,2005-08;1992-04,,@book?n=OR-mahesh&ed=7&vol=0#26
+S_OR_,Electromyography (EMG),,True,1,2001-11,,@book?n=OR-mahesh&ed=7&vol=0#69
+S_OR_,Intramedullary Nail,,True,1,1997-10,,@book?n=OR-mahesh&ed=7&vol=0#20
+E_OR_,Pathological Fractures,"- Definition
+- Investigations
+- Treatment",True,1,1992-04,,@book?n=OR-mahesh&ed=7&vol=0#3
+S_OR_,Arthrodesis,,True,1,1991-12,,@book?n=OR-mahesh&ed=7&vol=0#81
+S_OR_,Avascular Necrosis,,True,1,1990-12,,@book?n=OR-mahesh&ed=7&vol=0#51

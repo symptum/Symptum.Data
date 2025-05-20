@@ -1,0 +1,128 @@
+Id,Title,Descriptions,HasPreviouslyBeenAsked,Importance,YearsAsked,ProbableCases,References
+S_OR_,Fractures of the Patella,,True,4,2025-03;2018-08;2008-08;2005-08,,@book?n=OR-mahesh&ed=7&vol=0#145
+E_OR_,Supracondylar Fracture of Humerus,"- Probable Diagnosis
+- Clinical Diagnosis
+- Investigations
+- Treatment
+- Complications;- Classification
+- Clinical Features
+- Complications
+- Management;- Fractures Around Elbow
+- Classification
+- Clinical Features
+- Radiological Features
+- Management
+- Complications;- Mechanism of Injury
+- Clinical Features
+- Complications
+- Management;- Fractures Occurring due to Fall on Outstretched Hand
+- Clinical Features
+- Complications
+- Management",True,10,2024-05;2022-04;2014-08;2013-02;2010-02;2007-02;2005-08;2004-08;2002-03;1993-01;1992-04;1990-12,"An 8 year old boy sustained a **fall on the out-stretched hand** and sustained injury near the elbow presenting with **pain, swelling and S shaped deformity** near the elbow.",@book?n=OR-mahesh&ed=7&vol=0#94
+E_OR_,Fracture of the Proximal Humerus,"- Mechanism of Injury
+- Clinical Features
+- Investigations
+- Classification
+- Treatment",True,1,2024-03,,@book?n=OR-mahesh&ed=7&vol=0#90
+S_OR_,Colles' Fracture,"- Probable Diagnosis
+- Investigations
+- Immediate Management
+- Treatment
+- Complications",True,8,2024-03;2023-03;2012-02;2011-02;2004-08;2003-10;2001-04;1996-10,"A 60 year old female had a **fall and pain, swelling over the wrist with difficulty in using it**.",@book?n=OR-mahesh&ed=7&vol=0#109
+E_OR_,Colles' Fracture,"- Fractures Occurring due to Fall on Outstretched Hand
+- Clinical Features
+- Investigations
+- Treatment
+- Complications;- Mechanism of Injury
+- Clinical Features
+- Complications
+- Management;- Fractures Around Elbow
+- Radiological Features
+- Clinical Features
+- Management;- Anatomy
+- Pathology
+- Clinical Features
+- Management",True,7,2024-08;2021-08;2016-02;2013-08;2010-08;2009-02;2007-08,,@book?n=OR-mahesh&ed=7&vol=0#109
+S_OR_,Scaphoid Fracture,,True,1,2024-08,,@book?n=OR-mahesh&ed=7&vol=0#112
+S_OR_,Dislocation of the Hip,- Anterior Dislocation;- Posterior Dislocation;- Deformities in Anterior and Posterior Dislocation (Asked as a Short Answer),True,5,2023-03;2018-08;2012-08;2008-08;1994-04,,@book?n=OR-mahesh&ed=7&vol=0#129
+E_OR_,Fracture of Neck of the Femur,"- Classification
+- Clinical Features
+- Complications
+- Management;- Mechanism of Injury
+- Clinical Features
+- Complications
+- Management;- Anatomy
+- Pathology
+- Classification
+- Clinical Features
+- Management;- Classification
+- Blood Supply of Head of Femur
+- Treatment;- Etiology
+- Clinical Features
+- Management
+- Complications of Intracapsular Fracture",True,9,2022-08;2014-02;2011-08;2008-08;2007-08;2004-08;2000-04;1999-10;1991-12,,@book?n=OR-mahesh&ed=7&vol=0#130
+S_OR_,Mallet Finger (or) Baseball Finger,,True,2,2021-08;2014-08,,@book?n=OR-mahesh&ed=7&vol=0#117
+S_OR_,Supracondylar Fracture of Humerus,- Cubitus Varus (or) Gun Stock Deformity,True,6,2020-11;2017-08;2015-02;2009-08;1997-10;1994-04,,@book?n=OR-mahesh&ed=7&vol=0#94
+S_OR_,Bennett's Fracture,,True,4,2020-11;2018-02;2016-08;2009-02,,@book?n=OR-mahesh&ed=7&vol=0#115
+E_OR_,Fracture of the Ankle,"- Mechanism of Injury
+- Classification
+- Management",True,2,2020-08;2006-08,,@book?n=OR-mahesh&ed=7&vol=0#157
+E_OR_,Injuries to the Ligaments of the Knee,"- Clinical Examination
+- Investigations
+- Treatment",True,1,2020-02,A foot ball player sustained an injury to his left knee while playing and complaints of instability of knee.,@book?n=OR-mahesh&ed=7&vol=0#146
+S_OR_,Dislocation of the Shoulder,- Anterior Dislocation;- Recurrent Dislocation;- Kocher's Manoeuvre,True,7,2019-08;2015-08;2014-08;2012-02;2011-08;2005-08;2004-08,,@book?n=OR-mahesh&ed=7&vol=0#87
+S_OR_,Dislocation of the Elbow,,True,1,2019-02,,@book?n=OR-mahesh&ed=7&vol=0#102
+S_OR_,Fracture of the Calcaneum,- Asked as a Short Answer,True,1,2019-02,,@book?n=OR-mahesh&ed=7&vol=0#162
+S_OR_,Intra-articular Fracture,,True,1,2019-02,,
+S_OR_,Fracture of the Talus,,True,2,2018-08;2014-08,,@book?n=OR-mahesh&ed=7&vol=0#163
+E_OR_,Dislocation of the Shoulder,"- Classification
+- Etiology
+- Pathogenesis
+- Clinical Features
+- Investigations
+- Treatment;- Etiology
+- Pathology
+- Clinical Features of Anterior Dislocation
+- Surgical Treatment for Recurrent Dislocation;- Classification
+- Clinical Features
+- Complications
+- Management",True,4,2018-02;2012-08;2008-02;1999-04,,@book?n=OR-mahesh&ed=7&vol=0#87
+S_OR_,Cervical Collar,- Asked as a Short Answer,True,1,2015-08,,@book?n=OR-mahesh&ed=7&vol=0#264
+S_OR_,Monteggia Fracture Dislocation,,True,2,2014-02;2002-03,,@book?n=OR-mahesh&ed=7&vol=0#107
+S_OR_,Management of Open Fracture of Shaft of Tibia,,True,1,2013-02,,@book?n=OR-mahesh&ed=7&vol=0#154
+E_OR_,Intertrochanteric Fracture of Femur,"- Pathophysiology
+- Clinical Features
+- Investigations
+- Treatment",True,2,2012-02;2002-03,,@book?n=OR-mahesh&ed=7&vol=0#135
+S_OR_,Anatomy of Ankle Joint,- Asked as a Short Answer,True,1,2012-02,,@book?n=OR-mahesh&ed=7&vol=0#153
+S_OR_,Fracture of the Clavicle,,True,1,2011-02,,@book?n=OR-mahesh&ed=7&vol=0#86
+S_OR_,Achilles Tendon Rupture,,True,1,2010-02,,@book?n=OR-mahesh&ed=7&vol=0#156
+E_OR_,Dislocation of the Hip,"- Classification
+- Clinical Features
+- Complications
+- Management;- Classification
+- Mechanism of Injury
+- Management;- Etiology
+- Mechanism of Injury
+- Clinical Features
+- Investigations
+- Treatment of Posterior Dislocation",True,4,2009-08;2006-08;2001-11;1998-04,,@book?n=OR-mahesh&ed=7&vol=0#128
+S_OR_,Quadriceps Injury,- Quadriceps Contusion vs Rupture (Asked as a Short Answer),True,1,2009-02,,
+S_OR_,Deformities in Colles' and Monteggia Fractures,- Asked as a Short Answer,True,1,2009-02,,"@book?n=OR-mahesh&ed=7&vol=0#107,109"
+S_OR_,Nerves Injured in Fracture of Shaft of Humerus and Supracondylar Fracture of Humerus,- Asked as a Short Answer,True,1,2008-08,,"@book?n=OR-mahesh&ed=7&vol=0#92,97"
+S_OR_,Fracture of the Ankle (or) Pott's Fracture,,True,1,2000-10,,@book?n=OR-mahesh&ed=7&vol=0#157
+S_OR_,Smith's Fracture,,True,1,1999-04,,@book?n=OR-mahesh&ed=7&vol=0#111
+E_OR_,Fracture of the Medial Condyle of the Humerus,"- Classification of Epiphyseal Injuries
+- Etiology
+- Clinical Features
+- Complications
+- Management",True,1,1995-11,,@book?n=OR-mahesh&ed=7&vol=0#102
+E_OR_,Multiple Injuries,"- Injuries Occurred
+- Management",True,1,1994-04,"A 40 year old man **fell down from the roof, hitting back of his neck** against the sun shade and **landed down on the feet over the ground** and sustained multiple injuries.",@book?n=OR-mahesh&ed=7&vol=0#258
+S_OR_,Internal Derangement of the Knee,,True,1,1993-01,,@book?n=OR-mahesh&ed=7&vol=0#146
+E_OR_,Deformities of the Knee,"- Common Deformities in Children and Adolescents
+- Etiology
+- Management",True,1,1992-04,,@book?n=OR-mahesh&ed=7&vol=0#143
+S_OR_,March Fracture,,True,1,1991-12,,@book?n=OR-mahesh&ed=7&vol=0#165
+E_OR_,Traumatic Paraplegia,"- Complications
+- Management",True,1,1990-12,,@book?n=OR-mahesh&ed=7&vol=0#268
